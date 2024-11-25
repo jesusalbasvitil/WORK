@@ -121,19 +121,15 @@ Fresnos de 3 p de media con Acer pseudo. A Viburnum sp. A col, campos abandonado
 Manantial, sauces de hojas opuestas, algún tilo y tremolera mixta con p. sylv alrededor del manantial. Sotobosque de boj D F y avellanos C col
 
 ### [42,594501,0,535467, 13:47] [..20c]
-
 Campos abandonados colonizados por arces y álamo temblón C de 10-12 palmos y fresnos de 6 palmos. Dentro de los campos 1,5 palmos. [Rhus] coriaria A e [Ilex] aquifolium A. También Clematis vitalba
 
 ### [42,593021,0,532202 14:05] [..20d]
-
 Zona abandonada reciente de abedules de Betula pendula (3-4 palmos, media 3) y mostajos C. Avellanos, arces A. Junto a manantial, cerecillo
 
 ### [42,596732,0,528946 15:09] [..20c]
-
 Mirador. Vaguada con P. tremula y sotobosque de boj (F) Acer pse. (A) y Fraxinus (R)
 
 ### [42,598151,0,530587 15:24] []
-
 Arboleda de Pinus sylvestris (F) con abedules (c) Sotobosque de boj (F) Lonicera xy. y Corylus a. (a)
 Hepatica (c) (reg) Cruce
 
