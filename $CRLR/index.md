@@ -1,4 +1,4 @@
-$CRLR / index.md
+ $CRLR / index.md
 ----
 
 # RESUMEN
@@ -83,7 +83,7 @@ Así, los inventarios están basados en indicadores -especies vegetales- present
 5. En base a la semejanza con el listado tipo, se calcula el índice de Similitud (iS) que oscila entre 0 y 4 `que en el caso del ejemplo, es muy bajo`.
 
 6. En base a la frecuencia relativa se calcula la diferencia entre la frecuencia de las especies características del hábitat determinado, y las que no son propias de ese hábitat (%iS)
-En el caso objeto de este ejemplo, estamos ante un pinar de Pinus halepensis y especies características del dominio del Rhamno lycioidis-Quercetum cocciferae y se corresponde con una fase inicial del hábitat (1,4 de 4) pero representaría, por presencia, el 75% de la superficie.
+  En el caso objeto de este ejemplo, estamos ante un pinar de Pinus halepensis y especies características del dominio del Rhamno lycioidis-Quercetum cocciferae y se corresponde con una fase inicial del hábitat (1,4 de 4) pero representaría, por presencia, el 75% de la superficie.
 `Finalmente reseñar que, además de los hábitats, también se describen hotspots. Son puntos de reducidas dimensiones que corresponden con hábitats muy distintos de los que se están encontrando en la zona.`
 
 ## NOTAS
@@ -103,12 +103,13 @@ Avellanar mixto con fresnos (5 palmos) salpicado de abedul (5 palmos)
 
 Avellanar D F, fresnos 4 palmos (ejemplar 5 palmos), abedul A 3-4 p G. robertianum A, Clematis v. Lonicera x. A Boj C COL muy agrupado, Hepática C COL, Fragaria A
 
+
 ### [42,593520,0,526763, 13:00] [..15b]
 
 Inmediaciones de `Tusal Redono`, zona deforestada de escaso suelo con presencia de `boj` D F y guillomo que alterna C col, roble C col SD. Cerecillo A col
 Avellano A col. Aquí se nos ha pasado la presencia de R. ulmifolius y H. helix, que estaban presentes.
-
 Prados abandonados con P. spinosa c col.
+
 
 ### [42,593364,0,526784, 13:10] [91E0*]
 
@@ -116,12 +117,15 @@ Fresneda C D, después de un robledal mixto con P. sylv de 1.5 palmos circunfere
 
 Fresnos de 3 p de media con Acer pseudo. A Viburnum sp. A col, campos abandonados con P. spinosa y abedules (a) Colchicos A col
 
+
 ### [42,592690,0,532029 13:36] [..20c][9180*]
 
 Manantial, sauces de hojas opuestas, algún tilo y tremolera mixta con p. sylv alrededor del manantial. Sotobosque de boj D F y avellanos C col
 
+
 ### [42,594501,0,535467, 13:47] [..20c]
 Campos abandonados colonizados por arces y álamo temblón C de 10-12 palmos y fresnos de 6 palmos. Dentro de los campos 1,5 palmos. [Rhus] coriaria A e [Ilex] aquifolium A. También Clematis vitalba
+
 
 ### [42,593021,0,532202 14:05] [..20d]
 Zona abandonada reciente de abedules de Betula pendula (3-4 palmos, media 3) y mostajos C. Avellanos, arces A. Junto a manantial, cerecillo
@@ -144,7 +148,7 @@ Afueras del pueblo. E. amygdaloides y Lechetrezna romeral (A) lirios de hojas pl
 De las observaciones de campo realizadas sobre los hábitats presentes, a efectos legales u oficiales [miterd] -dado que la denominación correcta es [biotopo]- se concluye que, a priori, distan mucho de identificarse como *Prados de siega atlántico-centroeuropeos*, tal y como se refleja en MITERD y en el [EsIA] todo ello a pesar de las fechas en las que se han realizado los trabajos de campo (principios de noviembre de 2024) fechas en las cuales, muchas de las especies no se han encontrado, ni siquiera sus restos.
 
 Así, en base a estas observaciones se constata que:
-[se listan los biotopos y por cada uno, un epígrafe de cada biotopo]
+`se listan los biotopos y por cada uno, un epígrafe de cada biotopo`
 
 1. el extrarradio del casco urbano de Benasque y el piedemonte se corresponde con
 
@@ -201,7 +205,7 @@ Estrato herbáceo: ~~Elymus caninus~~, ~~Galium laevigatum~~<ref>https://www.tel
 | Herbáceo | *Cardamine heptaphylla* |
 | Herbáceo | ~~*Geranium phaeum*~~ |
 
-A la vista del listado arriba adjunto, estamos ante un `Hábitat de Interés Comunitario Prioritario` [HICP]. En concreto el HICP 91E0* con ausencias, bien porque se sabe que no están en la zona; porque dada la época del año y -a falta de más prospecciones- no se ha encontrado o bien, porque el hábitat no se ha desarrollado por completo todavía.
+A la vista del listado arriba adjunto, estamos ante un `Hábitat de Interés Comunitario Prioritario` [HICP]. En concreto el HICP [91E0*] con ausencias; bien porque se sabe que no están en la zona; porque dada la época del año y -a falta de más prospecciones- no se ha encontrado o bien, porque el hábitat no se ha desarrollado por completo.
 
 ### 2.2. Tremoleras [MHNa:436]
 
@@ -227,7 +231,8 @@ Estrato herbáceo: Pteridium aquilinum, ~~Asphodelus albus, Deschampsia flexuosa
 | Herbáceo | ~~*Deschampsia flexuosa*~~ |
 | Herbáceo | ~~*Euphorbia amygdaloides*~~ |
 
-`2.3. Tiledas` [MHNa:444] De las prospecciones realizadas en la zona se concluye que hay indicios de que este Hábitat de Interés Comunitario Prioritario [HICP] -el 9180*- se encuentra en la zona en diversos estadios de desarrollo. De momento, tan sólo se han detectado fragmentos de muy escasa superficie (hotspots) Sin embargo, con todo, se encuentran numerosas especies acompañantes de este hábitat:
+`2.3. Tiledas` [MHNa:444] De las prospecciones realizadas en la zona se concluye que hay indicios de que este Hábitat de Interés Comunitario Prioritario [HICP] -el [9180*]- se encuentra en la zona en diversos estadios de desarrollo. De momento, tan sólo se han detectado fragmentos de muy escasa superficie (hotspots) Sin embargo, y con todo, se encuentran numerosas especies acompañantes de este hábitat:
+
 Estrato arbóreo: Tilia platyphyllos, Fraxinus excelsior, ~~Acer opalus~~, Fagus sylvatica, Quercus
 pubescens, `Ulmus glabra`, ~~Taxus baccata~~, Sorbus aria, Corylus avellana.
 Estrato arbustivo: Buxus sempervirens, ~~Emerus major~~, Rubus sp.pl.
