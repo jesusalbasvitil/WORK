@@ -43,8 +43,7 @@ sylvatici-Fraxineto excelsioris sigmetum
 10) Serie montana pirenaica del roble peloso
 (Quercus pubescens). Buxo-Querceto pubescentis sigmetum
 
-![Representación cartesiana en función del bioclima de las macroseries e hiperseries de vegetación de la región Eurosiberiana de
-España](image.png) [RIVAS:57]
+![Representación cartesiana en función del bioclima de las macroseries e hiperseries de vegetación de la región Eurosiberiana deEspaña](image.png) [RIVAS:57]
 
 En relación con esta vegetación potencial -o teórica- el EsIA sólo acierta a identificar las fresnedas y confunde vegetación potencial con observaciones muy vagas e imprecisas, cometiendo errores de bulto importantes (como afirmar que hay Quercus robur<ref></ref>):
 [Mapa de distribución de Quercus robur robur L., IPE CESIC](http://floragon.ipe.csic.es/mapa_distribuccion.php?cod_taxon=1299a&genero=Quercus&especie=robur&subespecie=robur&variedad=)
