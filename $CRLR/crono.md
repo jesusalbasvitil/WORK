@@ -1,5 +1,4 @@
-# $CRLR
-$CRLR / index.md
+# $CRLR [$CRLR / index.md]
 ----
 
 # RESUMEN
