@@ -50,7 +50,7 @@ ABRIL 2024 donde se explicita que ha habido modificación del mismo con respecto
 
 ## 41. Afección a los hábitats (id previo)
 
-`Informe de hábitats potenciales de especies en peligro de extinción`
+`Informe de hábitats potenciales de especies de avifauna catalogada`
 
 ## METODOLOGÍA (ver Valdurrios)
 
@@ -88,20 +88,16 @@ Así, los inventarios están basados en indicadores -especies vegetales- present
 
 ## NOTAS
 
-### [42,599999,0,525094, 12:17] [..20a*]
-
-Margen de campos de siega con avellanos D F, sotobosque C COL algunos puntos F, `Acer campestre` y C. monogyna (A). Herbáceas, Viola A, Rubus u. Geranium robertiaunum C Fresa, ranúnculos, pimpollos de fresno (A)
-----
-
-<small>*código extraído de MHNa</small>
+### [42,599999,0,525094, 12:17] [..20a*]<small>*código extraído de MHNa</small>
+![Margen de campos de siega con avellanos D F, sotobosque C COL algunos puntos F, Acer campestre y C. monogyna (A). Poaceas sin determinar, Viola sp. A, Rubus u. Geranium robertiaunum C Fragaria vesca, Ranunculus sp., pimpollos de fresno (A)](1217.png)
 
 ### [42,597190,0,527537,12:29] [..20a]
 
-Avellanar mixto con fresnos (5 palmos) salpicado de abedul (5 palmos)
+![Avellanar mixto con fresnos (5 palmos) salpicado de abedul (5 palmos)](1229.jpg)
 
 ### [42,595647,0,528702, 12:46] [..20a]
 
-Avellanar D F, fresnos 4 palmos (ejemplar 5 palmos), abedul A 3-4 p G. robertianum A, Clematis v. Lonicera x. A Boj C COL muy agrupado, Hepática C COL, Fragaria A
+![Avellanar D F, fresnos 4 palmos (ejemplar 5 palmos), abedul A 3-4 p G. robertianum A, Clematis v. Lonicera x. A Boj C COL muy agrupado, Hepática C COL, Fragaria A](1246.jpg)
 
 
 ### [42,593520,0,526763, 13:00] [..15b]
@@ -111,29 +107,28 @@ Avellano A col. Aquí se nos ha pasado la presencia de R. ulmifolius y H. helix,
 Prados abandonados con P. spinosa c col.
 
 
-### [42,593364,0,526784, 13:10] [91E0*]
+### [42,593364,0,526784, 13:10][..10c] [91E0*]
 
-Fresneda C D, después de un robledal mixto con P. sylv de 1.5 palmos circunferencia
+![Fresneda C D, después de un robledal mixto con P. sylv de 1.5 palmos circunferencia. Fresnos de 3 p de media con Acer pseudo. A Viburnum sp. A col](1310.jpg) 
 
-Fresnos de 3 p de media con Acer pseudo. A Viburnum sp. A col, campos abandonados con P. spinosa y abedules (a) Colchicos A col
+![Campos abandonados con P. spinosa F y abedules (a) Colchicos A col, margen de fresneda D](1311.jpg)
 
 
 ### [42,592690,0,532029 13:36] [..20c][9180*]
+Manantial, sauces de hojas opuestas C, algún tilo y tremolera mixta con p. sylv alrededor del manantial. Sotobosque de boj D F y avellanos C col
 
-Manantial, sauces de hojas opuestas, algún tilo y tremolera mixta con p. sylv alrededor del manantial. Sotobosque de boj D F y avellanos C col
 
-
-### [42,594501,0,535467, 13:47] [..20c]
+### [42,594501,0,535467, 13:47] [818020c]
 Campos abandonados colonizados por arces y álamo temblón C de 10-12 palmos y fresnos de 6 palmos. Dentro de los campos 1,5 palmos. [Rhus] coriaria A e [Ilex] aquifolium A. También Clematis vitalba
 
 
-### [42,593021,0,532202 14:05] [..20d]
+### [42,593021,0,532202 14:05] Comunidad de Betula pendula [818020d]
 Zona abandonada reciente de abedules de Betula pendula (3-4 palmos, media 3) y mostajos C. Avellanos, arces A. Junto a manantial, cerecillo
 
 ### [42,596732,0,528946 15:09] [..20c]
 Mirador. Vaguada con P. tremula y sotobosque de boj (F) Acer pse. (A) y Fraxinus (R)
 
-### [42,598151,0,530587 15:24] []
+### [42,598151,0,530587 15:24] [sin determinar]
 Arboleda de Pinus sylvestris (F) con abedules (c) Sotobosque de boj (F) Lonicera xy. y Corylus a. (a)
 Hepatica (c) (reg) Cruce
 
@@ -151,14 +146,38 @@ Así, en base a estas observaciones se constata que:
 `se listan los biotopos y por cada uno, un epígrafe de cada biotopo`
 
 1. el extrarradio del casco urbano de Benasque y el piedemonte se corresponde con
-
-### avellanedas riparias subcantábricas y pirenaicas [ref]###
+### avellanedas riparias subcantábricas y pirenaicas [MHNa:386-387]###
 
   que, sin ser Hábitat de Interés Comunitario, es un biotopo escaso [ibidem] y es una comunidad de transición hacia biotopos o HICs, tal y como se cita, caso de las fresnedas.
 
+
+| Estrato | Nombre científico |
+|---------|------------------|
+| Arbustivo | *Corylus avellana* |
+| Arbustivo | ~~*Salix caprea*~~ |
+| Arbustivo | *Salix atrocinerea* |
+| Arbustivo | *Sambucus racemosa* |
+| Arbustivo | *Crataegus monogyna* |
+| Arbustivo | *Viburnum lantana* |
+| Arbustivo | *Lonicera xylosteum* |
+| Arbustivo | *Populus tremula* |
+| Arbustivo | ~~*Fagus sylvatica*~~ |
+| Arbustivo | *Fraxinus excelsior* |
+| Arbustivo | ~~*Acer campestre*~~ |
+| Arbustivo | *Salix alba* |
+| Arbustivo | ~~*Alnus glutinosa*~~ |
+| Arbustivo | *Quercus pubescens* |
+| Arbustivo | *Sorbus aria* |
+| Arbustivo | ~~*Quercus petraea*~~ |
+| Arbustivo | ~~*Tilia platyphyllos*~~ |
+| Arbustivo | ~~*Acer opalus*~~ |
+| Arbustivo | ~~*Ilex aquifolium*~~ |
+| Arbustivo | *Viburnum opulus* |
+| Arbustivo | ~~*Salix purpurea* subsp. *lambertiana*~~ |
+
 2. en el interior del bosque, en el tramo comprendido entre los últimos prados hasta `Tusal Redono` se constata la presencia de varios biotopos en diverso grado de desarrollo y de notable interés, que se van alternando en función de la orientación, sustrato, disponibilidad de agua y sobre todo, de la presión antrópica ejercida, además del tiempo transcurrido desde que esta última has cesado.
 
-### 2.1. Fresnedas [MHNa:374] [91E0*] [13:10]
+### 2.1. Fresnedas [MHNa:374] [91E0*] [13:10][13:11]
 
 Fraxinus excelsior, ~~Acer campestre~~, Ulmus glabra, Fagus sylvatica, Tilia platyphyllos.
 Estrato arbustivo: Corylus avellana, Buxus sempervirens, Lonicera xylosteum, Viburnum lantana,
@@ -246,7 +265,7 @@ Estrato herbáceo: Geranium robertianum,~~ Melica uniflora, Polystichum setiferu
 | Arbóreo | ~~*Acer opalus*~~ |
 | Arbóreo | *Fagus sylvatica* |
 | Arbóreo | *Quercus pubescens* |
-| Arbóreo | `*Ulmus glabra*` |
+| Arbóreo | `Ulmus glabra` |
 | Arbóreo | ~~*Taxus baccata*~~ |
 | Arbóreo | *Sorbus aria* |
 | Arbóreo | *Corylus avellana* |
@@ -264,7 +283,7 @@ Estrato herbáceo: Geranium robertianum,~~ Melica uniflora, Polystichum setiferu
 | Herbáceo | ~~*Lamium galeobdolon*~~ |
 | Herbáceo | ~~*Milium effusum*~~ |
 | Herbáceo | ~~*Scilla lilio-hyacinthus*~~ |
-| Herbáceo | `*Pulmonaria affinis*` |
+| Herbáceo | `Pulmonaria affinis`|
 
 ### 2.4. Abedulares de Betula pendula [MHNa:438] [..20d] [14:05]
 
