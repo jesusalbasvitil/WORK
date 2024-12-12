@@ -1,4 +1,5 @@
 C:\Users\jesus\Downloads\AJ2025\!GST\2-EIA-CSVMD4JBK90QGB5DLREG.pdf 
+[Banco de Datos de la Biodiversidad en Aragón. Gobierno de Aragón](https://colecciones.gbif.es/public/show/in78?lang=es)
 `FECHA LÍMITE ENTREGA`
 - Climate-data.org no es una fuente solvente [EsIA:108]
 - 6c: Serie montana pirenaica mesofítica del fresno o Fraxinus excelsior (Brachypodio sylvatici-Fraxineto excelsioris sigmetum ). VP, fresnedas.  [EsIA:123]
@@ -34,9 +35,9 @@ https://gfmc.online/doc/cd/SESIONES_TEMATICAS/ST3/Vignote_et_al_SPAIN.pdf
 
 https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/publicaciones/ecologia_12_21_tcm30-100624.pdf
 
-Para ser completamente preciso y transparente: debo aclarar que aunque tengo conocimiento general sobre los modelos de combustible de Rothermel y su adaptación por ICONA, no puedo garantizar la exactitud de las citas bibliográficas específicas que podría proporcionar, ya que podría estar generando información inexacta.
+`Para ser completamente preciso y transparente: debo aclarar que aunque tengo conocimiento general sobre los modelos de combustible de Rothermel y su adaptación por ICONA, no puedo garantizar la exactitud de las citas bibliográficas específicas que podría proporcionar, ya que podría estar generando información inexacta.`
 
-Las referencias fundamentales que sé que existen pero que deberías verificar son:
+`Las referencias fundamentales que sé que existen pero que deberías verificar son:
 
 1. Rothermel, R. C. (1972). "A mathematical model for predicting fire spread in wildland fuels". USDA Forest Service Research Paper INT-115.
 
