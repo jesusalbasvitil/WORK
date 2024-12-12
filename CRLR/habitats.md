@@ -82,9 +82,21 @@ Así, los inventarios están basados en indicadores -especies vegetales- present
 
 5. En base a la semejanza con el listado tipo, se calcula el índice de Similitud (iS) que oscila entre 0 y 4 `que en el caso del ejemplo, es muy bajo`.
 
-6. En base a la frecuencia relativa se calcula la diferencia entre la frecuencia de las especies características del hábitat determinado, y las que no son propias de ese hábitat (%iS)
-  En el caso objeto de este ejemplo, estamos ante un pinar de Pinus halepensis y especies características del dominio del Rhamno lycioidis-Quercetum cocciferae y se corresponde con una fase inicial del hábitat (1,4 de 4) pero representaría, por presencia, el 75% de la superficie.
-`Finalmente reseñar que, además de los hábitats, también se describen hotspots. Son puntos de reducidas dimensiones que corresponden con hábitats muy distintos de los que se están encontrando en la zona.`
+6. 1.	Por cada inventario se anota la frecuencia (FRE1) de observación con la que aparece una determinada especie: R (raras, <1%) A (algunas, 5-25%), C (comunes, 25-50%), F (frecuentes, 50-75%) o muy frecuentes (>75%) sin contar con el suelo desnudo.
+
+2.	Así mismo se anota el tipo de distribución: dis (dispersa, ejemplares distribuidos o repartidos con distancia entre sí) o col (colonial, formando grupos)
+
+3.	Sobre la frecuencia de observación se calcula la media y su suma (FRE2) y sobre ésta, la frecuencia relativa (FRE%) que explica el porcentaje de superficie que ocupa el hábitat objeto de análisis sobre el total. Lo que da una idea del grado de fragmentación de éste.
+
+4.	A continuación se compara la presencia de especies con un listado-tipo del hábitat determinado previamente en base a fuentes solventes
+5.	En base a la semejanza con el listado tipo, se calcula el índice de Similitud (iS) que oscila entre 0 y 4 que en el caso del ejemplo, es muy bajo.
+6.	En base a la frecuencia relativa se calcula la diferencia entre la frecuencia de las especies características del hábitat determinado, y las que no son propias de ese hábitat (%iS) O bien, dada la homogeneidad de los hábitats encontrados, se ha optado por asignar valores de presencia de las especies no encontradas, por la estación desfavorable para recolección, o bien, porque no se encuentran en la zona, en cuyo caso se han deshechado para el cálculo.
+ ![Avellanedas riparias subcantábricas y pirenaicas [MHNa : 386-387]](image-1.png)
+TABLA 1.- Ejemplo de inventarios de avellanedas riparias
+
+En el caso objeto de este ejemplo, la tabla arriba adjunta corresponde a avellanedas riparias montanas pertenecientes a la Alianza del Corylo avellanae-Populion tremulae. Una comunidad de Corylus avellana y Salix caprea que se reparte por la margen izquierda de Barranco Fondo. El número de especies encontradas se corresponde con un estadio medio de conservación de este hábitat (2,29) y además, la frecuencia en la presencia de las especies características del hábitat explican un 60% (59,44%) de la superficie prospectada. Finalmente reseñar que, además de los hábitats, también se describen hotspots: son puntos de reducidas dimensiones que corresponden con hábitats muy distintos de los que se están encontrando en la zona.
+
+
 
 ## NOTAS
 
@@ -128,7 +140,7 @@ Zona abandonada reciente de abedules de Betula pendula (3-4 palmos, media 3) y m
 ### [42,596732,0,528946 15:09] [..20c]
 Mirador. Vaguada con P. tremula y sotobosque de boj (F) Acer pse. (A) y Fraxinus (R)
 
-### [42,598151,0,530587 15:24] [sin determinar]
+### [42,598151,0,530587 15:24] Pinares de pino royo (Pinus sylvestris) secundarios [MHNa:456] [sin determinar]
 Arboleda de Pinus sylvestris (F) con abedules (c) Sotobosque de boj (F) Lonicera xy. y Corylus a. (a)
 Hepatica (c) (reg) Cruce
 
@@ -286,7 +298,7 @@ Estrato herbáceo: Geranium robertianum,~~ Melica uniflora, Polystichum setiferu
 | Herbáceo | `Pulmonaria affinis`|
 
 ### 2.4. Abedulares de Betula pendula [MHNa:438] [..20d] [14:05]
-
+Pese a no ser Hábitat de Interés Comunitario (HIC) el interés de los abedulares estriba en que son una etapa de sustitución o degradación de hayedos acidófilos<ref>*Son etapa de sustitución de hayedos acidófilos cantábricos [6.2.10.1] e ibéricos [6.2.10.2].También se comportan como bosques permanentes en laderas rocosas y pedregales* [MHNa:439]</ref>. En base a las observaciones de campo y las especies identificadas -y puesto en relación con varias fuentes consultadas- este hábitat se identifica más con los abedulares navarros que con los catalanes; y por consiguiente, denotan influencia atlántica.  
 Estrato arbóreo: Betula pendula, ~~Sorbus aucuparia~~, S. aria.
 Estrato arbustivo: Ilex aquifolium,~~ Vaccinium
 myrtillus~~, Calluna vulgaris, Rubus sp.pl.
@@ -305,7 +317,9 @@ Estrato herbáceo: Anemone nemorosa, Deschampsia flexuosa, Teucrium scorodonia
 | Herbáceo | *Deschampsia flexuosa* |
 | Herbáceo | *Teucrium scorodonia* |
 
-A diferencia de otras fuentes, este hábitat se identifica más con los abedulares navarros que con los catalanes. Presentando por tanto más similitudes de especies. Así, se concluye que, sin ser HIC, es una etapa de sustitución hacia hayedos acidófilos; ejemplares de estos últimos que se encuentran dispersos por la zona de estudio.
+A diferencia de otras fuentes, este hábitat se identifica más con los abedulares navarros que con los catalanes. Presentando por tanto más similitudes de especies. 
+
+A la vista del listado arriba adjunto se constata que, por un lado es un bosque muy pobre en especies; por otro, en la zona objeto de estudio presenta un grado de conservación bastante bueno, de casi tres puntos sobre cuatro, lo que se traduce en una buena perspectiva para avanzar hacia el dominio climácico de los hayedos acidófilos, ejemplares de estos últimos que se encuentran dispersos por la zona de estudio.
 
 ### 2.5. Robledales de `Quercus gr. pubescens` 41.7132+ Boscos de roures (Quercus pubescens o híbrids), silicícoles, de la muntanya mitjana [MHCat:62]
 
@@ -372,10 +386,10 @@ En este caso particular, la mayoría de las especies coinciden con el listado ar
 | Arbustivo | ***Prunus spinosa***|
 | Arbustivo | *~~Spiraea hypericifolia~~* subsp. *obovata* |
 | Arbustivo | *Ononis fruticosa* |
-| Arbustivo | *Dorycnium pentaphyllum* |
+| Arbustivo | ~~*Dorycnium pentaphyllum*~~ |
 | Arbustivo | *Genista scorpius* |
 | Arbustivo | *~~Thymus vulgaris~~* |
-| Arbustivo | *Coronilla minima* |
+| Arbustivo | ~~*Coronilla minima*~~ |
 | Lianoide | *Rubia peregrina* |
 | Herbáceo | *Brachypodium pinnatum* subsp. *rupestre* |
 | Herbáceo | *~~Brachypodium retusum~~* |
