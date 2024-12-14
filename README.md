@@ -4,7 +4,7 @@
 #[CARPETA] Carpeta generada ![archivo] Archivo urgente
 $[CARPETA] Carpeta de trabajo
 ![CARPETA] Carpeta pendiente de crear en Drive
-!$%[archivo] Grado de urgencia en resolver
+!$%[archivo] Grado de urgencia para resolver
 &[CARPETA] Carpeta generada con documentación para NO SUBIR a Drive
 
 
