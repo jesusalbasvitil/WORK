@@ -1,5 +1,7 @@
 # $CRLR / esquema.md
-"C:\Users\jesus\Downloads\$MSTZ\BORRADOR peritaje Impacto Cluster Maestrazgo VBAK.docx"
+[C:\Users\jesus\Downloads\$MSTZ\BORRADOR peritaje Impacto Cluster Maestrazgo VBAK.docx]
+
+
 
 Informe pericial de daños
 1. Resumen
