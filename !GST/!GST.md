@@ -47,4 +47,4 @@ https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/publicac
 
 3. ICONA. (1990). "Clasificación de los modelos de combustible españoles".
 
-
+Que no dejan de ser adaptaciones del Modelo de Combustible de Rothermel
