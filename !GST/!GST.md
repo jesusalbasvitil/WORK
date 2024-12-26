@@ -28,7 +28,7 @@ Además, y siguiendo la legalidad, el EsIA la vuelve a inclumplir en el caso del
 Hay que recordar aquí, que estámos ante un anális de impacto AMBIENTAL; no económico, ni territorial, de seguridad o vialidad invernal. Diluir el impacto ambiental entre el resto de variables no deja ser un mero ejercicio de maquillaje tramposo.
 
 ## Faja perimetral
-No se incluye la superficie de desbroce y por tanto, tampoco en el resumen de superficies afectadas.
+En el EsIA NO se incluye la superficie de desbroce y por tanto, tampoco en el resumen de superficies afectadas.
 
 ***7.3.3 Faja perimetral de protección contra incendios** Una vez en fase de actividad, en los tramos de mayor riesgo de incendio forestal, deben efectuarse tratamientos selvícolas en la franja perimetral del vial, con el objetivo de alcanzar los modelos estructurales de combustibles que pueden dificultar más el inicio y la propagación de un incendio forestal, creando así un área cortafuegos. Los modelos de combustible que es deseable alcanzar son el modelo 2 (con cargas bajas de combustible y especies arbustivas poco inflamables).. *
 [EsIA:77]

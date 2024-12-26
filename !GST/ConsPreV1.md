@@ -2,9 +2,9 @@
 ### PRIMERO.- DOCUMENTACIÓN A CONSULTA
 Mediante documento con fecha de salida de Registro de 27/11/2024 y referencia JNO/mjv el Instituto Aragonés de Gestión Ambiental [INAGA], por el que se pone en público conocimiento la apertura del plazo de Consultas Previas sobre el proceso de evaluación de impacto ambiental ordinaria del proyecto de acondicionamiento de acceso entre Plan-Chía en los términos municipales de Chía, Sahún, Villanova, San Juan de Plan y Plan (Huesca). (Número de Expediente INAGA 500201/01A/2024/11360) en base al Artículo 25.2. de la Ley 11/2014, de 4 de diciembre, de Prevención y Protección Ambiental de Aragón (LEPA)
 
-en base al Artículo 25.2. de la citada Ley 11/2014, se establece una serie de condiciones previas para establecer la amplitud y grado de detalle que debe contener el Estudio de Impacto Ambiental (EsIA). Un documento inicial con unos contenidos mínimos:
+en base al `Artículo 25.2. de la citada Ley 11/2014, se establece una serie de condiciones previas para establecer la amplitud y grado de detalle que debe contener el Estudio de Impacto Ambiental (EsIA). Un documento inicial con unos contenidos mínimos:
 
-    *Definición, características y ubicación del proyecto. Las principales alternativas que se consideran y análisis de los potenciales impactos de cada una de ellas. Un diagnóstico territorial y del medio ambiente afectado por el proyecto *(artículo 24.1 LEPA)
+    *Definición, características y ubicación del proyecto. Las principales alternativas que se consideran y análisis de los potenciales impactos de cada una de ellas. Un diagnóstico territorial y del medio ambiente afectado por el proyecto *(`artículo 24.1 LEPA`)
 
 
 Los documentos para descarga y consulta son
@@ -18,18 +18,20 @@ Los documentos para descarga y consulta son
 7. PliegPrescripTecni-CSVPV9VSPO0Q7B9XPREG.pdf
 8. DocumSintes-CSVPV9KSQO1Q7B9AOREG.pdf
 9. Presupuesto-CSVWU0O6R97RMBHKXREG.pdf
-FEchaAcceso.JPG
+y FEchaAcceso.JPG
 
-Sin embargo, la exigencia legal de la LEPA no se corresponde con la modificación de la Ley 21/13, mediante la Ley 9/18 –recordando además que es Ley Básica- y que establece que: 
+### SEGUNDO.- Afección a espacios naturales
+Tal y como reconoce el EsIA, la pista *atraviesa varios espacios de la Red Natura 2000:
 
-Trece. El apartado 2 del artículo 34 queda redactado de la siguiente manera:
-2. Para ello, el promotor presentará ante el órgano sustantivo una solicitud de determinación del alcance del estudio de impacto ambiental, acompañada del documento inicial del proyecto, que contendrá, como mínimo, la siguiente información:
-a) La definición y las características específicas del proyecto, incluida su ubicación, viabilidad técnica y su probable impacto sobre el medio ambiente, así como un análisis preliminar de los efectos previsibles sobre los factores ambientales derivados de la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes.
-b) Las principales alternativas que se consideran y un análisis de los potenciales impactos de cada una de ellas.
-c) Un diagnóstico territorial y del medio ambiente afectado por el proyecto.
+- ZEC “Macizo de Cotiella” (ES2410013).
+- ZEC “Chistau” (ES2410053).
+- ZEC “Sierra de Chía – Congosto de Seira” (ES2410056).
+- ZEPA “Cotiella – Sierra Ferrera” (ES0000280).*
+(EsIA:204)
 
-En conclusión, el documento base sobre el que establecer el alcance del EsIA no reúne calidad suficiente ni los elementos sobre los que establecer impactos, evaluaciones de éstos o medidas compensatorias. Por tanto, se debería exigir otro documento base que cumpla con la legislación vigente.
+Más en detalle, casi todo el desarrollo de la pista está dentro de la ZEPA arriba indicada.
 
+Además, 
 
 ### SEGUNDO.- Afección a especies amenazadas
 El proyecto está íntegramente DENTRO de la Zona de Especial Conservación Para las Aves (ZEPA) ES 0000137 con una serie de valores de avifauna incluidos a conservar2, y a considerar en el EsIA. 
