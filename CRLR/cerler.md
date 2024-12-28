@@ -5,7 +5,7 @@
 
 ## ESQUEMA 20/3 (HT 20/12)
 
-1. Inventario hábitats
+1. Inventario hábitats (HICs)
 
 2. HICPs 
     2.1. Mapas HICPs
@@ -70,7 +70,7 @@ Fuente: https://atlasaves.seo.org/ave/pico-menor/
   
 ## 1	INTRODUCCIÓN
 
-El 24 de enero de 2024 se aprobó en pleno del Ayuntamiento de Benasque  el proyecto de telecabina [en adelante TC] que uniría Benasque con Cerler una vez publicada la correspondiente Declaración de Impacto Ambiental [DIA] por parte de INAGA  en base a un Estudio de Impacto Ambiental [EsIA] que, en síntesis habla de un desarrollo de TC de 2084 metros y un ancho deforestado de 15 metros , además de las superficies en origen y destino que suman 1713 m2, sin embargo, el desglose es confuso y no contempla la superficie deforestada  entrando en contradicciones. Así, el cálculo de la deforestación a practicar asciende a 31,2 hectáreas. 
+El 24 de enero de 2024 se aprobó en pleno del Ayuntamiento de Benasque  el proyecto de Telecabina [TC] que uniría Benasque con Cerler una vez publicada la correspondiente Declaración de Impacto Ambiental [DIA] por parte de INAGA  en base a un Estudio de Impacto Ambiental [EsIA] que, en síntesis habla de un desarrollo de TC de 2084 metros y un ancho deforestado de 15 metros , además de las superficies en origen y destino que suman 1713 m2, sin embargo, el desglose es confuso y no contempla la superficie deforestada  entrando en contradicciones. Así, el cálculo de la deforestación a practicar asciende a 31,2 hectáreas. 
 Posteriormente, en abril de 2024 se presentó una memoria técnica  para la licitación de la obra del TC, en la que se contempla la urbanización de 47 hectáreas  y la apertura de varios accesos (VER ANEXO I):
 
 
