@@ -184,21 +184,21 @@ La dieta del urogallo pirenaico muestra una marcada variación estacional[^1], c
 ### Primavera-Verano
 Durante la época reproductora, la dieta incluye:
 - Hojas y brotes tiernos de arándano (*Vaccinium myrtillus*) (40-50%)[^4]
-- Herbáceas y otras plantas del sotobosque (20-30%)[^5]
+- `Herbáceas y otras plantas del sotobosque (20-30%)[^5]`
 - Insectos y otros invertebrados, especialmente importantes para los pollos (10-15%)[^6]
 - Flores y frutos tempranos cuando están disponibles (10-20%)[^7]
 
 ### Otoño
 En otoño, la alimentación se centra en:
 - Frutos de arándano y otros frutos forestales (50-60%)[^8]
-- Hojas de diversas especies arbustivas (20-30%)[^9]
-- Acículas de coníferas en proporción creciente (10-20%)[^10]
+- `Hojas de diversas especies arbustivas (20-30%)[^9]` [^21]
+- `Acículas de coníferas en proporción creciente (10-20%)[^10]`
 
 ### Invierno
 La dieta invernal está dominada por:
 - Acículas de pino negro (*Pinus uncinata*) (70-80%)[^11]
-- Brotes y yemas de coníferas (15-20%)[^12]
-- Hojas perennes de arbustos cuando son accesibles (5-10%)[^13]
+- `Brotes y yemas de coníferas (15-20%)[^12]`
+- `Hojas perennes de arbustos cuando son accesibles (5-10%)[^13]`
 
 ## Alimentación de los pollos
 
@@ -233,7 +233,9 @@ La especie presenta importantes adaptaciones para su alimentación:
 
 [^8]: Robles, L., et al. (2006). El urogallo en España, Andorra y Pirineos franceses. *SEO/BirdLife*, Madrid.
 
-[^9]: Storch, I. (1995). Annual home ranges and spacing patterns of capercaillie in central Europe. *Journal of Wildlife Management*, 59(2), 392-400.
+[^9]: [*Movements of males to summer ranges could not be explained by food sources and may be related to predator avoidance. In the course of a year, birds of 1 lek may use a 30-50-km2 area. **Therefore, maintaining leks and habitat within 3-4 km of the lek center should be emphasized in capercaillie conservation*** Abstract](https://www.jstor.org/stable/3808953)
+
+Storch, I. (1995). Annual home ranges and spacing patterns of capercaillie in central Europe. *Journal of Wildlife Management*, 59(2), 392-400.
 
 [^10]: Rolstad, J., & Wegge, P. (1987). Distribution and size of capercaillie leks in relation to old forest fragmentation. *Oecologia*, 72(3), 389-394.
 
@@ -257,7 +259,7 @@ La especie presenta importantes adaptaciones para su alimentación:
 
 [^20]: Gjerde, I., & Wegge, P. (1987). Activity patterns of capercaillie during winter. *Holarctic Ecology*, 10(4), 286-293.
 
-
+[^21]: [Storch, Ilse. “Male territoriality, female range use, and spatial organisation of capercaillie Tetrao urogallus leks.” Wildlife Biology 3 (1997): 149 - 161. ](https://bioone.org/journals/wildlife-biology/volume-3/issue-3_2f_4/wlb.1997.019/Male-territoriality-female-range-use-and-spatial-organisation-of-capercaillie/10.2981/wlb.1997.019.pdf)
 ----
 # [El hábitat del urogallo pirenaico (*Tetrao urogallus aquitanicus*) en los Pirineos españoles](https://claude.site/artifacts/a01e63f8-f558-4f6b-84d5-3797cadc149e)
 
