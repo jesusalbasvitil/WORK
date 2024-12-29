@@ -70,8 +70,8 @@ Las principales amenazas documentadas para el hábitat de la especie incluyen:
 
 - Abandono de la ganadería extensiva tradicional, que favorece la matorralización excesiva[^9]
 - Cambio climático y sus efectos sobre la vegetación de alta montaña[^10]
-- Desarrollo de infraestructuras turísticas que fragmentan el hábitat[^11]
-- Pérdida de conectividad entre poblaciones debido a la fragmentación del hábitat[^12]
+- **Desarrollo de infraestructuras turísticas que fragmentan el hábitat**[^11]
+- **Pérdida de conectividad entre poblaciones debido a la fragmentación del hábitat**[^12]
 
 ## Medidas de gestión
 
@@ -115,6 +115,9 @@ Las principales medidas de gestión del hábitat recomendadas por los expertos i
 [^15]: García-González, R., & Herrero, J. (2017). El papel de la ganadería extensiva en la conservación de la perdiz pardilla. *Quercus*, 382, 26-33.
 
 [^16]: Canut, J., et al. (2004). Programa de conservación de la perdiz pardilla en Cataluña. *Generalitat de Catalunya*.
+
+----
+
 [El hábitat de la perdiz pardilla (Perdix perdix) en los Pirineos](https://claude.site/artifacts/663ea8a8-431f-4c9c-b921-47eb9913fd02) 
 
 
@@ -128,13 +131,13 @@ La dieta de la perdiz pardilla muestra una marcada variación estacional en los 
 
 ### Primavera-Verano
 Durante la época reproductora, la dieta se compone principalmente de:
-- Hojas y brotes tiernos de dicotiledóneas (40-60% de la dieta)[^19]
-- Flores de plantas herbáceas (15-25%)[^20]
+- `Hojas y brotes tiernos de dicotiledóneas (40-60% de la dieta)[^19]`
+- `Flores de plantas herbáceas (15-25%)[^20]`
 - Pequeños invertebrados, especialmente importantes para los pollos (10-20%)[^21]
 
 ### Otoño
 En otoño, la dieta se diversifica incluyendo:
-- Semillas de gramíneas silvestres (30-40%)[^22]
+- `Semillas de gramíneas silvestres (30-40%)[^22]`
 - Bayas y frutos de *Vaccinium myrtillus* y *Calluna vulgaris* (20-30%)[^23]
 - Brotes y hojas de leguminosas (15-25%)[^24]
 
