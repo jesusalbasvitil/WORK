@@ -1,7 +1,3 @@
-
-
-
-
 # Tetrao urogallus aquitanicus
 
 [Urogallo pirenaico](http://enciclopedia.us.es/index.php/Urogallo_pirenaico) 
@@ -23,49 +19,60 @@ A finales de los 80 ya se observó que la dieta de los urogallos era más divers
 A principios de los 90 se avanzó aún más sobre el espectro alimentario de esta tetraónida, teniendo en cuenta que, entre que los arándanos maduran y las flores de Melampyrum pratense y Erica sp. florecen hay periodos de tiempo muy extensos sin esos recursos alimenticios disponibles. Así, se demostró que los urogallos también se alimentaban de acículas de pino, pero seleccionando aquellas con menor concentración de resina. Selection of feeding trees by capercaillie Tetrao urogallus in winter, Tor K. Spids⊘a & Harald Korsmoa.Scandinavian Journal of Forest Research Volume 9, Issue 1-4, 1994 "Browsed trees contained higher concentrations of N than unbrowsed trees but no differences in P were found among browsed and unbrowsed samples. Needles eaten by capercaillie were significantly lower in resin content than needles from unbrowsed trees. For tannin, no differences between browsed and unbrowsed trees were found. Results give evidence that capercaillie select needles richest in N when the resin content is low, but when high, the birds select needles low in resin. Thus, both N and resin play an important role in selection of winter browse by capercaillie." 
 
 A principios de este siglo se hacen estudios más específicos de la dieta urogallo cantábrico en relación con unos hábitats que tienen poco o nada que ver con el resto de los hábitats seleccionados por el urogallo en el resto de Europa, dado que las coníferas en la Cordillera Cantábrica son mucho menos abundantes.
-| **HÁBITATS** | **Beech forest** | | | **Beech forest** | | | **Beech(3)** | | | |
-|----------|--------------|---|---|--------------|---|---|----------|---|---|---|
-| ESPECIES | S98 | W98-99 | S99 | S98 | A98 | W98-99 | S98 | A98 | W98-99 | S99 |
-| F. sylvatica | 0.2 | 0.36 | 0.33 | | | 0.5 | 0.7 | | 0.33 | 0.85 |
-| [hojas] | | | | | | | 0.3 | | | |
-| [tallos] | | | | | | | 0.1 | | | |
-| [yemas] | 0.2 | 0.36 | 0.33 | | | 0.5 | 0.7 | | 0.46 | 0.78 |
-| I. aquifolium | 0.1 | | | | | 0.06 | | | 0.24 | 0.07 |
-| Pinus sylvestris | | | | | | | | | | 0.07 |
-| Betula sp | | 0.07 | | | | 0.78 | | | 0.01 | 0.11 |
-| J. communis | 0.1 | 0.54 | | | | | | | 0.01 | |
-| C. vulgaris | 0.1 | | | | | | 0.2 | | 0.67 | 0.11 |
-| Erica sp | | 0.07 | | | | | | | | |
-| V. myrtillus | 0.6 | 0.04 | | 0.5 | 0.73 | 0.17 | 0.5 | | 0.66 | 0.3 |
-| [hojas] | 0.1 | 0.04 | | 0.5 | 0.64 | | 0.2 | | 0.34 | 0.11 |
-| [tallos] | 0.6 | 0.04 | | | 0.55 | 0.11 | 0.3 | | 0.54 | 0.3 |
-| [yemas] | 0.2 | 0.04 | | | 0.09 | 0.06 | 0.1 | | 0.19 | |
-| [frutos] | | | | | 0.36 | | | | 0.01 | |
-| Asplenium sp | 0.1 | | | | | 0.11 | | | | |
-| Driopteris sp | | 0.11 | | | 0.09 | | | | | |
-| Polystichum sp | 0.2 | 0.11 | 0.33 | | | | | | 0.01 | |
-| P. vulgare | | | | | | | | | 0.01 | |
-| P. aquilinum | | | 0.33 | | | | | | 0.01 | |
-| Ferns | 0.1 | 0.07 | | 0.25 | 0.09 | | | | | |
-| Hepatica nobilis | 0.11 | | | | 0.18 | 0.06 | | | | |
-| Ranunculus sp | | | | | 0.18 | | | | | |
-| Galium sp | | | | | | | 0.1 | | 0.18 | |
-| Festuca rubra | | | | | | | 0.1 | | | |
-| Trisetum sp | | | | | | | 0.1 | | | |
-| Deschampsia sp | 0.1 | | | | | | 0.1 | | | |
-| Koeleria vallesiana | 0.1 | | | | | | | | | |
-| Other grasses[otras gramíenas] | 0.2 | | | | 0.09 | | 0.1 | | | |
-| Luzula sp | | | | | | | | | | |
-| Other Graminoids | | | | | 0.09 | | | | | |
-| Mosses [musgos] | | | | | 0.45 | | 0.1 | | | |
-| Unidentified material | 0.1 | | | 0.25 | | | | | 0.01 | |
-| Coleoptera | 0.2 | | | 0.5 | | | 0.1 | | 0.01 | 0.04 |
-| Unidentified | | | | | 0.27 | | | | 0.07 | |
-| **EXCREMENTOS** | **9** | **28** | **3** | **4** | **11** | **18** | **10** | | **67** | **27** |
 
 
-Finalmente, en 2020 se constata ese patrón de alimentación, centrado en Pirineos españoles<ref>*At 84.6% of the leks, the understorey was characterised by a mixture of Bilberry Vaccinium myrtillus and rhododendron Rhododendron ferrugineum* Gil, J.A., Gómez-Serrano, M.Á. y lópez-lópez, P. (2020). Declive poblacional del urogallo Tetrao urogallus aquitanicus en los Pirineos centrales. Ardeola, 67:290</ref> Pero se constata que un 15% de su alimentación la obtienen de 
+
+| Componente | SOMIEDO |  |  |  | CANGAS |  |  |  | ALLANDE |  |  |  | ALLER |  |  |  | PONGA |  |  |  |
+|------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| Periodo | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 |
+| **TREES** [arboles] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fagus sylvatica | 0.2 |  | [0.36] | 0.33 | 1 | 0.14 |  | 0.6 |  |  |  |  |  |  | 0.5 |  | 0.7 |  | 0.33 | 0.85 |
+| Leaves [hojas] |  |  |  |  | [0.25] |  |  |  |  |  |  |  |  |  |  |  | 0.2 |  |  |  |
+| Stems [tallos] |  |  |  |  | [1] |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
+| Buds [yemas] | 0.2 |  | 0.36 | 0.33 | 0.25 | 0.14 |  | 0.6 |  |  |  |  |  |  | 0.5 |  | 0.7 |  | 0.46 | [0.78] |
+| Ilex aquifolium | 0.1 |  |  |  | 0.25 |  | 0.6 | 0.8 |  | 0.86 |  | 0.89 | 1 |  |  | 0.06 |  |  | 0.24 | 0.07 |
+| Pinus sylvestris |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.07 |
+| Betula sp |  |  | 0.07 |  |  |  | 0.6 |  |  |  |  |  |  |  | 0.78 |  |  |  | 0.01 | 0.11 |
+| **SHRUBS** [arbustos] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Juniperus communis | 0.1 |  | [0.54] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.01 |  |
+| Calluna vulgaris | 0.1 |  | 0.07 |  | 0.25 |  |  |  |  |  |  |  |  |  |  | 0.2 |  |  | [0.67] | 0.11 |
+| Erica sp |  |  |  |  |  |  | 0.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vaccinium myrtillus | 0.6 |  | 0.04 |  | 0.5 | 0.71 | 0.8 | 0.2 |  | 0.05 |  |  | 0.5 | 0.73 | 0.17 |  | 0.5 |  | 0.66 | 0.3 |
+| Leaves [hojas] | 0.1 |  | 0.04 |  |  | 0.71 |  |  |  | 0.05 |  |  | 0.5 | 0.64 |  |  | 0.2 |  | 0.34 | 0.11 |
+| Stems [tallos] | 0.8 |  | 0.04 |  | 0.25 | 0.29 | 0.6 | 0.2 |  |  |  |  | 0.5 | 0.11 |  |  | 0.3 |  | 0.34 | 0.3 |
+| Buds [yemas] | 0.2 |  | 0.04 |  |  | 0.57 |  |  |  |  |  |  | 0.09 | 0.06 |  |  | 0.1 |  | 0.19 |  |
+| Fruits [frutos] |  |  |  |  |  |  |  |  |  |  |  |  | 0.36 |  |  |  |  |  | 0.01 |  |
+| **HERBACEOUS** [herbáceas] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Asplenium sp | 0.1 |  |  |  |  | 0.2 |  |  |  |  |  |  |  | [0.11] |  |  |  |  |  |  |
+| Dryopteris sp |  |  | 0.11 |  |  |  |  |  |  |  |  |  |  | 0.09 |  |  |  |  |  |  |
+| Polystichum sp | 0.2 |  | 0.11 | 0.33 |  | 0.14 |  |  |  |  |  |  |  |  |  |  |  |  | 0.01 |  |
+| Polypodium vulgare |  |  |  | [0.33] |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.01 |  |
+| Pteridium aquilinum | 0.1 |  | 0.07 |  |  | 0.43 |  |  |  | 0.11 |  |  | 0.25 | 0.09 |  |  |  |  | 0.01 |  |
+| Hepatica nobilis |  |  | 0.11 |  |  | 0.14 |  |  |  |  |  |  | [0.18] | 0.06 |  |  |  |  |  |  |
+| Ranunculus sp |  |  |  |  |  |  |  |  |  |  |  |  | 0.18 |  |  |  |  |  |  |  |
+| Galium sp |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  | 0.18 |  |
+| Festuca gr rubra |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
+| Carex sp |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
+| Deschampsia sp | 0.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
+| Koeleria Vallesiana | 0.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Other grasses [otras gramíneas] | 0.2 |  |  |  |  |  |  |  |  | 0.09 |  |  |  |  |  |  | 0.1 |  |  |  |
+| Ligula sp |  |  |  |  | 0.25 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Other Graminoids [otras graminoides] |  |  |  |  | 0.25 | 0.14 |  |  |  | 0.09 |  |  |  |  |  |  |  |  |  |  |
+| Mosses [musgos] |  |  |  |  |  |  |  |  |  |  |  |  |  | [0.45] |  |  | 0.1 |  |  |  |
+| Unidentified material | 0.1 |  |  |  |  | 0.14 |  |  |  |  |  |  | 0.25 |  |  |  |  |  | 0.01 |  |
+| **ANIMAL MATERIAL** | 0.2 |  |  |  |  | 0.57 |  |  |  | 0.05 |  |  | 0.5 |  |  |  | 0.1 |  | 0.01 | 0.04 |
+| Coleoptera |  |  |  |  |  | 0.29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of droppings | 9 |  | 28 | 3 | 4 | 7 | 5 | 5 | 7 | 19 | 3 | 4 | 11 |  | 18 |  | 10 |  | 67 | 27 |
+
+*Nota: Los datos representan la frecuencia de aparición de los componentes encontrados en 227 excrementos de T. u. cantabricus en la cordillera Cantábrica durante el periodo de estudio. Periodos: S = abril-junio (celo), A = verano-otoño (julio-octubre), W = invierno (noviembre-marzo).*
+[Diet of the Cantabrian Capercaillie: geographic variation and energetic content	Ana Esther RODRÍGUEZ & José Ramón OBESO Ardeola 47(1), 2000, 77-83](https://www.ardeola.org/uploads/articles/docs/432.pdf) [DiCC:79]
+
+Finalmente, en 2020 se constata ese patrón mayoritario de alimentación -pinares de pino negro con rododendros- centrado en Pirineos españoles<ref>*At 84.6% of the leks, the understorey was characterised by a mixture of Bilberry Vaccinium myrtillus and rhododendron Rhododendron ferrugineum* Gil, J.A., Gómez-Serrano, M.Á. y lópez-lópez, P. (2020). Declive poblacional del urogallo Tetrao urogallus aquitanicus en los Pirineos centrales. Ardeola, 67:290</ref> Pero se observa que un 15% de su alimentación la obtienen de la combinación de varias especies de arbustos que se han encontrado en el trabajo de campo realizado `ver habitats` en la zona afectada por el TC. A destacar el 8-15% de la alimentación de Tua, explicada por la presencia, sóla o en combinación de otras especies, de boj y enebro. Especies de amplia distribución en la zona afectada por el TC.
 ![Especies de plantas presentes en los leks de urogallo. Gil, J.A., Gómez-Serrano, M.Á. y López-López, P. (2020). Declive poblacional del urogallo Tetrao urogallus aquitanicus en los Pirineos centrales. Ardeola, 67: Apendix I](image-2.png)
+
+Así mismo, en la zona prospectada -y también afectada por el TC- se encuentran otras especies de plantas susceptibles de aprovechamiento por parte de Tua `ver tabla x DiCC:79 valores máximos en corchetes`y señalada en la tabla.
+
+En conclusión y a la vista de los datos expuestos, se puede afirmar sin ningún genero de duda que, **la zona afectada por el TC Benasque-Cerler es un hábitat potencial de urogallo pirenáico y posee condiciones ideales para identificarlo como corredor biológico de conexión entre las metapoblaciones** arriba citadas `distribución Valle del Ésera`.
 
 <!-->Calcular el valor exacto en % de cada columna
 
@@ -130,51 +137,6 @@ EXCREMENTOS	9	28	3	4	11	18	10		67	27
 (1) Beech forest with Ilex aquifolium and Sorbus aucuparia in the under-growth
 </--> 
 
-
-| Componente | SOMIEDO |  |  |  | CANGAS |  |  |  | ALLANDE |  |  |  | ALLER |  |  |  | PONGA |  |  |  |
-|------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| Periodo | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 | S 98 | A 98 | W 98-99 | S 99 |
-| **TREES** [arboles] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fagus sylvatica | 0.2 |  | 0.36 | 0.33 | 1 | 0.14 |  | 0.6 |  |  |  |  |  |  | 0.5 |  | 0.7 |  | 0.33 | 0.85 |
-| Leaves [hojas] |  |  |  |  | 0.25 |  |  |  |  |  |  |  |  |  |  |  | 0.2 |  |  |  |
-| Stems [tallos] |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
-| Buds [yemas] | 0.2 |  | 0.36 | 0.33 | 0.25 | 0.14 |  | 0.6 |  |  |  |  |  |  | 0.5 |  | 0.7 |  | 0.46 | 0.78 |
-| Ilex aquifolium | 0.1 |  |  |  | 0.25 |  | 0.6 | 0.8 |  | 0.86 |  | 0.89 | 1 |  |  | 0.06 |  |  | 0.24 | 0.07 |
-| Pinus sylvestris |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.07 |
-| Betula sp |  |  | 0.07 |  |  |  | 0.6 |  |  |  |  |  |  |  | 0.78 |  |  |  | 0.01 | 0.11 |
-| **SHRUBS** [arbustos] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Juniperus communis | 0.1 |  | [0.54] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.01 |  |
-| Calluna vulgaris | 0.1 |  | 0.07 |  | 0.25 |  |  |  |  |  |  |  |  |  |  | 0.2 |  |  | [0.67] | 0.11 |
-| Erica sp |  |  |  |  |  |  | 0.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vaccinium myrtillus | 0.6 |  | 0.04 |  | 0.5 | 0.71 | 0.8 | 0.2 |  | 0.05 |  |  | 0.5 | 0.73 | 0.17 |  | 0.5 |  | 0.66 | 0.3 |
-| Leaves [hojas] | 0.1 |  | 0.04 |  |  | 0.71 |  |  |  | 0.05 |  |  | 0.5 | 0.64 |  |  | 0.2 |  | 0.34 | 0.11 |
-| Stems [tallos] | 0.8 |  | 0.04 |  | 0.25 | 0.29 | 0.6 | 0.2 |  |  |  |  | 0.5 | 0.11 |  |  | 0.3 |  | 0.34 | 0.3 |
-| Buds [yemas] | 0.2 |  | 0.04 |  |  | 0.57 |  |  |  |  |  |  | 0.09 | 0.06 |  |  | 0.1 |  | 0.19 |  |
-| Fruits [frutos] |  |  |  |  |  |  |  |  |  |  |  |  | 0.36 |  |  |  |  |  | 0.01 |  |
-| **HERBACEOUS** [herbáceas] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Asplenium sp | 0.1 |  |  |  |  | 0.2 |  |  |  |  |  |  |  | 0.11 |  |  |  |  |  |  |
-| Dryopteris sp |  |  | 0.11 |  |  |  |  |  |  |  |  |  |  | 0.09 |  |  |  |  |  |  |
-| Polystichum sp | 0.2 |  | 0.11 | 0.33 |  | 0.14 |  |  |  |  |  |  |  |  |  |  |  |  | 0.01 |  |
-| Polypodium vulgare |  |  |  | 0.33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.01 |  |
-| Pteridium aquilinum | 0.1 |  | 0.07 |  |  | 0.43 |  |  |  | 0.11 |  |  | 0.25 | 0.09 |  |  |  |  | 0.01 |  |
-| Hepatica nobilis |  |  | 0.11 |  |  | 0.14 |  |  |  |  |  |  | 0.18 | 0.06 |  |  |  |  |  |  |
-| Ranunculus sp |  |  |  |  |  |  |  |  |  |  |  |  | 0.18 |  |  |  |  |  |  |  |
-| Galium sp |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  | 0.18 |  |
-| Festuca gr rubra |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
-| Carex sp |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
-| Deschampsia sp | 0.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.1 |  |  |  |
-| Koeleria Vallesiana | 0.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Other grasses [otras gramíneas] | 0.2 |  |  |  |  |  |  |  |  | 0.09 |  |  |  |  |  |  | 0.1 |  |  |  |
-| Ligula sp |  |  |  |  | 0.25 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Other Graminoids [otras graminoides] |  |  |  |  | 0.25 | 0.14 |  |  |  | 0.09 |  |  |  |  |  |  |  |  |  |  |
-| Mosses [musgos] |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.45 |  |  | 0.1 |  |  |  |
-| Unidentified material | 0.1 |  |  |  |  | 0.14 |  |  |  |  |  |  | 0.25 |  |  |  |  |  | 0.01 |  |
-| **ANIMAL MATERIAL** | 0.2 |  |  |  |  | 0.57 |  |  |  | 0.05 |  |  | 0.5 |  |  |  | 0.1 |  | 0.01 | 0.04 |
-| Coleoptera |  |  |  |  |  | 0.29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of droppings | 9 |  | 28 | 3 | 4 | 7 | 5 | 5 | 7 | 19 | 3 | 4 | 11 |  | 18 |  | 10 |  | 67 | 27 |
-
-Nota: Los datos representan la frecuencia de aparición de los componentes encontrados en 227 excrementos de T. u. cantabricus en la cordillera Cantábrica durante el periodo de estudio. Periodos: S = abril-junio (celo), A = verano-otoño (julio-octubre), W = invierno (noviembre-marzo).
-[Diet of the Cantabrian Capercaillie: geographic variation and energetic content	Ana Esther RODRÍGUEZ & José Ramón OBESO Ardeola 47(1), 2000, 77-83](https://www.ardeola.org/uploads/articles/docs/432.pdf) [DiCC:79]
 					
 
 http://www.enciclopediadelasaves.es/originales/Docs/PDF/F062/Urogallo_comUn-Libro_Rojo.pdf Libro Rojo de las Aves de España, 2004

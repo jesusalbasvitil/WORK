@@ -317,7 +317,7 @@ Estrato herbáceo: Anemone nemorosa, Deschampsia flexuosa, Teucrium scorodonia
 | Herbáceo | *Deschampsia flexuosa* |
 | Herbáceo | *Teucrium scorodonia* |
 
-A diferencia de otras fuentes, este hábitat se identifica más con los abedulares navarros que con los catalanes. Presentando por tanto más similitudes de especies. 
+A diferencia de otras fuentes, **este hábitat se identifica más con los abedulares navarros que con los catalanes**. Presentando por tanto más similitudes de especies y por tanto, mayor afinidad con el clima oceánico que con el mediterráneo. 
 
 A la vista del listado arriba adjunto se constata que, por un lado es un bosque muy pobre en especies; por otro, en la zona objeto de estudio presenta un grado de conservación bastante bueno, de casi tres puntos sobre cuatro, lo que se traduce en una buena perspectiva para avanzar hacia el dominio climácico de los hayedos acidófilos, ejemplares de estos últimos que se encuentran dispersos por la zona de estudio.
 
