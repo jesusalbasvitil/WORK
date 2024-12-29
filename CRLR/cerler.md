@@ -25,7 +25,7 @@
 
 
 
-![Pico menor ()](picomenor.png)
+![Pico menor (*Dryobates minor*)](picomenor.png)
 Fuente: https://atlasaves.seo.org/ave/pico-menor/
 
 
