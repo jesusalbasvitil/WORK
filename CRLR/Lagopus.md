@@ -1,4 +1,4 @@
-<!-->..necesito redactar otros 2 artículos (el primero sobre sobre el hábitat de la perdiz nival -Lagopus muta- en los Pirineos; el segundo sobre la alimentación de la perdiz nival -Lagopus muta- en los Pirineos) con la misma estructura  que los  anterior sobre el hábitat de Perdix perdix en Pirineos, pero para Lagopus muta en Pirineos españoles y cada afirmación o párrafo debería de tener su referencia a pie de página con su fuente bibliográfica solvente</-->
+<!-->..necesito redactar otros 2 artículos (el primero sobre el hábitat de la perdiz nival -Lagopus muta- en los Pirineos; el segundo sobre la alimentación de la perdiz nival -Lagopus muta- en los Pirineos) con la misma estructura  que los anteriores sobre el hábitat de Perdix perdix en Pirineos, pero para Lagopus muta en Pirineos españoles y cada afirmación o párrafo debería de tener su referencia a pie de página con su fuente bibliográfica solvente</-->
 
 #  [El hábitat de la perdiz nival (*Lagopus muta*) en los Pirineos españoles](https://claude.site/artifacts/fe8ac2ca-9b46-4437-94db-f1d7fc15874e)
 
@@ -98,7 +98,9 @@ Las principales medidas de conservación recomendadas son:
 
 [^23]: Novoa, C., et al. (2020). Conservation strategies for the Pyrenean Rock Ptarmigan. *Wildlife Biology*, 2020(1), 1-12.
 
-# [La alimentación de la perdiz nival (*Lagopus muta*) en los Pirineos españoles ](https://claude.site/artifacts/ad184538-64a6-4a77-b50d-54a37fc6bbe4)
+----
+
+# La alimentación de la perdiz nival (*Lagopus muta*) en los Pirineos españoles 
 
 ## Patrones estacionales de alimentación
 
