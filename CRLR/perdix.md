@@ -131,13 +131,13 @@ La dieta de la perdiz pardilla muestra una marcada variación estacional en los 
 
 ### Primavera-Verano
 Durante la época reproductora, la dieta se compone principalmente de:
-- `Hojas y brotes tiernos de dicotiledóneas (40-60% de la dieta)[^19]`
-- `Flores de plantas herbáceas (15-25%)[^20]`
+- `Hojas y brotes tiernos de dicotiledóneas (40-60% de la dieta)[^19]`[^34]
+- `Flores de plantas herbáceas (15-25%)[^20]`[^34]
 - Pequeños invertebrados, especialmente importantes para los pollos (10-20%)[^21]
 
 ### Otoño
 En otoño, la dieta se diversifica incluyendo:
-- `Semillas de gramíneas silvestres (30-40%)[^22]`
+- `Semillas de gramíneas silvestres (30-40%)[^22]`[^34]
 - Bayas y frutos de *Vaccinium myrtillus* y *Calluna vulgaris* (20-30%)[^23]
 - Brotes y hojas de leguminosas (15-25%)[^24]
 
@@ -161,17 +161,21 @@ La especie muestra importantes adaptaciones para optimizar su alimentación:
 - Comportamiento de alimentación en grupo que aumenta la eficiencia de forrajeo[^32]
 - Selección de zonas de alimentación cerca de áreas de refugio[^33]
 
+## Referencias
+
 [^17]: Glutz von Blotzheim, U.N., et al. (1994). *Handbuch der Vögel Mitteleuropas*. Band 5: Galliformes und Gruiformes. AULA-Verlag, Wiesbaden.
 
 [^18]: Potts, G.R. (1986). *The Partridge: Pesticides, Predation and Conservation*. Collins, London.
 
-[^19]: Green, R.E. (1984). The feeding ecology and survival of partridge chicks (*Alectoris rufa* and *Perdix perdix*) on arable farmland in East Anglia. *Journal of Applied Ecology*, 21, 817-830.
+[^19]: *..preferred to feed at the edges of fields, where arthropods and weeds were more abundant, and among cereals they preferred winter wheat fields which had the highest densities of arthropods and grass seedsGreen, R.E. (1984). The feeding ecology and survival of partridge chicks* (*Alectoris rufa* and *Perdix perdix*) on arable farmland in East Anglia. *Journal of Applied Ecology*, 21, 817-830.
 
 [^20]: Bernard-Laurent, A. (1983). The diet of the Grey Partridge (*Perdix perdix*) in the French Alps. *Game Biology*, 2, 75-87.
 
 [^21]: Novoa, C., et al. (2012). Diet composition of Pyrenean grey partridges (*Perdix perdix hispaniensis*): a comparison between populations. *European Journal of Wildlife Research*, 58(4), 785-793.
 
-[^22]: Birkan, M. (1977). Analyse des tableaux de chasse de perdrix (*Perdix perdix* L.). Premiers résultats. *Bulletin Mensuel ONC*, 5, 2-32.
+[^22]: Birkan, M. (1977). Analyse des tableaux de chasse de perdrix (*Perdix perdix* L.). Premiers résultats. *Bulletin Mensuel ONC*, 5, 2-32. 
+
+Birkan, M. (1977) Analyse des tableaux de chasse de perdrix (Perdix perdix L. et Alectoris rufa L.). Courbes d’éclosion, structure et dynamique des populations, plan de chasse. Ecologie Du Petit Gibier Et Aménagement Des Chasses (Analysis of partridge (Perdix perdix L. and Alectoris rufa L.) bags. Hatching curves, population structure and dynamics, shoot management. (Small Game Ecology and Shoot Management) (eds P. Pesson & M. Birkan), pp. 55–77. Gauthier-Villars, Paris. 
 
 [^23]: García-González, R., et al. (2014). Seasonal variations in the diet of adult Pyrenean grey partridges. *European Journal of Wildlife Research*, 60(3), 451-457.
 
@@ -194,4 +198,6 @@ La especie muestra importantes adaptaciones para optimizar su alimentación:
 [^32]: Green, R.E. (1983). Spring dispersal and agonistic behaviour of the Red-legged Partridge (*Alectoris rufa*). *Journal of Zoology*, 201(4), 541-555.
 
 [^33]: Carroll, J.P. (1990). Winter and spring survival of radio-tagged gray partridge in North Dakota. *Journal of Wildlife Management*, 54(4), 657-662.
+
+[^34]: [El régimen alimentario otoñal de la Perdiz pardilla (Perdix perdix) en los Pirineos orientales Novoa et al Rev. Ecol. (Terre vie) vol 54, 1999 p.155](https://digital.csic.es/bitstream/10261/36725/1/58_novoa.pdf)
 
