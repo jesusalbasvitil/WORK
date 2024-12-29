@@ -72,7 +72,7 @@ Finalmente, en 2020 se constata ese patrón mayoritario de alimentación -pinare
 
 Así mismo, en la zona prospectada -y también afectada por el TC- se encuentran otras especies de plantas susceptibles de aprovechamiento por parte de Tua `ver tabla x DiCC:79 valores máximos en corchetes`y señalada en la tabla.
 
-En conclusión y a la vista de los datos expuestos, se puede afirmar sin ningún genero de duda que, **la zona afectada por el TC Benasque-Cerler es un hábitat potencial de urogallo pirenáico y posee condiciones ideales para identificarlo como corredor biológico de conexión entre las metapoblaciones** arriba citadas `distribución Valle del Ésera`.
+En conclusión y a la vista de los datos expuestos, se puede afirmar sin ningún genero de duda que, **la zona afectada por el TC Benasque-Cerler es un hábitat potencial de urogallo pirenáico y posee condiciones ideales para identificarlo como corredor biológico de conexión entre las metapoblaciones** arriba citadas `distribución Valle del Ésera`. De otro modo, la desconexión entre metapoblaciones -agravado por el proyecto de TC objeto de este informe- redundará en un
 
 <!-->Calcular el valor exacto en % de cada columna
 
@@ -143,7 +143,8 @@ http://www.enciclopediadelasaves.es/originales/Docs/PDF/F062/Urogallo_comUn-Libr
 
 ===Comportamiento social===
 ===Reproducción===
-===DISTRIBUCIÓN===
+===DISTRIBUCIÓN en Aragón===
+En base al citado estudio y en contraste con la información facilitada por el Gobierno de Aragón `ver mapa distribución metapoblaciones`
 ===ECOLOGÍA=== 
 
 ## Evolución de la población de Tua
