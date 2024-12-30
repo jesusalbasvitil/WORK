@@ -41,14 +41,14 @@ Además, el proyecto está dentro de la IBA nº 127 “Gistaín-Cotiella”3 con
 A continuación se detallan las especies de aves por la que la IBA fue declarada:
 
 
+| Species | Red List | Season (year/s of estimate) | Size | IBA criteria |
+|----------|-----------|------------------------|--------|--------------|
+| Grey Partridge *Perdix perdix* | LC | resident (1996) | 50 pairs | C6 |
+| Western Capercaillie *Tetrao urogallus* | LC | resident (2009) | min 5 males | C6 |
+| Bearded Vulture *Gypaetus barbatus* | NT | resident (2009) | min 5 pairs | B2, C2, C6 |
+| Black Woodpecker *Dryocopus martius* | LC | resident (2001) | min 25 pairs | C6 |
 
-
-Populations meeting IBA criteria ('trigger species') at the site:
-Species 	Red List 	Season (year/s of estimate) 	Size 	IBA criteria
-Grey Partridge Perdix perdix 	LC 	resident (1996) 	50 pairs 	C6
-Western Capercaillie Tetrao urogallus 	LC 	resident (2009) 	min 5 males 	C6
-Bearded Vulture Gypaetus barbatus 	NT 	resident (2009) 	min 5 pairs 	B2, C2, C6
-Black Woodpecker Dryocopus martius 	LC 	resident (2001) 	min 25 pairs 	C6
+> Populations meeting IBA criteria ('trigger species') at the site: Species 	Red List 	Season (year/s of estimate) 	Size 	IBA criteria Grey Partridge Perdix perdix 	LC 	resident (1996) 	50 pairs 	C6 Western Capercaillie Tetrao urogallus 	LC 	resident (2009) 	min 5 males 	C6 Bearded Vulture Gypaetus barbatus 	NT 	resident (2009) 	min 5 pairs 	B2, C2, C6 Black Woodpecker Dryocopus martius 	LC 	resident (2001) 	min 25 pairs 	C6
 
 Fuente: [BirdLife International (2024) Important Bird Area factsheet: Gistaín-Cotiella (Spain). Downloaded from https://datazone.birdlife.org/site/factsheet/gistaín-cotiella-iba-spain on 26/12/2024](https://datazone.birdlife.org/site/factsheet/gista%C3%ADn-cotiella-iba-spain/details) Elaboración propia
 
