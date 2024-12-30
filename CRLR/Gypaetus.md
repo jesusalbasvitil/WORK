@@ -1,3 +1,9 @@
+<!-->necesito redactar  2 artículos (el primero sobre sobre el hábitat del Quebrantahuesos (Gypaetus barbatus) en los Pirineos; el segundo sobre causas de mortandad del Quebrantahuesos -Gypaetus barbatus-  en los Pirineos) con la misma estructura que los anteriores sobre el hábitat de Perdix perdix o Lagopus muta en Pirineos, pero urogallo pirenaico -Tetrao urogallus aquitanicus- en los Pirineos españoles; y cada afirmación o párrafo debería de tener su referencia a pie de página con su fuente bibliográfica solvente
+
+
+necesito profundizar y cuantificar casos  -así como evolución- en el apartado de Colisiones y electrocuciones, dentro del artículo sobre Causas de mortandad del Quebrantahuesos..
+</-->
+
 # El hábitat del Quebrantahuesos (Gypaetus barbatus) en los Pirineos
 
 El Quebrantahuesos (Gypaetus barbatus) es una de las mayores rapaces de Europa, especializada en una dieta principalmente osífaga. En los Pirineos, su último refugio en la península ibérica, habita preferentemente zonas montañosas caracterizadas por una orografía accidentada y presencia de paredes rocosas¹.
