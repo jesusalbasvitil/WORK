@@ -341,4 +341,4 @@ Se produce abandono del 15% de los intentos de cría por molestias humanas. Las 
 [^16]: Pérez-García, J.M., et al. (2017). "Mortality causes of Bearded Vultures in Spain." *Journal of Wildlife Management*, 81(8), 1439-1448.
 
 [^17]: Arroyo, B., & Razin, M. (2006). "Effect of human activities on bearded vulture breeding success." *Animal Conservation*, 9(2), 214-222.
-[text](https://claude.site/artifacts/8cf43777-5c84-44c4-8674-76fdd8305884)
+[necesito redactar 1 artículo sobre sobre la Situación de Quebrantahuesos -Gypaetus barbatus-  en los Pirineos con un apartado sobre mortandad, donde se profundiza en las causas, cuantificada si es posible. Este artículo tiene que tener la misma estructura que los anteriores sobre el hábitat de Quebrantahuesos -Gypaetus barbatus- en los Pirineos; y cada afirmación o párrafo debería de tener su referencia a pie de página con sus fuentes bibliográficas solventes tales como elsevier, jstor, ardeola, ornithological, springer, biorxiv, researchgate...](https://claude.site/artifacts/8cf43777-5c84-44c4-8674-76fdd8305884)
