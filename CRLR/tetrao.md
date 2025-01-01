@@ -737,7 +737,7 @@ Las medidas de mitigación implementadas han mostrado:
 [Situación del urogallo pirenaico (*Tetrao urogallus aquitanicus*) en los Pirineos (Versión 6)](https://claude.site/artifacts/dbc91e0c-3c54-477d-a0b0-93706744c2b8)
 
 
-# Situación del urogallo pirenaico (Tetrao urogallus aquitanicus) en los Pirineos
+# Situación del urogallo pirenaico (Tetrao urogallus aquitanicus) en los Pirineos (versión 7; 3+)
 
 El urogallo pirenaico (Tetrao urogallus aquitanicus) es una subespecie endémica de los Pirineos que ha experimentado un declive significativo en las últimas décadas[^1]. Los censos más recientes estiman una población total de 3.500-4.000 individuos, con una tendencia poblacional negativa del 31% en los últimos 20 años[^2].
 
@@ -892,5 +892,6 @@ Los estudios de seguimiento post-implementación de medidas correctoras muestran
 [^25]: Hampel, W., et al. (2010). "Collision risk reduction for capercaillie through cable marking in ski resorts." Wildlife Biology, 16(1), 78-91.
 
 [Situación del urogallo pirenaico (*Tetrao urogallus aquitanicus*) en los Pirineos (Versión 3+ampliación)](https://claude.site/artifacts/8a95950a-01d2-47df-a64e-ed622e3791ff)
+
 
 
