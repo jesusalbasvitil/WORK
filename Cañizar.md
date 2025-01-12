@@ -5,3 +5,5 @@
 	109.47 Obra derivada de MDT02-cob2 2015-2021 CC-BY 4.0 scne.es](http://centrodedescargas.cnig.es/CentroDescargas/buscarGeom)
 Interpolación a 0,2 metros
 Cuerpo de agua (estanque) 989 msnm base para determinar zonas inundables.
+![MDT02 e interpolado a 0,2 metros](image.png)
+
