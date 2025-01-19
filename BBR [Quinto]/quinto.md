@@ -15,11 +15,11 @@ Tal y como se aprecia en las imágenes, la zona de intervención ha sufrido una 
 Así, la zona se viene usando como punto de acopio de material de obra y carretera (arena, zahorra, balasto y restos de bitumisos). Un cálculo grosero en base a trabajo de campo se obtiene las siguientes cantidades de residuos de obra:
 
 
-La explanada misma es suelo vegetal agregado y apisonado de forma muy irregular, `sobreelevando` el talud existente, cuya pendiente -a pesar de su inclinación- está vegetada con olmos, zarzas y carrizo, y Onopordon y otras nitrófilas -además de plántulas de más zarzas- cubriendo el suelo (a falta de un estudio de vegetación pormenorizado en fechas idóneas). Lo que da idea de la `adsorción` presente, procedente del **freático cercano a superficie**. 
+La explanada misma es suelo vegetal agregado y apisonado de forma muy irregular, `sobreelevando` el talud existente, cuya pendiente -a pesar de su inclinación- está vegetada con olmos, zarzas y carrizo, y Onopordon y otras nitrófilas -además de plántulas de más zarzas- cubriendo el suelo (a falta de un estudio de vegetación pormenorizado en fechas idóneas). Lo que da idea de la `adsorción` presente, procedente del **freático cercano a superficie**. Hay que tener en cuenta que la lámina del Ebro en ese punto está a 147,1 msnm (IGN) -148 msnm GE-. 
 
-Finalmente, consecuencia del uso dado a la explanada y los elementos observados, se aprecian **fisuras en el borde del talud**, lo que hace desaconsejable colocar el observatorio muy cerca del borde.
+Finalmente, consecuencia del uso dado a la explanada y los elementos observados, se aprecian **fisuras en el borde del talud**, lo que hace desaconsejable colocar el observatorio muy cerca del borde y actuar sobre éstas.
 
-Con todas estas premisas (material de obra abandonado, tipología de vegetación y geometría de talud) se debe plantear una serie de actuaciones para su mejora:
+Con todas estas premisas previas (material de obra abandonado, tipología de vegetación y geometría de talud) se debe plantear una serie de actuaciones para su mejora:
 
 - Aclareo y rebaje de pendiente
 - Sobreelevado
@@ -30,7 +30,7 @@ Con todas estas premisas (material de obra abandonado, tipología de vegetación
 Aquí se plantea una reducción de la pendiente mediante el retranqueo de la mota hasta eliminar las grietas, que se ubican a medio metro del canto. Esta intervención nos permite un aclareo coincidente con la ventana de observación del apantallamiento de unos 4-5 metros y el resto, un cordón hasta los x metros, dependiendo de la longitud de la pantalla. 
 
 ## Zona de intervención
-
+ 
 
 
 
