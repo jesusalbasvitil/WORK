@@ -5,7 +5,7 @@
 # Introducción
 La zona donde se ubicará el observatorio es una explanada de 1457 m2 con una cota máxima de 153.7 msnm  y una mínima de 152.9 msnm con pendientes decrecientes de casi un metro en dirección a la orilla y paralela a ésta. 
 
-Tal y como se aprecia en las imágenes, la zona de intervención ha sufrido una degradación extrema. Desde 2004 hasta hace casi un año, se mantenía en niveles parecidos a los del resto de la rivera; pero desde entonces, se arrasó para acopio de material de obra y no se ha restaurado.
+Tal y como se aprecia en las imágenes, la zona de intervención ha sufrido una degradación extrema. Desde 2004 hasta hace casi un año, se mantenía en niveles parecidos a los del resto de la ribera; pero desde 2024, se arrasó para acopio de material de obra y todavía no se ha restaurado.
 
 ![Imagen Google Earth; mayo, 3 2004](image.png)
 ![Imagen Google Earth; octubre, 23 2017](image-1.png)
@@ -15,6 +15,7 @@ Tal y como se aprecia en las imágenes, la zona de intervención ha sufrido una 
 La explanada misma es suelo vegetal agregado y apisonado de forma muy irregular, `sobreelevando` el talud existente, cuya pendiente -a pesar de su inclinación- está vegetada con olmos, zarzas y carrizo, y Onopordon y otras nitrófilas -además de plántulas de más zarzas- cubriendo el suelo (a falta de un estudio de vegetación pormenorizado en fechas idóneas). Lo que da idea de la `adsorción` presente, procedente del **freático cercano a superficie**. Hay que tener en cuenta que la lámina del Ebro en ese punto está a 147,1 msnm (IGN) -148 msnm GE-. 
 
 A consecuencia del uso dado a la explanada y los elementos observados, se aprecian **fisuras en el borde del talud**, lo que hace desaconsejable colocar el observatorio muy cerca del borde y actuar sobre éstas.
+[FOTO]
 
 Finalmente, se ha convertido en un área degradada susceptible de depósito de más residuos, con la consiguiente perturbación, abandono de residuos, vertidos y molestias a la fauna allí existente y la cercana colonia de ardéidas.
 
@@ -26,10 +27,10 @@ Con todas estas premisas previas (material de obra abandonado, tipología de veg
 - Área de acceso
 - Observatorio
 
-## Aclareo y rebaje de pendiente
-Aquí se plantea una reducción de la pendiente mediante el retranqueo de la mota hasta eliminar las grietas, que se ubican a medio metro del canto. Esta intervención nos permite un aclareo coincidente con la ventana de observación del apantallamiento de unos 4-5 metros y el resto, un cordón hasta los x metros, dependiendo de la longitud de la pantalla. Según cálculos preliminares (Ver Anexo 2) se obtendrían 7,8 toneladas de `tierra vegetal`.
+## 1. Aclareo y rebaje de pendiente (Vertedero)
+Aquí se plantea una reducción de la pendiente mediante el retranqueo de la mota hasta eliminar las grietas, que se ubican a medio metro del canto. Esta intervención nos permite un aclareo coincidente con la ventana de observación del apantallamiento de unos 4-5 metros y el resto, un cordón hasta los 13 metros, dependiendo de la longitud de la pantalla. Según cálculos preliminares (Ver Anexo 2) se obtendrían 7,8 toneladas de `tierra vegetal`.
 
-## Revegetado de la zona de intervención
+## 2. Preparación de la zona de intervención (Vertedero)
 La zona de intervención arriba descrita (ver introducción) se viene usando desde hace muy poco tiempo como punto de acopio de material de obra civil y carreteras (arena, zahorra, balasto y restos de bitumisos). Un cálculo grosero en base a trabajo de campo se obtiene las siguientes cantidades de residuos de obra:
 
 - Balasto (Anexo 3): 42 m3 / 75,6 Ton
@@ -40,18 +41,42 @@ En total, la cantidad a reutilizar asciende a unas 112,6 toneladas, a las que ha
 
 A esto hay que añadir la presencia de restos que podrían corresponder con de material asfáltico (LER 17 01 07) -pendiente de categorizar- y que podrían proceder de demoliciones de firme. Se estima un bidón con unos 50-70 kg de residuo a gestionar.
 
-En base a los cálculos de necesidades de materiales para la plataforma del apantallado, se propone el reparto de balasto para delimitar acceso y aparcamientos y sobreelevar el resto unos 30 cms. En una aproximación grosera a falta de un replanteo *in situ*, se estima la revegetación del 50% de la superficie mediante mezcla de sobrantes minerales y tierra vegetal. Esto supone que 
+## 5. Revegetado de la zona (Préstamo)
+En base a los cálculos de necesidades de materiales para la plataforma del apantallado, se propone el reparto de balasto para delimitar acceso y aparcamientos y sobreelevar el resto unos 15 cms. En una aproximación grosera a falta de un replanteo *in situ*, se estima la revegetación del 50% de la superficie mediante mezcla de sobrantes minerales y tierra vegetal. Esto supone que, para una superficie de 1457 m2 y mitad de espesor (7.5 cms) supone unas 110 toneladas y otras tantas de zahorra. Dado que, después de las necesidades de sobreelevado, quedan 50 toneladas de balasto y 21 toneladas de zahorra, por tanto, se propone un préstamo de 141 toneladas de tierra vegetal más una siembra directa de alfalfa, a razón de 16 kg/ha (FAO)
 
 
 
 
 
-## Observatorio
+## 4. Observatorio (Préstamo)
  ![C:\Users\jesus\OneDrive\Escritorio\[BBR][Quinto]\BBR Quinto [Pantalla-A3_1_50.pdf](image-3.png) El observatorio es una pantalla corrida mediante tablones de 1,5 metros soportados por postes de 2 metros que se alojan en pozos de 30x30x40 cms a rellenar con hormigón. Se estima en unos 252 m3.
  
 
-## Sobreelevado
+## 3. Sobreelevado (préstamo)
 En base a las necesidades de sobreelevar para montar el apantallado ![C:\Users\jesus\OneDrive\Escritorio\[BBR][Quinto]\BBR Quinto [Pantalla-A3_1_50.pdf](image-3.png) se estima que el volumen necesario asciende a 45 toneladas (ver Anexo 1). Con lo cual, a priori, habría más que suficiente. Pero es imprescindible la tierra vegetal encima del balasto y la zahorra y su posterior compactación (mediante riego) para asegurar un suelo cohesionado que permita la apertura de zapatas para los postes. Por lo tanto, se aprecia la falta de suelo vegetal para los taludes generados, así como para el resto de la zona (ver Revegetado)
+
+## 6. BALANCE
+Teniendo en cuenta que los vertederos son materiales en existencias a comprometer y los préstamos son las necesidades calculadas, el balance queda *grosso modo* de la siguiente forma:
+
+- Vertedero (apdo. 1 y 2) Tierra vegetal {7,8 Ton; Balasto 75 Ton; Zahorra 29 Ton}
+- Préstamos (apdo. 3 Sobreelevado) -45 Ton {Tierra vegetal, -7 Ton; Balasto, -30 Ton; Zahorra, -8 Ton} 
+- Préstamos (apdo. 5 Revegetado) {Balasto, -50 Ton; Zahorra, -21 Ton; Tierra vegetal -141 Ton} 
+- BALANCE {Balasto 0 Ton; Zahorra, 0; Tierra vegetal -141 Ton}
+
+| Ubicación | Material   | Cantidad (Toneladas) | Etapa (Observaciones) |
+|--------------|------------|---------------------|-----------------------|
+| Vertedero 1-2| Tierra vegetal | 7,8                | Construcción (Inicial) |
+|             | Balasto     | 75                 | Construcción (Inicial) |
+|             | Zahorra     | 29                 | Construcción (Inicial) |
+| Préstamo 3   | Tierra vegetal | -7                 | Excavación (Sobrelevado) |
+|             | Balasto     | -30                | Excavación (Sobrelevado) |
+|             | Zahorra     | -8                 | Excavación (Sobrelevado) |
+| Préstamo 5   | Balasto     | -50                | Restauración (Revegetado) |
+|             | Zahorra     | -21                | Restauración (Revegetado) |
+|             | Tierra vegetal | -141               | Restauración (Revegetado) |
+| Balance     | Balasto     | 0                  | Final                   |
+|             | Zahorra     | 0                  | Final                   |
+|             | Tierra vegetal | -141               | Final                   |
 
 
 # ANEXO 1. BORRADOR Cálculo de volumen y peso de prisma truncado con rampa
