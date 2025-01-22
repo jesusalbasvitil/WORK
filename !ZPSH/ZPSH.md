@@ -1,4 +1,4 @@
-# Zepas de humedales [ZPSH]
+# Zepas de humedales [ZPSH] 
 <!-->Luis Tirado Blázquez
 	
 vie, 17 ene, 14:32 (hace 2 días)
@@ -56,4 +56,5 @@ Por otro lado Jesús:
     Y un observatorio de los altos que se sube por escaleras tipo el del Delta del Ebro de hormigón, pero pintado con un trampantojo hecho por Rose (689370212) pídele precio, adjunto la foto, son baratos y para toda la vida.
 
 Ya vale por ahora no? La idea es tenerlo todo listo, aunque no afinemos del todo con los precios antes del 24 de enero.</-->
+
 
