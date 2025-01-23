@@ -3,7 +3,7 @@ ES0000181 La Retuerta y Saladas de Sástago
 [ZEPA ES0000181 LA RETUERTA Y SALADAS DE SÁSTAGO](https://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=ES0000181)
 
 # Zepas de humedales [ZPSH] / Bujaraloz [BJR] 
-Dada la gran cantidad de lagunas en la zona  la zona de muestra se hace un MDT de 20 metros de resolución mediante cartografía del IGN y se interpola a un metro para delimitar todos los cuerpos de agua, tanto los identificados en base a cartografía del IGN como los que no aparecen.
+Dada la gran cantidad de lagunas en la zona  la zona de muestra se hace un MDT de 20 metros de resolución mediante cartografía del IGN y se interpola a un metro para delimitar todos los cuerpos de agua, tanto los identificados en base a cartografía del IGN como los que no aparecen. Así, de 52 lagunas, saladas, salinas o cletas; se pasa 
 
 Se hace un muestreo de los diferentes cuerpos de agua existentes en una zona determinada y se clasifican según su tamaño y acceso; así como su grado de conservación, para calcular los diferentes costes de intervención según afecciones. 
 
@@ -94,6 +94,73 @@ Map Name=ZPSH.KMZ
 Description=337 m
 KML_STYLE=line117
 ELEVATION=332
+Varias zonas de intervención orilla W debido al acopio de piedras procentes de la retirada de los secanos de los alrededores. Práctica común y extendida por la zona, recubriendo muchas de las clotas, por su alto contenido salino. Además, hay una pequeña acumulación en orilla E. 
+Erosión zona Oeste. A efectos de cálculo de presupuesto de intervención para un rewilding se plantean varias operaciones:
+
+1. Estudio de detalle y replanteo
+2. Apertura de accesos para paso de maquinaria
+3. Reubicación de piedras
+4. Restauración de impacto
+
+### 1. Estudio de detalle y replanteo
+| **Concepto** | **Unidades** | **Precio Unitario** | **Total** |
+|----------|----------|-----------------|-------|
+| Trabajo de campo |  1  |  1   | 600 € |
+| Administración | 4  | 28 €/hora | 112 € |
+| Imprevistos | 1 | 71.2 € | 71,2 € |
+|----------|----------|-----------------|-------|
+| **Total (incluido Gastos de Gestión y Financiación)**  |  |  | **1119.976 €**  |
+
+### 2. Apertura de accesos
+| **Concepto** | **Unidades** | **Precio Unitario** | **Total** |
+|----------|----------|-----------------|-------|
+| Pala | 2 días | 1.000 €/día |1000 € |
+| Jornales Técnico | 1 días × 10 horas | 13 €/hora | 130 € |
+| Desplazamientos y Dietas | 1 días | 50 €/día | 50 € |
+| Administración | 1 días × 4 horas | 28 €/hora | 112 € |
+| Imprevistos | 1 | 71.2 € | 129.2 € |
+|----------|----------|-----------------|-------|
+| **Total (incluido Gastos de Gestión y Financiación)**  |  |  | **2032.316 e**  |
+
+
+
+### 3. Reubicación de piedras
+En la orilla W hay 0,13 has ocupadas por acumulaciones de piedras. Esto supone un total de `ver Anexo volúmenes de piedra` 125.66 m3 25 polígonos de 0,13 has, lo que asciende a 3141.5 m3 de piedras a retirar y repartir. Se considera un volumen de acarreo diario de 100 m3, o bien 50 m3 de carga y otros tantos de reparto por día.
+
+
+Así, la duración es de 62.83 días, durante los cuales se requiere al menos 1 camión para carga y descarga. 
+
+[Presupuesto del Proyecto Rewilding Rollico](https://claude.site/artifacts/178fa31c-5b41-4185-804d-28d1bc62a261)
+
+#### Presupuesto del Proyecto
+
+##### Desglose de Costes
+
+| **Concepto** | **Unidades** | **Precio Unitario** | **Total** |
+|----------|----------|-----------------|-------|
+| Pala | 63 días | 1.000 €/día | 63.000,00 € |
+| Camión | 63 días | 600 €/día | 37.800,00 € |
+| Jornales Técnico | 63 días × 8 horas | 13 €/hora | 6.616,00 € |
+| Desplazamientos y Dietas | 63 días | 50 €/día | 3.150,00 € |
+| Administración | 63 días × 4 horas | 28 €/hora | 7.056,00 € |
+
+##### Subtotal Costes Directos
+**Subtotal:** 117.622,00 €
+
+##### Imprevistos
+**10% sobre subtotal:** 11.762,20 €
+
+##### Gastos de Gestión y Financiación
+**1,43% de subtotal + imprevistos:** 1.830,37 €
+
+##### Resumen Final
+- Subtotal Costes Directos: 117.622,00 €
+- Imprevistos (10%):        11.762,20 €
+- Gastos Gestión (1,43%):    1.830,37 €
+
+**TOTAL PRESUPUESTO:** 131.214,57 €
+
+4. 
 
 
 Name=Rollico IV
@@ -130,6 +197,7 @@ Description=337 m
 KML_STYLE=line251
 ELEVATION=332
 
+## Salina de Piñol
 Name=Salina de Piñol
 Feature Type=basin
 Geometry=248 vertices, Length: 2.401 km, Area: 0.1788 sq km, Bounds: (728994.235, 4587414.976, 729710.943, 4588011.942)
@@ -531,3 +599,43 @@ Map Name=ZPSH.KMZ
 Description=337 m
 KML_STYLE=line117
 ELEVATION=357
+
+# ANEXO Cálculo volumen acumulado piedras [Rollico]
+
+## Enunciado del Problema
+Calcular el volumen de piedra en un área de 0,13 hectáreas (has) ocupada por 10 acumulaciones con forma de semicono. Dimensiones de cada acumulación:
+- Base: 4 × 4 metros
+- Altura: 2 metros
+
+## Solución Matemática
+
+### Fórmula del Volumen de un Semicono
+- Volumen = (1/2) × π × r² × h
+- Donde:
+  * r = radio de la base
+  * h = altura del semicono
+
+### Cálculo para una Acumulación
+- Radio (r) = 2 metros (mitad de la base de 4 metros)
+- Altura (h) = 2 metros
+- Volumen = (1/2) × π × (2)² × 2
+- Volumen = (1/2) × π × 4 × 2
+- Volumen ≈ 12,57 m³
+
+### Volumen Total de las 10 Acumulaciones
+- Volumen total = 12,57 m³ × 10
+- Volumen total ≈ 125,66 m³
+
+### Verificación del Área
+- Área total = 0,13 hectáreas = 1.300 m²
+- Área de una acumulación = π × r² = π × 4 = 12,57 m²
+- Área total de las 10 acumulaciones = 12,57 m² × 10 = 125,66 m²
+- Porcentaje de área ocupada = (125,66 m² / 1.300 m²) × 100 ≈ 9,67%
+
+## Resultado Final
+**Volumen total de piedra: 125,66 m³**
+
+## Notas
+- El cálculo considera la forma de semicono para cada acumulación
+- Volumen significativamente menor que el cálculo rectangular anterior
+- Las acumulaciones ocupan aproximadamente el 9,67% del área total
