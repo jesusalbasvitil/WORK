@@ -95,12 +95,16 @@ Description=337 m
 KML_STYLE=line117
 ELEVATION=332
 Varias zonas de intervención orilla W debido al acopio de piedras procentes de la retirada de los secanos de los alrededores. Práctica común y extendida por la zona, recubriendo muchas de las clotas, por su alto contenido salino. Además, hay una pequeña acumulación en orilla E. 
-Erosión zona Oeste. A efectos de cálculo de presupuesto de intervención para un rewilding se plantean varias operaciones:
+Erosión zona Oeste. A efectos de cálculo del presupuesto total de intervención para un rewilding de todo el conjunto lagunar se plantean varias operaciones estandar que aquí se resumen:
 
-1. Estudio de detalle y replanteo
-2. Apertura de accesos para paso de maquinaria
-3. Reubicación de piedras
-4. Restauración de impacto
+1. Estudio de detalle y replanteo **1119.976 €**
+2. Apertura de accesos para paso de maquinaria **3605.316 €**
+3. Reubicación de piedras **131.214,57 €**
+4. Restauración de impacto **6043.466 €**
+
+Ascendiendo a un total de **141983.3 €**
+
+El desglose presupuestario es el siguiente:
 
 ### 1. Estudio de detalle y replanteo
 | **Concepto** | **Unidades** | **Precio Unitario** | **Total** |
@@ -112,21 +116,38 @@ Erosión zona Oeste. A efectos de cálculo de presupuesto de intervención para 
 | **Total (incluido Gastos de Gestión y Financiación)**  |  |  | **1119.976 €**  |
 
 ### 2. Apertura de accesos
-| **Concepto** | **Unidades** | **Precio Unitario** | **Total** |
-|----------|----------|-----------------|-------|
-| Pala | 2 días | 1.000 €/día |1000 € |
-| Jornales Técnico | 1 días × 10 horas | 13 €/hora | 130 € |
-| Desplazamientos y Dietas | 1 días | 50 €/día | 50 € |
-| Administración | 1 días × 4 horas | 28 €/hora | 112 € |
-| Imprevistos | 1 | 71.2 € | 129.2 € |
-|----------|----------|-----------------|-------|
-| **Total (incluido Gastos de Gestión y Financiación)**  |  |  | **2032.316 e**  |
+#### Presupuesto Detallado
 
+##### Costes Directos
 
+| Concepto | Unidades | Precio Unitario | Total |
+|----------|----------|-----------------|-------|
+| Pala | 2 días | 1.000 €/día | 2.000,00 € |
+| Jornales Técnico | 1 días × 10 horas | 13 €/hora | 130,00 € |
+| Desplazamientos y Dietas | 1 días | 50 €/día | 50,00 € |
+| Administración | 1 días × 4 horas | 28 €/hora | 112,00 € |
+
+##### Subtotal Costes Directos
+**Subtotal:** 2.292,00 €
+
+##### Imprevistos
+**10% sobre subtotal:** 229,20 €
+
+##### Subtotal con Imprevistos
+**Subtotal + Imprevistos:** 2.521,20 €
+
+##### Gastos de Gestión
+**1,43 sobre subtotal + imprevistos:   3605.316€**
+
+##### Resumen Final
+- Subtotal Costes Directos: 2.292,00 €
+- Imprevistos (10%):        229,20 €
+- Gastos de Gestión (1,43): 1084.116 €
+
+**TOTAL PRESUPUESTO: 3605.316 €**
 
 ### 3. Reubicación de piedras
 En la orilla W hay 0,13 has ocupadas por acumulaciones de piedras. Esto supone un total de `ver Anexo volúmenes de piedra` 125.66 m3 25 polígonos de 0,13 has, lo que asciende a 3141.5 m3 de piedras a retirar y repartir. Se considera un volumen de acarreo diario de 100 m3, o bien 50 m3 de carga y otros tantos de reparto por día.
-
 
 Así, la duración es de 62.83 días, durante los cuales se requiere al menos 1 camión para carga y descarga. 
 
@@ -158,10 +179,84 @@ Así, la duración es de 62.83 días, durante los cuales se requiere al menos 1 
 - Imprevistos (10%):        11.762,20 €
 - Gastos Gestión (1,43%):    1.830,37 €
 
-**TOTAL PRESUPUESTO:** 131.214,57 €
+**TOTAL PRESUPUESTO: 131.214,57 €**
 
-4. 
+### 4. Restauración de impacto
 
+| **Concepto** | **Unidades** | **Precio Unitario** | **Total** |
+|----------|----------|-----------------|-------|
+| Pala | 2 días | 1.000 €/día |2000 € |
+| Camión| 2 días | 600 €/día |1600 € |
+| Jornales Técnico | 1 días × 10 horas | 13 €/hora | 130 € |
+| Desplazamientos y Dietas | 1 días | 50 €/día | 50 € |
+| Administración | 1 días × 4 horas | 28 €/hora | 112 € |
+| Imprevistos | 1 | 384.2 € | 384.2 € |
+|----------|----------|-----------------|-------|
+| **Total (incluido Gastos de Gestión y Financiación)**  |  |  | **6043.466 €**  |
+
+En base a los cálculos presupuestarios realizados, se hace una extrapolación resultando la siguiente tabla de presupuestos por cada laguna:
+Para calcular los costes de rewilding para cada área, utilizaré una proporción directa basada en el coste conocido de Grupo Rollico (141,983.3€) y su superficie de 2.063 sq km.
+
+El coste por hectárea será: 141,983.3€ / 2.063 = 68,839.95€ por sq km
+
+Voy a calcular los costes de rewilding para cada área y crear la tabla en formato markdown:
+| Name | Area (sq km) | Rewilding (€) |
+|------|--------------|---------------|
+| Grupo Rollico | 2.063 | 141,983.30 |
+| Rollico IV | 0.1941 | 13,364.23 |
+| Rollico V | 0.0261 | 1,796.48 |
+| Rebollón | 1.01 | 69,527.35 |
+| Salina de Camarón | 1.103 | 75,959.35 |
+| Salina de Piñol | 0.1788 | 12,307.23 |
+| Salina de Piñol II | 0.0555 | 3,820.92 |
+| Salina de la Muerte | 0.2008 | 13,823.55 |
+| Salada de la Muerte | 0.059 | 4,062.16 |
+| Salada de la Muerte II | 0.03329 | 2,291.39 |
+| Salada de la Muerte III | 0.0166 | 1,142.78 |
+| Pez II | 0.0647 | 4,451.67 |
+| Laguna del Pez | 0.325 | 22,372.99 |
+| Hoya del Pez | 0.1105 | 7,608.06 |
+| Pez IV | 0.03893 | 2,680.62 |
+| Pez V | 0.03384 | 2,330.44 |
+| Hoya del Lupín | 0.1913 | 13,172.60 |
+| Calabacera | 0.1232 | 8,479.26 |
+| Calabacera II | 0.01192 | 820.92 |
+| Hoya de los Aljeces | 0.2512 | 17,294.30 |
+| Hoya de Aljeces II | 0.02557 | 1,760.63 |
+| Hoya de Rafalet | 0.3824 | 26,321.95 |
+| Hoya de las Berzas | 0.1323 | 9,100.42 |
+| Laguna de Guallar | 0.4078 | 28,065.81 |
+| Hoya del Correo (IGN) | 0.0936 | 6,444.06 |
+| Hoya del Vinagrero | 0.223 | 15,359.51 |
+| Hoya del Vinagrero II | 0.1899 | 13,074.41 |
+| Hoya de Aniceto | 0.0572 | 3,939.51 |
+| Hoya de Aniceto II | 0.0303 | 2,087.99 |
+| Hoya del Correo II | 0.0456 | 3,138.30 |
+| Hoya del Vinagrero III | 0.0909 | 6,259.45 |
+| Barranco de Valdefrancín | 0.243 | 16,731.91 |
+| Valdefrancín II | 0.0787 | 5,419.26 |
+| Grupo Laguna de la Playa | 12.975 | 893,568.81 |
+| Saladar de Agustín | 5.868 | 404,138.92 |
+| Hoya de don Roque | 1.654 | 113,875.31 |
+| Hoya de don Roque II | 0.1008 | 6,940.95 |
+| Hoya de don Roque III | 0.3518 | 24,224.21 |
+| Balsa de don Roque VI | 0.0631 | 4,345.90 |
+| Balsa de don Roque VII | 0.1594 | 10,975.25 |
+| Balsa de don Roque VIII | 0.1286 | 8,852.78 |
+| Hoyo de la Fraga | 0.552 | 38,031.08 |
+| Grupo Clota Corral Viejo | 0.855 | 58,877.86 |
+| Grupo Clota Grañena | 1.908 | 131,363.91 |
+| Grupo Balsa de Gros | 1.22 | 84,065.54 |
+| Clota del Tío Mariano Sena | 0.602 | 41,451.17 |
+| Grupo Clota del Herrero | 1.885 | 129,742.91 |
+| Grupo Clota Gramenosa | 0.644 | 44,348.77 |
+| Marga del Grupo | 0.2667 | 18,353.93 |
+| Marga del Grupo II | 0.1389 | 9,564.89 |
+| **TOTAL** | **38.0871** | **2,620,864.58** |
+
+ Calculado los costes de rewilding para cada área utilizando una proporción directa basada en el coste conocido de Grupo Rollico. El cálculo se realizó multiplicando el área de cada zona por el coste por sq km de 68,839.95€. 
+
+# ANEXO Inventario de lagunas de Bujaraloz-Sástago
 
 Name=Rollico IV
 Feature Type=Contour Line, Intermediate
