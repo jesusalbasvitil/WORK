@@ -257,7 +257,6 @@ Voy a calcular los costes de rewilding para cada área y crear la tabla en forma
  Calculado los costes de rewilding para cada área utilizando una proporción directa basada en el coste conocido de Grupo Rollico. El cálculo se realizó multiplicando el área de cada zona por el coste por sq km de 68,839.95€. 
 
 # ANEXO Inventario de lagunas de Bujaraloz-Sástago
-
 Name=Rollico IV
 Feature Type=Contour Line, Intermediate
 Geometry=173 vertices, Length: 1.792 km, Area: 0.1941 sq km, Bounds: (723767.653, 4585544.883, 724385.242, 4586078.402)
