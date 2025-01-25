@@ -1,2 +1,2 @@
 # Zepas de humedales [ZPSH] / Gallocanta [GLLC] 
-Previamente se hace un análsis preliminar de la cota de inundación más o menos permanente y de la esporádica en función de la vegetación presente, mediante imágenes de satélite.
+Previamente se hace un análsis preliminar de la `cota de inundación permanente` [CIP] -más o menos permanente; ausencia casi total de vegetación- y de la cota de inundación esporádica [CIE] en función de la vegetación presente, mediante imágenes de satélite.
