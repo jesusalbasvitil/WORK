@@ -167,11 +167,11 @@ y Zaragoza. p.84
 medida, se trata del ciclo de mayor duración. El sistema Jalón fue uno de los
 más afectadas por la sequía en este período con coeficientes de variabilidad
 de aportaciones entorno 55-80 %.
- Período 1994/95-95/96: afecta a toda la cuenca del Ebro en mayor o menor
+- Período 1994/95-95/96: afecta a toda la cuenca del Ebro en mayor o menor
 medida.
- Período 1998/99-99/00: afecta prácticamente a toda la cuenca del Ebro en
+- Período 1998/99-99/00: afecta prácticamente a toda la cuenca del Ebro en
 mayor o menor medida.
- Período 2001/02: año de sequía hidrológica extrema` p.254
+- Período 2001/02: año de sequía hidrológica extrema` p.254
 
 no se logra alcanzar los
 niveles de garantía establecidos en la IPH, dado que el déficit máximo en
