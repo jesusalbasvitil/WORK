@@ -1,4 +1,4 @@
-# Proyecto de construcción de observatorio de avifauna mediante apantallamiento en el paraje xx de Quinto (Zgz) v1
+# BORRADOR de Proyecto de construcción de observatorio de avifauna mediante apantallamiento en la desembocadura del Barranco de la Paridera, Quinto (Zgz) V2
 
 *X: 711.641 Y: 4.584.962, TM Quinto* 
 <!-->Ribera Baja carreteras Recibidos RBB Pablo Vicente Adjuntos 10 ene 2025, 18:19 (hace 4 días) para mí, Luis</-->
@@ -49,7 +49,7 @@ En base a los cálculos de necesidades de materiales para la plataforma del apan
 
 
 ## 4. Observatorio (Préstamo)
- ![C:\Users\jesus\OneDrive\Escritorio\[BBR][Quinto]\BBR Quinto [Pantalla-A3_1_50.pdf](image-3.png) El observatorio es una pantalla corrida mediante tablones de 1,5 metros soportados por postes de 2 metros que se alojan en pozos de 30x30x40 cms a rellenar con hormigón. Se estima en unos 252 m3.
+ ![C:\Users\jesus\OneDrive\Escritorio\[BBR][Quinto]\BBR Quinto [Pantalla-A3_1_50.pdf](image-3.png) El observatorio es una pantalla corrida mediante tablones de 1,5 metros soportados por postes de 2 metros que se alojan en pozos de 30x30x40 cms a rellenar con hormigón. Se estima en unos 0,252 m3.
  
 
 ## 3. Sobreelevado (préstamo)
@@ -299,3 +299,39 @@ Peso = 8 toneladas
 
 ---
 *Nota: Los cálculos asumen que la pirámide es regular y que la densidad de la arena es uniforme.*
+
+# ANEXO 7 PRESUPUESTO
+
+I'll verify the calculations step by step:
+
+1. Subtotal of concepts: 
+   3000 + 400 + 400 + 1500 + 6000 + 1800 + 650 = 13,850 € ✓ Correct
+
+2. Imprevistos (10%):
+   13,850 × 0.10 = 1,385 € ✓ Correct
+
+3. Subtotal with Imprevistos:
+   13,850 + 1,385 = 15,235 € ✓ Correct
+
+4. Gastos Financieros (43%):
+   15,235 × 0.43 = 6,551.05 € (Note: Previous calculation was slightly off)
+
+5. Total General:
+   15,235 + 6,551.05 = 21,786.05 €
+
+Corrected Table:
+
+**Concepto** | **Unidades** | **Precio** | **Total**
+------------|--------------|------------|------------
+Pala para desbroce y reparto | 3 | 1000 € | 3000 €
+Tractor con reja para roturado | 1 | 400 € | 400 €
+Cuba para riego y compact. | 1 | 400 € | 400 €
+Albañilería (zapatas, compact.) | 2 | 750 € | 1500 €
+Apantallado madera tratada | 1 | 8000 € | 6000 €
+Camiones de tierra vegetal | 4 | 450 € | 1800 €
+Técnico Medio Ambiente/PRL | 5 | 130 € | 650 €
+**Subtotal** | | | **13850 €**
+Imprevistos (10%) | 1 | | 1385 €
+**Subtotal con Imprevistos** | | | **15235 €**
+Gastos Financieros (43%) | 1 | | 6551.05 €
+**Total General** | | | **21786.05 €**
