@@ -3,7 +3,7 @@ ES0000181 La Retuerta y Saladas de Sástago
 [ZEPA ES0000181 LA RETUERTA Y SALADAS DE SÁSTAGO](https://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=ES0000181)
 
 # Zepas de humedales [ZPSH] / Bujaraloz [BJR] 
-Dada la gran cantidad de lagunas en la zona  la zona de muestra se hace un MDT de 20 metros de resolución mediante cartografía del IGN y se interpola a un metro para delimitar todos los cuerpos de agua, tanto los identificados en base a cartografía del IGN como los que no aparecen. Así, de 52 lagunas, saladas, salinas o cletas; se pasa 
+Dada la gran cantidad de lagunas en la zona de muestra se hace un MDT de 20 metros de resolución mediante cartografía del IGN y se interpola a un metro para delimitar todos los cuerpos de agua, tanto los identificados en base a cartografía del IGN como los que no aparecen. Así, de 52 lagunas, saladas, salinas o cletas; se pasa a 78, sólo con esta resolución.
 
 Se hace un muestreo de los diferentes cuerpos de agua existentes en una zona determinada y se clasifican según su tamaño y acceso; así como su grado de conservación, para calcular los diferentes costes de intervención según afecciones. 
 
