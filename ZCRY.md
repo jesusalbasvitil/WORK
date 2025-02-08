@@ -2,21 +2,18 @@
 
 La cuestión principal a rebatir es este párrafo, que equipara Vía Ferrata [VF] con vía de escalada, cuando -como se verá- son instalaciones totalmente diferentes [ZCRYintro].
 
-*Una vez realizada la correspondiente evaluación de repercusiones sobre el espacio incluido en la Red Natura 2000, se considera que no es probable que el proyecto cause afecciones significativas sobre hábitats naturales ni taxones de interés comunitario, ni origine perjuicio a la integridad del espacio perteneciente a la Red Natura 2000 y que es compatible con los objetivos de conservación establecidos en su Plan de gestión y ordenación de los recursos naturales* Informe Dirección General de Medio Natural y Paisaje favorable con fecha 7 de agosto de 2024 [NACP:4]
+*Una vez realizada la correspondiente evaluación de repercusiones sobre el espacio incluido en la Red Natura 2000, se considera que **no es probable que el proyecto cause afecciones significativas sobre hábitats naturales ni taxones de interés comunitario, ni origine perjuicio a la integridad del espacio perteneciente a la Red Natura 2000** y que es compatible con los objetivos de conservación establecidos en su Plan de gestión y ordenación de los recursos naturales* Informe Dirección General de Medio Natural y Paisaje favorable con fecha 7 de agosto de 2024 [NACP:4]
 
 Todos los informes se basan en las afecciones al alimoche ya existente. Sin embargo, no se aborda en ningún momento dos (3) cuestiones fundamentales:
 
 - Afecciones al resto de especies catalogadas y existentes: buitre, halcón y chova
-- Eliminar cualquier posibilidad de expansión de especies nidificantes rupícolas en la zona afectada por la VF, lo que entraría en clara contradicción con el Plan y la legislación vigente (Plan de Gestión y Ordenación de los Recursos Naturales del Espacio Protegido Red Natura 2000 “Sierras de Demanda, Urbión, Cebollera y Cameros”, Decreto 9/2014, de 21 de febrero, por el que se declaran las zonas especiales de conservación de la Red Natura 2000 en la Comunidad Autónoma de La Rioja y se aprueban sus planes de gestión y ordenación de los recursos naturales [PGORN] `Buscar BOJA`)
+- Elimina cualquier posibilidad de expansión de especies nidificantes rupícolas en la zona afectada por la VF, lo que entraría en clara contradicción con el Plan y la legislación vigente (Plan de Gestión y Ordenación de los Recursos Naturales del Espacio Protegido Red Natura 2000 “Sierras de Demanda, Urbión, Cebollera y Cameros”, Decreto 9/2014, de 21 de febrero, por el que se declaran las zonas especiales de conservación de la Red Natura 2000 en la Comunidad Autónoma de La Rioja y se aprueban sus planes de gestión y ordenación de los recursos naturales [PGORN] `Buscar BOJA`)
 
-- Conforme a la documentación presentada en julio de 2024 para solicitud de informe, el proyecto
-técnico no incluía memoria ambiental según la Ley 6/2017, de 8 de mayo y el Decreto 29/2018, de 20
-de septiembre, no pudiéndose valorar si dicha actividad se encuentra afectada por la normativa
-referente a generación de residuos, emisiones y suelo, por lo que el promotor, en este caso el
-Ayuntamiento, deberá presentar un anexo al proyecto que incluya lo descrito en este informe, en caso
-de su tramitación como licencia ambiental. [NACP:5]
+Además, queda por analizar en detalle la posible nulidad por no presentar la documentación en tiempo y forma:
 
-Se fijan a la pared mediante taco químico.[NACP:6]
+*Conforme a la documentación presentada en julio de 2024 para solicitud de informe, el proyecto técnico **no incluía memoria ambiental según la Ley 6/2017, de 8 de mayo y el Decreto 29/2018, de 20 de septiembre**, no pudiéndose valorar si dicha actividad se encuentra afectada por la normativa referente a generación de residuos, emisiones y suelo, por lo que el promotor, en este caso el Ayuntamiento, deberá presentar un anexo al proyecto que incluya lo descrito en este informe, en caso de su tramitación como licencia ambiental.* [NACP:5]
+
+*Se fijan a la pared mediante taco químico.*[NACP:6]
 
 
 Dadas las características de la actuación, equipamiento fijo para la escalada, está categorizada como
@@ -48,7 +45,7 @@ y patrimonio natural de La Rioja y del Artículo 6 de la Directiva 92/43/CEE del
 de 1992 [NACP:10]
 
 El promotor deberá instalar la señalización y dispositivos necesarios para restringir el uso de
-estos equipamientos en la época restringida.[NACP:10]
+estos equipamientos en la época restringida.[NACP:10] `Esto no es garantía de evitación de acceso, toda vez que no están definidos`
 
 TERCERO.- El uso que se pretende se encuentra englobado dentro del apartado 51.2.d), “Actividades y
 servicios de carácter cultural, … así como instalaciones deportivas, recreativas y de ocio.”, de la Ley 5/2006, de 2
@@ -56,8 +53,7 @@ de mayo, de Ordenación del Territorio y Urbanismo de La Rioja. [NACP:12]
 
 ACUERDO
 ...
-Contra dicho acto de trámite, no cabe interponer recurso porque no pone fin al procedimiento
-administrativo, ni impide la continuación de éste, ni da lugar a indefensión.[NACP:13]
+*Contra dicho acto de trámite, no cabe interponer recurso porque no pone fin al procedimiento administrativo, ni impide la continuación de éste, ni da lugar a indefensión.*[NACP:13]
 
 
 
