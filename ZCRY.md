@@ -44,12 +44,9 @@ los recursos naturales.
 
 `No guarda relación con la categorización que hace el propio Gobierno de La Rioja ![Zona de Uso Restringido (Conservación Prioritaria)](imagen.png) [Zonificación de los espacios protegidos Red Natura 2000](https://www.iderioja.larioja.org/vct/index.php?c=47496a336776647131624c53664b347253372b7457413d3d)`
 
-Por todo lo cual, en aplicación de los artículos 53 a 56 de la Ley 2/2023, de 31 de enero, de biodiversidad
-y patrimonio natural de La Rioja y del Artículo 6 de la Directiva 92/43/CEE del Consejo, de 21 de mayo
-de 1992 [NACP:10]
+*Por todo lo cual, en aplicación de los artículos 53 a 56 de la Ley 2/2023, de 31 de enero, de biodiversidad y patrimonio natural de La Rioja y del **Artículo 6 de la Directiva 92/43/CEE** del Consejo, de 21 de mayo de 1992*[NACP:10]
 
-El promotor deberá instalar la señalización y dispositivos necesarios para restringir el uso de
-estos equipamientos en la época restringida.[NACP:10] `Esto no es garantía de evitación de acceso, toda vez que no están definidos`
+El promotor deberá instalar la señalización y dispositivos necesarios para restringir el uso de estos equipamientos en la época restringida.[NACP:10] `Esto no es garantía de evitación de acceso, toda vez que no están definidos`
 
 TERCERO.- El uso que se pretende se encuentra englobado dentro del apartado 51.2.d), “Actividades y
 servicios de carácter cultural, … así como instalaciones deportivas, recreativas y de ocio.”, de la Ley 5/2006, de 2
