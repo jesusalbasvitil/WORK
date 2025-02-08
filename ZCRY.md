@@ -1,0 +1,11 @@
+*De acuerdo a la normativa del Plan de gestión y ordenación de los recursos naturales del espacio Red Natura 2000 “Sierras de Demanda, Urbión, Cebollera y Cameros” (Decreto 46/2022, de 17 de agosto) **se considera como autorizable la equipación de nuevas vías permanentes para la escalada deportiva o modificación y reposición de la existentes en roquedos y paredes donde ya existen vías abiertas en la fecha de aprobación de este Plan**”. La Vía Ferrata se proyecta en una pared incluida en la Escuela de Escalada de Ezcaray dentro del Sector Peña San Torcuato en el que existen 13 vías de escalada* NU2024-0053 EZCARAY Notificación Acuerdo Comisión Permanente 2024-08 [NACP:3]
+
+La cuestión principal a rebatir es este párrafo, que equipara Vía Ferrata [VF] con vía de escalada, cuando -como se verá- son instalaciones totalmente diferentes [ZCRYintro].
+
+*Una vez realizada la correspondiente evaluación de repercusiones sobre el espacio incluido en la Red Natura 2000, se considera que no es probable que el proyecto cause afecciones significativas sobre hábitats naturales ni taxones de interés comunitario, ni origine perjuicio a la integridad del espacio perteneciente a la Red Natura 2000 y que es compatible con los objetivos de conservación establecidos en su Plan de gestión y ordenación de los recursos naturales* Informe Dirección General de Medio Natural y Paisaje favorable con fecha 7 de agosto de 2024 [NACP:4]
+
+Todos los informes se basan en las afecciones al alimoche ya existente. Sin embargo, no se aborda en ningún momento dos cuestiones fundamentales:
+
+- Afecciones al resto de especies catalogadas y existentes: buitre, halcón y chova
+- Eliminar cualquier posibilidad de expansión de especies nidificantes rupícolas en la zona afectada por la VF, lo que entraría en clara contradicción con el Plan y la legislación vigente (Plan de Gestión y Ordenación de los Recursos Naturales del Espacio Protegido Red Natura 2000 “Sierras de Demanda, Urbión, Cebollera y Cameros”, Decreto 9/2014, de 21 de febrero, por el que se declaran las zonas especiales de conservación de la Red Natura 2000 en la Comunidad Autónoma de La Rioja y se aprueban sus planes de gestión y ordenación de los recursos naturales [PGORN] `Buscar BOJA`)
+
