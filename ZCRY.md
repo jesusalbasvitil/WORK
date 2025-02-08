@@ -9,6 +9,7 @@ Todos los informes se basan en las afecciones al alimoche ya existente. Sin emba
 - Afecciones al resto de especies catalogadas y existentes: buitre, halcón y chova
 - Elimina cualquier posibilidad de expansión de especies nidificantes rupícolas en la zona afectada por la VF, lo que entraría en clara contradicción con el Plan y la legislación vigente (Plan de Gestión y Ordenación de los Recursos Naturales del Espacio Protegido Red Natura 2000 “Sierras de Demanda, Urbión, Cebollera y Cameros”, Decreto 9/2014, de 21 de febrero, por el que se declaran las zonas especiales de conservación de la Red Natura 2000 en la Comunidad Autónoma de La Rioja y se aprueban sus planes de gestión y ordenación de los recursos naturales [PGORN] `Buscar BOJA`)
 
+
 Además, queda por analizar en detalle la posible nulidad por no presentar la documentación en tiempo y forma:
 
 *Conforme a la documentación presentada en julio de 2024 para solicitud de informe, el proyecto técnico **no incluía memoria ambiental según la Ley 6/2017, de 8 de mayo y el Decreto 29/2018, de 20 de septiembre**, no pudiéndose valorar si dicha actividad se encuentra afectada por la normativa referente a generación de residuos, emisiones y suelo, por lo que el promotor, en este caso el Ayuntamiento, deberá presentar un anexo al proyecto que incluya lo descrito en este informe, en caso de su tramitación como licencia ambiental.* [NACP:5]
@@ -28,7 +29,7 @@ Ordenación del Territorio y Urbanismo de La Rioja
 En el conjunto de los roquedos que conforman la Peña San Torcuato anidan un total de 20 parejas de
 buitre leonado y una pareja de halcón peregrino.
 Estos nidos se localizan fundamentalmente en la parte de la Peña que afecta al término municipal de
-Ojacastro. [NACP:7]
+Ojacastro. [NACP:7] `
 
 3.- EVALUACIÓN DE REPERCUSIONES AMBIENTALES SOBRE ESPACIOS PROTEGIDOS RED NATURA 2000
 Teniendo en cuenta la información existente sobre la Escuela de Escalada de Ezcaray se considera que
@@ -40,6 +41,9 @@ no es probable que cause afecciones significativas sobre hábitats naturales ni 
 comunitario, ni origine perjuicio a la integridad de los espacios pertenecientes a la Red Natura 2000, y
 que es compatible con los objetivos de conservación establecidos en su Plan de gestión y ordenación de
 los recursos naturales.
+
+`No guarda relación con la categorización que hace el propio Gobierno de La Rioja ![Zona de Uso Restringido (Conservación Prioritaria)](imagen.png) [Zonificación de los espacios protegidos Red Natura 2000](https://www.iderioja.larioja.org/vct/index.php?c=47496a336776647131624c53664b347253372b7457413d3d)`
+
 Por todo lo cual, en aplicación de los artículos 53 a 56 de la Ley 2/2023, de 31 de enero, de biodiversidad
 y patrimonio natural de La Rioja y del Artículo 6 de la Directiva 92/43/CEE del Consejo, de 21 de mayo
 de 1992 [NACP:10]
@@ -53,7 +57,7 @@ de mayo, de Ordenación del Territorio y Urbanismo de La Rioja. [NACP:12]
 
 ACUERDO
 ...
-*Contra dicho acto de trámite, no cabe interponer recurso porque no pone fin al procedimiento administrativo, ni impide la continuación de éste, ni da lugar a indefensión.*[NACP:13]
+**Contra dicho acto de trámite, no cabe interponer recurso porque no pone fin al procedimiento administrativo, ni impide la continuación de éste, ni da lugar a indefensión.**[NACP:13]
 
 
 
