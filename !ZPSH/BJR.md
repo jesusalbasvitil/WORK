@@ -45,8 +45,7 @@ Se hace un muestreo de los diferentes cuerpos de agua existentes en una zona det
 | Barranco de Valdefrancín | 0.243 |
 | Valdefrancín II | 0.0787 |
 | Grupo Laguna de la Playa | 12.975 |
-| Laguna de la Playa | 3.242 |
-| Laguna Pito | 1.752 |
+~~| Laguna de la Playa | 3.242 || Laguna Pito | 1.752 |~~
 | Saladar de Agustín | 5.868 |
 | Hoya de don Roque | 1.654 |
 | Hoya de don Roque II | 0.1008 |
@@ -64,7 +63,7 @@ Se hace un muestreo de los diferentes cuerpos de agua existentes en una zona det
 | Marga del Grupo | 0.2667 |
 | Marga del Grupo II | 0.1389 |
 
-Total: 42,4573 km2
+Total: 42,4573 km2 [-5k][37,45 km2]
 ```javascript
 const areas = [
 2.063, 0.1941, 0.0261, 1.01, 1.103, 0.1788, 0.0555, 0.2008, 0.059, 0.03329,
