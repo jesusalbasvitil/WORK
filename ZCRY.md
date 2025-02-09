@@ -19,7 +19,7 @@ Además, queda por analizar en detalle la posible nulidad por no presentar la do
 
 *Conforme a la documentación presentada en julio de 2024 para solicitud de informe, el proyecto técnico **no incluía memoria ambiental según la Ley 6/2017, de 8 de mayo y el Decreto 29/2018, de 20 de septiembre** `Pendiente de ampliar`, no pudiéndose valorar si dicha actividad se encuentra afectada por la normativa referente a generación de residuos, emisiones y suelo, por lo que el promotor, en este caso el Ayuntamiento, deberá presentar un anexo al proyecto que incluya lo descrito en este informe, en caso de su tramitación como licencia ambiental.* [NACP:5]
 
-*Se fijan a la pared mediante taco químico.*[NACP:6] `Posibles focos de vertido de tóxicos por lixiviado e infiltración`
+*Se fijan a la pared mediante taco químico.*[NACP:6] `Posibles focos de vertido de tóxicos por lixiviado e infiltración` `Pendiente de ampliar`
 
 
 Dadas las características de la actuación, equipamiento fijo para la escalada, está categorizada como
@@ -31,7 +31,7 @@ Ordenación del Territorio y Urbanismo de La Rioja
 
 [NACP:7]
 
-*En el conjunto de los roquedos que conforman la Peña San Torcuato anidan un total de 20 parejas de buitre leonado y una pareja de halcón peregrino. Estos nidos se localizan fundamentalmente en la parte de la Peña que afecta al término municipal de Ojacastro* [NACP:7] 
+*En el conjunto de los roquedos que conforman la Peña San Torcuato anidan un total de 20 parejas de buitre leonado y una pareja de halcón peregrino. Estos nidos se localizan fundamentalmente en la parte de la Peña que afecta al término municipal de Ojacastro* [NACP:7] No se contempla la presencia de Chova piquirroja ni águila real, como sí se hace en el 
 
 *3.- EVALUACIÓN DE REPERCUSIONES AMBIENTALES SOBRE ESPACIOS PROTEGIDOS RED NATURA 2000 Teniendo en cuenta la información existente sobre la Escuela de Escalada de Ezcaray se considera que la vía ferrata de desarrolla dentro del sector San Torcuato, que cuenta con 13 vías de escalada, por lo que se trata de una actuación autorizable. Una vez realizada la correspondiente evaluación de repercusiones ambientales sobre el espacio protegido de la Red Natura 2000 “Sierras de Demanda, Urbión, Cebollera y Cameros”, se considera que no es probable que cause afecciones significativas sobre hábitats naturales ni taxones de interés comunitario, ni origine perjuicio a la integridad de los espacios pertenecientes a la Red Natura 2000, y que es compatible con los objetivos de conservación establecidos en su Plan de gestión y ordenación delos recursos naturales* `pendiente referencia`
 
