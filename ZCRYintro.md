@@ -194,7 +194,7 @@ Estas referencias adicionales refuerzan la clara diferenciación entre:
 ----
 
 [le chat, de Mistral](https://chat.mistral.ai/chat)
-
+<!-->Desarrollar el concepto de  Vía Ferrata y comparar y diferenciar de "equipación de nuevas vías permanentes para la escalada deportiva o modificación y reposición de la existentes en roquedos y paredes donde ya existen vías abiertas en la fecha de aprobación de este Plan" basado todo en fuentes solventes y en formato markdown</-->
 
 # Concepto de Vía Ferrata
 
