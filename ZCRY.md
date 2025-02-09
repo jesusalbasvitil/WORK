@@ -9,6 +9,7 @@
 - 2 causas de nulidad posibles: documentación incompleta y desestimación recurso
 - Se incurre en falsedad por declarar afección a 35 m2 `pte. proyecto`
 - Afección a más especies catalogadas que las contempladas
+- Discrepancia entre la categorización que hace el propio Gobierno de La Rioja del ZEC y lo declarado en NACP
 
 ## Análisis de contraste de documentación oficial y cronología (situación del proc. admin.)
 `Hay que establecer en qué momento del proc. admin. se está, porque sólo se tiene este Acuerdo y faltaría autorización Ayto.`
