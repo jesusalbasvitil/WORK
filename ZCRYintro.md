@@ -1,4 +1,5 @@
 <!--></-->
+# ANEXO DEFINICIÓN VÍA FERRATA vs VÍA ESCALADA
 
 El documento NU2024-0053 EZCARAY es una notificación de un acuerdo de la Comisión Permanente de Ordenación del Territorio y Urbanismo de La Rioja sobre la instalación de una vía ferrata en Ezcaray. A continuación, se detallan las inconsistencias y el resumen del documento:
 
