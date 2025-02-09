@@ -3,6 +3,12 @@
     
     Guía de estilo: normal, texto de informe; en cursiva, literales; negrita cursiva, importante del literal; sin formato, comentarios de autor; abreviaturas, las iniciales del documento citado al principio p. ej: Notificación Acuerdo Comisión Permanente 2024-08 [NACP:3]
 
+## RESUMEN
+- equipara Vía Ferrata [VF] con vía de escalada
+- el VF es incompatible por fomento de afluencia de gente (perturbación) y reducción posible área cría `concepto de hábitat potencial para nidificación`
+- 2 causas de nulidad posibles: documentación incompleta y desestimación recurso
+- Se incurre en falsedad por declarar afección a 35 m2 `pte. proyecto`
+- Afección a más especies catalogadas que las contempladas
 
 ## Análisis de contraste de documentación oficial y cronología (situación del proc. admin.)
 `Hay que establecer en qué momento del proc. admin. se está, porque sólo se tiene este Acuerdo y faltaría autorización Ayto.`
