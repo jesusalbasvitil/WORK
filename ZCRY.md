@@ -66,6 +66,7 @@ CODHABITAT,C,15	| CODIGO_UE,C,4	| CONCEPTO,C,254 | PRIORITARI,C,1 | INDNATURAL,C
 - Fauna afectada
     · Situación -y evolución previsible- de las poblaciones de alimoche, buitre, halcón y chova
     · Aumento inducido de turismo `búsqueda bibliográfica` como amenaza para la conservación de los hábitats y la avifauna
+    · Otra avifauna catalogada (trabajo de campo) [E-bird. Ezcaray, La Rioja. Lista de aves](https://ebird.org/hotspot/L9537794/bird-list)
 
 
 
