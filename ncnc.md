@@ -1,3 +1,5 @@
+
+
 [SEPARATA AL PROYECTO MODIFICADO 2 DE LA LÍNEA AÉREA AT 220KV CAMPORROMANOS-CUEVAS CON ENTRADA Y SALIDA EN SET CILLERUELOS AYUNTAMIENTO DE ENCINACORBA](https://www.aragon.es/documents/d/guest/05_sep-ayto-encinacorba-firmado-rev2)
 
 [Modificación del proyecto de la subestación eléctrica "Camporromanos" y la línea aérea de alta tensión de SET "Camporromanos" a SET "Cuevas" en los términos municipales de Romanos, Villarroya del Campo, Mainar, Villareal de Huerva, Encinacorba y Cariñena (Zaragoza)](https://www.aragon.es/-/modificacion-del-proyecto-de-la-subestacion-electrica-camporromanos-y-la-linea-aerea-de-alta-tension-de-set-camporromanos-a-set-cuevas-en-los-terminos-municipales-de-romanos-villarroya-del-campo-mainar-villareal-de-huerva-encinacorba-y-carinena-zaragoza-)
