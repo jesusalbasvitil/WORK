@@ -1,10 +1,57 @@
+# Borrador de informe de acciones legales por cruzamiento de LAAT por Encinacorba (Zgz)
 
 
-[SEPARATA AL PROYECTO MODIFICADO 2 DE LA LÍNEA AÉREA AT 220KV CAMPORROMANOS-CUEVAS CON ENTRADA Y SALIDA EN SET CILLERUELOS AYUNTAMIENTO DE ENCINACORBA](https://www.aragon.es/documents/d/guest/05_sep-ayto-encinacorba-firmado-rev2)
+## Cronología
+ 
+ Este es el último documento oficial [ANUNCIO del Servicio Provincial de Zaragoza, por el que se somete a información pública, la solicitud de autorización administrativa previa y de construcción, del proyecto modificado de la subestación eléctrica "Camporromanos" y la línea aérea de alta tensión de SET "Camporromanos" a SET "Cuevas", de la empresa Energías Renovables de Gladiateur 29, SL. Expediente AT2020/246 BOA nº 181](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1351251980808) y su situación actual es que está pendiente de resolver algo modificado que ya fue autorizado. Un relato *de parte* del Procedimiento Administrativo [PA] se encuentra en la siguiente separata [SEPARATA AL PROYECTO MODIFICADO 2 DE LA LÍNEA AÉREA AT 220KV CAMPORROMANOS-CUEVAS CON ENTRADA Y SALIDA EN SET CILLERUELOS AYUNTAMIENTO DE ENCINACORBA](https://www.aragon.es/documents/d/guest/05_sep-ayto-encinacorba-firmado-rev2) y el resto de documentación que acompaña a la modificación:
 
-[Modificación del proyecto de la subestación eléctrica "Camporromanos" y la línea aérea de alta tensión de SET "Camporromanos" a SET "Cuevas" en los términos municipales de Romanos, Villarroya del Campo, Mainar, Villareal de Huerva, Encinacorba y Cariñena (Zaragoza)](https://www.aragon.es/-/modificacion-del-proyecto-de-la-subestacion-electrica-camporromanos-y-la-linea-aerea-de-alta-tension-de-set-camporromanos-a-set-cuevas-en-los-terminos-municipales-de-romanos-villarroya-del-campo-mainar-villareal-de-huerva-encinacorba-y-carinena-zaragoza-)
+[Modificación del proyecto de la subestación eléctrica "Camporromanos" y la línea aérea de alta tensión de SET "Camporromanos" a SET "Cuevas" en los términos municipales de Romanos, Villarroya del Campo, Mainar, Villareal de Huerva, Encinacorba y Cariñena (Zaragoza)](https://www.aragon.es/-/modificacion-del-proyecto-de-la-subestacion-electrica-camporromanos-y-la-linea-aerea-de-alta-tension-de-set-camporromanos-a-set-cuevas-en-los-terminos-municipales-de-romanos-villarroya-del-campo-mainar-villareal-de-huerva-encinacorba-y-carinena-zaragoza-)    
+
+Por consiguiente, está pendiente de autorización dicha modificación. 
+Del análisis muy somero de la documentación adjunta se encuentra como detalle relevante que el proyecto es de julio de 2023, con sello de 29/9/23
+
+## Declaración de Impacto Ambiental
+Dentro del PA, hay que destacar la RESOLUCIÓN del 15 de febrero de 2023, del Director General de Energía y Minas del Departamento de Industria, Competitividad y Desarrollo Empresarial, por la que se otorga la autorización administrativa previa y de construcción de las instalaciones “LAAT 220 kV SET Camporromanos 220/30 kV - SET Cuevas 400/220 kV”, “SET Camporromanos 220/30 kV” y “SET Cilleruelos 220/30 kV” en los términos municipales de Romanos, Cariñena,  Encinacorba, Mainar, Torralbilla, Villarreal de Huerva y Villarroya del Campo (Zaragoza).
+Número exp. DGEM: IP-PC-0377/2020, IP-PC-0378/2020 e IP-PC-0379/2020.
+Número exp. SP: AT 2020/246 de la provincia de Zaragoza (BOA nº50, 14/03/2023) solicitada por [Energias Renovables De Gladiateur 29 SL](https://librebor.me/borme/empresa/energias-renovables-de-gladiateur-29/) que a su vez incorpora un cronológico del PA seguido, entre los que hay que destacar la Declaración de Impacto Ambiental [DIA](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1261273820707):
+
+*Quinto.— Tramitación ambiental. Con fecha 21 de diciembre de 2022, se emite Resolución del Instituto Aragonés de Gestión Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de construcción de las subestaciones eléctricas “Camporromanos” y “Cilleruelos” y de la línea eléctrica aérea de alta tensión de SET “Camporromanos” a SET “Cuevas” haciendo entrada-salida en SET “Cilleruelos”, en los términos municipales de Romanos, Torralbilla, Villarroya del Campo, Mainar, Villarreal de Huerva, Encinacorba y Cariñena (Zaragoza), promovido por Energías Renovables de Gladiateur 29, SL, y tramitado por el Servicio Provincial de Zaragoza del Departamento de Industria, Competitividad y Desarrollo Empresarial - sección energía. (Número expediente INAGA 500806/01L/2021/06658), publicado en el “Boletín Oficial de Aragón”, número 29, de 13 de febrero de 2023*
+
+Sobre la DIA hay que destacar dos cuestiones:
+
+1. El requerimiento para completar el estudio de ciclo anual de aves
+*El estudio de avifauna aportado en respuesta al requerimiento Concluye que el tercio norte y todo el tercio sur del trazado eléctrico discurre en ámbito del Real Decreto 1432/2008, de 29 de agosto. La zona cuenta con cuatro especies incluidas en el Catálogo de Especies Amena zadas de Aragón en la categoría “sensible a la alteración de su hábitat”: milano real, aguilucho pálido, cernícalo primilla y grulla europea, cuatro catalogadas como “vulnerable”: alimoche, aguilucho cenizo, sisón y chova piquirroja, y 6 “de interés especial”* [DIA:5509]
+
+2. La falta de estudio de sinergias y efectos acumulativos
+*El promotor no ha elaborado un estudio específico de sinergias ni tampoco ha analizado la visibilidad del conjunto del proyecto. El nuevo trazado aéreo proyectado y las nuevas subestaciones eléctricas a construir (SET “Cilleruelos” y SET “Camporromanos”) incrementarán los efectos sobre el paisaje en la zona.*
+...
+*El alcance de los estudios de impacto ambiental de proyectos aislados no permite valorar adecuadamente el efecto acumulativo del conjunto de parques fotovoltaicos y/o eólicos y líneas eléctricas de evacuación*
+[DIA:5511]
+
+Así y todo, la DIA se resolvió de forma favorable. Posteriormente, se ha hecho la citada modificación pendiente de análisis en detalle sobre `modificaciones sustanciales`, lo que conllevería un nuevo Estudio de Impacto Ambiental, pero en base a los últimos movimientos -autorizaciones de servidumbre de paso- la autorización podría estar próxima:
+
+## ACCIONES LEGALES
+
+Ante estos hechos caben varias acciones:
+
+- Forestalia no existe -`aquí quedaría pendiente un análisis del entramado societario`- y no guarda relación alguna con la SL consignataria de las autorizaciones. Además, a fecha de hoy no hay permiso de Industria. Por tal motivo, no hay poder en base al cual Forestalia solicite nada. Argumento para "comprar" tiempo e ir a Declaración de Utilidad Pública y expropiación forzosa.
+
+- Recurso extraordinario de revisión (Art 125.1 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+BOE nº 236, 2 de octubre de 2015) contra la primera aprobación basado en varios Errores de Hecho derivados del punto 2 de la DIA, arriba descrito.
+
+- Recurso de Alzada en base a la aprobación de modificación por `modificaciones sustanciales`
+
+Todo esto sin perjuicio de un análisis más en detalle de la documentación a nuestra disposición.
+
+
+
+
+
+
 
 <!-->Vuelve a desarrollar el concepto de "Error de Hecho" (se encuentra en el Artículo 125. Objeto y plazos de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; BOE núm. 236, de 2 de octubre de 2015) en base a jurisprudencia actual REAL con sus correspondientes referencias. Todo ello en formato markdown</-->
+
+
 # El Error de Hecho en el Procedimiento Administrativo
 
 ## Base Legal y Concepto
