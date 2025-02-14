@@ -22,6 +22,8 @@ Sobre la DIA hay que destacar dos cuestiones:
 1. El requerimiento para completar el estudio de ciclo anual de aves
 *El estudio de avifauna aportado en respuesta al requerimiento Concluye que el tercio norte y todo el tercio sur del trazado eléctrico discurre en ámbito del Real Decreto 1432/2008, de 29 de agosto. La zona cuenta con cuatro especies incluidas en el Catálogo de Especies Amena zadas de Aragón en la categoría “sensible a la alteración de su hábitat”: milano real, aguilucho pálido, cernícalo primilla y grulla europea, cuatro catalogadas como “vulnerable”: alimoche, aguilucho cenizo, sisón y chova piquirroja, y 6 “de interés especial”* [DIA:5509]
 
+Dentro de este apartado entraría la cuestión prejudicial de falta de transposición de la directiva Impacto Ambiental de STS Galicia acumuladas
+
 2. La falta de estudio de sinergias y efectos acumulativos
 *El promotor no ha elaborado un estudio específico de sinergias ni tampoco ha analizado la visibilidad del conjunto del proyecto. El nuevo trazado aéreo proyectado y las nuevas subestaciones eléctricas a construir (SET “Cilleruelos” y SET “Camporromanos”) incrementarán los efectos sobre el paisaje en la zona.*
 ...
