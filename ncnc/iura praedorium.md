@@ -128,7 +128,7 @@ La servidumbre de paso está regulada fundamentalmente en:
 
 [^4]: Disposición Final Segunda del Código Civil, que reconoce la subsistencia de los derechos forales o especiales de las provincias o territorios en que están vigentes.
 
-[^5]: Tribunal Supremo, Sala Primera, Sentencia núm. 598/2015, de 27 de octubre, que compila doctrina jurisprudencial sobre servidumbres de paso.
+[^5]: ~~Tribunal Supremo, Sala Primera, Sentencia núm. 598/2015, de 27 de octubre, que compila doctrina jurisprudencial sobre servidumbres de paso.~~ [Servidumbre de paso: Análisis jurisprudencial](https://blog.sepin.es/servidumbre-de-paso-an%C3%A1lisis-jurisprudencial)
 
 [^6]: Artículo 549 del Código Civil: "Las servidumbres impuestas por la ley tienen por objeto la utilidad pública o el interés de los particulares."
 
