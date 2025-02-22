@@ -1,8 +1,8 @@
-`iura praedorium` bis
+`iura praedorium bis`
 <!--></-->
 # [La Servidumbre de Paso en España: Concepto Legal y Procedimiento Administrativo](https://claude.site/artifacts/efd069b7-df2b-4284-b792-35ebe9d1fead)
 
-# La Servidumbre de Paso en España: Concepto Legal y Procedimiento Administrativo
+[Servidumbre de paso: Análisis jurisprudencial 31 de marzo de 2023](https://blog.sepin.es/servidumbre-de-paso-an%C3%A1lisis-jurisprudencial)
 
 ## 1. Definición y Naturaleza Jurídica
 
