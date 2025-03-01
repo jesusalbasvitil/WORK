@@ -1,5 +1,8 @@
 `iura praedorium bis`
-<!--></-->
+<!-->Desarrollo del concepto legal  en España de "Servidumbre de Paso" y procedimiento administrativo que lo regula y cada enunciado con su pie de página con referencias a textos legales. Todo en markdown
+...
+Volver a generar el análisis completo sobre la servidumbre de paso en España pero comprobar que las referencias a STS son correctas y no inventadas, como las que se han incorporado al análisis anterior</-->
+
 # [La Servidumbre de Paso en España: Concepto Legal y Procedimiento Administrativo](https://claude.site/artifacts/efd069b7-df2b-4284-b792-35ebe9d1fead)
 
 [Servidumbre de paso: Análisis jurisprudencial 31 de marzo de 2023](https://blog.sepin.es/servidumbre-de-paso-an%C3%A1lisis-jurisprudencial)
