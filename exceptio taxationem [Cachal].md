@@ -3,15 +3,23 @@
 # BORRADOR de informe de situación legal de la Balsa de Cachal (TM Almudevar) y afecciones a la avifauna [Almudévar-El Cachal Huesca](https://ebird.org/hotspot/L8955649/bird-list)
 
 ## 1. Situación (ver mapa)
-## 2. Crono
+## 2. Cronología de fechas en el documento BOE-A-2024-4654
+
+| Fecha | Resumen | Página |
+|-------|---------|--------|
+| **9 de diciembre de 2013** | Ley 21/2013 de evaluación ambiental que establece en su `artículo 8.3`[^1] que el Consejo de Ministros puede excluir proyectos determinados de la evaluación de impacto ambiental en supuestos excepcionales. | Pág. 28268 |
+| **30 de diciembre de 2020** | Real Decreto-ley 36/2020 que establece en su artículo 66 las circunstancias excepcionales para proyectos financiados por el Instrumento Europeo de Recuperación cuando sean modernizaciones de instalaciones existentes. | Pág. 28268 |
+| **12 de febrero de 2021** | Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo que establece el Mecanismo de Recuperación y Resiliencia, con el principio de "no causar un perjuicio significativo". | Pág. 28270 |
+| **11 de julio de 2023** | Acuerdo del Consejo de Ministros que aprobó un protocolo de actuación para proyectos incluidos en el Plan para la mejora de la eficiencia y sostenibilidad en regadíos. | Pág. 28268-28269 |
+| **27 de febrero de 2024** | Reunión del Consejo de Ministros donde se aprueba el Acuerdo para excluir de evaluación ambiental el "Proyecto de optimización energética de la Comunidad de Regantes de Almudévar (Huesca)". | Pág. 28268-28269 |
+| **1 de marzo de 2024** | Resolución de la Secretaría de Estado de Agricultura y Alimentación por la que se publica el Acuerdo del Consejo de Ministros. | Pág. 28268 |
+| **9 de marzo de 2024** | Fecha de publicación del documento en el Boletín Oficial del Estado (Núm. 61). | Pág. 28268 |
+
 ## 3. Situación legal
 ## 4. Especies amenazadas 
-[Aves observadas en Almudévar-El Cachal (Huesca)
-Tabla de especies con su estatus de protección](https://claude.site/artifacts/17ce0e52-eb49-4de6-b38c-6964ea66ee8c)
+[Aves observadas en Almudévar-El Cachal (Huesca) Tabla de especies con su estatus de protección](https://claude.site/artifacts/17ce0e52-eb49-4de6-b38c-6964ea66ee8c)
 
-# Aves observadas en Almudévar-El Cachal (Huesca)
-
-## Tabla de especies con su estatus de protección
+### Tabla de especies con su estatus de protección
 
 | Especie | Nombre científico | Estatus de protección |
 |---------|-------------------|------------------------|
@@ -64,7 +72,7 @@ Tabla de especies con su estatus de protección](https://claude.site/artifacts/1
 | Curruca Rabilarga | Curruca undata | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
 | Pinzón Real | Fringilla montifringilla | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo III |
 
-## Leyenda de estatus de protección
+### Leyenda de estatus de protección
 
 * **LESPE**: Listado de Especies Silvestres en Régimen de Protección Especial (España)
 * **CEEA**: Catálogo Español de Especies Amenazadas
@@ -76,7 +84,7 @@ Tabla de especies con su estatus de protección](https://claude.site/artifacts/1
   * **Anexo II**: Especies de fauna estrictamente protegidas
   * **Anexo III**: Especies de fauna protegidas
 
-## Notas adicionales
+### Notas adicionales
 
 * La información sobre protección está basada en el Real Decreto 139/2011 (LESPE y CEEA), la Directiva 2009/147/CE (Directiva Aves) y el Convenio de Berna.
 * Las categorías de protección pueden variar según la comunidad autónoma, esta tabla refleja el estatus a nivel nacional e internacional.
@@ -84,3 +92,13 @@ Tabla de especies con su estatus de protección](https://claude.site/artifacts/1
 * Las aves rapaces (águilas, milanos, busardos, etc.) cuentan generalmente con protección especial o están catalogadas como amenazadas, y la mayoría están incluidas en el Anexo II del Convenio de Berna.
 * Las especies incluidas en el Anexo I de la Directiva Aves requieren medidas de conservación especiales de su hábitat para asegurar su supervivencia y reproducción.
 * Las especies del Anexo II del Convenio de Berna están estrictamente protegidas, mientras que las del Anexo III tienen un nivel de protección menor pero siguen estando protegidas.
+
+## REFERENCIAS
+[^1]: *3. El Consejo de Ministros, en el ámbito de la Administración General del Estado, y el órgano que determine la legislación de cada comunidad autónoma, en su respectivo ámbito de competencias, podrán, en supuestos excepcionales y mediante acuerdo motivado, excluir un proyecto determinado del procedimiento de evaluación de impacto ambiental. En particular, el Consejo de Ministros en el ámbito de la Administración General del Estado y, en su caso, el órgano que determine la legislación de cada comunidad autónoma en su respectivo ámbito de competencias, con arreglo a lo previsto en el apartado anterior y caso por caso, podrá determinar si procede la exclusión del procedimiento de evaluación de impacto ambiental en proyectos de:*
+
+*a) Construcción de centros penitenciarios, o en aquellos proyectos declarados de especial interés para la seguridad pública por las administraciones competentes*
+*b) Obras de reparación de infraestructuras críticas dañadas como consecuencia de acontecimientos catastróficos y obras de emergencia*
+
+*4. En los casos previstos en el apartado anterior: a) Se examinará la conveniencia de someter el proyecto excluido a otra forma de evaluación que cumpla los principios y objetivos de esta ley. b) El acuerdo de exclusión y los motivos que lo justifican se publicarán en el «Boletín Oficial del Estado» o diario oficial correspondiente. Adicionalmente, se pondrá a disposición del público la información relativa a la decisión de exclusión y los motivos que la justifican, y el examen sobre las formas alternativas de evaluación del proyecto excluido*
+Ley 21/2013, de 9 de diciembre, de evaluación ambiental BOE nº núm. 296, de 11 de diciembre de 2013
+Referencia: BOE-A-2013-1291320
