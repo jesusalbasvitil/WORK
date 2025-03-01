@@ -114,29 +114,11 @@ La citada Ley 9/18 detalla y desarrolla este apartado, pero siempre ligado a Def
 Ley 21/2013, de 9 de diciembre, de evaluación ambiental BOE nº núm. 296, de 11 de diciembre de 2013
 Referencia: BOE-A-2013-1291320
 
-[^2]: Cuatro. El artículo 8 queda redactado de la siguiente manera:
-«Artículo 8. Supuestos excluidos de evaluación ambiental y proyectos excluibles.
-1. No serán objeto de evaluación ambiental estratégica los siguientes planes y
-programas:
-a) Los que tengan como único objeto la defensa nacional o la protección civil
-en casos de emergencia.
-b) Los de tipo financiero o presupuestario.
-2. El órgano sustantivo podrá determinar, caso por caso, que la evaluación de
-impacto ambiental no se aplicará a los proyectos o partes de proyectos que tengan
-como único objetivo la defensa y a los proyectos que tengan como único objetivo la
-respuesta a casos de emergencia civil, cuando tal aplicación pudiera tener
-repercusiones negativas sobre tales objetivos.
-3. Sin perjuicio de lo dispuesto en el artículo 49, el Consejo de Ministros, en el
-ámbito de la Administración General del Estado, o en su caso, el órgano que determine
-la legislación de cada comunidad autónoma, en su respectivo ámbito de competencias,
-podrán, a propuesta del órgano sustantivo, en supuestos excepcionales y mediante
-acuerdo motivado, excluir un proyecto determinado de la evaluación de impacto
-ambiental, cuando su aplicación pueda tener efectos perjudiciales para la finalidad del
-proyecto o aquellos proyectos que consistan en obras de reparación o mejora de
-infraestructuras críticas, definidas en la Ley 8/2011, de 28 de abril, por la que se
-establecen medidas para la protección de las infraestructuras críticas, que hayan sido
-dañadas como consecuencia de acontecimientos catastróficos o cuyo refuerzo sea
-necesario para garantizar la seguridad nacional.
+[^2]: *Cuatro. El artículo 8 queda redactado de la siguiente manera: «Artículo 8. Supuestos excluidos de evaluación ambiental y proyectos excluibles*
+...
+*2. El órgano sustantivo podrá determinar, caso por caso, que la evaluación de impacto ambiental no se aplicará a los **proyectos o partes de proyectos que tengan como único objetivo la defensa y a los proyectos que tengan como único objetivo la respuesta a casos de emergencia civil, cuando tal aplicación pudiera tener repercusiones negativas sobre tales objetivos.***
+
+*3. Sin perjuicio de lo dispuesto en el artículo 49, el Consejo de Ministros, en el ámbito de la Administración General del Estado, o en su caso, el órgano que determine la legislación de cada comunidad autónoma, en su respectivo ámbito de competencias, podrán, a propuesta del órgano sustantivo, en supuestos excepcionales y mediante acuerdo motivado, excluir un proyecto determinado de la evaluación de impacto ambiental, cuando su aplicación pueda tener efectos perjudiciales para la finalidad del proyecto o aquellos proyectos que consistan en obras de reparación o mejora de infraestructuras críticas, definidas en la Ley 8/2011, de 28 de abril, por la que se establecen medidas para la protección de las infraestructuras críticas, que hayan sido dañadas como consecuencia de acontecimientos catastróficos o cuyo refuerzo sea necesario para garantizar la seguridad nacional.*
 4. En los casos previstos en el apartado anterior, a propuesta del órgano
 sustantivo, el Consejo de Ministros en el ámbito de la Administración General del
 Estado o, en su caso, el órgano que determine la legislación de cada comunidad
