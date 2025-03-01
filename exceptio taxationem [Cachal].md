@@ -16,6 +16,17 @@
 | **9 de marzo de 2024** | Fecha de publicación del documento en el Boletín Oficial del Estado (Núm. 61). | Pág. 28268 |
 
 ## 3. Situación legal
+Derivado del crono, se ha obviado la modificación de la citada Ley 21/13 por falta de transposición de la Directiva de Impacto Ambiental [`Directiva 2014/52/UE del Parlamento Europeo y del Consejo, de 16 de abril`] mediante la Ley 9/18. En síntesis, según la primera
+sólo hay 2 supuestos por los cuales se excluye de la EIA: *Construcción de centros penitenciarios, o en aquellos **proyectos declarados de especial interés para la seguridad pública** por las administraciones competentes*
+*b) Obras de reparación de infraestructuras críticas dañadas como consecuencia de acontecimientos catastróficos y obras de emergencia*
+
+Supuestos en los que no se encuentra la Balsa objeto de este informe.
+
+La citada Ley 9/18 detalla y desarrolla este apartado, pero siempre ligado a Defensa Nacional o catástrofes, pero -y aquí amplía la exigencia- de no eximir de efectuar evaluación de repercusiones sobre los espacios Red Natura 2000 [^2]
+
+
+
+
 ## 4. Especies amenazadas 
 [Aves observadas en Almudévar-El Cachal (Huesca) Tabla de especies con su estatus de protección](https://claude.site/artifacts/17ce0e52-eb49-4de6-b38c-6964ea66ee8c)
 
@@ -102,3 +113,65 @@
 *4. En los casos previstos en el apartado anterior: a) Se examinará la conveniencia de someter el proyecto excluido a otra forma de evaluación que cumpla los principios y objetivos de esta ley. b) El acuerdo de exclusión y los motivos que lo justifican se publicarán en el «Boletín Oficial del Estado» o diario oficial correspondiente. Adicionalmente, se pondrá a disposición del público la información relativa a la decisión de exclusión y los motivos que la justifican, y el examen sobre las formas alternativas de evaluación del proyecto excluido*
 Ley 21/2013, de 9 de diciembre, de evaluación ambiental BOE nº núm. 296, de 11 de diciembre de 2013
 Referencia: BOE-A-2013-1291320
+
+[^2]: Cuatro. El artículo 8 queda redactado de la siguiente manera:
+«Artículo 8. Supuestos excluidos de evaluación ambiental y proyectos excluibles.
+1. No serán objeto de evaluación ambiental estratégica los siguientes planes y
+programas:
+a) Los que tengan como único objeto la defensa nacional o la protección civil
+en casos de emergencia.
+b) Los de tipo financiero o presupuestario.
+2. El órgano sustantivo podrá determinar, caso por caso, que la evaluación de
+impacto ambiental no se aplicará a los proyectos o partes de proyectos que tengan
+como único objetivo la defensa y a los proyectos que tengan como único objetivo la
+respuesta a casos de emergencia civil, cuando tal aplicación pudiera tener
+repercusiones negativas sobre tales objetivos.
+3. Sin perjuicio de lo dispuesto en el artículo 49, el Consejo de Ministros, en el
+ámbito de la Administración General del Estado, o en su caso, el órgano que determine
+la legislación de cada comunidad autónoma, en su respectivo ámbito de competencias,
+podrán, a propuesta del órgano sustantivo, en supuestos excepcionales y mediante
+acuerdo motivado, excluir un proyecto determinado de la evaluación de impacto
+ambiental, cuando su aplicación pueda tener efectos perjudiciales para la finalidad del
+proyecto o aquellos proyectos que consistan en obras de reparación o mejora de
+infraestructuras críticas, definidas en la Ley 8/2011, de 28 de abril, por la que se
+establecen medidas para la protección de las infraestructuras críticas, que hayan sido
+dañadas como consecuencia de acontecimientos catastróficos o cuyo refuerzo sea
+necesario para garantizar la seguridad nacional.
+4. En los casos previstos en el apartado anterior, a propuesta del órgano
+sustantivo, el Consejo de Ministros en el ámbito de la Administración General del
+Estado o, en su caso, el órgano que determine la legislación de cada comunidad
+autónoma en su respectivo ámbito de competencias, decidirá en el acuerdo de
+exclusión si procede someter el proyecto a otra forma alternativa de evaluación que
+cumpla los principios y objetivos de esta ley, que realizará el órgano sustantivo.
+El órgano sustantivo publicará el acuerdo de exclusión y los motivos que lo
+justifican en el “Boletín Oficial del Estado” o diario oficial correspondiente.
+Adicionalmente, pondrá a disposición del público la información relativa a la decisión
+de exclusión y los motivos que la justifican, y el examen sobre las formas alternativas
+de evaluación del proyecto excluido.
+El órgano sustantivo comunicará la información prevista en el párrafo anterior a
+la Comisión Europea, con carácter previo a la autorización del proyecto.
+5. Las posibilidades de exclusión reguladas en este artículo no eximirán al
+promotor de efectuar una evaluación de las repercusiones sobre los espacios Red
+Natura 2000, cuando se trate de planes, programas y proyectos que, sin tener
+relación directa con la gestión del lugar o sin ser necesarios para la misma, puedan
+afectar de forma apreciable a las especies o hábitats de los citados espacios, ya sea
+individualmente o en combinación con otros planes, programas o proyectos.
+Para ello, el promotor elaborará un informe de repercusiones sobre los hábitats
+y especies objetivo de conservación de los espacios afectados, incluyendo las
+medidas preventivas, correctoras y compensatorias Red Natura 2000 adecuadas
+para su mantenimiento en un estado de conservación favorable, y un esquema de
+seguimiento ambiental, y el órgano sustantivo consultará preceptivamente al órgano competente en la gestión de los espacios Red Natura 2000 afectados, para remitir
+posteriormente el informe junto con la consulta al órgano ambiental, al objeto de que
+éste determine, a la vista del expediente, si el plan, programa o proyecto causará un
+perjuicio a la integridad de algún espacio Red Natura 2000. En caso afirmativo se
+sustanciará el procedimiento regulado por los apartados 4 a 7 del artículo 46 de la
+Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. La
+aprobación del proyecto incluirá expresamente las medidas y el programa de
+seguimiento ambiental adoptados.
+En casos de fuerza mayor, reacción ante catástrofes o accidentes graves, parte
+o todas las actuaciones señaladas en el párrafo anterior podrán realizarse a
+posteriori, justificándose dichas circunstancias en la aprobación del proyecto.» Ley 9/2018, de 5 de diciembre, por la que se modifica la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, la Ley 21/2015, de 20 de julio, por la que
+se modifica la Ley 43/2003, de 21 de noviembre, de Montes y la Ley 1/2005,
+de 9 de marzo, por la que se regula el régimen del comercio de derechos de
+emisión de gases de efecto invernadero. Núm. 294 Jueves 6 de diciembre de 2018 página 119869
