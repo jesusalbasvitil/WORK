@@ -165,31 +165,12 @@ Referencia: BOE-A-2013-1291320
   *5. `Las posibilidades de exclusión reguladas en este artículo no eximirán al promotor de efectuar una evaluación de las repercusiones sobre los espacios Red Natura 2000, cuando se trate de planes, programas y proyectos que, sin tener relación directa con la gestión del lugar o sin ser necesarios para la misma, puedan afectar de forma apreciable a las especies o hábitats de los citados espacios, ya sea individualmente o en combinación con otros planes, programas o proyectos.` Para ello, el promotor elaborará un `informe de repercusiones sobre los hábitats y especies objetivo de conservación de los espacios afectados, incluyendo las medidas preventivas, correctoras y compensatorias Red Natura 2000 adecuadas` para su mantenimiento en un estado de conservación favorable, y un esquema de seguimiento ambiental, y el órgano sustantivo consultará preceptivamente al órgano competente en la gestión de los espacios Red Natura 2000 afectados, para remitir posteriormente el informe junto con la consulta al órgano ambiental, al objeto de que éste determine, a la vista del expediente, si el plan, programa o proyecto causará un perjuicio a la integridad de algún espacio Red Natura 2000. En caso afirmativo se sustanciará el procedimiento regulado por los apartados 4 a 7 del artículo 46 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. La aprobación del proyecto incluirá expresamente las medidas y el programa de seguimiento ambiental adoptados. En casos de fuerza mayor, reacción ante catástrofes o accidentes graves, parte o todas las actuaciones señaladas en el párrafo anterior podrán realizarse a posteriori, justificándose dichas circunstancias en la aprobación del proyecto.»*
 Ley 9/2018, de 5 de diciembre, por la que se modifica la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la Ley 21/2015, de 20 de julio, por la que se modifica la Ley 43/2003, de 21 de noviembre, de Montes y la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero. Núm. 294 Jueves 6 de diciembre de 2018 página 119869
 
-[^6]:*Segundo. Cumplimiento del protocolo aprobado en el Acuerdo del Consejo de Ministros
-de 11 de julio de 2023.
-El órgano sustantivo ha aportado la documentación que se indica a continuación,
-para acreditar el cumplimiento del protocolo aprobado en el Acuerdo del Consejo de
-Ministros del 11 de julio de 2023:
-a) Informe del órgano sustantivo acreditativo del cumplimiento de cada uno de los
-requisitos establecidos en el artículo 66 del Real Decreto-ley 36/2020, de 30 de
-diciembre. Anexo I.
-b) Informe del órgano sustantivo sobre los efectos perjudiciales de la aplicación de
-la evaluación de impacto ambiental para la finalidad del proyecto, con base en la
-Comunicación de la Comisión Documento orientativo relativo a la aplicación de las
-exenciones contempladas en la Directiva sobre la evaluación de impacto ambiental
-(Directiva 2011/92/UE del Parlamento Europeo y el Consejo, en su versión modificada
-por la Directiva 2014/52/UE) – artículo 1, apartado 3, artículo 2, apartados 4 y 5
-(COM 2019/C 386/05). Anexo II.
-c) Documento en que conste la evaluación positiva en el cumplimiento del principio
-de «no causar un perjuicio significativo» (Do No Significant Harm) recogido en el
-Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo, de 12 de febrero
-de 2021, por el que se establece el Mecanismo de Recuperación y Resiliencia, con base
-en la Comunicación de la Comisión Guía técnica sobre la aplicación del principio de «no
-causar un perjuicio significativo». Anexo III.* Resolución de 1 de marzo de 2024, de la Secretaría de Estado de Agricultura
-y Alimentación, por la que se publica el Acuerdo por el que se dispone la
-aplicación del artículo 8.3 de la Ley 21/2013, de 9 de diciembre, de
-evaluación ambiental al «Proyecto de optimización energética de la
-Comunidad de Regantes de Almudévar (Huesca)», comprendido en las obras
-de modernización de regadíos del Plan para la mejora de la eficiencia y la
-sostenibilidad en regadíos, incluido en el Plan de Recuperación,
-Transformación y Resiliencia de la economía española, Fase III. 61 Sábado 9 de marzo de 2024 Sec. III. Pág. 28268
+[^6]:*Segundo. Cumplimiento del protocolo aprobado en el Acuerdo del Consejo de Ministros de 11 de julio de 2023.El órgano sustantivo ha aportado la documentación que se indica a continuación, para acreditar el cumplimiento del protocolo aprobado en el Acuerdo del Consejo de Ministros del 11 de julio de 2023:*
+
+*a) Informe del órgano sustantivo acreditativo del cumplimiento de cada uno de los requisitos establecidos en el artículo 66 del Real Decreto-ley 36/2020, de 30 de diciembre. Anexo I*
+
+*b) Informe del órgano sustantivo sobre los efectos perjudiciales de la aplicación de la evaluación de impacto ambiental para la finalidad del proyecto, con base en la Comunicación de la Comisión Documento orientativo relativo a la aplicación de las exenciones contempladas en la Directiva sobre la evaluación de impacto ambiental (Directiva 2011/92/UE del Parlamento Europeo y el Consejo, en su versión modificada por la Directiva 2014/52/UE) – artículo 1, apartado 3, artículo 2, apartados 4 y 5 (COM 2019/C 386/05). Anexo II.*
+
+*c) Documento en que conste la evaluación positiva en el cumplimiento del principio de «no causar un perjuicio significativo» (Do No Significant Harm) recogido en el Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo, de 12 de febrero de 2021, por el que se establece el Mecanismo de Recuperación y Resiliencia, con base en la Comunicación de la Comisión Guía técnica sobre la aplicación del principio de «no causar un perjuicio significativo». Anexo III.*
+
+Resolución de 1 de marzo de 2024, de la Secretaría de Estado de Agricultura y Alimentación, por la que se publica el Acuerdo por el que se dispone la aplicación del artículo 8.3 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental al «Proyecto de optimización energética de la Comunidad de Regantes de Almudévar (Huesca)», comprendido en las obras de modernización de regadíos del Plan para la mejora de la eficiencia y la sostenibilidad en regadíos, incluido en el Plan de Recuperación, Transformación y Resiliencia de la economía española, Fase III. 61, Sábado 9 de marzo de 2024 Sec. III. Pág. 28268
