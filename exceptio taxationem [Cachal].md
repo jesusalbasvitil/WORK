@@ -8,7 +8,7 @@
 | Fecha | Resumen | Página |
 |-------|---------|--------|
 | **9 de diciembre de 2013** | Ley 21/2013 de evaluación ambiental que establece en su `artículo 8.3`[^1] que el Consejo de Ministros puede excluir proyectos determinados de la evaluación de impacto ambiental en supuestos excepcionales. | Pág. 28268 |
-| **30 de diciembre de 2020** | Real Decreto-ley 36/2020 que establece en su artículo 66 las circunstancias excepcionales para proyectos financiados por el Instrumento Europeo de Recuperación cuando sean modernizaciones de instalaciones existentes. | Pág. 28268 |
+| **30 de diciembre de 2020** | `Real Decreto-ley 36/2020 que establece en su artículo 66 las circunstancias excepcionales`[^2] para proyectos financiados por el Instrumento Europeo de Recuperación cuando sean modernizaciones de instalaciones existentes. | Pág. 28268 |
 | **12 de febrero de 2021** | Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo que establece el Mecanismo de Recuperación y Resiliencia, con el principio de "no causar un perjuicio significativo". | Pág. 28270 |
 | **11 de julio de 2023** | Acuerdo del Consejo de Ministros que aprobó un protocolo de actuación para proyectos incluidos en el Plan para la mejora de la eficiencia y sostenibilidad en regadíos. | Pág. 28268-28269 |
 | **27 de febrero de 2024** | Reunión del Consejo de Ministros donde se aprueba el Acuerdo para excluir de evaluación ambiental el "Proyecto de optimización energética de la Comunidad de Regantes de Almudévar (Huesca)". | Pág. 28268-28269 |
@@ -16,13 +16,13 @@
 | **9 de marzo de 2024** | Fecha de publicación del documento en el Boletín Oficial del Estado (Núm. 61). | Pág. 28268 |
 
 ## 3. Situación legal
-Derivado del crono, se ha obviado la modificación de la citada Ley 21/13 por falta de transposición de la Directiva de Impacto Ambiental `Directiva 2014/52/UE del Parlamento Europeo y del Consejo, de 16 de abril`[^2] mediante la Ley 9/18. En síntesis, según la primera
+Derivado del crono, se ha obviado la modificación de la citada Ley 21/13 por falta de transposición de la Directiva de Impacto Ambiental `la Directiva 2014/52/UE del Parlamento Europeo y del Consejo, de 16 de abril`[^3] mediante la Ley 9/18. En síntesis, según la primera
 sólo hay 2 supuestos por los cuales se excluye de la EIA: *Construcción de centros penitenciarios, o en aquellos **proyectos declarados de especial interés para la seguridad pública** por las administraciones competentes*
-*b) Obras de reparación de infraestructuras críticas dañadas como consecuencia de acontecimientos catastróficos y obras de emergencia*
+*b) Obras de reparación de infraestructuras críticas dañadas como consecuencia de acontecimientos catastróficos y obras de emergencia*[^4]
 
 Supuestos en los que no se encuentra la Balsa objeto de este informe.
 
-La citada Ley 9/18 detalla y desarrolla este apartado, pero siempre ligado a Defensa Nacional o catástrofes, pero -y aquí amplía la exigencia- de no eximir de efectuar evaluación de repercusiones sobre los espacios Red Natura 2000 [^3]
+La citada Ley 9/18 detalla y desarrolla este apartado, pero siempre ligado a Defensa Nacional o catástrofes, pero -y aquí amplía la exigencia- de no eximir de efectuar evaluación de repercusiones sobre los espacios Red Natura 2000 [^5]
 
 
 
@@ -114,13 +114,24 @@ La citada Ley 9/18 detalla y desarrolla este apartado, pero siempre ligado a Def
 Ley 21/2013, de 9 de diciembre, de evaluación ambiental BOE nº núm. 296, de 11 de diciembre de 2013
 Referencia: BOE-A-2013-1291320
 
-[^2]: Mediante Auto de 22 de febrero de 2024, la sección tercera de la Sala de lo contencioso-administrativo del Tribunal Superior de Justicia de Galicia ha elevado una cuestión prejudicial al Tribunal de Justicia de la Unión Europea (TJUE) para que determine si, conforme a `la interpretación del arículo 6.3 de la Directiva 2011/92/UE`, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente («Directiva de Evaluación Ambiental»), es necesario o no poner a disposición del público interesado (no solo de los promotores) los informes sectoriales que se emiten en el procedimiento de evaluación ambiental.
+[^2]:***Artículo 66. Especialidades en materia de evaluación ambiental en los proyectos del Plan Recuperación, Transformación y Resiliencia*** *A los efectos de lo previsto en el artículo 8.3 de la Ley 21/2013, de 21 de diciembre, se entenderá que concurren circunstancias excepcionales en el caso de los proyectos financiados total o parcialmente mediante el Instrumento Europeo de Recuperación, cuando se trate de meras modernizaciones o mejoras de instalaciones ya existentes, `que no supongan construcción de nueva planta, aumento de la superficie afectada o adición de nuevas construcciones ni afección sobre recursos hídricos y entre cuyos requisitos se incorporen para su financiación y aprobación la mejora de las condiciones ambientales, tales como la eficiencia energética o del empleo de recursos naturales`, la reducción de su impacto ambiental o la mejora de la sostenibilidad de la instalación ya existente*
+
+[Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia. BOE núm. 341, de 31/12/2020. Referencia:BOE-A-2020-17340](https://www.boe.es/buscar/act.php?id=BOE-A-2020-17340)
+
+[^3]: Mediante Auto de 22 de febrero de 2024, la sección tercera de la Sala de lo contencioso-administrativo del Tribunal Superior de Justicia de Galicia ha elevado una cuestión prejudicial al Tribunal de Justicia de la Unión Europea (TJUE) para que determine si, conforme a `la interpretación del arículo 6.3 de la Directiva 2011/92/UE`, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente («Directiva de Evaluación Ambiental»), es necesario o no poner a disposición del público interesado (no solo de los promotores) los informes sectoriales que se emiten en el procedimiento de evaluación ambiental.
 
 En concreto, el tribunal solicita al TJUE que aclare el significado de la expresión de «principales informes y dictámenes» a que se refiere el artículo 6.3 de la Directiva de Evaluación Ambiental; así como que especifique si los informes a que se refiere el artículo 37.2 de la Ley 21/2013, que debe solicitar el órgano sustantivo, son los que se recogen en el artículo 6.3 de la citada directiva; y, por último, que aclare si los artículos 36, 37 y 38 de la ley estatal y 34 de la ley gallega se oponen a la exigencia que impone el artículo 6.3 de la Directiva 2011/92/UE de garantizar que se pongan a disposición del público interesado los principales informes sectoriales que se hubieran emitido, al objeto de que pueda formular sus alegaciones y participar, dentro de un plazo no inferior a 30 días, en el proceso de la toma de decisión sobre la solicitud de autorización del proyecto, antes de que aquella se hubiera adoptado (Nota de Prensa del Poder Judicial de 6 de marzo de 2024).2. Se da la circunstancia, sin embargo, de que sobre esta cuestión se había pronunciado ya el Tribunal Supremo en las Sentencias nº 1768/2023, de 21 de diciembre (ponente Ángeles Huet), y n.º 119/2024, de 25 de enero, en las que, en respuesta a la cuestión de interés casacional objetivo, estableció que:
 
 «La Directiva 2011/92/UE, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente, modificada por la Directiva 2014/52/UE, y la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, no imponen que, en el procedimiento de evaluación de impacto ambiental ordinaria de proyectos, antes de la información pública deba realizarse el trámite de consultas a las autoridades, sin que ello excluya que las particularidades que puedan concurrir reclame la puesta a disposición del público de alguna información que haya debido ser recabada previamente de las Administraciones afectadas por el proyecto, por demandarlo, en las circunstancias del caso, la efectividad de su participación; ello demandará el imprescindible esfuerzo argumental sobre la incidencia de la omisión de tal información en la efectividad del derecho a la participación del público en el procedimiento ambiental». [El Tribunal Superior de Justicia de Galicia «contradice» al Tribunal Supremo al elevar una cuestión prejudicial en relación con la evaluación ambiental de los parques eólicos](https://ga-p.com/publicaciones/el-tribunal-superior-de-justicia-de-galicia-contradice-al-tribunal-supremo-al-elevar-una-cuestion-prejudicial-en-relacion-con-la-evaluacion-ambiental-de-los-parques-eolicos/)
+[^4]: [Directiva 2014/52/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, por la que se modifica la Directiva 2011/92/UE, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente.
+Publicado en:
+«DOUE» núm. 124, de 25 de abril de 2014, páginas 1 a 18 (18 págs.)
+Departamento:
+Unión Europea
+Referencia:
+DOUE-L-2014-80824](https://www.boe.es/buscar/doc.php?id=DOUE-L-2014-80824)
 
-[^3]: *Cuatro. El artículo 8 queda redactado de la siguiente manera: «Artículo 8. Supuestos excluidos de evaluación ambiental y proyectos excluibles*
+[^5]: *Cuatro. El artículo 8 queda redactado de la siguiente manera: «Artículo 8. Supuestos excluidos de evaluación ambiental y proyectos excluibles*
 ...
 *2. El órgano sustantivo podrá determinar, caso por caso, que la evaluación de impacto ambiental no se aplicará a los **proyectos o partes de proyectos que tengan como único objetivo la defensa y a los proyectos que tengan como único objetivo la respuesta a casos de emergencia civil, cuando tal aplicación pudiera tener repercusiones negativas sobre tales objetivos.***
 
