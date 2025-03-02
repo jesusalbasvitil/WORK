@@ -1,6 +1,6 @@
 `exceptio taxationem [Cachal]`
 <!-->Historia del hotspot L8955649 (Ebird)</-->
-# BORRADOR de informe de situación legal de la Balsa de Cachal (TM Almudevar) y afecciones a la avifauna [Almudévar-El Cachal Huesca](https://ebird.org/hotspot/L8955649/bird-list)
+# BORRADOR de informe de situación legal de la Balsa de Cachal (TM Almudevar) y afecciones a la avifauna, marzo 2025 [versión] [Almudévar-El Cachal Huesca](https://ebird.org/hotspot/L8955649/bird-list)
 
 ## 1. Situación (ver mapa)
 En síntesis, y a los efectos de este análisis legal, las afecciones objeto de este informe se ubican a 14,5 km al norte de la ZEPA ES0000295 Sierra de Alcubierre; a 12 km al oeste del LIC nº 117 Bajo Alcanadre - Serreta de Tramaced; a 6,6 km al norte de la IBA nº 428 Estepas de Alcubierre. Sin embargo, la trasformación no sólo consiste en la balsa, sino en varios miles de hectáreas; con lo cual, la afección a dichos espacios es mayor y más cercana:
@@ -55,22 +55,22 @@ Así mismo, `queda pendiente el análisis pormenorizado del órgano sustantivo s
 | Especie | Nombre científico | Estatus de protección |
 |---------|-------------------|------------------------|
 | Paloma Torcaz | Columba palumbus | LESPE: No / Dir. Aves: Anexo II-A y III-A / Berna: Anexo III |
-| Grulla Común | Grus grus | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
-| Buitre Leonado | Gyps fulvus | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
-| Aguilucho Pálido | Circus cyaneus | CEEA: Vulnerable / Dir. Aves: Anexo I / Berna: Anexo II |
+**| Grulla Común | Grus grus | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
+**| Buitre Leonado | Gyps fulvus | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
+**| Aguilucho Pálido | Circus cyaneus | CEEA: Vulnerable / Dir. Aves: Anexo I / Berna: Anexo II |**
 | Milano Real | Milvus milvus | CEEA: En peligro de extinción / Dir. Aves: Anexo I / Berna: Anexo II |
 | Busardo Ratonero | Buteo buteo | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Mochuelo Europeo | Athene noctua | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Pito Ibérico | Picus sharpei | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Urraca Común | Pica pica | LESPE: No / Dir. Aves: Anexo II-B / Berna: No incluida |
-| Chova Piquirroja | Pyrrhocorax pyrrhocorax | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
+**| Chova Piquirroja | Pyrrhocorax pyrrhocorax | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
 | Grajilla Occidental | Coloeus monedula | LESPE: No / Dir. Aves: Anexo II-B / Berna: Anexo III |
 | Corneja Negra | Corvus corone | LESPE: No / Dir. Aves: Anexo II-B / Berna: Anexo III |
 | Cuervo Grande | Corvus corax | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo III |
 | Carbonero Común | Parus major | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
-| Alondra Común | Alauda arvensis | LESPE: Sí / Dir. Aves: Anexo II-B / Berna: Anexo III |
+**| Alondra Común | Alauda arvensis | LESPE: Sí / Dir. Aves: Anexo II-B / Berna: Anexo III |**
 | Cogujada Común | Galerida cristata | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo III |
-| Calandria Común | Melanocorypha calandra | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
+**| Calandria Común | Melanocorypha calandra | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
 | Mosquitero Común | Phylloscopus collybita | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Curruca Cabecinegra | Curruca melanocephala | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Estornino Negro | Sturnus unicolor | LESPE: No / Dir. Aves: No incluido / Berna: Anexo III |
@@ -88,9 +88,9 @@ Así mismo, `queda pendiente el análisis pormenorizado del órgano sustantivo s
 | Perdiz Roja | Alectoris rufa | LESPE: No / Dir. Aves: Anexos II-A y III-A / Berna: Anexo III |
 | Paloma Zurita | Columba oenas | LESPE: No / Dir. Aves: Anexo II-B / Berna: Anexo III |
 | Avefría Europea | Vanellus vanellus | LESPE: No / Dir. Aves: Anexo II-B / Berna: Anexo III |
-| Águila Real | Aquila chrysaetos | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
-| Aguilucho Lagunero Occidental | Circus aeruginosus | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
-| Esmerejón | Falco columbarius | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
+**| Águila Real | Aquila chrysaetos | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
+**| Aguilucho Lagunero Occidental | Circus aeruginosus | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
+**| Esmerejón | Falco columbarius | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
 | Alcaudón Real | Lanius meridionalis | CEEA: Vulnerable / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Cistícola Buitrón | Cisticola juncidis | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Cetia Ruiseñor | Cettia cetti | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
@@ -100,7 +100,7 @@ Así mismo, `queda pendiente el análisis pormenorizado del órgano sustantivo s
 | Gaviota Patiamarilla | Larus michahellis | LESPE: No / Dir. Aves: Anexo II-B / Berna: Anexo III |
 | Azor Euroasiático | Astur gentilis | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
 | Cernícalo Vulgar | Falco tinnunculus | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo II |
-| Curruca Rabilarga | Curruca undata | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |
+**| Curruca Rabilarga | Curruca undata | LESPE: Sí / Dir. Aves: Anexo I / Berna: Anexo II |**
 | Pinzón Real | Fringilla montifringilla | LESPE: Sí / Dir. Aves: No incluido en Anexo I / Berna: Anexo III |
 
 ### 4.2 Leyenda de estatus de protección
