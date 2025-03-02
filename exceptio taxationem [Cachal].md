@@ -33,7 +33,7 @@ Derivado del crono, **se ha obviado** la modificación de la citada Ley 21/13 po
 sólo hay 2 supuestos por los cuales se excluye de la Evaluación de Impacto Ambiental [EIA]: *Construcción de centros penitenciarios, o en aquellos **proyectos declarados de especial interés para la seguridad pública** por las administraciones competentes*
 *b) Obras de reparación de infraestructuras críticas dañadas como consecuencia de acontecimientos catastróficos y obras de emergencia*[^4]
 
-Supuestos en los que no se encuentra la Balsa objeto de este informe.
+Supuestos en los que no se encuentra la balsa de Cachal, objeto de este informe.
 
 La citada Ley 9/18 detalla y desarrolla este apartado, pero siempre ligado a Defensa Nacional o catástrofes, pero -y aquí amplía la exigencia- no exime de efectuar evaluación de repercusiones sobre los espacios Red Natura 2000 [^5], documento que no consta, ni tampoco de realizar un Estudio de Impacto Ambiental, que sí consta.
 
@@ -42,8 +42,9 @@ La resolución también cita el Real Decreto-ley 36/2020 (ver crono y [^2]) pero
 Así pues, se concluye que no hay base legal para eximir de la [EIA] 
 
 ### 3.2. Redacción de Estudio de Impacto Ambiental [EsIA] e informe de repercusiones sobre los hábitats y especies objetivo de conservación de los espacios afectados, incluyendo las medidas preventivas, correctoras y compensatorias Red Natura 2000 adecuadas [^5]
+A falta de un análisis exhaustivo del EsIA, hay que hacer notar que se incumple de forma reiterada varios apartados legales del Anexo VI de la Ley 21/13; más en concreto, la falta de presupuestos, con el mismo detalle que el proyecto, para el caso de la restauración de impacto ambiental y el Plan de Vigilancia Ambiental [PVA]. Además, no conta el estudio de sinergias ni de impactos acumulativos.
 
-
+Así mismo, queda pendiente el análisis pormenorizado del órgano sustantivo sobre efectos perjudiciales derivados de la aplicación del EIA y del DNSH [^6]
 
 
 ## 4. Especies amenazadas 
@@ -123,6 +124,9 @@ Así pues, se concluye que no hay base legal para eximir de la [EIA]
 * Las especies incluidas en el Anexo I de la Directiva Aves requieren medidas de conservación especiales de su hábitat para asegurar su supervivencia y reproducción.
 * Las especies del Anexo II del Convenio de Berna están estrictamente protegidas, mientras que las del Anexo III tienen un nivel de protección menor pero siguen estando protegidas.
 ## 5. Conclusiones
+En base a lo analizado se puede concluir que el procedimiento administrativo es irregular pero dado el plazo transcurrido, sólo aplicaría el Recurso Extraordinario de Revisión, derivado de varios errores de Hecho y regulado en el artículo 125.1.a) de la Ley 39/2015, como uno de los motivos que fundamentan el recurso extraordinario de revisión, estableciendo un plazo de cuatro años para su interposición desde la fecha de notificación de la resolución impugnada. A esto se puede añadir la escasa calidad del EsIA, dada la ausencia de varias partes del corpus que lo constituye como otros errores de hecho a incluir.
+
+Otra línea de acción consistiría en hacer un seguimiento alternativo del PVA sobre el terreno para exigir la paralización del proyecto constructivo. Todo ello a falta de un análisis en detalle de la Resolución de INAGA y su condicionado ambiental, incluida en el EsIA reseñado.
 
 ## REFERENCIAS
 [^1bis]:Resolución de 1 de marzo de 2024, de la Secretaría de Estado de Agricultura y Alimentación, por la que se publica el Acuerdo por el que se dispone la aplicación del artículo 8.3 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental al "Proyecto de optimización energética de la Comunidad de Regantes de Almudévar (Huesca)", comprendido en las obras de modernización de regadíos del Plan para la mejora de la eficiencia y la sostenibilidad en regadíos, incluido en el Plan de Recuperación, Transformación y Resiliencia de la economía española, Fase III BOE núm. 61, de 9 de marzo de 2024, páginas 28268 a 28270 (3 págs.)
@@ -160,3 +164,32 @@ Referencia: BOE-A-2013-1291320
 
   *5. `Las posibilidades de exclusión reguladas en este artículo no eximirán al promotor de efectuar una evaluación de las repercusiones sobre los espacios Red Natura 2000, cuando se trate de planes, programas y proyectos que, sin tener relación directa con la gestión del lugar o sin ser necesarios para la misma, puedan afectar de forma apreciable a las especies o hábitats de los citados espacios, ya sea individualmente o en combinación con otros planes, programas o proyectos.` Para ello, el promotor elaborará un `informe de repercusiones sobre los hábitats y especies objetivo de conservación de los espacios afectados, incluyendo las medidas preventivas, correctoras y compensatorias Red Natura 2000 adecuadas` para su mantenimiento en un estado de conservación favorable, y un esquema de seguimiento ambiental, y el órgano sustantivo consultará preceptivamente al órgano competente en la gestión de los espacios Red Natura 2000 afectados, para remitir posteriormente el informe junto con la consulta al órgano ambiental, al objeto de que éste determine, a la vista del expediente, si el plan, programa o proyecto causará un perjuicio a la integridad de algún espacio Red Natura 2000. En caso afirmativo se sustanciará el procedimiento regulado por los apartados 4 a 7 del artículo 46 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. La aprobación del proyecto incluirá expresamente las medidas y el programa de seguimiento ambiental adoptados. En casos de fuerza mayor, reacción ante catástrofes o accidentes graves, parte o todas las actuaciones señaladas en el párrafo anterior podrán realizarse a posteriori, justificándose dichas circunstancias en la aprobación del proyecto.»*
 Ley 9/2018, de 5 de diciembre, por la que se modifica la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la Ley 21/2015, de 20 de julio, por la que se modifica la Ley 43/2003, de 21 de noviembre, de Montes y la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero. Núm. 294 Jueves 6 de diciembre de 2018 página 119869
+
+[^6]:*Segundo. Cumplimiento del protocolo aprobado en el Acuerdo del Consejo de Ministros
+de 11 de julio de 2023.
+El órgano sustantivo ha aportado la documentación que se indica a continuación,
+para acreditar el cumplimiento del protocolo aprobado en el Acuerdo del Consejo de
+Ministros del 11 de julio de 2023:
+a) Informe del órgano sustantivo acreditativo del cumplimiento de cada uno de los
+requisitos establecidos en el artículo 66 del Real Decreto-ley 36/2020, de 30 de
+diciembre. Anexo I.
+b) Informe del órgano sustantivo sobre los efectos perjudiciales de la aplicación de
+la evaluación de impacto ambiental para la finalidad del proyecto, con base en la
+Comunicación de la Comisión Documento orientativo relativo a la aplicación de las
+exenciones contempladas en la Directiva sobre la evaluación de impacto ambiental
+(Directiva 2011/92/UE del Parlamento Europeo y el Consejo, en su versión modificada
+por la Directiva 2014/52/UE) – artículo 1, apartado 3, artículo 2, apartados 4 y 5
+(COM 2019/C 386/05). Anexo II.
+c) Documento en que conste la evaluación positiva en el cumplimiento del principio
+de «no causar un perjuicio significativo» (Do No Significant Harm) recogido en el
+Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo, de 12 de febrero
+de 2021, por el que se establece el Mecanismo de Recuperación y Resiliencia, con base
+en la Comunicación de la Comisión Guía técnica sobre la aplicación del principio de «no
+causar un perjuicio significativo». Anexo III.* Resolución de 1 de marzo de 2024, de la Secretaría de Estado de Agricultura
+y Alimentación, por la que se publica el Acuerdo por el que se dispone la
+aplicación del artículo 8.3 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental al «Proyecto de optimización energética de la
+Comunidad de Regantes de Almudévar (Huesca)», comprendido en las obras
+de modernización de regadíos del Plan para la mejora de la eficiencia y la
+sostenibilidad en regadíos, incluido en el Plan de Recuperación,
+Transformación y Resiliencia de la economía española, Fase III. 61 Sábado 9 de marzo de 2024 Sec. III. Pág. 28268
