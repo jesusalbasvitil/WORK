@@ -42,9 +42,9 @@ La resolución también cita el Real Decreto-ley 36/2020 (ver crono y [^2]) pero
 Así pues, se concluye que no hay base legal para eximir de la [EIA] 
 
 ### 3.2. Redacción de Estudio de Impacto Ambiental [EsIA] e informe de repercusiones sobre los hábitats y especies objetivo de conservación de los espacios afectados, incluyendo las medidas preventivas, correctoras y compensatorias Red Natura 2000 adecuadas [^5]
-A falta de un análisis exhaustivo del EsIA, hay que hacer notar que se incumple de forma reiterada varios apartados legales del Anexo VI de la Ley 21/13; más en concreto, la falta de presupuestos, con el mismo detalle que el proyecto, para el caso de la restauración de impacto ambiental y el Plan de Vigilancia Ambiental [PVA]. Además, no conta el estudio de sinergias ni de impactos acumulativos.
+A falta de un análisis exhaustivo del EsIA, hay que hacer notar que se incumple de forma reiterada varios apartados legales del Anexo VI de la Ley 21/13; más en concreto, la falta de presupuestos, con el mismo detalle que el proyecto, para el caso de la restauración de impacto ambiental y el Plan de Vigilancia Ambiental [PVA]. Además, `no conta el estudio de sinergias ni de impactos acumulativos`.
 
-Así mismo, queda pendiente el análisis pormenorizado del órgano sustantivo sobre efectos perjudiciales derivados de la aplicación del EIA y del DNSH [^6]
+Así mismo, `queda pendiente el análisis pormenorizado del órgano sustantivo sobre efectos perjudiciales derivados de la aplicación del EIA y del DNSH` [^6]
 
 
 ## 4. Especies amenazadas 
@@ -126,7 +126,7 @@ Así mismo, queda pendiente el análisis pormenorizado del órgano sustantivo so
 ## 5. Conclusiones
 En base a lo analizado se puede concluir que el procedimiento administrativo es irregular pero dado el plazo transcurrido, sólo aplicaría el Recurso Extraordinario de Revisión, derivado de varios errores de Hecho y regulado en el artículo 125.1.a) de la Ley 39/2015, como uno de los motivos que fundamentan el recurso extraordinario de revisión, estableciendo un plazo de cuatro años para su interposición desde la fecha de notificación de la resolución impugnada. A esto se puede añadir la escasa calidad del EsIA, dada la ausencia de varias partes del corpus que lo constituye como otros errores de hecho a incluir.
 
-Otra línea de acción consistiría en hacer un seguimiento alternativo del PVA sobre el terreno para exigir la paralización del proyecto constructivo. Todo ello a falta de un análisis en detalle de la Resolución de INAGA y su condicionado ambiental, incluida en el EsIA reseñado.
+Otra línea de acción consistiría en hacer un seguimiento alternativo del PVA sobre el terreno para exigir la paralización del proyecto constructivo. Todo ello `a falta de un análisis en detalle de la Resolución de INAGA` y su condicionado ambiental, incluida en el EsIA reseñado.
 
 ## REFERENCIAS
 [^1bis]:Resolución de 1 de marzo de 2024, de la Secretaría de Estado de Agricultura y Alimentación, por la que se publica el Acuerdo por el que se dispone la aplicación del artículo 8.3 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental al "Proyecto de optimización energética de la Comunidad de Regantes de Almudévar (Huesca)", comprendido en las obras de modernización de regadíos del Plan para la mejora de la eficiencia y la sostenibilidad en regadíos, incluido en el Plan de Recuperación, Transformación y Resiliencia de la economía española, Fase III BOE núm. 61, de 9 de marzo de 2024, páginas 28268 a 28270 (3 págs.)
