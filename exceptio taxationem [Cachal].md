@@ -29,7 +29,7 @@ En síntesis, y a los efectos de este análisis legal, las afecciones objeto de 
 ## 3. Situación legal
 
 ### 3.1. Excepción de EIA sin base legal
-Derivado del crono, **se ha obviado** la modificación de la citada Ley 21/13 por falta de transposición de la Directiva de Impacto Ambiental `la Directiva 2014/52/UE del Parlamento Europeo y del Consejo, de 16 de abril`[^3] mediante la Ley 9/18. En síntesis, según la primera
+Derivado del crono, **se ha obviado** la modificación de la citada Ley 21/13 por falta de transposición de la Directiva de Impacto Ambiental, la  `Directiva 2011/92/UE` [^3bis], modificada por la `Directiva 2014/52/UE del Parlamento Europeo y del Consejo, de 16 de abril`[^3] mediante la Ley 9/18. En síntesis, según la primera
 sólo hay 2 supuestos por los cuales se excluye de la Evaluación de Impacto Ambiental [EIA]: *Construcción de centros penitenciarios, o en aquellos **proyectos declarados de especial interés para la seguridad pública** por las administraciones competentes*
 *b) Obras de reparación de infraestructuras críticas dañadas como consecuencia de acontecimientos catastróficos y obras de emergencia*[^4]
 
@@ -143,6 +143,8 @@ Referencia: BOE-A-2013-1291320
 [^2]:***Artículo 66. Especialidades en materia de evaluación ambiental en los proyectos del Plan Recuperación, Transformación y Resiliencia*** *A los efectos de lo previsto en el artículo 8.3 de la Ley 21/2013, de 21 de diciembre, se entenderá que concurren circunstancias excepcionales en el caso de los proyectos financiados total o parcialmente mediante el Instrumento Europeo de Recuperación, cuando se trate de meras modernizaciones o mejoras de instalaciones ya existentes, `que no supongan construcción de nueva planta, aumento de la superficie afectada o adición de nuevas construcciones ni afección sobre recursos hídricos y entre cuyos requisitos se incorporen para su financiación y aprobación la mejora de las condiciones ambientales, tales como la eficiencia energética o del empleo de recursos naturales`, la reducción de su impacto ambiental o la mejora de la sostenibilidad de la instalación ya existente*
 
 [Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia. BOE núm. 341, de 31/12/2020. Referencia:BOE-A-2020-17340](https://www.boe.es/buscar/act.php?id=BOE-A-2020-17340)
+
+ [^3bis]: Directiva 2011/92/UE [cita]
 
 [^3]: *Mediante Auto de 22 de febrero de 2024, la sección tercera de la Sala de lo contencioso-administrativo del Tribunal Superior de Justicia de Galicia ha elevado una cuestión prejudicial al Tribunal de Justicia de la Unión Europea (TJUE) para que determine si, conforme a `la interpretación del arículo 6.3 de la Directiva 2011/92/UE`, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente («Directiva de Evaluación Ambiental»), es necesario o no poner a disposición del público interesado (no solo de los promotores) los informes sectoriales que se emiten en el procedimiento de evaluación ambiental.*
 
