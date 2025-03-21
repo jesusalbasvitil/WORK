@@ -68,7 +68,9 @@ Es decir, el suministro de energía se define soterrado en Dominio Público Ferr
 
 *6º Líneas para la transmisión de energía eléctrica cuyo trazado afecte a los espacios naturales considerados en este artículo con una longitud superior a 3 km, excluidas las que atraviesen zonas urbanizadas.*
 
-*Tanto la zanja por la que discurrirán todos los cables como las nuevas casetas se realizarán en el interior del dominio público ferroviario. Las líneas eléctricas discurren de forma subterránea por la plataforma férrea, área considerada como urbanizada y, en todo caso transformada por dicha infraestructura, por lo que no se afecta a los valores naturales de los espacios naturales atravesados. Igualmente, las casetas se construyen en áreas anexas y transformadas de las instalaciones ferroviarias existentes.* Hay actividades auxiliares como carga y descarga, acopios, excavación.. En un proyecto de 338 km
+*Tanto la zanja por la que discurrirán todos los cables como las nuevas casetas se realizarán en el interior del dominio público ferroviario. Las líneas eléctricas discurren de forma subterránea por la plataforma férrea, área considerada como urbanizada y, en todo caso transformada por dicha infraestructura, por lo que no se afecta a los valores naturales de los espacios naturales atravesados. Igualmente, las casetas se construyen en áreas anexas y transformadas de las instalaciones ferroviarias existentes.* 
+
+Falso. Hay actividades auxiliares como carga y descarga, acopios, excavación.. En un proyecto de 338 km
 
 - Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 100 ha.
 
@@ -76,9 +78,9 @@ Es decir, el suministro de energía se define soterrado en Dominio Público Ferr
 
 *A todo lo expuesto anteriormente cabe añadir que en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, se establece lo siguiente: Se han analizado también el resto de los proyectos comprendidos en el anexo II y por las características del proyecto no se encuentra dentro de ningún grupo. “b) Los proyectos no incluidos ni en el anexo I ni en el anexo II que puedan afectar de forma apreciable, directa o indirectamente, a Espacios Protegidos Red Natura 2000.” Ninguna de las actuaciones previstas afecta de forma apreciable, directa o indirectamente, a Espacios Protegidos Red Natura 2000, tal y como se justifica y concluye en el presente documento de Estudio de Afección a Red Natura 2000.* [comprobar]
 
-“c) Cualquier modificación de las características de un proyecto del anexo I o del anexo II, distinta de las modificaciones descritas en el artículo 7.1.c) ya autorizados, ejecutados o en proceso de ejecución, que pueda tener efectos adversos significativos sobre el medio ambiente. Se entenderá que esta modificación puede tener efectos adversos significativos sobre el medio ambiente cuando suponga:
+*“c) Cualquier modificación de las características de un proyecto del anexo I o del anexo II, distinta de las modificaciones descritas en el artículo 7.1.c) ya autorizados, ejecutados o en proceso de ejecución, que pueda tener efectos adversos significativos sobre el medio ambiente. Se entenderá que esta modificación puede tener efectos adversos significativos sobre el medio ambiente cuando suponga:*
 
-1.º Un incremento significativo de las emisiones a la atmósfera.
+*1.º Un incremento significativo de las emisiones a la atmósfera.*
 
 Concretamente, desde el punto de vista de emisiones, por las características del proyecto y la escasa magnitud de la actuación, ni en obra ni en explotación (tratándose de un ferrocarril), se espera que haya un incremento significativo de estas emisiones a la atmósfera. El efecto que puede tener la ejecución de las obras sobre la calidad atmosférica se produce principalmente por la emisión de partículas contaminantes que generan los motores de combustión durante la fase de obras, y por la emisión de partículas en suspensión debido al movimiento de tierras, que en este caso es mínimo y se dispersa a lo largo de un largo recorrido.
 
