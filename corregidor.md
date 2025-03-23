@@ -2,14 +2,14 @@ A ver, que vaya currada de mail que te has dado, compañera!
 
 1º Sigo sin ver en que momento admin está: si está aprobado por Industria (que creo que no, porque sólo está en plataforma de contratación; adjunto doc) y por tanto no ha habido EIA previa, ni doc de alcance (explico) 
 
-2º No me salen las cuentas (abogado del diablo) yo creo que sí supera 100 has entre casetos zanjas y zonas de acopio.. o como mínimo EIA simplificada (EIAs). En previsión, iría contabilizando de cara a una EIAs o Doc. de alcance
+2º No me salen las cuentas (abogado del diablo) yo creo que sí supera 100 has entre casetos zanjas y zonas de acopio.. o como mínimo EIA simplificada (EIAs). En previsión, iría contabilizando de cara a una EIAs o `Doc. de alcance`
 
 3º Hay varias opciones: 
 
     3.1 solicitud de autorización a industria, donde se adjunta proyecto y ésta, si determina que está dentro Anexo, devuelve y notifica que hay que adjuntar EsIA para MITECO y tienes que volver a empezar
 
-3.2 doc de alcance (Ver Documento de Alcance)[^1]
-
+3.2 doc de alcance (Ver `Documento de Alcance`)[^1]
+3.3.(última conversación) Salvaguardia de `doc de alcance`
 
 [^1]: Artículo 33 *a) Con carácter potestativo, el promotor podrá solicitar, de conformidad con el artículo 34, que el órgano ambiental elabore el documento de alcance del estudio de impacto ambiental. El plazo máximo para su elaboración es de tres meses* Ley 21/2013, de 9 de diciembre, de evaluación ambiental. BOE núm. 296, de 11 de diciembre de 2013 BOE-A-2013-12913
 
@@ -21,7 +21,7 @@ Falso: la admin. exige 3 alternativas. No necesariamente tienen que ser de cota,
 
 Se acompaña de un análisis multicriterio (matriz) que da mayor puntuación a X que *casualmente* está recogido en el proyecto
 
-Sin embargo, esto conlleva que hay un procedimiento Estudio de Impacto Ambiental [EIA] previo que exige esto y otros elementos del mismo (ver Anexo VI Ley 21/13) y por tanto se está reconociendo que sí que debe ser sometido a impacto ambiental 
+Sin embargo, esto conlleva que hay un procedimiento Estudio de Impacto Ambiental [EIA] previo que exige esto y otros elementos del mismo (ver Anexo VI Ley 21/13) y por tanto se está reconociendo que sí que debe ser sometido a impacto ambiental. Vuelta a claúsula de salvaguardia: `Doc. de alcance`
 
 *Como la configuración de vías mantiene la actualmente existente, no habrá lugar a una ocupación de suelo adicional ni al análisis de otras opciones que impliquen otros trazados o itinerarios. Por lo tanto, sólo existe una única solución global a plantear a los efectos del presente documento, que además provoca, por el aprovechamiento de las líneas ferroviarias existentes, una mínima afección sobre el entorno en el que se localizan.* Falso. Entra en contradicción con la construcción de *casetas, almacenes, préstamos y vertederos, zonas de instalaciones y parque de maquinaria, desmantelamiento de instalaciones y zonas de obra,gestión de residuos y medidas de prevención de incendios forestales* [^2]
 
@@ -37,7 +37,7 @@ Ello conlleva intrínsecamente, tal y como se deduce del análisis ambiental des
 
 *ADECUACIÓN DEL PROYECTO A LA NORMATIVA AMBIENTAL 3.1 TRAMITACIÓN DE EVALUACIÓN DE IMPACTO AMBIENTAL*
 
-La normativa estatal de aplicación en materia de evaluación de impacto ambiental, es la Ley 21/2013, de 9 de diciembre, de evaluación ambiental (texto consolidado, última modificación 6 de diciembre de 2018), concebida como legislación básica. Esta ley regula dos procedimientos de evaluación de impacto ambiental (EIA) de proyectos, el ordinario y el simplificado, según lo dispuesto en el artículo 7. “Ámbito de aplicación de la evaluación de impacto ambiental” 
+~~La normativa estatal de aplicación en materia de evaluación de impacto ambiental, es la Ley 21/2013, de 9 de diciembre, de evaluación ambiental (texto consolidado, última modificación 6 de diciembre de 2018), concebida como legislación básica. Esta ley regula dos procedimientos de evaluación de impacto ambiental (EIA) de proyectos, el ordinario y el simplificado, según lo dispuesto en el artículo 7. “Ámbito de aplicación de la evaluación de impacto ambiental” ~~
 
 <!-->1. Serán objeto de una evaluación de impacto ambiental ordinaria los siguientes proyectos:
 
@@ -64,15 +64,15 @@ Es decir, el suministro de energía se define soterrado en Dominio Público Ferr
 
 *En el Grupo 9. Otros proyectos del Anexo I de la Ley 21/2013:*
 
-*- Los siguientes proyectos cuando se desarrollen en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad:*
+**- Los siguientes proyectos cuando se desarrollen en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad:**
 
-*6º Líneas para la transmisión de energía eléctrica cuyo trazado afecte a los espacios naturales considerados en este artículo con una longitud superior a 3 km, excluidas las que atraviesen zonas urbanizadas.*
+**6º Líneas para la transmisión de energía eléctrica cuyo trazado afecte a los espacios naturales considerados en este artículo con una longitud superior a 3 km, excluidas las que atraviesen zonas urbanizadas.**
 
 *Tanto la zanja por la que discurrirán todos los cables como las nuevas casetas se realizarán en el interior del dominio público ferroviario. Las líneas eléctricas discurren de forma subterránea por la plataforma férrea, área considerada como urbanizada y, en todo caso transformada por dicha infraestructura, por lo que no se afecta a los valores naturales de los espacios naturales atravesados. Igualmente, las casetas se construyen en áreas anexas y transformadas de las instalaciones ferroviarias existentes.* 
 
 Falso. Hay actividades auxiliares como carga y descarga, acopios, excavación.. En un proyecto de 338 km
 
-- Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 100 ha.
+*- Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 100 ha.*
 
 *Los trabajos objeto del Proyecto no suponen un cambio de uso al desarrollarse en Dominio Público Ferroviario, y además, la superficie es inferior a 100 ha.* Falso por lo arriba expuesto. 
 
@@ -82,35 +82,36 @@ Falso. Hay actividades auxiliares como carga y descarga, acopios, excavación.. 
 
 *1.º Un incremento significativo de las emisiones a la atmósfera.*
 
-Concretamente, desde el punto de vista de emisiones, por las características del proyecto y la escasa magnitud de la actuación, ni en obra ni en explotación (tratándose de un ferrocarril), se espera que haya un incremento significativo de estas emisiones a la atmósfera. El efecto que puede tener la ejecución de las obras sobre la calidad atmosférica se produce principalmente por la emisión de partículas contaminantes que generan los motores de combustión durante la fase de obras, y por la emisión de partículas en suspensión debido al movimiento de tierras, que en este caso es mínimo y se dispersa a lo largo de un largo recorrido.
+*Concretamente, desde el punto de vista de emisiones, por las características del proyecto y la escasa magnitud de la actuación, ni en obra ni en explotación (tratándose de un ferrocarril), se espera que haya un incremento significativo de estas emisiones a la atmósfera. El efecto que puede tener la ejecución de las obras sobre la calidad atmosférica se produce principalmente por la emisión de partículas contaminantes que generan los motores de combustión durante la fase de obras, y por la emisión de partículas en suspensión debido al movimiento de tierras, que en este caso es mínimo y se dispersa a lo largo de un largo recorrido.*
 
-Entre la maquinaria que se prevé utilizar en las obras de este proyecto se podría contar con: camión volquete, camión grúa, retroexcavadora, hormigonera, pisón vibrante, martillo neumático, rotoperforador, grúa, compactadora, pala cargadora,etc.
+*Entre la maquinaria que se prevé utilizar en las obras de este proyecto se podría contar con: camión volquete, camión grúa, retroexcavadora, hormigonera, pisón vibrante, martillo neumático, rotoperforador, grúa, compactadora, pala cargadora,etc.*
 
-El cálculo de emisiones de esta maquinaria en obra, depende de los rendimientos de la misma, de los tiempos de trabajo de cada máquina y del modelo exacto de máquina de que disponga el contratista adjudicatario de las obras. Si bien en la actual fase de proyecto no se dispone de tanta precisión, se ha de considerar que todas ellas han de tener el certificado CE y las ITV en regla, por lo que se garantiza que las emisiones estarán dentro de los límites legales establecidos.
+*El cálculo de emisiones de esta maquinaria en obra, depende de los rendimientos de la misma, de los tiempos de trabajo de cada máquina y del modelo exacto de máquina de que disponga el contratista adjudicatario de las obras. Si bien en la actual fase de proyecto no se dispone de tanta precisión, se ha de considerar que todas ellas han de tener el certificado CE y las ITV en regla, por lo que se garantiza que las emisiones estarán dentro de los límites legales establecidos.*
 
-También hay que considerar que la actuación, atraviesa escasas poblaciones. Además, para mantener el servicio lo más posible, los trabajos en vía se realizarán fundamentalmente durante la noche por lo que los receptores potenciales se reducen muy significativamente.
+*También hay que considerar que la actuación, atraviesa escasas poblaciones. Además, para mantener el servicio lo más posible, los trabajos en vía se realizarán fundamentalmente durante la noche por lo que los receptores potenciales se reducen muy significativamente.*
+Aquí cabría considerar molestias a la fauna por ruidos y focos
 
-Por lo tanto, debido a su temporalidad y a la posibilidad de adoptar medidas preventivas que minimicen su afección, así como a su rápida reversibilidad al cesar la actuación, el impacto sobre la calidad del aire resulta no significativo. Tampoco se puede obviar que la situación acústica actual está condicionada por el funcionamiento y explotación de la línea férrea.
+*Por lo tanto, debido a su temporalidad y a la posibilidad de adoptar medidas preventivas que minimicen su afección, así como a su rápida reversibilidad al cesar la actuación, el impacto sobre la calidad del aire resulta no significativo. Tampoco se puede obviar que la situación acústica actual está condicionada por el funcionamiento y explotación de la línea férrea.*
 
-En relación con el ruido en fase de obra, teniendo en cuenta la maquinaria indicada anteriormente, se podrían superar los niveles en período nocturno a una distancia de unos 30 m desde la zona de trabajo, mientras que en periodo diurno la distancia hasta la que se superarían los niveles sería de 50 m. Por tanto, se podrían superar puntualmente los niveles de inmisión acústica en edificios en primera línea de la plataforma férrea, aunque no dejará de ser un impacto temporal (duración de algunas actividades de obra) y totalmente reversible.
+*En relación con el ruido en fase de obra, teniendo en cuenta la maquinaria indicada anteriormente, se podrían superar los niveles en período nocturno a una distancia de unos 30 m desde la zona de trabajo, mientras que en periodo diurno la distancia hasta la que se superarían los niveles sería de 50 m. Por tanto, se podrían superar puntualmente los niveles de inmisión acústica en edificios en primera línea de la plataforma férrea, aunque no dejará de ser un impacto temporal (duración de algunas actividades de obra) y totalmente reversible.*
 
-2.º Un incremento significativo de los vertidos a cauces públicos o al litoral.
+*2.º Un incremento significativo de los vertidos a cauces públicos o al litoral.*
 
-El proyecto no afecta a cauces ni al dominio público marítimo terrestre. Y no se prevén afecciones indirectas por vertidos. En el proyecto (Pliego) se contempla la prohibición de realizar cualquier tipo de vertido a los cauces públicos y, en todo caso, cualquier actuación en el DPH contará con el permiso del organismo de cuenca correspondiente. Por ello, no se estima que haya afección al medio hídrico.
+*El proyecto no afecta a cauces ni al dominio público marítimo terrestre. Y no se prevén afecciones indirectas por vertidos. En el proyecto (Pliego) se contempla la prohibición de realizar cualquier tipo de vertido a los cauces públicos y, en todo caso, cualquier actuación en el DPH contará con el permiso del organismo de cuenca correspondiente. Por ello, no se estima que haya afección al medio hídrico.*
 
-3.º Incremento significativo de la generación de residuos.
+*3.º Incremento significativo de la generación de residuos.*
 
-Los principales tipos de residuos que se generan en este tipo de obras son los que se relacionan a continuación.
+*Los principales tipos de residuos que se generan en este tipo de obras son los que se relacionan a continuación.*
 
-Hormigones, ladrillos, cerámicas, …
-Mezclas bituminosas
-Madera, vidrio y plásticos
-Metales
-Tierras y piedras
-Otros.
-y una pequeña proporción de residuos peligrosos derivados de envases de pinturas, aceites, combustibles….
+- Hormigones, ladrillos, cerámicas, …
+- Mezclas bituminosas
+- Madera, vidrio y plásticos
+- Metales
+- Tierras y piedras
+- Otros.
+*y una pequeña proporción de residuos peligrosos derivados de envases de pinturas, aceites, combustibles….* y sprays
 
-Se estima que el volumen de tierras excavado es apto para su reutilización para el relleno de las zanjas y extendido en los terrenos de la plataforma ferroviaria adyacentes. El resto de residuos generados será de muy escasa consideración. En conclusión, la generación de residuos será limitada y estará controlada al ser objeto de gestión acorde a lo recogido en R.D. 195/2008, de gestión de residuos de la construcción y demolición. Se considera que los volúmenes generados no serán importantes, y que mediante la gestión adecuada no supondrá efectos adversos sobre el medio ambiente, tal y como se describe y detalla en el estudio de gestión de residuos (Apéndice 3).
+*Se estima que el volumen de tierras excavado es apto para su reutilización para el relleno de las zanjas y extendido en los terrenos de la plataforma ferroviaria adyacentes. El resto de residuos generados será de muy escasa consideración. En conclusión, la generación de residuos será limitada y estará controlada al ser objeto de gestión acorde a lo recogido en R.D. 195/2008, de gestión de residuos de la construcción y demolición. Se considera que los volúmenes generados no serán importantes, y que mediante la gestión adecuada no supondrá efectos adversos sobre el medio ambiente, tal y como se describe y detalla en el estudio de gestión de residuos (Apéndice 3).*
 
 4.º Un incremento significativo en la utilización de recursos naturales.
 
@@ -142,15 +143,15 @@ En relación las afecciones a espacios de Red Natura 2000, la Ley establece, en 
 
  
 
-Evaluaciones de impacto ambiental anteriores
+*Evaluaciones de impacto ambiental anteriores*
 
-Una vez concluido que las actuaciones del presente proyecto no se encuentran sometidas al procedimiento de evaluación de impacto ambiental, se analiza a continuación si la línea ferroviaria objeto de proyecto precisó de algún trámite de evaluación ambiental anteriormente y pudiera, en su caso, aplicarse algún condicionante de alguna declaración de impacto ambiental.
+*Una vez concluido que las actuaciones del presente proyecto no se encuentran sometidas al procedimiento de evaluación de impacto ambiental, se analiza a continuación si la línea ferroviaria objeto de proyecto precisó de algún trámite de evaluación ambiental anteriormente y pudiera, en su caso, aplicarse algún condicionante de alguna declaración de impacto ambiental.*
 
-En relación a esto, y en principio, hay que señalar que la línea estudiada es una línea de ferrocarril existente y en explotación desde hace décadas. Analizando sus antecedentes, se ha comprobado que el tramo de línea férrea entre Medina del Campo y Zamora es una línea clásica en vía única, sin electrificar construida entre 1863 y 1864. Posteriormente, no fue hasta el año 1958 cuando se completó la prolongación y conexión con la ciudad de Orense.
+*En relación a esto, y en principio, hay que señalar que la línea estudiada es una línea de ferrocarril existente y en explotación desde hace décadas. Analizando sus antecedentes, se ha comprobado que el tramo de línea férrea entre Medina del Campo y Zamora es una línea clásica en vía única, sin electrificar construida entre 1863 y 1864. Posteriormente, no fue hasta el año 1958 cuando se completó la prolongación y conexión con la ciudad de Orense.* Irrelevante pero si cuela..
 
-La primera normativa de evaluación ambiental de proyectos en España fue el Real Decreto Legislativo 1302/1986, de 28 de junio, de Evaluación de Impacto Ambiental, por lo que con anterioridad los proyectos de infraestructuras no estaban sometidos a ninguna regulación de este tipo, por lo que la construcción y explotación de dichas líneas no cuentan con declaración de impacto ambiental.
+*La primera normativa de evaluación ambiental de proyectos en España fue el Real Decreto Legislativo 1302/1986, de 28 de junio, de Evaluación de Impacto Ambiental, por lo que con anterioridad los proyectos de infraestructuras no estaban sometidos a ninguna regulación de este tipo, por lo que la construcción y explotación de dichas líneas no cuentan con declaración de impacto ambiental.* 
 
-Adicionalmente, se ha realizado una búsqueda en la web del Ministerio para la Transición Ecológica y el Reto Demográfico, a través del proyecto SABIA, aplicación y buscador sobre la gestión de las evaluaciones ambientales que aglutina las bases de datos de los expedientes en procedimiento de evaluación ambiental. De esta manera se comprueba si hay alguna actuación o proyecto sobre esta línea o alguno de sus tramos con procedimiento en curso o finalizado y, si fuera el caso, si existe resolución de evaluación ambiental.
+*Adicionalmente, se ha realizado una búsqueda en la web del Ministerio para la Transición Ecológica y el Reto Demográfico, a través del proyecto SABIA, aplicación y buscador sobre la gestión de las evaluaciones ambientales que aglutina las bases de datos de los expedientes en procedimiento de evaluación ambiental. De esta manera se comprueba si hay alguna actuación o proyecto sobre esta línea o alguno de sus tramos con procedimiento en curso o finalizado y, si fuera el caso, si existe resolución de evaluación ambiental.
 
 El resultado de este análisis es que no existe ningún proyecto sobre la línea convencional de ferrocarril entre Medina del Campo y Orense que figure en dicha base de datos, por lo que no hay constancia de ninguna resolución ambiental al respecto.
 
