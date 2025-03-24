@@ -27,6 +27,7 @@ Posteriormente se publicó la **Estrategia Aragonesa de Cambio Climático Horizo
 El **MITERD** reconoce que esta estrategia *no cuenta con indicaciones en relación a la implantación de nuevas infraestructuras energéticas, como las que se podrían desarrollar a raíz del PNIEC*, aunque destaca que:
 
 > *"Deberá hacerse un estudio exhaustivo sobre los impactos de futuras infraestructuras y un análisis coste-beneficio. Además, para las nuevas instalaciones, se evitará la afección a los lugares de la Red Natura 2000, especialmente a los hábitats de interés comunitario y espacios Natura 2000 por los que fueron designados. Se minimizará todo lo posible la interacción con la Red Natura 2000."*[^9]
+  
 
 ## RESUMEN
 
