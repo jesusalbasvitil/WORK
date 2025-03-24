@@ -14,7 +14,7 @@ A ver, que vaya currada de mail que te has dado, compañera!
 [^1]: Artículo 33 *a) Con carácter potestativo, el promotor podrá solicitar, de conformidad con el artículo 34, que el órgano ambiental elabore el documento de alcance del estudio de impacto ambiental. El plazo máximo para su elaboración es de tres meses* Ley 21/2013, de 9 de diciembre, de evaluación ambiental. BOE núm. 296, de 11 de diciembre de 2013 BOE-A-2013-12913
 
 
-*ALTERNATIVAS CONSIDERADAS EN LA EVALUACIÓN DE AFECCIONES SOBRE RED NATURA 2000*
+# *ALTERNATIVAS CONSIDERADAS EN LA EVALUACIÓN DE AFECCIONES SOBRE RED NATURA 2000*
 
 *El proyecto constructivo del sistema de suministro de energía 2.200 v-3.000 v y tendido de fibra óptica para el trayecto de red convencional Medina del Campo – Orense está firmemente ligado a la propia vía de la línea, por lo que no es posible considerar ninguna alternativa alguna de trazado (ni en planta ni alzado), ni de soluciones a proyectar*
 Falso: la admin. exige 3 alternativas. No necesariamente tienen que ser de cota, sino de ubicación a lo largo del talud, semienterradas, canaleta vista o enterradas sin tape (invent, por ejemplo)
@@ -35,7 +35,7 @@ Ello conlleva intrínsecamente, tal y como se deduce del análisis ambiental des
 
  
 
-*ADECUACIÓN DEL PROYECTO A LA NORMATIVA AMBIENTAL 3.1 TRAMITACIÓN DE EVALUACIÓN DE IMPACTO AMBIENTAL*
+# *ADECUACIÓN DEL PROYECTO A LA NORMATIVA AMBIENTAL 3.1 TRAMITACIÓN DE EVALUACIÓN DE IMPACTO AMBIENTAL*
 
 ~~La normativa estatal de aplicación en materia de evaluación de impacto ambiental, es la Ley 21/2013, de 9 de diciembre, de evaluación ambiental (texto consolidado, última modificación 6 de diciembre de 2018), concebida como legislación básica. Esta ley regula dos procedimientos de evaluación de impacto ambiental (EIA) de proyectos, el ordinario y el simplificado, según lo dispuesto en el artículo 7. “Ámbito de aplicación de la evaluación de impacto ambiental” ~~
 
@@ -80,7 +80,7 @@ Falso. Hay actividades auxiliares como carga y descarga, acopios, excavación.. 
 
 *“c) Cualquier modificación de las características de un proyecto del anexo I o del anexo II, distinta de las modificaciones descritas en el artículo 7.1.c) ya autorizados, ejecutados o en proceso de ejecución, que pueda tener efectos adversos significativos sobre el medio ambiente. Se entenderá que esta modificación puede tener efectos adversos significativos sobre el medio ambiente cuando suponga:*
 
-*1.º Un incremento significativo de las emisiones a la atmósfera.*
+## *1.º Un incremento significativo de las emisiones a la atmósfera.*
 
 *Concretamente, desde el punto de vista de emisiones, por las características del proyecto y la escasa magnitud de la actuación, ni en obra ni en explotación (tratándose de un ferrocarril), se espera que haya un incremento significativo de estas emisiones a la atmósfera. El efecto que puede tener la ejecución de las obras sobre la calidad atmosférica se produce principalmente por la emisión de partículas contaminantes que generan los motores de combustión durante la fase de obras, y por la emisión de partículas en suspensión debido al movimiento de tierras, que en este caso es mínimo y se dispersa a lo largo de un largo recorrido.*
 
@@ -95,11 +95,11 @@ Aquí cabría considerar molestias a la fauna por ruidos y focos
 
 *En relación con el ruido en fase de obra, teniendo en cuenta la maquinaria indicada anteriormente, se podrían superar los niveles en período nocturno a una distancia de unos 30 m desde la zona de trabajo, mientras que en periodo diurno la distancia hasta la que se superarían los niveles sería de 50 m. Por tanto, se podrían superar puntualmente los niveles de inmisión acústica en edificios en primera línea de la plataforma férrea, aunque no dejará de ser un impacto temporal (duración de algunas actividades de obra) y totalmente reversible.*
 
-*2.º Un incremento significativo de los vertidos a cauces públicos o al litoral.*
+## *2.º Un incremento significativo de los vertidos a cauces públicos o al litoral.*
 
 *El proyecto no afecta a cauces ni al dominio público marítimo terrestre. Y no se prevén afecciones indirectas por vertidos. En el proyecto (Pliego) se contempla la prohibición de realizar cualquier tipo de vertido a los cauces públicos y, en todo caso, cualquier actuación en el DPH contará con el permiso del organismo de cuenca correspondiente. Por ello, no se estima que haya afección al medio hídrico.*
 
-*3.º Incremento significativo de la generación de residuos.*
+## *3.º Incremento significativo de la generación de residuos.*
 
 *Los principales tipos de residuos que se generan en este tipo de obras son los que se relacionan a continuación.*
 
@@ -108,69 +108,66 @@ Aquí cabría considerar molestias a la fauna por ruidos y focos
 - Madera, vidrio y plásticos
 - Metales
 - Tierras y piedras
-- Otros.
+- Otros
 *y una pequeña proporción de residuos peligrosos derivados de envases de pinturas, aceites, combustibles….* y sprays
 
 *Se estima que el volumen de tierras excavado es apto para su reutilización para el relleno de las zanjas y extendido en los terrenos de la plataforma ferroviaria adyacentes. El resto de residuos generados será de muy escasa consideración. En conclusión, la generación de residuos será limitada y estará controlada al ser objeto de gestión acorde a lo recogido en R.D. 195/2008, de gestión de residuos de la construcción y demolición. Se considera que los volúmenes generados no serán importantes, y que mediante la gestión adecuada no supondrá efectos adversos sobre el medio ambiente, tal y como se describe y detalla en el estudio de gestión de residuos (Apéndice 3).*
 
-4.º Un incremento significativo en la utilización de recursos naturales.
+## *4.º Un incremento significativo en la utilización de recursos naturales.*##
 
-La necesidad de recursos naturales para este tipo de infraestructura corresponderá fundamentalmente a acero, hormigones, agua, combustibles fósiles,… etc. y otros productos manufacturados como los diversos cables. En principio, estos recursos procederán directamente del sector industrial, y en cuanto a la ocupación de suelo, éste se enmarca dentro del dominio ferroviario, sin cambios en el uso del mismo. Por ello, se considera que las demandas de estos recursos no supondrán un incremento significativo que ponga en riesgo la sostenibilidad ambiental.
+*La necesidad de recursos naturales para este tipo de infraestructura corresponderá fundamentalmente a acero, hormigones, agua, combustibles fósiles,… etc. y otros productos manufacturados como los diversos cables. En principio, estos recursos procederán directamente del sector industrial, y en cuanto a la ocupación de suelo, éste se enmarca dentro del dominio ferroviario, sin cambios en el uso del mismo. Por ello, se considera que las demandas de estos recursos no supondrán un incremento significativo que ponga en riesgo la sostenibilidad ambiental.*
 
-5.º Una afección a Espacios Protegidos Red Natura 2000.
+## 5.º Una afección a Espacios Protegidos Red Natura 2000.
 
-La presente línea ferroviaria es una infraestructura existente y en explotación, por lo que las actuaciones de proyecto no producirán nuevas afecciones sobre espacios de la Red Natura 2000. Se ha realizado un estudio de afección a la Red Natura 2000 (Apéndice 5) en el que se concluye que las actividades y acciones del proyecto no producen ninguna afección relevante en los espacios interceptados.
+*La presente línea ferroviaria es una infraestructura existente y en explotación, por lo que las actuaciones de proyecto no producirán nuevas afecciones sobre espacios de la Red Natura 2000. **Se ha realizado un estudio de afección a la Red Natura 2000** (Apéndice 5) en el que se concluye que las actividades y acciones del proyecto no producen ninguna afección relevante en los espacios interceptados.*
+`Estudio Red Natura 2000` pendiente de analizar
 
-6.º Una afección significativa al patrimonio cultural.”
+## 6.º Una afección significativa al patrimonio cultural
 
-No hay elementos del patrimonio cultural afectados por el presente proyecto. Tampoco se prevén interferencias con las vías pecuarias que actualmente cruzan la vía férrea objeto de proyecto. Su integridad y continuidad no se verá afectada por la ejecución del presente proyecto. Para evitar cualquier afección durante las obras, se incluye en el Pliego (artículo II.2.5) la necesidad de solicitar permiso o informar al organismo responsable de su gestión para su eventual utilización en obra, manteniendo en todo momento su integridad y permeabilidad.
+*No hay elementos del patrimonio cultural afectados por el presente proyecto. Tampoco se prevén interferencias con las vías pecuarias [VP] que actualmente cruzan la vía férrea objeto de proyecto. Su integridad y continuidad no se verá afectada por la ejecución del presente proyecto. Para evitar cualquier afección durante las obras, se incluye en el Pliego (artículo II.2.5) la necesidad de solicitar permiso o informar al organismo responsable de su gestión para su eventual utilización en obra, manteniendo en todo momento su integridad y permeabilidad.*
 
-Se concluye por tanto que tampoco existirá una afección significativa sobre el patrimonio cultural.
+*Se concluye por tanto que tampoco existirá una afección significativa sobre el patrimonio cultural.*
 
-Tal y como se indica en los apartados 5 y 6, el proyecto no presenta efectos adversos significativos sobre el medio ambiente. No obstante, dado que parte de las actuaciones proyectadas se desarrollan en el ámbito de ZEC y ZEPA se puede considerar que el proyecto podría estar entre los supuestos del Artículo 7.2.c. A este respecto, ver el análisis relativo a la Disposición Adicional Séptima de esta misma Ley 21/2013.
+[PV] Aquí procede comunicar que se harán las declaraciones responsables pertinentes por necesidad de transitar de forma puntual por las vías pecuarias
 
-“d) Los proyectos que, presentándose fraccionados, alcancen los umbrales del anexo II mediante la acumulación de las magnitudes o dimensiones de cada uno de los proyectos considerados.”
+~~*Tal y como se indica en los apartados 5 y 6, el proyecto no presenta efectos adversos significativos sobre el medio ambiente. No obstante, dado que parte de las actuaciones proyectadas se desarrollan en el ámbito de ZEC y ZEPA se puede considerar que el proyecto podría estar entre los supuestos del `Artículo 7.2.c.` A este respecto, ver el análisis relativo a la Disposición Adicional Séptima de esta misma Ley 21/2013*~~ No es aplicable el art. 7.2.c
 
-Al no estar comprendidas las instalaciones de comunicación ferroviaria en el anexo II de la Ley 21/2013, no puede darse la condición que establece el artículo 7.2.d de que la modificación cumpla por sí sola los umbrales establecidos en dicho anexo, independientemente de que el proyecto pueda ser fraccionado o no.
+  *“d) Los proyectos que, presentándose fraccionados, alcancen los umbrales del anexo II mediante la acumulación de las magnitudes o dimensiones de cada uno de los proyectos considerados.”* 
 
-“e) Los proyectos del anexo I que sirven exclusiva o principalmente para desarrollar o ensayar nuevos métodos o productos, siempre que la duración del proyecto no sea superior a dos años.”
+*Al no estar comprendidas las instalaciones de comunicación ferroviaria en el anexo II de la Ley 21/2013, no puede darse la condición que establece el artículo 7.2.d de que la modificación cumpla por sí sola los umbrales establecidos en dicho anexo, independientemente de que el proyecto pueda ser fraccionado o no.*
 
-Este proyecto no persigue ninguno de estos objetivos ni está incluido en el anexo I.
+...
 
-En relación las afecciones a espacios de Red Natura 2000, la Ley establece, en su Disposición Adicional Séptima, que cualquier proyecto que pueda afectar de forma apreciable a un espacio de la Red Natura 2000 debe someterse a una adecuada evaluación de sus afecciones en el lugar, teniendo en cuenta los objetivos de conservación de dicho lugar:
+*En relación las afecciones a espacios de Red Natura 2000, la Ley establece, en su Disposición Adicional Séptima, que cualquier proyecto que pueda afectar de forma apreciable a un espacio de la Red Natura 2000 debe someterse a una adecuada evaluación de sus afecciones en el lugar, teniendo en cuenta los objetivos de conservación de dicho lugar:*
 
+## ~~*Evaluaciones de impacto ambiental anteriores*~~
 
+~~*Una vez concluido que las actuaciones del presente proyecto no se encuentran sometidas al procedimiento de evaluación de impacto ambiental, se analiza a continuación si la línea ferroviaria objeto de proyecto precisó de algún trámite de evaluación ambiental anteriormente y pudiera, en su caso, aplicarse algún condicionante de alguna declaración de impacto ambiental.*~~
 
- 
+~~*En relación a esto, y en principio, hay que señalar que la línea estudiada es una línea de ferrocarril existente y en explotación desde hace décadas. Analizando sus antecedentes, se ha comprobado que el tramo de línea férrea entre Medina del Campo y Zamora es una línea clásica en vía única, sin electrificar construida entre 1863 y 1864. Posteriormente, no fue hasta el año 1958 cuando se completó la prolongación y conexión con la ciudad de Orense.*~~ Irrelevante pero si cuela..
 
-*Evaluaciones de impacto ambiental anteriores*
+~~*La primera normativa de evaluación ambiental de proyectos en España fue el Real Decreto Legislativo 1302/1986, de 28 de junio, de Evaluación de Impacto Ambiental, por lo que con anterioridad los proyectos de infraestructuras no estaban sometidos a ninguna regulación de este tipo, por lo que la construcción y explotación de dichas líneas no cuentan con declaración de impacto ambiental.*~~ Irrelevante
 
-*Una vez concluido que las actuaciones del presente proyecto no se encuentran sometidas al procedimiento de evaluación de impacto ambiental, se analiza a continuación si la línea ferroviaria objeto de proyecto precisó de algún trámite de evaluación ambiental anteriormente y pudiera, en su caso, aplicarse algún condicionante de alguna declaración de impacto ambiental.*
+~~*Adicionalmente, se ha realizado una búsqueda en la web del Ministerio para la Transición Ecológica y el Reto Demográfico, a través del proyecto SABIA, aplicación y buscador sobre la gestión de las evaluaciones ambientales que aglutina las bases de datos de los expedientes en procedimiento de evaluación ambiental. De esta manera se comprueba si hay alguna actuación o proyecto sobre esta línea o alguno de sus tramos con procedimiento en curso o finalizado y, si fuera el caso, si existe resolución de evaluación ambiental* ~~Irrelevante
 
-*En relación a esto, y en principio, hay que señalar que la línea estudiada es una línea de ferrocarril existente y en explotación desde hace décadas. Analizando sus antecedentes, se ha comprobado que el tramo de línea férrea entre Medina del Campo y Zamora es una línea clásica en vía única, sin electrificar construida entre 1863 y 1864. Posteriormente, no fue hasta el año 1958 cuando se completó la prolongación y conexión con la ciudad de Orense.* Irrelevante pero si cuela..
-
-*La primera normativa de evaluación ambiental de proyectos en España fue el Real Decreto Legislativo 1302/1986, de 28 de junio, de Evaluación de Impacto Ambiental, por lo que con anterioridad los proyectos de infraestructuras no estaban sometidos a ninguna regulación de este tipo, por lo que la construcción y explotación de dichas líneas no cuentan con declaración de impacto ambiental.* 
-
-*Adicionalmente, se ha realizado una búsqueda en la web del Ministerio para la Transición Ecológica y el Reto Demográfico, a través del proyecto SABIA, aplicación y buscador sobre la gestión de las evaluaciones ambientales que aglutina las bases de datos de los expedientes en procedimiento de evaluación ambiental. De esta manera se comprueba si hay alguna actuación o proyecto sobre esta línea o alguno de sus tramos con procedimiento en curso o finalizado y, si fuera el caso, si existe resolución de evaluación ambiental.
-
-El resultado de este análisis es que no existe ningún proyecto sobre la línea convencional de ferrocarril entre Medina del Campo y Orense que figure en dicha base de datos, por lo que no hay constancia de ninguna resolución ambiental al respecto.
+~~*El resultado de este análisis es que no existe ningún proyecto sobre la línea convencional de ferrocarril entre Medina del Campo y Orense que figure en dicha base de datos, por lo que no hay constancia de ninguna resolución ambiental al respecto.*~~ Irrelevante
 
  
 
-Trámite con el órgano gestor de los espacios de la Red Natura 2000
+## *Trámite con el órgano gestor de los espacios de la Red Natura 2000*
 
-Se remitió en mayo de 2021 al órgano competente en espacios protegidos de la Junta de Castilla y León (Dirección General de Patrimonio Natural y Política Forestal), el documento “Estudio de Afección a la Red Natura 2000”, que se adjunta como apéndice 5 en el Anejo 13 Integración ambiental. Posteriormente, en septiembre del mismo año se recibió contestación a través del INFORME DE LA DIRECCIÓN GENERAL DE PATRIMONIO NATURAL Y POLÍTICA FORESTAL RELATIVO A LAS AFECCIONES AL MEDIO NATURAL DE LAS ACTUACIONES SISTEMA DE COMUNICACIONES MÓVILES GSM-R Y COMUNICACIONES FIJAS Y SISTEMA DE SUMINISTRO DE ENERGÍA 2.200 V – 3.000 V Y TENDIDO DE FIBRA ÓPTICA PARA EL TRAYECTO DE RED CONVENCIONAL MEDINA DEL CAMPO-ORENSE, UBICADO EN LAS COMUNIDADES AUTÓNOMAS DE CASTILLA Y LEÓN Y DE GALICIA, PROMOVIDO POR ADIF-ALTA VELOCIDAD.
+*Se remitió en mayo de 2021 al órgano competente en espacios protegidos de la Junta de Castilla y León (Dirección General de Patrimonio Natural y Política Forestal), el documento “Estudio de Afección a la Red Natura 2000”, que se adjunta como apéndice 5 en el Anejo 13 Integración ambiental. Posteriormente, en septiembre del mismo año se recibió contestación a través del INFORME DE LA DIRECCIÓN GENERAL DE PATRIMONIO NATURAL Y POLÍTICA FORESTAL RELATIVO A LAS AFECCIONES AL MEDIO NATURAL DE LAS ACTUACIONES SISTEMA DE COMUNICACIONES MÓVILES GSM-R Y COMUNICACIONES FIJAS Y SISTEMA DE SUMINISTRO DE ENERGÍA 2.200 V – 3.000 V Y TENDIDO DE FIBRA ÓPTICA PARA EL TRAYECTO DE RED CONVENCIONAL MEDINA DEL CAMPO-ORENSE, UBICADO EN LAS COMUNIDADES AUTÓNOMAS DE CASTILLA Y LEÓN Y DE GALICIA, PROMOVIDO POR ADIF-ALTA VELOCIDAD* No es competente. Al afectar a varias CCAA, debe ser MITECO el órgano ambiental. Esto retrotrae a salvaguardia `Doc. de alcance`
 
-Hay que aclarar que dicho informe está relacionado también con el proyecto sistema de comunicaciones móviles GSM-R, que no es objeto del presente proyecto.
+*Hay que aclarar que dicho informe está relacionado también con el proyecto sistema de comunicaciones móviles GSM-R, que no es objeto del presente proyecto* [SIC]
 
-Inicialmente es importante señalar que el informe de la Junta, donde evalúa las repercusiones del proyecto sobre la Red Natura 2000, concluye con la compatibilidad del proyecto con los valores naturales del entorno donde se ubica la actuación, incluyendo ciertas condiciones y recomendaciones al respecto.
+ *Inicialmente es importante señalar que el informe de la Junta, donde evalúa las repercusiones del proyecto sobre la Red Natura 2000, concluye con la compatibilidad del proyecto con los valores naturales del entorno donde se ubica la actuación, **incluyendo ciertas condiciones y recomendaciones al respecto** 
 
-A continuación, se analizan las conclusiones de este informe (copia adjunta en Apéndice 7 del AIA) indicando cómo se recogen en el presente Anejo el cumplimiento de las prescripciones que contiene.
+*A continuación, se analizan las conclusiones de este informe (copia adjunta en Apéndice 7 del AIA) indicando cómo se recogen en el presente Anejo el cumplimiento de las prescripciones que contiene.*
 
-El informe revisa los siguientes aspectos, con las consideraciones transcritas:
+*El informe revisa los siguientes aspectos, con las consideraciones transcritas:*
 
-Afección a Red Natura 2000
-Concluye “……Tras estudiar la ubicación de las actuaciones previstas, se comprueba que existe coincidencia geográfica del proyecto con la Red Natura 2000, por lo que una vez analizado y valorado el proyecto, se considera realizada la evaluación requerida por el artículo 2 del Decreto 6/2011, de 10 de febrero, concluyéndose que las actuaciones proyectadas, ya sea individualmente o en combinación con otros proyectos, no causarán perjuicio a la integridad de los siguientes lugares incluidos en la Red Natura 2000:
+## *Afección a Red Natura 2000*
+*Concluye “……Tras estudiar la ubicación de las actuaciones previstas, se comprueba que existe coincidencia geográfica del proyecto con la Red Natura 2000, por lo que una vez analizado y valorado el proyecto, se considera realizada la evaluación requerida por el artículo 2 del Decreto 6/2011, de 10 de febrero, concluyéndose que las actuaciones proyectadas, ya sea individualmente o en combinación con otros proyectos, no causarán perjuicio a la integridad de los siguientes lugares incluidos en la Red Natura 2000:*
 
 ZEPA Tierra de Campiñas (ES0000204).
 ZEPA/ZEC Riberas de Castronuño (ES4180017).
@@ -180,109 +177,61 @@ ZEC Sierra de la Culebra (ES4190033).
 ZEC Riberas del río Tera y afluentes (ES4190067).
 ZEC Riberas del río Tuela y afluentes (ES4190131).”
 Afección a Espacios Naturales
-“…Tras estudiar la ubicación de las actuaciones previstas, se comprueba que existe coincidencia geográfica del proyecto con el siguiente espacio incluido en el Plan de Espacios Naturales Protegidos de Castilla y León:
+*“…Tras estudiar la ubicación de las actuaciones previstas, se comprueba que existe coincidencia geográfica del proyecto con el siguiente espacio incluido en el Plan de Espacios Naturales Protegidos de Castilla y León:*
+Sólo Castilla-León
+...
 
-Reserva Natural Riberas de Castronuño - Vega del Duero.
+## *Afección a taxones de Flora Protegida de Castilla y León*
+*“En relación con el cumplimiento de lo previsto en el artículo 4, punto 3, del Decreto 63/2007, de 14 de junio, por el que se crean el Catálogo de Flora Protegida de Castilla y León y la figura de protección denominada Microrreserva de Flora, se hace constar que, consultada la información disponible en la Consejería, en el ámbito de afección del proyecto, se ha señalado la presencia de un gran elenco de taxones catalogados.*
 
-Se considera que las actuaciones previstas son compatibles con los valores que motivaron su declaración, ajustándose a lo establecido en el Plan de Ordenación de Recursos Naturales.
+*Se considera que las actuaciones previstas, con el cumplimiento de las condiciones expuestas posteriormente, especialmente para el taxón Ephedra distachya subsp. distachya, catalogado como “De Atención Preferente”, no suponen afección a dichos taxones. “*
 
-Por consiguiente, a los efectos establecidos en el Plan de Ordenación de Recursos Naturales se informan favorablemente las actuaciones analizadas.”
+...
 
-Afección al Paisaje
-“No son previsibles afecciones de importancia sobre el paisaje derivadas del proyecto. “
+## *i. Afección a Vías Pecuarias*
 
-Afección a Especies con planificación de protección vigente
-“Se considera que las actuaciones proyectadas son compatibles con los objetivos de
+*"Según los datos obrantes en esta Dirección, se comprueba que existe coincidencia con numerosísimas vías pecuarias. Se recuerda que estas vías pecuarias deben tener garantizado su libre tránsito y uso, tanto durante la fase de obras como durante la fase de explotación, así como respetar su integridad superficial, para **lo que se establece la condición expuesta posteriormente**."*
 
-conservación establecidos en los siguientes instrumentos de planificación de protección de
+## *j. Afección a Zonas Naturales de Esparcimiento*
 
-especies protegidas en Castilla y León:
+*"Se comprueba que este proyecto presenta coincidencia territorial con la siguiente Zona Natural de Esparcimiento: Bosque de Valorio. T.M.: Zamora. Para evitar la incompatibilidad de estas actuaciones con la citada Zona Natural de Esparcimiento, **se deberán cumplir con las condiciones expuestas posteriormente**."*
 
-Plan de Conservación del águila perdicera. “
-Afección a taxones de Flora Protegida de Castilla y León
-“En relación con el cumplimiento de lo previsto en el artículo 4, punto 3, del Decreto 63/2007, de 14 de junio, por el que se crean el Catálogo de Flora Protegida de Castilla y León y la figura de protección denominada Microrreserva de Flora, se hace constar que, consultada la información disponible en la Consejería, en el ámbito de afección del proyecto, se ha señalado la presencia de un gran elenco de taxones catalogados.
+## *k. Afección a hábitats de interés comunitario no amparados por Red Natura 2000*
 
-Se considera que las actuaciones previstas, con el cumplimiento de las condiciones expuestas posteriormente, especialmente para el taxón Ephedra distachya subsp. distachya, catalogado como “De Atención Preferente”, no suponen afección a dichos taxones. “
+*Dado el amplio territorio que abarcan las actuaciones contempladas y la importante variedad de ecosistemas por los que discurre, se localizan numerosos hábitats de interés comunitario en el ámbito del mismo. Pero se considera que las actuaciones previstas, dada su ubicación y naturaleza, no suponen afección a dichos hábitats, **aunque se propone una condición expuesta posteriormente para optimizar la integración ambiental***
 
-Afección a Árboles Notables
-“Se constata la no coincidencia con ejemplares incluidos en el Catálogo Regional de Árboles Notables, según lo establecido en el Decreto 63/2003, de 22 de mayo. “
+## *l. Afección a especies de fauna catalogada objeto de protección*
 
-g. Afección a Zonas Húmedas Catalogadas
-
-“Se comprueba que existe coincidencia con la siguiente zona húmeda incluida en el Catálogo de Zonas Húmedas de Castilla y León:
-
-Castronuño (ZHC-VA-01).
-
-Se considera que las actuaciones previstas no supondrán una afección a dicha zona húmeda catalogada. “
-
-h. Afección a Montes de Utilidad Pública
-
-Se comprueba que este proyecto presenta coincidencia territorial con los siguientes Montes de Utilidad Pública:
-
-MUP 4 La Sierra. T.M.: Mahide (Zamora).
-MUP 26 La Sierra. T.M.: Mahide (Zamora).
-MUP 27 Sierra y Chanos. T.M.: Mahide (Zamora).
-MUP 28 Sierra y Chanos. T.M.: Mahide (Zamora).
-MUP 29 Sierra y Chanos. T.M.: Mahide (Zamora).
-MUP 103 Cano y El Encinar. T.M.: Manzanal de Arriba (Zamora).
-MUP 124 Tejedelo. T.M.: Requejo (Zamora).
-MUP 137 Valdediego. T.M.: Puebla de Sanabria (Zamora).
-MUP 157 El Peral. T.M.: Manzanal de Arriba (Zamora).
-MUP 211 Camposagrado. T.M.: Puebla de Sanabria (Zamora).
-El proyecto presenta colindancia territorial con los siguientes Montes de Utilidad Pública:
-MUP 89 La Requejada. T.M.: San Román de Hornija (Valladolid).
-MUP 100 Dehesa de Arriba y de Abajo. T.M.: Medina del Campo (Valladolid).
-MUP 104 La Pedrizona y Escobar. T.M.: Manzanal de Arriba (Zamora).
-MUP 212 Peñas Estrilladas y otros. T.M.: Riofrío de Aliste (Zamora).
-Para asegurar la compatibilidad de estas actuaciones con los citados MUP, se deberán cumplir con la condición expuesta posteriormente. “
-
-i. Afección a Vías Pecuarias
-
-“Según los datos obrantes en esta Dirección, se comprueba que existe coincidencia con numerosísimas vías pecuarias.
-
-Se recuerda que estas vías pecuarias deben tener garantizado su libre tránsito y uso, tanto durante la fase de obras como durante la fase de explotación, así como respetar su integridad superficial, para lo que se establece la condición expuesta posteriormente.”
-
-j. Afección a Zonas Naturales de Esparcimiento
-
-“Se comprueba que este proyecto presenta coincidencia territorial con la siguiente Zona Natural de Esparcimiento:
-
-Bosque de Valorio. T.M.: Zamora.
-
-Para evitar la incompatibilidad de estas actuaciones con la citada Zona Natural de Esparcimiento, se deberán cumplir con las condiciones expuestas posteriormente. “
-
-k. Afección a hábitats de interés comunitario no amparados por Red Natura 2000
-
-“Dado el amplio territorio que abarcan las actuaciones contempladas y la importante variedad de ecosistemas por los que discurre, se localizan numerosos hábitats de interés comunitario en el ámbito del mismo. Pero se considera que las actuaciones previstas, dada su ubicación y naturaleza, no suponen afección a dichos hábitats, aunque se propone una condición expuesta posteriormente para optimizar la integración ambiental. “
-
-l. Afección a especies de fauna catalogada objeto de protección
-
-“Dado el amplio territorio que abarcan las actuaciones contempladas y la importante variedad de ecosistemas por los que discurre, se localizan numerosas especies de fauna de interés en el ámbito del mismo. No obstante, se considera que este proyecto no supondrá una afección a la integridad de las especies de fauna presentes. “
+*"Dado el amplio territorio que abarcan las actuaciones contempladas y la importante variedad de ecosistemas por los que discurre, se localizan numerosas especies de fauna de interés en el ámbito del mismo. No obstante, se considera que este proyecto no supondrá una afección a la integridad de las especies de fauna presentes."*
 
  
 
-Al final del informe, se propone el siguiente condicionado:
+*Al final del informe, se propone el siguiente condicionado:*
 
-CONDICIONES:
+# *CONDICIONES:*
 
-o CONDICIONES RELATIVAS A FLORA PROTEGIDA DE CASTILLA Y LEÓN:
+  ## 1. *CONDICIONES RELATIVAS A FLORA PROTEGIDA DE CASTILLA Y LEÓN:*
 
-En las prospecciones previstas al inicio de las obras con objeto de detectar áreas de nidificación, y que serán realizadas por un Técnico especialista en Medio Ambiente que se dispondrá para este fin, se incluirá asimismo la búsqueda del taxón de flora protegida Ephedra distachya subsp. distachya. La prospección de este taxón se circunscribirá al ámbito de la Reserva Natural Riberas de Castronuño - Vega del Duero y de sus zonas aledañas. En el caso de detectar ejemplares de esta, u otras especies de flora catalogada, se procederá a señalizar el lugar y se dará aviso al Servicio Territorial de Medio Ambiente de la provincia donde se ubiquen, que propondrá las medidas a llevar a cabo, como, por ejemplo, la traslocación de ejemplares.
+  *En las prospecciones previstas* `al inicio de las obras con objeto de detectar áreas de nidificación, y que serán realizadas por un Técnico especialista en Medio Ambiente que se dispondrá para este fin, se incluirá asimismo la búsqueda del taxón de flora protegida Ephedra distachya subsp. distachya. La prospección de este taxón se circunscribirá al ámbito de la Reserva Natural Riberas de Castronuño - Vega del Duero` *y de sus zonas aledañas. En el caso de detectar ejemplares de esta, u otras especies de flora catalogada, se procederá a señalizar el lugar y se dará aviso al Servicio Territorial de Medio Ambiente de la provincia donde se ubiquen, que propondrá las medidas a llevar a cabo, como, por ejemplo, la traslocación de ejemplares.*
 
-o CONDICIONES RELATIVAS A MONTES DE UTILIDAD PÚBLICA, VÍAS PECUARIA Y HÁBITATS DE INTERÉS COMUNITARIO:
+Aquí habría que ampliar y entrar al detalle sobre metodología de censo de avifauna y flora. En el caso de avifauna, siguiendo la metodología SEO / Birdlife [III Atlas de Aves en época de reproducción](https://atlasaves.seo.org/metodologia-de-cuantificacion/), así como de invernantes y según el caso, por hábitats [PROGRAMAS DE SEGUIMIENTO DE AVIFAUNA Y GRUPOS DE TRABAJO, 2022](https://www.seo.org/boletin/seguimiento/boletin/2022/Boletin%20seguimiento%20SEO%202022.pdf) mediante el diseño de censos y estaciones de escucha basados en TELLERÍA Jorge, & Luis, J. (1986). Manual para el censo de los vertebrados terrestres. Madrid: Raíces, 1986 y un plano de respaldo de transectos y estaciones de escucha (random)
 
-No se circulará con maquinaria ni vehículos fuera de los caminos existentes, ni se utilizarán dichos terrenos como lugar para realizar acopios de materiales, parque de maquinaria o instalaciones auxiliares.
+  ## 2. *CONDICIONES RELATIVAS A MONTES DE UTILIDAD PÚBLICA, VÍAS PECUARIA Y HÁBITATS DE INTERÉS COMUNITARIO:*
 
-CONDICIONES RELATIVAS A ZONAS NATURALES DE ESPARCIMIENTO:
+  *No se circulará con maquinaria ni vehículos fuera de los caminos existentes, ni se utilizarán dichos terrenos como lugar para realizar acopios de materiales, parque de maquinaria o instalaciones auxiliares*.
 
-Las obras a realizar en el tramo de la vía férrea coincidente con la Zona Natural de Esparcimiento Bosque de Valorio, se ejecutarán durante una época de escasa afluencia de visitantes, evitando en lo posible realizar trabajos durante periodos festivos, fines de semana y verano.
+  ## 3. *CONDICIONES RELATIVAS A ZONAS NATURALES DE ESPARCIMIENTO:*
 
-En resumen, el único condicionante añadido, más allá de las medidas preventivas y correctoras ya incluidas en el proyecto es la necesidad de realizar una prospección previa al inicio de las obras, con objeto de detectar áreas de nidificación. Se incluirá asimismo la búsqueda del taxón de flora protegida Ephedra distachya subsp. distachya. La prospección de este taxón se circunscribirá al ámbito de la Reserva Natural Riberas de Castronuño - Vega del Duero y de sus zonas aledañas. En el caso de detectar ejemplares de esta, u otras especies de flora catalogada, se procederá a señalizar el lugar y se dará aviso al Servicio Territorial de Medio Ambiente de la provincia donde se ubiquen, que propondrá las medidas a llevar a cabo, como, por ejemplo, la traslocación de ejemplares.
+  *Las obras a realizar en el tramo de la vía férrea coincidente con la Zona Natural de Esparcimiento Bosque de Valorio,* `se ejecutarán durante una época de escasa afluencia de visitantes`*, evitando en lo posible realizar trabajos durante periodos festivos, fines de semana y verano.*
+
+*En resumen, el único condicionante añadido, más allá de las medidas preventivas y correctoras ya incluidas en el proyecto es la necesidad de* `realizar una prospección previa al inicio de las obras, con objeto de detectar áreas de nidificación. Se incluirá asimismo la búsqueda del taxón de flora protegida Ephedra distachya subsp. distachya`*. La prospección de este taxón se circunscribirá al ámbito de la Reserva Natural Riberas de Castronuño - Vega del Duero y de sus zonas aledañas. En el caso de detectar ejemplares de esta, u otras especies de flora catalogada, se procederá a señalizar el lugar y se dará aviso al Servicio Territorial de Medio Ambiente de la provincia donde se ubiquen, que propondrá las medidas a llevar a cabo, como, por ejemplo, la traslocación de ejemplares.*
+
 
  
 
-MARCO LEGAL Y TRÁMITES ASOCIADOS
+# *MARCO LEGAL Y TRÁMITES ASOCIADOS*
 
-Se presenta a continuación una relación genérica de normativa estatal y autonómica con aplicación a obras civiles, debiéndose tener en cuenta en el modo en que aplique a las obras objeto del presente proyecto.
+*Se presenta a continuación una relación genérica de normativa estatal y autonómica con aplicación a obras civiles, debiéndose tener en cuenta en el modo en que aplique a las obras objeto del presente proyecto.
 
 En cuanto a tramitaciones, dado que las actuaciones se realizan en el marco del dominio ferroviario y terrenos propiedad de Adif, éstas quedarán muy limitadas o serán prácticamente innecesarias, debiéndose considerar, si procediera, aquellas relativas a:
 
@@ -292,23 +241,17 @@ En cuanto a tramitaciones, dado que las actuaciones se realizan en el marco del 
 
 - Aspectos a coordinar en relación con los ruidos en obra en determinados entornos urbanos, en especial para los trabajos nocturnos.
 
-- Trámites referentes posibles trabajos arqueológicos, caso de requerirse por detección de restos o elementos a preservar.
+- Trámites referentes posibles trabajos arqueológicos, caso de requerirse por detección de restos o elementos a preservar.*
 
-Asimismo, se deberá atender en la primera etapa de obra a la coordinación con el órgano gestor de los espacios de la Red Natura 2000, ya sea mediante comunicaciones o autorizaciones según el caso, para determinadas actividades como puede ser el permiso para el tránsito de vehículos dentro del espacio.
+*Asimismo, se deberá atender en la primera etapa de obra a la coordinación con el órgano gestor de los espacios de la Red Natura 2000, ya sea mediante comunicaciones o autorizaciones según el caso, para determinadas actividades como puede ser el permiso para el tránsito de vehículos dentro del espacio.* Comunicación previa 15 días antes
 
 No se consideran necesarias las referentes a tramitación de préstamos o vertederos.
 
  
 
+# *ESPACIOS NATURALES PROTEGIDOS*
 
-
-
-
- 
-
-ESPACIOS NATURALES PROTEGIDOS
-
-4.1.9.1 Figuras internacionales
+*4.1.9.1 Figuras internacionales
 
 Existen algunos espacios con protección internacional en el ámbito estudiado. Estos quedan bajo cuatro figuras: Zonas especialmente protegidas de importancia para el Mar Mediterráneo (ZEPIM), Reservas de la Biosfera, Convenio de OSPAR y Humedales de Convenio de Ramsar.
 
@@ -322,16 +265,15 @@ Existen dos espacios bajo esta figura internacional en el ámbito de estudio, un
 
 Convenio relativo a los Humedales de Importancia Internacional especialmente como Hábitat de Aves Acuáticas, que atienden a una gran variedad tipológica de humedales: zonas húmedas, planas en áreas de sedimentación, humedales asociados a valles fluviales, humedales artificiales, marismas, estuarios, formaciones deltaicas, marjales, lagunas litorales, etc. así como a una gran ecodiversidad de ambientes acuáticos naturales y seminaturales.
 
-Al noreste de Zamora, a más de 25 km de distancia se localiza el humedal Lagunas de Villafáfila (Zamora).
+Al noreste de Zamora, a más de 25 km de distancia se localiza el humedal Lagunas de Villafáfila (Zamora).*
 
  
 
-Red Natura 2000
+# *Red Natura 2000*
 
-Los espacios naturales definidos en aplicación de la Directiva 79/409/CEE de la Unión Europea para configurar la Red Natura 2000 están formados tanto por Zonas de Especial Protección para las Aves (ZEPA) como Zonas de Especial Conservación (ZEC), denominados Lugares de Interés Comunitario (LIC) antes de su aprobación.
+*Los espacios naturales definidos en aplicación de la Directiva 79/409/CEE de la Unión Europea para configurar la Red Natura 2000 están formados tanto por Zonas de Especial Protección para las Aves (ZEPA) como Zonas de Especial Conservación (ZEC), denominados Lugares de Interés Comunitario (LIC) antes de su aprobación.* Obsoleto. Son ZECs y no se ha incorporado las directrices de los `Planes de Gestión`. Además, ahora ZEPAs y LICs son ZECs precisamente porque se ha definido su plan de gestión.
 
-La red de espacios así considerados, en el ámbito de estudio analizado, es muy amplia, tal y como muestra la figura siguiente. No obstante, se muestran a continuación detalles de aquellos que se sitúan en el entorno de las actuaciones de proyecto (…)
-
+*La red de espacios así considerados, en el ámbito de estudio analizado, es muy amplia, tal y como muestra la figura siguiente. No obstante, se muestran a continuación detalles de aquellos que se sitúan en el entorno de las actuaciones de proyecto (…)*
  
 
  
