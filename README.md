@@ -1,5 +1,7 @@
 # LIBRO DE ESTILO
 
+
+
 ## PROTOCOLO [https://drive.google.com/drive/u/2/home] [50oe0092]
 - #[CARPETA] Carpeta generada en Drive ![archivo] Archivo urgente
 - $[CARPETA] Carpeta de trabajo
