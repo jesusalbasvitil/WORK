@@ -14,12 +14,33 @@
 
 **4. Id, cuantificación..** [EsIA:185] Vicente Conesa. Análisis de Impactos `No conta`
 
-**5. Cuantificación repercusiones RN2000** `Reconoce afecciones por proximidad a Dehesa de Rueda EE2430090 pero no consta` 
+**5. Cuantificación repercusiones RN2000** `Reconoce afecciones por proximidad a Dehesa de Rueda EE2430090` Sin embargo:
+
+*Dada la distancia a los espacios protegidos Red Natura 2000, se desestiman afecciones directas a los valores objeto de conservación y gestión así como a sus objetivos de conservación, **sin que se vea comprometida su conectividad ni los valores por los que estos espacios fueron declarados integrantes de la RN2000*** [EsIA:241]
+
+El EsIA se basa en la aplicación de una guía sobre el impacto sobre los hábitats, no sobre las aves, y aplica un esquema sacado de una comunicación de la Unión Europea basado en un esquema. Sin aportar más detalles metodológicos.[EsIA:255]
+
+Cuando el proyecto pueda afectar directa o indirectamente a los espacios Red Natura
+2000 se incluirá un apartado específico para la evaluación de sus repercusiones en el lugar,
+teniendo en cuenta los objetivos de conservación del espacio.
+Art. 35.c
+[Guía metodológica de evaluación de impacto ambiental en Red Natura 2000 Criterios utilizados por la Subdirección General de Biodiversidad y Medio Natural para la determinación del perjuicio a la integridad de Espacios de la Red Natura 2000 por afección a Hábitats de interés comunitario. Versión enero 2019](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/espacios-protegidos/criteriossgbymnperjuiciohabitats_tcm30-481533.pdf)
+
+[RESOLUCIÓN de 12 de marzo de 2021, del Director General de Medio Natural y Gestión Forestal, por la que se dispone la publicación de determinados Planes del anexo II del Decreto 13/2021, de 25 de enero, del Gobierno de Aragón, por el que se declaran las Zonas de Especial Conservación en Aragón, y se aprueban los Planes Básicos de Gestión y Conservación de las Zonas de Especial Conservación y de las Zonas de Especial Protección para las Aves de la Red Natura 2000 en Aragón. BOA nº 61, 20/3/21 Plan básico de gestión y conservación del Espacio Protegido Red Natura 2000 LIC/ZEC&ZEPA - ES2430090 - Dehesa de Rueda y Montolar 12751 y sig.](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1154831420505&type=pdf)
+
+
+[COMUNICACIÓN DE LA COMISIÓN
+
+Evaluación de planes y proyectos en relación con espacios Natura 2000: orientación metodológica sobre el artículo 6, apartados 3 y 4, de la Directiva 92/43/CEE, sobre los hábitats
+
+(2021/C 437/01)](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:C:2021:437:FULL&from=SV)
 
 
 
 
 ### Estudio Avifauna
+
+
 <!--Aplicando el Índice Margalef a 73 especies con 6290 avistamientos de todas las especies resulta  un valor de índice de 8,23. Cuál es el error y hacer una crítica de este método<-->
 
 El Índice de Margalef se calcula como:
