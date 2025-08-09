@@ -15,7 +15,13 @@ La geografía es el sustento, el soporte vital de la fauna. A la inversa, la fau
 
 `Listados de aves`
 #### [Tricio-Balsa del Villar (61 sp.)](https://ebird.org/hotspot/L8162593/bird-list)
-
+<!--
+{| class="wikitable"
+|+style="background:DarkSlateBlue; color:white; text-align:center;"| Tabla 1 | Temperatura y precipitaciones de Rioseta (Aisa)<small>1</small>, Candanchú (Aisa)<small>2</small> y Canfranc<small>3</small>
+|-align="right" style="background:Lavender; color:black" 
+! Mes !! Tª(ºC)<small>1</small> !! pcp (mm)<small>1</small> !! Tª(ºC)<small>2</small> !! pcp (mm)<small>2</small> !! Tª(ºC)<small>3</small> !! pcp (mm)<small>3</small>
+|-align="right"
+| Enero || 0,1 || 126,8 || -1,20 || 190,90 ||  2,10	|| 182,80><-->
 {| class="wikitable sortable"
 |-
 ! Nombre Común !! Nombre Científico !! Conteo !! Fecha
