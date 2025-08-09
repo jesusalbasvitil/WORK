@@ -201,8 +201,8 @@ La geografía es el sustento, el soporte vital de la fauna. A la inversa, la fau
 | Escribano Soteño || ''Emberiza cirlus'' || 2 || 9 jul 2021
 |}
 
+
 ####  [Nájera-río Najerilla (98 sp.)](https://ebird.org/hotspot/L11211722/bird-list)
-# Nájera--Rio Najerilla
 
 {| class="wikitable sortable"
 |-
@@ -630,7 +630,109 @@ Con estos tres listado se genera un único listado de especies presentes en la c
 |-
 | Zorzal Común || ''Turdus philomelos''
 |}
+# Análisis de Hábitats Asociados a las Especies de la Cuenca del Río Najerilla
 
+## Introducción
+
+Las 109 especies registradas en la cuenca del río Najerilla se distribuyen a través de diversos ecosistemas interconectados que caracterizan esta región de La Rioja. El análisis de estos hábitats revela una extraordinaria diversidad ecológica que sostiene una avifauna muy rica y variada.
+
+## Principales Ecosistemas y Hábitats
+
+### 1. **Hábitat Ripario (Riberas y Sotos)**
+
+**Características:** Zonas de gran productividad y diversidad que forman las riberas de los ríos, con vegetación palustre, carrizales, espadañales y arbolado de ribera.
+
+**Especies asociadas:**
+- **Aves acuáticas**: Ánade Azulón, Cormorán Grande, Garza Real, Garceta Común, Garceta Grande, Gallineta Común
+- **Aves de carrizal**: Carricero Común, Carricerín Común, Cetia Ruiseñor, Rascón Europeo  
+- **Especialistas ribereños**: Martín Pescador Común, Andarríos Chico, Andarríos Grande, Lavandera Blanca, Lavandera Cascadeña, Lavandera Boyera
+- **Aves de soto**: Oropéndola Europea, Ruiseñor Común, Curruca Capirotada
+
+### 2. **Hábitat Forestal y de Monte Mediterráneo**
+
+**Características:** Bosques de encinas, coscojares y formaciones arbustivas mediterráneas en las laderas y zonas montañosas.
+
+**Especies asociadas:**
+- **Rapaces forestales**: Águila Calzada, Azor, Gavilán Común, Busardo Ratonero
+- **Córvidos**: Arrendajo, Urraca Común, Corneja Negra, Cuervo Grande
+- **Páridos**: Carbonero Común, Herrerillo Común, Mito Común
+- **Pícidos**: Pico Picapinos, Pico Menor, Pito Ibérico, Torcecuello Euroasiático
+- **Otras forestales**: Trepador Azul, Agateador Europeo, Pinzón Vulgar
+
+### 3. **Hábitat de Roquedo y Cortados**
+
+**Características:** Monte mediterráneo con sus cortados rocosos que proporcionan sitios de nidificación para especies rupícolas.
+
+**Especies asociadas:**
+- **Grandes rapaces**: Buitre Leonado, Alimoche Común, Búho Real
+- **Halcones**: Halcón Peregrino, Cernícalo Vulgar, Cernícalo Primilla, Alcotán Europeo
+- **Aves rupícolas**: Avión Roquero, Roquero Solitario, Collalba Gris
+- **Nocturnas**: Lechuza Común Occidental, Autillo Europeo, Cárabo Común
+
+### 4. **Hábitat Agrícola y de Cultivos**
+
+**Características:** Campos de cultivo y zonas agrícolas que proporcionan alimentación y nidificación para especies adaptadas a ambientes humanizados.
+
+**Especies asociadas:**
+- **Aves granívoras**: Gorrión Común, Gorrión Chillón, Pardillo Común, Jilguero Europeo, Serín Verdecillo, Verderón Común
+- **Escribanos**: Escribano Triguero, Escribano Soteño
+- **Alondras**: Alondra Común, Alondra Totovía, Cogujada Común
+- **Estorninos**: Estornino Negro
+- **Colúmbidas**: Paloma Torcaz, Paloma Bravía, Tórtola Turca, Tórtola Europea
+
+### 5. **Hábitat de Matorral y Áreas Abiertas**
+
+**Características:** Espacios abiertos con vegetación arbustiva dispersa, ideal para especies de áreas semiáridas.
+
+**Especies asociadas:**
+- **Currucas**: Curruca Cabecinegra, Curruca Mosquitera
+- **Papamoscas**: Papamoscas Gris, Papamoscas Cerrojillo
+- **Otros**: Tarabilla Europea, Cistícola Buitrón, Abubilla Común
+
+### 6. **Hábitat de Humedales Artificiales**
+
+**Características:** Balsas de riego naturalizadas como La Grajera en Logroño, El Perdiguero y el Recuenco en Calahorra o la balsa de Oribe en Arnedo.
+
+**Especies asociadas:**
+- **Limícolas**: Agachadiza Chica, Cigüeñuela
+- **Patos**: Ánade Friso
+- **Zambullidores**: Zampullín Común, Somormujo Lavanco
+- **Gaviotas**: Gaviota Reidora
+
+### 7. **Hábitat Aéreo**
+
+**Características:** Especies que utilizan el espacio aéreo para alimentación y migración.
+
+**Especies asociadas:**
+- **Vencejos**: Vencejo Común, Vencejo Real, Vencejo Pálido
+- **Hirundínidos**: Golondrina Común, Golondrina Dáurica, Avión Común, Avión Zapador
+- **Rapaces migradoras**: Milano Negro, Milano Real, Abejero Europeo, Culebrera Europea
+
+## Conectividad Ecológica
+
+La cuenca del río Najerilla funciona como un **corredor ecológico** que conecta diferentes hábitats desde las zonas montañosas del Sistema Ibérico hasta el valle del Ebro. Las Sierras de la Demanda y San Lorenzo, los Picos de Urbión y las Sierras de Hormazas y Camero Nuevo sirven de límites a un extenso territorio situado en el SO de La Rioja de extraordinario interés natural que se ha venido denominando Alto Najerilla.
+
+## Especies Indicadoras de Calidad Ambiental
+
+Varias especies del listado funcionan como **bioindicadores**:
+
+- **Martín Pescador Común**: Indicador de aguas limpias y bien oxigenadas
+- **Mirlo Acuático**: Presente solo en ríos de aguas puras
+- **Desmán Ibérico**: Aunque no está en el listado de aves, su presencia en la cuenca indica la calidad excepcional del ecosistema fluvial
+- **Cigüeña Negra**: Especie muy sensible a la perturbación humana
+
+## Diversidad Estacional
+
+El listado refleja tanto especies **residentes** como **migradoras**:
+
+- **Residentes**: Rapaces forestales, córvidos, páridos
+- **Estivales**: Vencejos, hirundínidos, insectívoros migradores
+- **Invernantes**: Zorzal Alirrojo, Pinzón Real, Jilguero Lúgano
+- **Migradoras de paso**: Papamoscas, currucas, limícolas
+
+## Conclusión
+
+La extraordinaria diversidad de hábitats en la cuenca del río Najerilla, desde ecosistemas acuáticos hasta formaciones montañosas, explica la riqueza ornitológica observada. La presencia de 109 especies refleja la importancia ecológica de esta cuenca como área de alta biodiversidad en La Rioja, funcionando como un mosaico de ecosistemas interconectados que sustentan poblaciones diversas de aves con diferentes requerimientos ecológicos.
 ## Memoria de las aves (Memory of trees v2)
 
 Migraciones en masa de milanos negros y cigueñas. Paso de mosquiteros, los primeros papamoscas, 15 días sin vencejos, calzadas ciclando en grupos preparando su viaje a la playa... Los primeros petirrojos "balizando" territorios.
