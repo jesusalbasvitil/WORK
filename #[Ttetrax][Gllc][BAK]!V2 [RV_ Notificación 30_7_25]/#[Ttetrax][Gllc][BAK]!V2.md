@@ -9,7 +9,7 @@ Cabe evidenciar que los redactores, si bien titulan como se cita, lo califican d
 
 2. Sin embargo, también le es de **obligada aplicación la legislación básica estatal**; en este caso la modificación de la Ley 21/13 mediante la Ley 9/2018, de 5 de diciembre, por la que se modifica la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la Ley 21/2015, de 20 de julio, por la que se modifica la Ley 43/2003, de 21 de noviembre, de Montes y la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero (BOE Núm. 294 Jueves 6 de diciembre de 2018 Sec. I. Pág. 119858) [L918]
 
-Así, en aplicación de ésta, es obligación del promotor *la definición, características y ubicación del proyecto, en particular una descripción de las características físicas del proyecto en sus tres fases: **construcción, funcionamiento y cese;*** Apdo. Veinticuatro de modificación del Artículo 15 Ley 21/13[L918:119882] Pero ésta no cónsta. Por tal motivo, **no ha evaluación ambiental del resto de fases**.
+Así, en aplicación de ésta, es obligación del promotor *la definición, características y ubicación del proyecto, en particular una descripción de las características físicas del proyecto en sus tres fases: **construcción, funcionamiento y cese;*** Apdo. Veinticuatro de modificación del Artículo 15 Ley 21/13[L918:119882] Pero ésta no cónsta. Por tal motivo, **no hay evaluación ambiental del resto de fases**.
 
 3. Siguiendo con la falta de aplicación de la legislación vigente y de obligado cumplimiento, en el  EsIA, NO CONSTA un apartado específico para las repercusiones del proyecto -dado que afecta directa, e indirectamente a la Reserva Natural de la Laguna de Gallocanta[cita]- por detracción de caudales, infiltración de fitosanitarios, plaguicidas y abonos al freático que comparte con el citado espacio natural protegido:
 
@@ -57,8 +57,11 @@ Criterio no abordado en el EsIA del promotor
 
 >>> *1.º Humedales, zonas ribereñas, desembocaduras de ríos*
 >>>...
+Criterios no abordados en el EsIA del promotor para, al menos descartar que se deba estar ante una EAO.
 
+En conclusión y a la vista de los hechos y los relatados en las siguientes alegaciones, se concluye que, para este proyecto debería considerarse la necesidad de una Evaluación Ambiental Ordinaria.
 
+![MAPA 1. Ubicación de las diferentes figuras de protección de los espacios naturales, de los hábitats y posición de las parcelas afectadas por el proyecto. Fuente: Gobierno de Aragón, MITECO  y Mº de Hacienda Dirección General del Catastro. Elaboración SEO / BirdLife ](image.png)
 
 
 
@@ -66,7 +69,7 @@ Criterio no abordado en el EsIA del promotor
 En primer lugar, es reseñable destacar que el EsIA indica que se solicitó al Departamento de Medio Ambiente y Turismo del Gobierno de Aragón coberturas cartográficas de especies amenazadas de fauna que afecten o puedan tener sinergias con el proyecto de estudio, sin que a fecha de cierre del documento se hubiera obtenido respuesta.
 
 De acuerdo a lo señalado en el Estudio de Impacto Ambiental, para la valoración de las comunidades faunísticas se ha utilizado la información bibliográfica recopilada en base a la Colección Territorio que publica el Gobierno de Aragón, sin que se hayan tenido en cuenta los datos proporcionados por el Inventario Español de Especies Terrestres (IEET), perteneciente a la Ministerio para la Transición Ecológica y Reto Demográfico y a la Dirección General de Medio Natural y Gestión Forestal Aragón, correspondiendo con la cuadrícula UTM, de 10x10 kilómetros, código 30TXL33 y en el límite con la cuadrícula 30TXL23.
-[^1] 
+[^1a] 
 
 Resulta imprescindible llevar a cabo un estudio de campo que permita conocer al detalle las especies que hacen uso del espacio y de qué manera, prestando especial interés a las especies esteparias que son las más representativas de la zona de estudio, por lo que no es posible realizar una correcta valoración de los impactos. 
 
@@ -78,8 +81,26 @@ Resulta imprescindible llevar a cabo un estudio de campo que permita conocer al 
 - [eBird / Laguna de Gallocanta RN--Centro de Interpretación (A-1507)](https://ebird.org/hotspot/L5430873/bird-list) 40.929009, -1.465497 con 126 especies y presencia de avutardas y ortegas.
 
 
+# SEXTA Alternativa 0 (ANEXO VI Cuarenta y uno)[^1b]
+
+Contra lo que afirma el promotor (descarte Alternativa 0; [EsIA:21]) una vez, debiera haber seguido lo dispuesto en el Anexo VI modificado mediante la Ley 9/18, el cual establece, *conceptos técnicos y especificaciones relativas a las obras, instalaciones o actividades comprendidas en los anexos I y II*. En el caso de la Alternativa 0, la legislación básica estatal exige un Examen de alternativas:
 
 
+>*a) **Un examen multicriterio**, estudiado por el promotor, de las distintas alternativas que resulten ambientalmente más adecuadas, y sean relevantes para el proyecto, incluida la alternativa cero, o de no actuación, y que sean técnicamente viables para el proyecto propuesto y sus características específicas; y una justificación de la solución propuesta, incluida una comparación de los efectos medioambientales, que tendrá en cuenta diversos criterios, como el económico y el funcional, y entre los que se incluirá una comparación de los efectos medioambientales. La selección de la mejor alternativa deberá estar soportada por un análisis global multicriterio, donde se tenga en cuenta, no sólo aspectos económicos, sino también los de carácter social y ambiental* Anexo VI, Parte A.2
+
+Así, a la vista de los hechos, se concluye que el EsIA no cumple con la legalidad vigente, una vez más.
+
+# SÉPTIMA EFECTOS SINÉRGICOS Y ACUMULATIVOS
+El promotor confunde sinergias de flora y fauna con el proyecto propuesto y los efectos sinérgicos y acumulativos del proyecto en relación con otros proyectos. Análisis este último que no consta en el EsIA, pese a que está establecido dentro del citado Anexo VI, más en concreto en el apartado veinticuatro, 1 e.2º de la modificación de la Ley 21/13 en su redacción dada por la Ley 9/18. Si bien hay un análisis de algunos efectos; no lo hace sobre en relación con otros proyectos, este es parcial y cualitativo; es decir, que el EsIA falta a la verdad[^2] porque emplea una fórmula que sólo se emplea para análisis cualitativos: *I= (3IN+2EX+MO+PE+RV+SI+AC+EF+PR+MC)* [EsIA:24]
+
+SEO/BirdLife SOLICITA,
+
+...
+
+No obstante, en caso de que finalmente el Proyecto saliera adelante, remitimos una serie consideraciones que se deberían tener en cuenta en el preceptivo ESTUDIO DE IMPACTO AMBIENTAL, 
+>dentro de un procedimiento de Evaluación Ambiental Ordinaria, en línea con lo expuesto en las consideraciones previas, toda vez que, consultada la cartografía oficial del Gobierno de Aragón, las parcelas afectadas por el proyecto incluyen la presencia de ejemplares de Centaurea pinnata (ver Mapa 1) 
 
 ----
-[^1]: *Ley 9/2018, de 5 de diciembre, por la que se modifica la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la Ley 21/2015, de 20 de julio, por la que se modifica la Ley 43/2003, de 21 de noviembre, de Montes y la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero* BOE Núm. 294 Jueves 6 de diciembre de 2018 Sec. I. Pág. 119858
+[^1a,b]: *Ley 9/2018, de 5 de diciembre, por la que se modifica la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la Ley 21/2015, de 20 de julio, por la que se modifica la Ley 43/2003, de 21 de noviembre, de Montes y la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero* BOE Núm. 294 Jueves 6 de diciembre de 2018 Sec. I. Pág. 119858
+
+[^2]: *Este promedio, ofrece una valoración cuantitativa de las alternativas estudiadas* [EsIA:26]
