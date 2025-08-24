@@ -1,9 +1,11 @@
 ## CONSIDERACIONES PREVIAS
 1. El Estudio de Impacto Ambiental [EsIA] se redacta en aplicación de la Ley 11/14 Prevención y Protección Ambiental de Aragón:
 
->*Se indica en este informe que este solo se emite a los efectos ambientales en lo referente a la concesión de aguas subterráneas procedentes del pozo y se recuerda que la puesta en riego de 13,69 ha, se encuentra como supuesto contemplado en el Anexo II Grupo 1, epígrafe 1.3.2 Proyectos de transformación a regadío o de avenamiento de terrenos, cuando afecten a una superficie superior a 10 ha, de la Ley 11/2014, de 4 de diciembre, de Prevención y Protección Ambiental de Aragón. Es por ello que se encuentra sujeta al procedimiento de impacto ambiental simplificado* 
+>*Se indica en este informe que este **solo se emite a los efectos ambientales en lo referente a la concesión de aguas subterráneas procedentes del pozo** y se recuerda que la puesta en riego de 13,69 ha, se encuentra como supuesto contemplado en el Anexo II Grupo 1, epígrafe 1.3.2 Proyectos de transformación a regadío o de avenamiento de terrenos, cuando afecten a una superficie superior a 10 ha, de la Ley 11/2014, de 4 de diciembre, de Prevención y Protección Ambiental de Aragón. Es por ello que se encuentra sujeta al procedimiento de impacto ambiental simplificado* 
 ----
-— ESTUDIO DE IMPACTO AMBIENTAL PARA EVALUACIÓN SIMPLIFICADA TRANSFORMACIÓN DE SECANO A REGADÍO A PARTIR DE AGUAS SUBTERRÁNEAS DE LAS PARCELAS 2 Y 10 DEL POLÍGONO 504 DE TORRALBA DE LOS SISONES (TERUEL) Ref. EIAs-INJL-25 Junio 2025 [EsIA]
+— ESTUDIO DE IMPACTO AMBIENTAL PARA EVALUACIÓN SIMPLIFICADA TRANSFORMACIÓN DE SECANO A REGADÍO A PARTIR DE AGUAS SUBTERRÁNEAS DE LAS PARCELAS 2 Y 10 DEL POLÍGONO 504 DE TORRALBA DE LOS SISONES (TERUEL) Ref. EIAs-INJL-25 Junio 2025 [EsIA:5]
+
+Cabe evidenciar que los redactores, si bien titulan como se cita, lo califican de informe y **sólo referido a la concesión de de aguas subterráneas**, sin analizar el impacto de la puesta en regadío.
 
 2. Sin embargo, también le es de **obligada aplicación la legislación básica estatal**; en este caso la modificación de la Ley 21/13 mediante la Ley 9/2018, de 5 de diciembre, por la que se modifica la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la Ley 21/2015, de 20 de julio, por la que se modifica la Ley 43/2003, de 21 de noviembre, de Montes y la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero (BOE Núm. 294 Jueves 6 de diciembre de 2018 Sec. I. Pág. 119858) [L918]
 
@@ -46,20 +48,15 @@ Criterio no abordado en el EsIA del promotor
 >*g) Los riesgos para la salud humana (por ejemplo debido a la contaminación del agua, del aire, o la contaminación electromagnética)*
 *Criterio no abordado en el EsIA del promotor
 
-2. Ubicación de los proyectos: La sensibilidad medioambiental de las áreas
-geográficas, que puedan verse afectadas por los proyectos, deberá considerarse
-teniendo en cuenta los principios de sostenibilidad, en particular:
-a) El uso presente y aprobado del suelo.
-b) La abundancia relativa, la disponibilidad, la calidad y la capacidad
-regenerativa de los recursos naturales de la zona y su subsuelo (incluidos el suelo,
-la tierra, el agua y la biodiversidad).
-c) La capacidad de absorción del medio natural, con especial atención a las
-áreas siguientes:
-1.º Humedales, zonas ribereñas, desembocaduras de ríos
+6. Además, el Anexo III en su apartado segundo, establece una serie de criterios, a destacar la *capacidad de absorción del medio natural, con especial atención a los humedales*[cita]
 
+> *2. Ubicación de los proyectos: La sensibilidad medioambiental de las áreas geográficas, que puedan verse afectadas por los proyectos, deberá considerarse teniendo en cuenta los principios de sostenibilidad, en particular:*
+>> *a) El uso presente y aprobado del suelo.*
+>> *b) La abundancia relativa, la disponibilidad, la calidad y la capacidad regenerativa de los recursos naturales de la zona y su subsuelo (incluidos el suelo, la tierra, el agua y la biodiversidad).*
+>>*c) La capacidad de absorción del medio natural, con especial atención a las áreas siguientes:*
 
-
-
+>>> *1.º Humedales, zonas ribereñas, desembocaduras de ríos*
+>>>...
 
 
 
