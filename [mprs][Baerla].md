@@ -29,7 +29,8 @@ A continuación tienes una tabla con los hitos clave (MA-8 y trámites relaciona
 \[¹]: Memoria técnica — **Modificación Aislada nº 8 (MA-8)** (febrero 2007).
 
 * Documento oficial alojado en el Ayuntamiento de Zaragoza / archivo de planeamiento:
-  [https://www.zaragoza.es/contenidos/urbanismo/pgouz/MA8/Memoria.pdf](https://www.zaragoza.es/contenidos/urbanismo/pgouz/MA8/Memoria.pdf)
+  
+  [Nº8: Colindantes a Empresarium](https://www.zaragoza.es/sede/portal/urbanismo/planeamiento/_pgouz-actual/_modificaciones/modificaciones-n8)
 
 \[²]: Actos del **Pleno Municipal — 25 de enero de 2008** (orden del día / sesiones plenarias del Ayuntamiento de Zaragoza). Consultar actas y acuerdos en el portal de plenos:
 
