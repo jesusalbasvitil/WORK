@@ -249,7 +249,7 @@ En Doñana se crearon refugios artificiales consistentes en 120 grupos de tronco
 - *Malpolon monspessulanus* (Culebra bastarda)
 - Salamandras y tritones en ambientes húmedos
 
-#### 🔨 Construcción TIPO B - Paso a Paso Para Principiantes
+#### Construcción TIPO B-Paso a Paso Para Principiantes
 
 **¿Qué Necesitas?**
 - 8-12 troncos o ramas gruesas (15-25cm diámetro, 1-2m largo)

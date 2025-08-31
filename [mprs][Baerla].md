@@ -1,3 +1,5 @@
+jesusalbasvitil/wiki/[mprs][Baerla].md
+
 [text](https://chatgpt.com/share/68af36aa-9ad4-800d-a351-d786f115a615)
 
 Perfecto — aquí tienes la versión en **Markdown** con una **tabla cronológica** y **notas al pie numeradas** $¹$ $²$ que enlazan a los documentos / páginas que he encontrado y que permiten comprobar las afirmaciones. He incluido tanto las fuentes directamente vinculadas a *MA-8 / Empresarium* como las referencias de INAGA y BOA que sirven para verificar el marco procedimental.
