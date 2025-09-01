@@ -1,10 +1,6 @@
 jesusalbasvitil/wiki/[mprs][Baerla].md
 
-[text](https://chatgpt.com/share/68af36aa-9ad4-800d-a351-d786f115a615)
-
-Perfecto — aquí tienes la versión en **Markdown** con una **tabla cronológica** y **notas al pie numeradas** $¹$ $²$ que enlazan a los documentos / páginas que he encontrado y que permiten comprobar las afirmaciones. He incluido tanto las fuentes directamente vinculadas a *MA-8 / Empresarium* como las referencias de INAGA y BOA que sirven para verificar el marco procedimental.
-
----
+[](https://chatgpt.com/share/68af36aa-9ad4-800d-a351-d786f115a615)
 
 # Informe — Condicionado urbanístico y ambiental sobre **Empresarium** (2004 → adelante)
 
@@ -43,13 +39,16 @@ A continuación tienes una tabla con los hitos clave (MA-8 y trámites relaciona
 [³]: Buscador y listados del **Boletín Oficial de Aragón (BOA)** — búsquedas por fechas y publicación de acuerdos (ej.: junio 2008). Útil para localizar la publicación concreta de la Junta de Gobierno Local (23/05/2008) y las publicaciones relacionadas:
 
 * [https://www.boa.aragon.es/](https://www.boa.aragon.es/) (buscador / búsqueda por fecha).
-  (Una búsqueda por la fecha 10-06-2008 o por “Junta de Gobierno Local 23 mayo 2008” en el BOA devuelve el registro de ese periodo; aquí está el listado de 10-jun-2008 como ejemplo de índice: [https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?BASE=BOLE\&CMD=VERLST\&DOCS=1-200\&PUBL=20080610\&SEC=BUSQUEDA\_FECHA\&SEPARADOR=](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?BASE=BOLE&CMD=VERLST&DOCS=1-200&PUBL=20080610&SEC=BUSQUEDA_FECHA&SEPARADOR=))
+  (Una búsqueda por la fecha 10-06-2008 o por “Junta de Gobierno Local 23 mayo 2008” en el BOA devuelve el registro de ese periodo; aquí está el listado de 10-jun-2008 como ejemplo de índice: [https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?BASE=BOLE\&CMD=VERLST\&DOCS=1-200\&PUBL=20080610\&SEC=BUSQUEDA\_FECHA\&SEPARADOR=](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?BASE=BOLE&CMD=VERLST&DOCS=1-200&PUBL=20080610&SEC=BUSQUEDA_FECHA&SEPARADOR=)
 
 [⁴]: **Sentencia administrativa (recurso nº 458/2008, Sentencia nº 603, 29-10-2012)** — en el PDF de jurisprudencia municipal aparece la cita: *“El INAGA el 16/1/2006 informa que 'La Declaración de Impacto Ambiental deberá realizarse de forma previa a la aprobación por el órgano...'”* — es la referencia que documenta la exigencia del INAGA en relación al expediente MA-8.
 
 * PDF de la sentencia: [https://www.zaragoza.es/cont/paginas/jurisprudencia/pdf/S603-29-10-2012.pdf](https://www.zaragoza.es/cont/paginas/jurisprudencia/pdf/S603-29-10-2012.pdf)
 
-[⁵]: *el INAGA informa favorablemente la Modificación, imponiendo como condiciones la exclusión del ámbito de modificación de los suelos incluidos en el L.I.C. “Planas y Estepas de la Margen Derecha del Ebro”, el establecimiento de una banda exterior al límite del espacio de una anchura de 1.000 metros para uso de Zona Verde, y la obligación de someter el proyecto de urbanización al trámite de evaluación de impacto ambiental* Contestación Terinza.pdf C:\Users\jesus\Downloads\[50oe0092][SEO]![mprs][Baerla]\terrenos LIC esteparios Polígono Empresarium
+[^5]: 
+*CUARTO.-*
+*...*
+*el INAGA informa favorablemente la Modificación, imponiendo como condiciones la exclusión del ámbito de modificación de los suelos incluidos en el L.I.C. “Planas y Estepas de la Margen Derecha del Ebro”, el establecimiento de una banda exterior al límite del espacio de una anchura de 1.000 metros para uso de Zona Verde, y la obligación de someter el proyecto de urbanización al trámite de evaluación de impacto ambiental* Contestación Terinza.pdf C:\Users\jesus\Downloads\[50oe0092][SEO]![mprs][Baerla]\terrenos LIC esteparios Polígono Empresarium
 
 
 \[⁶]: Ejemplo de **resolución de formulación / DIA** publicada en BOA (15-may-2006): muestra el formato y práctica de INAGA / BOA en 2006 para la formulación de DIAs (no es la DIA textualmente de Empresarium, pero es representativa del procedimiento y aparece en BOA).
