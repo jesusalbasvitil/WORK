@@ -1,0 +1,29 @@
+jesusalbasvitil/wiki/[mprs][Baerla][PE][El Coto].md
+{
+ "AEROS FUNCIONAMIENTO": [
+  {
+   "type": "Feature",
+   "id": "2968",
+   "featurereport": null,
+   "displayfield": null,
+   "layername": "AEROS FUNCIONAMIENTO",
+   "layertitle": "AEROS FUNCIONAMIENTO",
+   "layerinfo": null,
+   "properties": {
+    "qc_id": "2968",
+    "aoconstruc": "NULL",
+    "parque": "PE El Coto",
+    "titular": "Energía Inagotable del Proyecto El Coto, S.L.",
+    "potencia": "5"
+   },
+   "clickPos": [
+    -94103.93242503416,
+    5094740.66288174
+   ],
+   "displayname": "NULL"
+  }
+
+  https://qgiscloud.com/EcologistasAccionAragon/Energias_Renovables_y_Mineria_Aragon/?l=AEROS%20EN%20TRAMITE%2CPOLIGONALES%20PE%20TRAMITE%2CAEROS%20FUNCIONAMIENTO%2CPSFV%20EN%20TRAMITE%2CPSFV%20EN%20FUNCIONAMIENTO%2CALMACENAMIENTO%2Cplanta%20ALMACENAMIENTO%2CBIOGAS-BIOMETANO%2Cplanta%20BIOGAS-BIOMETANO%2CHIDR%C3%93GENO%20VERDE%2CLINEAS%20PROYECTADAS%2CCENTRO%20DE%20DATOS%2CCUADR%C3%8DCULA%20CONCESI%C3%93N%2CEXPLOTACIONES%20MINERAS%2CPERMISO%20DE%20INVESTIGACI%C3%93N%2CAreas%20esteparias!%2CZEPA!%2CLIC%20ZEC!%2CIBAS!%2C%C3%81rea%20Cr%C3%ADtica%20Especies!%2CAmbito%20Protecci%C3%B3n%20Especies!%2CGoogleSatelite!%2COpenStreetMap&t=Energias_Renovables_y_Mineria_Aragon&e=-109486%2C5087427%2C-80869%2C5100825
+
+ https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1074316044242&type=pdf 
+}
