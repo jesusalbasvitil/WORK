@@ -176,7 +176,7 @@
 **12 de julio de 2008**
 - Publicación en Boletín Oficial de la Provincia de Zaragoza
 
----
+----
 
 ### **RECURSO CONTENCIOSO-ADMINISTRATIVO**
 
@@ -190,7 +190,7 @@
 **18 de junio de 2009**
 - **TERINZA 26, S.L. presenta contestación a la demanda**
 
----
+----
 
 ## **ORGANISMOS INTERVINIENTES**
 El documento menciona la intervención de **17 organismos diferentes**:
