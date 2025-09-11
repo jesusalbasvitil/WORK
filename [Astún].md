@@ -1,72 +1,23 @@
-3. Tramitación, consultas e información pública de la evaluación ambiental estratégica
-simplificada del PIGA
-Con fecha 4 de junio de 2025 entra en el Registro Electrónico General de Aragón el
-Documento Ambiental Estratégico para dar cumplimiento al requerimiento del órgano
-ambiental. Orden FOM/663/2025, de 11 de junio, por la que se modifica la Orden
-FOM/1220/2024 de 7 de octubre de 2024 por la que se aprobó inicialmente el Proyecto de
-Interés General de Aragón para la unión de Estaciones de Astún y Candanchú mediante
-transporte por cable promovido por la mercantil Sociedad de Promoción y Gestión del
-Turismo Aragonés S.L.U., al objeto de incluir en dicho Proyecto de Interés General y aprobar
-inicialmente, el Documento Ambiental Estratégico presentado por la promotora.
-En el “Boletín Oficial de Aragón” número 115, de 18 de junio de 2025, se publica la Orden
-FOM/663/2025, de 11 de junio, por la que se modifica la Orden FOM/1220/2024 de 7 de
-octubre de 2024 por la que se aprobó inicialmente el Proyecto de Interés General de Aragón
-para la unión de Estaciones de Astún y Candanchú mediante transporte por cable
-promovido por la mercantil Sociedad de Promoción y Gestión del Turismo Aragonés SLU, al
-objeto de incluir en dicho Proyecto de Interés General y aprobar inicialmente, el Documento
+3. Tramitación, consultas e información pública de la evaluación ambiental estratégica simplificada del PIGA
+Con fecha 4 de junio de 2025 entra en el Registro Electrónico General de Aragón el Documento Ambiental Estratégico para dar cumplimiento al requerimiento del órgano ambiental. Orden FOM/663/2025, de 11 de junio, por la que se modifica la Orden FOM/1220/2024 de 7 de octubre de 2024 por la que se aprobó inicialmente el Proyecto de Interés General de Aragón para la unión de Estaciones de Astún y Candanchú mediante transporte por cable promovido por la mercantil Sociedad de Promoción y Gestión del Turismo Aragonés S.L.U., al objeto de incluir en dicho Proyecto de Interés General y aprobar inicialmente, el Documento Ambiental Estratégico presentado por la promotora. En el “Boletín Oficial de Aragón” número 115, de 18 de junio de 2025, se publica la Orden FOM/663/2025, de 11 de junio, por la que se modifica la Orden FOM/1220/2024 de 7 de octubre de 2024 por la que se aprobó inicialmente el Proyecto de Interés General de Aragón
+para la unión de Estaciones de Astún y Candanchú mediante transporte por cable promovido por la mercantil Sociedad de Promoción y Gestión del Turismo Aragonés SLU, al objeto de incluir en dicho Proyecto de Interés General y aprobar inicialmente, el Documento
 Ambiental Estratégico presentado por la promotora.
-Con fecha 18 de junio de 2025, se publica en el “Boletín Oficial de Aragón” número 115 el
-Anuncio de la Dirección General de Planificación Estratégica y Logística, por el que se
-somete a información y participación pública el Documento Ambiental Estratégico incluido en
-el Proyecto de Interés General de Aragón para la unión de Estaciones de Astún y
-Candanchú mediante transporte por cable promovido por la mercantil Sociedad de
-Promoción y Gestión del Turismo Aragonés SLU. El plazo para la presentación de
-alegaciones otorgado es de un mes a contar desde el siguiente al de la publicación de este
-anuncio en el "Boletín Oficial de Aragón" y el trámite de información pública tendrá por único
-objeto realizar alegaciones relativas a cuestiones propias del referido Documento Ambiental
-Estratégico.
+Con fecha 18 de junio de 2025, se publica en el “Boletín Oficial de Aragón” número 115 el Anuncio de la Dirección General de Planificación Estratégica y Logística, por el que se somete a información y participación pública el Documento Ambiental Estratégico incluido en el Proyecto de Interés General de Aragón para la unión de Estaciones de Astún y
+Candanchú mediante transporte por cable promovido por la mercantil Sociedad de Promoción y Gestión del Turismo Aragonés SLU. El plazo para la presentación de
+alegaciones otorgado es de un mes a contar desde el siguiente al de la publicación de este anuncio en el "Boletín Oficial de Aragón" y el trámite de información pública tendrá por único objeto realizar alegaciones relativas a cuestiones propias del referido Documento Ambiental Estratégico.
 Se han recibido las respuestas, informes y alegaciones que se detallan a continuación:
-- Mancomunidad Alto Valle del Aragón, informa que desde esta Mancomunidad no se tiene
-nada que alegar en esta fase del procedimiento, recordando que, dicho proyecto dispone de
-todo el apoyo institucional por parte de la Mancomunidad Alto Valle del Aragón, habiendosido aprobado por su Pleno tanto convenios de colaboración, como el expediente de
-contratación del proyecto técnico y obra para su ejecución.
-- Confederación Hidrográfica del Ebro, remite informe en el que indica que, en relación con
-el asunto de referencia, se comunica que este Organismo ya se ha pronunciado sobre el
-mismo mediante resolución de fecha 10 de julio de 2025 por la que se informa el
-instrumento en lo que respecta a las competencias de este Organismo. Dicho informe fue
-emitido en el marco del expediente con número de referencia 2024-OU-417 a petición del
-Departamento de Fomento, Vivienda, Logística y Cohesión Territorial del Gobierno de
-Aragón. Indica que, dado que se trata del mismo instrumento, y en consecuencia no procede
-la realización de un segundo informe, se remite al Órgano sustantivo el informe emitido para
-su conocimiento y su toma en consideración en el marco de la evaluación ambiental.
-- Dirección General de Transportes, analizada la documentación aportada informa que, esta
-Dirección General no es competente en materia medioambiental y que, según la Ley 4/1964,
-de 29 de abril, sobre concesión de teleféricos, la explotación de teleféricos de servicio
-público se hará en régimen de concesión administrativa y durante la tramitación del proceso
-constructivo deberá cumplir lo establecido en la normativa que le resulta de aplicación, y que
+
+- Mancomunidad Alto Valle del Aragón, informa que desde esta Mancomunidad no se tiene nada que alegar en esta fase del procedimiento, recordando que, dicho proyecto dispone de todo el apoyo institucional por parte de la Mancomunidad Alto Valle del Aragón, habiendosido aprobado por su Pleno tanto convenios de colaboración, como el expediente de contratación del proyecto técnico y obra para su ejecución.
+
+- Confederación Hidrográfica del Ebro, remite informe en el que indica que, en relación con el asunto de referencia, se comunica que este Organismo ya se ha pronunciado sobre el mismo mediante resolución de fecha 10 de julio de 2025 por la que se informa el
+instrumento en lo que respecta a las competencias de este Organismo. Dicho informe fue emitido en el marco del expediente con número de referencia 2024-OU-417 a petición del Departamento de Fomento, Vivienda, Logística y Cohesión Territorial del Gobierno de Aragón. Indica que, dado que se trata del mismo instrumento, y en consecuencia no procede la realización de un segundo informe, se remite al Órgano sustantivo el informe emitido para su conocimiento y su toma en consideración en el marco de la evaluación ambiental.
+
+- Dirección General de Transportes, analizada la documentación aportada informa que, esta Dirección General no es competente en materia medioambiental y que, según la Ley 4/1964, de 29 de abril, sobre concesión de teleféricos, la explotación de teleféricos de servicio público se hará en régimen de concesión administrativa y durante la tramitación del proceso constructivo deberá cumplir lo establecido en la normativa que le resulta de aplicación, y que
 se detalla en el informe.
-- Dirección General de Patrimonio Cultural, analizada la documentación aportada comunica
-que, en materia de Patrimonio Arqueológico, fueron realizadas prospecciones arqueológicas
-(exp. 204/2024), fruto de las cuales se identificaron afecciones potenciales sobre una
-posición fortificada. Asimismo, se confirmó que el proyecto afecta al entorno de varios
-Bienes de Interés Cultural Declarados: Hospital de Santa Cristina de Somport, Camino de
-Santiago y el Castillo de Candanchú. Por este motivo se emitió una resolución al respecto
-(CSVGH5DBXR2F31L0XFIL) que establecía una serie de medidas que deben ser tenidas
-en cuenta en la ejecución del proyecto. En lo que respecta a Patrimonio Paleontológico, se
-constata la realización de prospecciones paleontológicas preventivas (Exp. Actuación
-Paleontológica: 210/2024) habiéndose emitido resolución al respecto donde se dan por
-finalizadas adecuadamente las prescripciones preventivas en dicha materia sin medidas
-correctoras
-adicionales
-(http://www.aragon.es/verificadoc
-con
-CSV
-CSVWY03L4J6GQ1T0XFIL.). No obstante, se recuerda que en el supuesto de hallarse
-restos fósiles de interés patrimonial deberá comunicarlo de forma inmediata a la Dirección
-General de Patrimonio Cultural, según se contempla en el artículo 69 de la Ley 3/1999, de
-10 de marzo, del Patrimonio Cultural Aragonés. Por lo tanto, esta Dirección General de
-Patrimonio Cultural considera, dentro de su ámbito de competencias, que el condicionado
-ambiental deberá incorporar la Resolución emitida por la Dirección General de Patrimonio
+
+- Dirección General de Patrimonio Cultural, analizada la documentación aportada comunica que, en materia de Patrimonio Arqueológico, fueron realizadas prospecciones arqueológicas (exp. 204/2024), fruto de las cuales se identificaron afecciones potenciales sobre una posición fortificada. Asimismo, se confirmó que el proyecto afecta al entorno de varios Bienes de Interés Cultural Declarados: Hospital de Santa Cristina de Somport, Camino de Santiago y el Castillo de Candanchú. Por este motivo se emitió una resolución al respecto (CSVGH5DBXR2F31L0XFIL) que establecía una serie de medidas que deben ser tenidas en cuenta en la ejecución del proyecto. En lo que respecta a Patrimonio Paleontológico, se constata la realización de prospecciones paleontológicas preventivas (Exp. Actuación Paleontológica: 210/2024) habiéndose emitido resolución al respecto donde se dan por finalizadas adecuadamente las prescripciones preventivas en dicha materia sin medidas correctoras adicionales
+No obstante, se recuerda que en el supuesto de hallarse
+restos fósiles de interés patrimonial deberá comunicarlo de forma inmediata a la Dirección General de Patrimonio Cultural, según se contempla en el artículo 69 de la Ley 3/1999, de 10 de marzo, del Patrimonio Cultural Aragonés. Por lo tanto, esta Dirección General de Patrimonio Cultural considera, dentro de su ámbito de competencias, que el condicionado ambiental deberá incorporar la Resolución emitida por la Dirección General de Patrimonio
 Cultural de las actuaciones de prospección arqueológica llevadas a cabo en relación con el
 proyecto. Igualmente, deberá remitirse a la Comisión Provincial de Patrimonio Cultural de
 Huesca para valorar el impacto y la compatibilidad del proyecto sobre el entorno de los
@@ -338,3 +289,65 @@ Por último, con fecha de 27 de agosto de 2025 la Dirección General de Planific
 Estratégica y Logística da traslado del documento ambiental estratégico revisado en agosto
 de 2025 por el promotor en respuesta a requerimiento realizado por la citada Dirección
 General.
+
+# PIGA Astún-Candanchú: Chronological Timeline of Key Milestones
+
+## 2024
+
+### October 2024
+- **Initial PIGA Approval**: Order FOM/1220/2024 of October 7, 2024 initially approved the General Interest Project of Aragón for the union of Astún and Candanchú stations via cable transport
+- **Safety Report**: The Civil Protection and Security Service issued a report on the project (reference IU-1506-2024)
+- **FCQ Allegations**: Fundación para la Conservación del Quebrantahuesos presented allegations to the referenced PIGA
+
+### November 2024
+- **Heritage Commission Communication**: Modification of cable car route (specifically pillar 06) was communicated to the Provincial Commission of Cultural Heritage of Huesca in response to reports and allegations received
+
+## 2025
+
+### February 5, 2025
+- **Urban Planning Report**: Urban planning report issued detailing expected special effects on settlement systems and housing
+
+### June 2025
+
+#### June 4, 2025
+- **Environmental Document Submission**: Strategic Environmental Document entered the General Electronic Registry of Aragón to comply with environmental body requirements
+
+#### June 11, 2025
+- **Modification Order**: Order FOM/663/2025 issued, modifying the initial order to include and initially approve the Strategic Environmental Document
+
+#### June 18, 2025
+- **Official Publication**: Order FOM/663/2025 published in the Official Bulletin of Aragón No. 115
+- **Public Information Notice**: Announcement published for public information and participation on the Strategic Environmental Document (one-month period for allegations)
+
+### July 2025
+
+#### July 10, 2025
+- **Ebro Hydrographic Confederation Report**: Resolution issued informing about the instrument regarding this Organization's competencies (file 2024-OU-417)
+
+#### July 29, 2025
+- **Heritage Commission Session**: Provincial Commission of Cultural Heritage of Huesca issued a favorable report with conditions
+
+#### July 2025 (general)
+- **Promoter Response Document**: First document from promoter responding to received allegations through information sheets
+
+### August 2025
+
+#### August 25, 2025
+- **INAGA Transfer**: General Directorate of Strategic Planning and Logistics transferred the strategic environmental document to INAGA for simplified strategic environmental assessment processing
+- **INAGA File Opening**: INAGA Expedient 500201/71A/2025/9778 opened at promoter's request
+
+#### August 27, 2025
+- **Revised Document**: Transfer of revised strategic environmental document by promoter in response to requirements from the General Directorate of Strategic Planning and Logistics
+
+#### August 2025 (general)
+- **Second Promoter Response**: Second document from promoter responding to received allegations
+
+---
+
+## Key Ongoing Processes
+
+- **Archaeological Prospections**: Completed (exp. 204/2024) - identified potential effects on fortified position and confirmed project affects environment of several Cultural Interest Assets
+- **Paleontological Prospections**: Completed preventive surveys (Exp. 210/2024) - concluded adequately without additional corrective measures
+- **Heritage Commission Review**: Pending official response regarding route revision
+- **Multiple Administrative Reports**: Various directorate reports received (Transport, Cultural Heritage, Urban Planning, Interior and Emergencies)
+- **Stakeholder Allegations**: Responses provided to various organizations including FCQ and SAPAP
