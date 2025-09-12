@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 [Analyze this legal text and find any inconsitencies and bad praxis in relation to arangonese and spanish legislation](https://claude.ai/public/artifacts/b121a733-3d09-4dcf-b976-2dfd71948c52)
-=======
 <!--Come back to reanalyze this text and find misinterpretation, procedural errors from the articles named from regional law-->
->>>>>>> a2be720bac0ae9dcda573784cd9040bbc46ab2ca
 
-<<<<<<< HEAD
 
 # Legal Analysis with ECJ Case Law References
 
@@ -78,7 +74,6 @@ These deficiencies could expose the resolution to successful legal challenges ba
 ----
 
 Come back to reanalyze this text and find misinterpretation, procedural errors from the articles named from regional law
-=======
 <!--The analysis reveals severe misinterpretations and procedural errors in how the Aragonese administration is applying its own regional law. The most critical finding is the systematic transformation of mandatory legal obligations ("deberán," "se encuentran sometidos") into discretionary options, particularly regarding Article 41.2's strict conditions for procedural consolidation.
 The resolution demonstrates a fundamental failure to understand that Article 41.2's permission to consolidate procedures ("podrá acordar") is conditional upon meeting specific legal requirements, not an unlimited administrative discretion. This misapplication could render the entire resolution legally vulnerable to administrative challenge under both Spanish and European law.-->
 
@@ -243,4 +238,3 @@ Estos errores configuran un supuesto de **nulidad de pleno derecho** bajo el art
 [^19]: Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, artículo 46.
 
 [^20]: STS de 4 de junio de 2020, Sala de lo Contencioso-Administrativo, Sección 5, Ponente: Octavio Juan Herrero Pina.
->>>>>>> a2be720bac0ae9dcda573784cd9040bbc46ab2ca
