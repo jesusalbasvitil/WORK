@@ -4,7 +4,7 @@
 The resolution demonstrates a fundamental failure to understand that Article 41.2's permission to consolidate procedures ("podrá acordar") is conditional upon meeting specific legal requirements, not an unlimited administrative discretion. This misapplication could render the entire resolution legally vulnerable to administrative challenge under both Spanish and European law.-->
 
 
-[Over the last analysis, I need to dig more with references from legislation applicable and Supreme Tribunal sentences related to this case. All in markdown and footnotes [^1] with replay down [^1]](https://claude.ai/public/artifacts/1ad51513-84ef-46b2-bf35-2ed2490be626)
+[Over the last analysis, I need to dig more with references from legislation applicable and Supreme Tribunal sentences related to this case. All in markdown and footnotes [^1] with replay down [^1]:](https://claude.ai/public/artifacts/1ad51513-84ef-46b2-bf35-2ed2490be626)
 
 # Análisis Legal Profundo: Errores de Interpretación y Jurisprudencia Aplicable
 
