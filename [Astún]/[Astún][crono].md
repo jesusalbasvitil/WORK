@@ -333,7 +333,7 @@ General.
 ### August 2025
 
 #### August 25, 2025
-- **INAGA Transfer**: General Directorate of Strategic Planning and Logistics transferred the strategic environmental document to INAGA for simplified strategic environmental assessment processing
+- **INAGA Transfer**: General Directorate of Strategic Planning and Logistics transferred the strategic environmental document to INAGA `for simplified strategic environmental assessment processing`
 - **INAGA File Opening**: INAGA Expedient 500201/71A/2025/9778 opened at promoter's request
 
 #### August 27, 2025
