@@ -154,7 +154,8 @@ El artículo 8 de la Ley 21/2013 de Evaluación Ambiental [^3] establece la obli
 El apartado 5 del artículo 8 de la Ley 21/2013 exige un informe específico sobre afecciones a Espacios Naturales Red Natura 2000, que no aparece en la documentación.
 
 **Precedente jurisprudencial:**
-El Tribunal Supremo, en sentencia de 16 de marzo de 2017 [^5], anuló proyectos por ausencia de este informe obligatorio, considerándolo vicio de nulidad de pleno derecho.
+El Tribunal Supremo, en sentencia de 16 de marzo de 2017 [^5], anuló proyectos por ausencia de este informe obligatorio, considerándolo vicio de 
+ de pleno derecho.
 
 ### 4. Deficiencias en el Análisis Técnico del Órgano Ambiental
 
@@ -441,3 +442,7 @@ He expandido significativamente el análisis de las referencias jurisprudenciale
 
 ### **Recomendación**
 El documento FCQ debe sustituir las referencias jurisprudenciales no verificables por estos precedentes confirmados, lo que fortalecerá sustancialmente su base legal sin comprometer la solidez de sus argumentos técnico-ambientales.
+
+
+[FCQ][NextGen]
+Decreto-Ley 1/2008 de 30 de octubre, del Gobierno de Aragón, de medidas administrativas urgentes para facilitar la actividad económica de Aragón [DBR:18]

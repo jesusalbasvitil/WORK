@@ -1,10 +1,10 @@
 [Astún]Trámite Audiencia[TrA].md
 
 
-**Trámite de Audiencia [TA] DOCUMENTO BASE DE Resolución del Instituto Aragonés de Gestión Ambiental por la que se formula la declaración de impacto ambiental del Proyecto de unión de las estaciones de esquí de Astún y Candanchú mediante transporte por cable, en los términos municipales de Jaca y Aísa (Huesca), y se formula el informe ambiental estratégico del Plan de Interés General del Proyecto de unión de las estaciones de esquí de Astún y Candanchú mediante transporte por cable para la modificación del planeamiento del término municipal de Aísa (Huesca), promovido por la Sociedad de Promoción y Gestión del Turismo Aragonés, S.L.U. (Expedientes INAGA 5002010/01A/2025/03694 y 5002010/71A/2025/9778)** [TA]
+**Trámite de Audiencia [TrA] DOCUMENTO BASE DE Resolución [DBR] del Instituto Aragonés de Gestión Ambiental por la que se formula la declaración de impacto ambiental del Proyecto de unión de las estaciones de esquí de Astún y Candanchú mediante transporte por cable, en los términos municipales de Jaca y Aísa (Huesca), y se formula el informe ambiental estratégico del Plan de Interés General del Proyecto de unión de las estaciones de esquí de Astún y Candanchú mediante transporte por cable para la modificación del planeamiento del término municipal de Aísa (Huesca), promovido por la Sociedad de Promoción y Gestión del Turismo Aragonés, S.L.U. (Expedientes INAGA 5002010/01A/2025/03694 y 5002010/71A/2025/9778)** 
 
 5. Alternativas planteadas para el Proyecto de Unión de Estaciones Astún–Candanchú
-mediante transporte por cable [TA:47]
+mediante transporte por cable [TrA:47][DBR:47]
 
 ...
 *este tiempo puede variar en función de múltiples factores como las condiciones meteorológicas adversas, el estado y mantenimiento de las carreteras, así como el volumen de tráfico diario, especialmente en temporadas de alta afluencia. El mantenimiento de este sistema de autobús como principal medio de conexión implica ciertas consideraciones ambientales y operativas. Además, se ha calculado que las emisiones medias asociadas al trasporte de una persona es de 2,756 kg CO2/persona*
