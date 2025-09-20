@@ -1,7 +1,7 @@
 `Predrosas ![Pdrs].md versión 1`
 # INFORME SOBRE EL ESTADO ACTUAL Y ACTUACIONES EN EL PRIMILLAR DE LAS PEDROSAS (Huesca) 
 
-## CRONOLIGÍA
+## CRONOLOGÍA
 El primillar de Las Pedrosas se terminó de construir en XXXX, en el paraje conocido como XXXXX y desde entonces se ha observado la presencia regular de mochuelo, cernícalo vulgar y otros paseriformes que lo usaban como oteadero desde los primeros meses después de construido. Las cajas nido fueron usadas por estorninos como dormidero durante una temporada; y posadero -presumiblemente- por colirrojos tizones,  pero debido al vandalismo reiterado -con dos puertas sustituidas-; desde hace  al menos un año, no hay tan apenas actividad ornítica (com. pers. pte) y los rastros son antiguos, cuando antes era fácil ver egagrópilas y restos de excrementos. El pasado xxxx se colocó una puerta nueva con apertura hacia afuera y, pasados unos meses, sigue intacta. El pasado xxxx se han instalado las primeras 10 repisas -de las 36 pendientes de colocar- para favorecer la accesibilidad a las cajas nido.
 
 ## SITUACIÓN ACTUAL
