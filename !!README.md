@@ -1,17 +1,19 @@
 # LIBRO DE ESTILO
 
-
-
-## PROTOCOLO [https://drive.google.com/drive/u/2/home] [50oe0092]
+## PROTOCOLO CARPETAS [50oe0092](https://drive.google.com/drive/u/2/home)
 - #[CARPETA] Carpeta generada en Drive ![archivo] Archivo urgente
 - $[CARPETA] Carpeta de trabajo
 - ![CARPETA] Carpeta pendiente de crear en Drive
 - !"·$%[archivo] Grado de urgencia para resolver
-- &[CARPETA] Carpeta generada con documentación para NO SUBIR a Drive
-- &[archivo] Documento realizado / pendiente de envío o no
+- &[CARPETA] Carpeta generada con documentación. NO SUBIR a Drive, por peso, pasar a [Movistar Cloud Carpetas](https://micloud.movistar.es/#folders)
+
+## PROTOCOLO ARCHIVOS
+- [archivo]& Documento realizado / pendiente de envío o no
 - ->[archivo] Documento/s enviado
 
 ## SITES
+
+- [50oe0092](https://drive.google.com/drive/folders/1b44HU871G09uSPEGG_4pf887MxhXi4qS?usp=drive_link)
 - https://sites.google.com/d/1rdCwy_a6cX_IkRKHbZhYFx6plVWmOPFT/p/17oi02lEZ5HsNvZK0jvukrWODXXdAfAp9/edit
 - https://sites.google.com/view/wikigithub/en-portada
 - [658788286 jesusalbasvitil@gmail.com](https://micloud.movistar.es/#profile)
