@@ -87,6 +87,7 @@ En áreas urbanas que continúan expandiéndose y reemplazando paisajes naturale
 - Adaptabilidad a diferentes especies
 - Durabilidad estructural a largo plazo
 
+
 ## Criterios de Selección por Tipo de Hábitat
 
 ### Hábitats Mediterráneos Secos
