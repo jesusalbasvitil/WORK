@@ -1,3 +1,37 @@
+
+
+# TAREAS (GENERAL)
+
+## [Pln]
+- [Cajas-nido] Pte.  colocar las cajas con andamio. Entregadas. `Falta fecha, posición y paño` Revisión 26 sep.
+- [Paridera] Reparación muro. pte. Ppto.`Revisión 1 oct`
+- [Balsa] Reparación blandones (ejecución inmediata. `Revisión 1 oct`y colocación piedras. `pte. Ppto.`
+- [Vinilos] `Pte. colocarlos`
+- [Mqnz] Pte. registro sol.
+
+## [Astún]
+- Alegación a trámite. Registrado
+
+## [Portalet] 
+- Actos presuntos. `Pte.`
+
+## [Pas]
+- Replanteo obs. Completado
+- replanteo barra carrizal. Completado
+- Montaje de barreras a ambos lados de 2 metros con brezo  entre camino y obs. (SEO). `Pte. replanteo`
+- Repoblación de taludes con estaquillas de Tamarix (SEO/Cinca)
+- Plantación de especies dentro de los campos de regadío: almez, olmo sin grafiosis -> MITECO (Formulario Luís) y Aliso de Mequinenza (Fundación / GEN CAT / SEO) `Pte. cálculo para solicitar`
+- Delimitación pastos húmedos por ortofoto y búsqueda de referencias de carga ganadera: Camarga, Albufera, Agüamolls de yeguas/ha para control de pasto y permitir hábitat limícolas (SEO) `Pte.`
+
+## [Empresarium]
+- Solinfo. Ayto. Enviado. `24 oct, reclamar respuesta`
+- Solinfo. INAGA. Enviado. `24 oct, reclamar respuesta`
+
+## [DataCenters]
+- Dir. empresas. `Pte.`
+
+
+
 # LIBRO DE ESTILO
 
 ## PROTOCOLO CARPETAS [50oe0092](https://drive.google.com/drive/u/2/home)
