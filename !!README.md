@@ -12,7 +12,6 @@
 - ->[archivo] Documento/s enviado
 
 ## SITES
-
 - [50oe0092](https://drive.google.com/drive/folders/1b44HU871G09uSPEGG_4pf887MxhXi4qS?usp=drive_link)
 - https://sites.google.com/d/1rdCwy_a6cX_IkRKHbZhYFx6plVWmOPFT/p/17oi02lEZ5HsNvZK0jvukrWODXXdAfAp9/edit
 - https://sites.google.com/view/wikigithub/en-portada
@@ -20,11 +19,9 @@
 - [Movistar Cloud Carpetas](https://micloud.movistar.es/#folders)
 
 ## [ISSUES](https://github.com/issues)
-
 [Newest](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse) [Oldest](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Acreated-asc) [Most commented](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Acomments-desc) [Least commented](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Acomments-asc) [Recently updated](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Aupdated-desc) [Least recently updated](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Aupdated-asc) [Best match](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Arelevance-desc)
 
-Most reactions
-
+### Most reactions
 [👍](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions-%2B1-desc) [👎](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions--1-desc) [😄](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions-smile-desc) [🎉](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions-tada-desc) [😕](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions-thinking_face-desc) [❤️](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions-heart-desc) [🚀](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions-rocket-desc) [👀](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Ajesusalbasvitil+archived%3Afalse+sort%3Areactions-eyes-desc)
 
 [jesusalbasvitil/wiki](https://github.com/jesusalbasvitil/wiki) [IslandHeatPV](https://github.com/jesusalbasvitil/wiki/issues/3)
