@@ -3,7 +3,7 @@
 # TAREAS (GENERAL)
 
 ## [Pln]
-- [Cajas-nido] Pte.  colocar las cajas con andamio. Entregadas. `Falta fecha, posición y paño` Revisión 26 sep.
+- [Cajas-nido] Pte.  colocar las cajas con andamio. Entregadas. `Falta fecha, posición y paño` `Revisión 26 sep.`
 - [Paridera] Reparación muro. pte. Ppto.`Revisión 1 oct`
 - [Balsa] Reparación blandones (ejecución inmediata. `Revisión 1 oct`y colocación piedras. `pte. Ppto.`
 - [Vinilos] `Pte. colocarlos`
@@ -30,7 +30,9 @@
 ## [DataCenters]
 - Dir. empresas. `Pte.`
 
-
+## Refugio reptiles [Rfrp]
+- Redactado manual completado
+- Poster didáctico `pte.`
 
 # LIBRO DE ESTILO
 
