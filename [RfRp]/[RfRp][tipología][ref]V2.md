@@ -3,15 +3,12 @@
 # Tipología de Refugios Artificiales para Conservación de Reptiles
 
 ## Principios de Diseño de Refugios Artificiales
-
 La pérdida y degradación del hábitat, junto con su interacción con otras amenazas, está provocando el declive de las poblaciones animales en todo el mundo, siendo la creación de estructuras de hábitat artificiales un enfoque potencial para mitigar estas amenazas[¹]. Los refugios artificiales se han convertido en una herramienta efectiva tanto para el muestreo como para la conservación de herpetofauna, permitiendo la detección de hasta 357 especies pertenecientes a 47 familias en estudios globales[²].
 
 ### Fundamento Térmico de los Refugios
-
 Los refugios artificiales proporcionan hábitats térmicos adecuados para animales de sangre fría[³]. Las tejas de hormigón se han establecido como refugio artificial estándar en estudios de monitoreo, particularmente para reptiles amenazados de pastizales, debido a su alta inercia térmica, capacidad de aplanar y degradar la vegetación con el tiempo, y su capacidad de imitar mejor la cobertura rocosa en el ambiente[⁴].
 
 ### Función Ecológica Post-Perturbación
-
 Los refugios artificiales proporcionan hábitat post-incendio para pequeños vertebrados, siendo especialmente efectivos en entornos donde las amenazas interactivas de predadores invasivos e incendios constituyen problemas clave de conservación[⁵]. En España, se han implementado refugios artificiales como medida piloto en el seguimiento a largo plazo de reptiles escamosos, especialmente en ecosistemas como Doñana[⁶].
 
 ## Tipología Básica de Refugios Artificiales

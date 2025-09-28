@@ -1,0 +1,162 @@
+Me gusta escribir artículos. Tengo varios publicados en [https://es.wikipedia.org/wiki/Usuario:Jes%C3%BAs_Alba_Svitil Wikipedia en español] -y hasta alguno en [https://en.wikipedia.org/wiki/User:Jes%C3%BAs_Alba_Svitil Wikipedia en inglés]- sobre [[geografía]], [[botánica]], [[fauna]], [[fitosociología]].. No sé a vosotros pero a mi me relaja, a pesar de que; muchas veces, horas de búsqueda de datos se resumen en un ''mísero'' párrafo de apenas cinco líneas!!
+
+Aquí, el índice de artículos:
+
+= Artículos ya publicados (seguimiento y mejoras a incorporar)=
+= Artículos en proceso (DOCUMENTANDO/TALLER)=
+= Ideas para nuevos artículos (retales que voy capturando)=
+==[https://www.jolube.net/Habitat_Espana/documentos/9430.pdf Camarero, J. J., 2009. [[9430*]] Bosques montanos y subalpinos de [[Pinus uncinata]] (en sustratos yesosos o calcáreos) (*). En: VV.AA., Bases ecológicas preliminares para la conservación de los tipos de hábitat de interés comunitario en España. Madrid: Ministerio de Medio Ambiente, y Medio Rural y Marino. 64 p.]==
+
+:''No es tampoco raro encontrar el rododendro en el sotobosque de zonas de sustrato calizo donde la elevada pendiente y la pluviosidad permiten un lavado del terreno acidificándolo y adquiriendo el suelo unas condiciones similares a las observadas sobre sustratos silíceos'' [9430*:11] 
+
+:''presenta un área muy reducida ya que sus requerimientos de suelos ácidos relativamente profundos y umbrías con acumulación de nieve, no son frecuentes en el piso subalpino de Navarra, donde predominan los relieves karsticos. La etapa climácica es un pinar de Pinus uncinata acidófilo con un sotobosque con arándanos (Vaccinium sp.pl.) y rododendros (Rhododendron ferrugineum). La azalea forma precisamente el matorral alto de sustitución más característico de esta serie. En su dominio también se encuentran brezales de Calluna vulgaris y más puntualmente matorrales de otabera. Los pastizales más extendidos son los cerrillares, en Lakora los pastizales de Festuca eskia y en los suelos más someros o menos ácidos pastizales quionófilos altimontano-subalpinos''
+:''Ecología: piso subalpino; ombrotipo hiperhúmedo-ultrahiperhúmedo; suelos ácidos, con frecuencia arenosos, '''sobre calizas o flysch''' [https://www.navarra.es/mapacultivos/htm/serie_RfPu_01.htm Serie de los pinares de pino negro acidófilo-[[esciófilos]]]
+
+Este tipo de bosques se asientan en su mayor parte sobre sustrato calcáreo y por tanto, las reseñas reproducidas se prestan a confusión [https://www.navarra.es/mapacultivos/htm/ass_RfPu.htm Pinares de pino negro acidófilos], replicada en el Manual de Hábitats de Navarra<ref>''6.3.3.2 Pinares de pino negro (Pinus uncinata) acidófilos'' Manual de Hábitats de Navarra, Javier Peralta et al. Departamento de Desarrollo Rural, Medio Ambiente y Administración Local, Gobierno de Navarra. 2ª edición 2018.p.462</ref> salvo lo reseñado en negrita en la última cita. Sin embargo, otras comunidades autónomas de España definen estos hábitats de forma diferente<ref>:''* 42.4242 Boscos de pi negre (Pinus uncinata), calcícoles i xeròfils, dels solells pirinencs ALP''
+''* 42.425 Boscos de pi negre (Pinus uncinata), calcícoles i mesòfils, dels obacs pirinencs ALP''
+9430* Boscos de pi negre (Pinus uncinata) sobre substrat calcari https://www.gencat.cat/mediamb/habitats/fitxeshic/9430*_fitxesZEC.pdf</ref><ref>
+''* 42.41 Pinares de pino negro (Pinus uncinata), generalmente con azalea
+de montaña (Rhododendron ferrugineum), acidófilos y mesófilos,
+de las umbrías pirenaicas''
+''* 42.42 Pinares de pino negro (Pinus uncinata), sin sotobosque de
+rododendro'' https://www.aragon.es/documents/20127/674325/9430_HIC_ALP.pdf/0dd904f5-6a26-84dc-ae4f-6e778bdc3b6d Manual de Gestión del Hábitat: Ficha de manejo y conservación. Gobierno de Aragón, mayo 2010</ref>
+
+
+==[[Parnassia palustris]] ([[Parnassiaceae]])==
+
+[[Archivo:P8166041.jpg|miniaturadeimagen|Parnassia palustris. Camp Long, La Pierre Saint Martin. 16  de agosto de 2025]]
+Planta perteneciente a la División [[Tracheophyta]], Clase [[Magnoliopsida]], Orden [[Celastrales]], Familia Parnassiaceae, Genus Parnassia<ref>[https://www.gbif.org/species/3592363 [[Parnassiaceae]] Published in: Martinov. (1820). In: Tekhno-Bot. Slovar: 456, Nom. Cons. source: Catalogue of Life]</ref>. Flora Ibérica y La Universidad de Islas Baleares [https://herbarivirtual.uib.es/es/general/1997/especie/parnassia-palustris-l-] la incluyen dentro de la Familia de las [[Saxífragas]] o [[Saxifragaceae]], mientras que [https://www.tela-botanica.org/ [[Tela Botánica]]] determinan que está dentro de la Familia de las [[Celastraceae]][https://www.tela-botanica.org/bdtfx-nn-47942-synthese]
+
+'''Parnassia palustris''' es una planta [[herbácea]] de 10-30 cms {{ibidem}}. de uno -más frecuente (''Obs. per.'')- o varios tallos floríferos al final de los cuales florece una única flor de cinco pétalos blanca a blanco-verdoso. Sus hojas se disponen mayoritariamente en roseta basal, y son [[ovato-cordiformes]] y largamente [[pecioladas]], de color verde [[glauco]].
+
+[[Archivo:Screenshot 2025-08-19 at 10-47-59 Buscador de registro de presencia.png|miniaturadeimagen|alt=https://www.gbif.org/es/species/3032585/treatments|Distribución mundial de Parnassia palustris Fuente: https://www.gbif.org/es/species/3032585/treatments]]
+'''Parnassia palustris''' es una [[freatofita]] de prados muy húmedos, de distribución paleártica<ref>:''Pastos húmedos, turberas y lugares ± permanentemente encharcados; 150-3000 m. VII-X. Europa, Asia templada, N de África (Atlas), N de América –a las plantas del N de América a veces se les ha dado nombre varietal o subespecífico–. Mitad N de la Península, en la mitad S ligado a zonas de montaña'' [http://www.floraiberica.es/floraiberica/texto/pdfs/05_086_03%20Parnassia.pdf Flora Ibérica vol LXXXVI. SAXIFRAGACEAE 3. Parnassia, p.245]</ref>
+
+
+===[[Ecología]]===
+El óptimo ecológico de '''Parnassia palustris''' desde el punto de vista climático es un entorno casi desprovisto de sombra ([[Perheliófilo]]), en un ambiente de un 80% de humedad relativa, 7-10ºC de media anual y 21ºC de media anual de las máximas<ref>''caractéristiques climatiques''<br><br>
+* ''Lumière 	1 : hypersciaphiles (10 lux) 2 : persciaphiles (50 lux) 3 : sciaphiles (100 lux) 4 : hémisciaphiles (1000 lux) 5 : hélioclines à sciaclines (5 000 lux) 6 : hémihéliophiles (10 000 lux) 7 : héliophiles (50 000 lux) 8 : perhéliophiles (75 000 lux) 9 : hyperhéliophiles (100 000 lux)''
+
+* ''Température 	1 : alpines à nivales, altiméditerranéennes (T≈0°C) 2 : subalpines, oroméditerranéennes (T≈5°C) 3 : montagnardes (T≈7°C) 4 : collinéennes, planitiaires psychrophiles (psychro-atlantiques, psychrocentro-européennes) (T≈9°C) 5 : planitiaires à montagnardes (T≈7-10°C) 6 : planitiaires thermophiles (thermo-atlantiques, thermocentro-européennes) et sub- à supraméditerranéennes (T≈12°C) 7 : euryméditerranéennes, méditerranéo-atlantiques (T≈13°C) 8 : mésoméditerranéennes (T≈15°C) 9 : thermoméditerranéennes à subdésertiques (inframéditerranéennes) (T≈18°C)''
+
+* ''Humidité atmosphérique 	1 : aéroxérophiles (10%) 2 : intermédiaires (20%) 3 : aéromésoxérophiles (30%) 4 : intermédiaires (40%) 5 : aéromésohydriques (50%) 6 : intermédiaires (60%) 7 : aéromésohygrophiles (70%) 8 : intermédiaires (80%) 9 : aérohydrophiles (90%)''
+
+* ''Continentalité 	1 : marines à maritimes (AT≈8°C) 2 : hyperocéaniques (AT≈10°C) 3 : océaniques (AT≈17°C) 4 : subocéaniques (AT≈19°C) 5 : intermédiaires (AT≈21°C) 6 : précontinentales (AT≈23°C) 7 : subcontinentales (AT≈25°C) 8 : continentales (AT≈30°C) 9 : hypercontinentales (AT≈40°C)'' https://www.tela-botanica.org/bdtfx-nn-47942-ecologie</ref>
+
+Su óptimo [[edáfico]] es un suelo con un pH entre 6,5-7,0; mesohigrófilo (con alguna inundación periódica); de textura arenosa; peroligotrófico (≈200 µg N/l), pobre en Nitratos; intolerante a la salinidad y turboso<ref>''caractéristiques du sol''<br><br>
+* '''''Réaction (pH)''' 	1 : hyperacidophiles(3,0<pH<4,0) 2 : peracidophiles (4,0<pH<4,5) 3 : acidophiles (4,5<pH<5,0) 4 : acidoclines (5,0<pH<5,5) 5 : neutroclines (5,5<pH<6,5) 6 : basoclines (6,5<pH<7,0) 7 : basophiles (7,0<pH<7,5) 8 : perbasophiles (7,5<pH<8,0) 9 : hyperbasophiles (8,0<pH<9,0)''
+
+* '''''Humidité'''	1 : hyperxérophiles (sclérophiles, ligneuses microphylles, réviviscentes) 2 : perxérophiles (caulocrassulescentes subaphylles, coussinets) 3 : xérophiles (velues, aiguillonnées, cuticule épaisse) 4 : mésoxérophiles 5 : mésohydriques (jamais inondé, feuilles malacophylles) 6 : mésohygroclines, mésohygrophiles 7 : hygrophiles (durée d'inondation en quelques semaines) 8 : hydrophiles (durée d'inondation en plusieurs mois) 9 : amphibies saisonnières (hélophytes exondés une partie minoritaire de l’année) 10 : amphibies permanentes (hélophytes semi-émergés à base toujours noyée) 11 : aquatiques superficielles (0-50 cm) ou flottantes 12 : aquatiques profondes (1-3 m) ou intra-aquatiques''
+
+* ''Texture 	1 : argile 2 : intermédiaire 3 : limon 4 : sable fin 5 : sable grossier 6 : graviers 7 : galets, rocailles 8 : blocs, dalles, replats rocheux 9 : fissures verticales des parois''
+
+* ''Nutriments 	1 : hyperoligotrophiles (≈100 µg N/l) 2 : peroligotrophiles (≈200 µg N/l) 3 : oligotrophiles (≈300 µg N/l) 4 : méso-oligotrophiles (≈400 µg N/l) 5 : mésotrophiles (≈500 µg N/l) 6 : méso-eutrophiles (≈750 µg N/l) 7 : eutrophiles (≈1000 µg N/l) 8 : pereutrophiles (≈1250 µg N/l) 9 : hypereutrophiles (≈1500 µg N/l)''
+
+* ''Salinité 	0 : ne supportant pas le sel 1 : hyperoligohalines, [0-0,1% Cl-] 2 : peroligohalines, [0,1-0,3% Cl-] 3 : oligohalines, [0,3-0,5% Cl-] 4 : meso-oligohalines, [0,5-0,7% Cl-] 5 : mesohalines, [0,7-0,9% Cl-] 6 : meso-euhalines, [0,9-1,2% Cl-] 7 : euhalines, [1,2-1,6% Cl-] 8 : polyhalines, [1,6-2,3% Cl-] 9 : hyperhalines, [>2,3% Cl-]''
+
+* ''Matière Organique 	1 : lithosol, peyrosol, régosol 2 : mull carbonaté 3 : mull actif 4 : mull acide 5 : moder 6 : mor, hydromor, xéromor 7 : ranker, tangel 8 : anmoor, gyttja 9 : tourbe'' {{ibidem}}</ref>
+
+===[[Fitosociología]]===
+'''Parnassia palustris''' está incluida dentro de la [[Clase fitosociológica]] del [[Scheuchzerio palustris]]-[[Caricetea nigrae]] (Nordhagen 1937) Tüxen 1937 em. Julve 1999: hemicriptófitos-geófitos de turberas holárticas<ref>[https://www.tela-botanica.org/bdtfx-nn-47942-synthese]</ref>. Más en detalle, esta planta sería característica de esta Clase y su Orden<ref>''Esta comunidad es considerada como una forma empobrecida del Caricetum maritimae de los Alpes, de la que se diferencia por la ausencia de especies propias de la cordillera alpina como Carex maritima, Carex atrofusca, Carex microglochin, Juncus arcticus, Scirpus pumilus, Tofieldia pusilla y Lomatogonium carinthiacum. Por el contrario, en el Pirineo hay otras especies como Leontodon duboisii, Eriophorum scheuchzeri o Juncus filiformis, ausentes en los Alpes. Precisamente estas tres especies, consideradas diferenciales de la asociación, son las que la distinguen de Junco triglumis-Caricetum bicoloris Doyle 1952 (= Caricetum maritimae Br.-Bl. 1918), comunidad boreártica muy parecida'' García-Rodeja, E. & Fraga, M. I., 2009. 7240 Formaciones pioneras alpinas del Caricion maritimae (*). En: VV.AA., Bases ecológicas preliminares para la conservación de los tipos de hábitat de interés comunitario en España. Madrid: Ministerio de Medio Ambiente, y Medio Rural y Marino. 36 p. [https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/espacios-protegidos/7240_tcm30-196867.pdf]</ref>. Finalmente, esta especie estaría dentro de dos [[Asociaciones fitosociológicas]] confirmadas; el [[Caricion davallianae]] y [[Caricion nigrae]]
+
+====Asociación [[Caricion davallianae]]====
+Estudios de vegetación de pequeñas plantas de [[Carex]] documentan la presencia de '''Parnassia palustris''' en el Caricion davallianae, indicando que ''La vegetación de ambas parcelas de referencia (C y D, grupos 8 y 9 respectivamente) pertenece a la asociación Carici curtae-Agrostietum caninae (Asociación de Agrostis palustre y Juncia palustre). Ambos grupos también contienen una cantidad relativamente abundante de elementos de [[Molinietalia]]. Dado que la vegetación del grupo 8 contiene elementos del [[Junco Molinion]], esta vegetación se asigna a la subasociación [[Juncetosum acutiflori]] (subasociación de Veldrus, SBB:09Aa3c). '''Parnassia palustris''' es bastante común en el sitio de referencia C''.<ref>[https://5dok.net/article/gedetailleerde-beschrijving-temporele-verschillen.rz308k7z Effectgerichte maatregelen tegen verdroging, verzuring en stikstofdepositie in beekdalen (Gelderse Achterhoek) D. van der Hoek, J. van Walsem 2004 Expertisecentrum LNV, Ministerie van Landbouw, Natuur en Voedselkwaliteit]</ref>.
+
+====Asociación [[Caricion nigrae]]====
+El mismo estudio científico documenta la presencia de '''Parnassia palustris''' también en Caricion nigrae. La investigación señala específicamente que ''Parnassia palustris se encontró solo unas pocas veces en un área perturbada'' dentro del contexto de la comparación entre Caricion davallianae y Caricion nigrae, confirmando su presencia en ambas asociaciones<ref>[https://5dok.net/article/gedetailleerde-beschrijving-temporele-verschillen.rz308k7z {{ibidem}}]</ref>.
+
+
+==[[Roble]] (Subgénero [[Quercus]])==
+El roble es el nombre dado en español a todos aquellos árboles o arbustos de la [[Familia]] de las [[Fagaceae]] -o antiguas [[Cupulíferas]] por su fruto característico: la bellota sujeta por una cúpula- y se diferencian del resto de subgéneros (coscoja, encina y alcornoque) principalmente y ''[[grosso modo]]'', por sus hojas lobuladas<ref>Hojas caducas o marcescentes, generalmente lobadas o pinnatífidas'' Aedo, C. 1997. Osyris L. in Castroviejo, S., Aedo, C., Laínz, M., Muñoz Garmendia, F., Nieto Feliner, G., Paiva, J. & Benedí, C. (eds.). Flora iberica XLI: 15-36. Real Jardín Botánico, CSIC, Madrid.[http://www.floraiberica.es/floraiberica/texto/pdfs/02_041_03_Quercus.pdf XLI. FAGACEAE
+3. Quercus]</ref>. Comprende alrededor de 500 especies que se extienden en su mayor parte por el [[Hemisferio Norte]]. Hay que reseñar que el roble en inglés -[[oak]]- también incluye a la encina ([[Holly oak]]).
+
+El roble, Subgénero [[Quercus]] -[[stricto sensu ]]- y [[Quercus cerris]] -perteneciente al Subgen. II. Cerris-comprende un número variable de especies según la fuente consultada. Según Wang et al. (2022), basándose en ''Plants of the World Online'', existen aproximadamente entre 450 y 500 especies, de las cuales 464 son aceptadas oficialmente.<ref>{{cita publicación |apellido=Wang |nombre=Bo |apellido2=Zhang |nombre2=Guang |año=2022 |título=Genomic Insights into the Diversification of Oaks |publicación=Biology |volumen=11 |número=8 |páginas=1120 |doi=10.3390/biology11081120 |url=https://pmc.ncbi.nlm.nih.gov/articles/PMC9855944/}}</ref> El informe ''Red List of Oaks 2020'', elaborado por The Morton Arboretum y la UICN, evaluó 430 especies de ''Quercus'' en su análisis de Conservación.<ref>{{cita publicación |apellido=Oldfield |nombre=S. |apellido2=Eastwood |nombre2=A. |año=2020 |título=The Red List of Oaks 2020 |editor=The Morton Arboretum |url=https://www.mortonarb.org/sites/default/files/2021-02/oaks-red-list.pdf}}</ref> Por su parte, Denk et al. (2017) y Kremer & Hipp (2020) estiman entre 400 y 500 especies a nivel global.<ref>{{cita publicación |apellido=Denk |nombre=Thomas |año=2017 |título=The evolutionary history of oaks |publicación=Annals of Forest Science |volumen=74 |número=1 |páginas=1-29 |doi=10.1007/s13595-016-0543-0}}</ref><ref>{{cita publicación |apellido=Kremer |nombre=Antoine |apellido2=Hipp |nombre2=Andrew |año=2020 |título=Oaks: An evolutionary success story |publicación=New Phytologist |volumen=226 |número=4 |páginas=987-1011 |doi=10.1111/nph.16274}}</ref> Algunos tratamientos taxonómicos más recientes sitúan el número en torno a 600 especies, aunque esta cifra es menos aceptada.<ref>{{cita publicación |apellido=Manos |nombre=Paul S. |año=2016 |título=Systematics of Fagaceae |publicación=International Oak Journal |volumen=27 |páginas=61–82}}</ref>
+
+=== Distribución ===
+El '''roble''' se extiende a nivel mundial por América del Norte, Europa, norte de Asia y Extremo Oriente
+[[Archivo:Geographic-distribution-of-the-eight-sections-of-Quercus-Distribution-data-from-Browicz.jpg|miniaturadeimagen|alt=Geographic distribution of the eight sections of Quercus. Distribution data from Browicz and Zieliński (1982), Menitsky (1984), Costa Tenorio et al. (2001), Deng (2007), Fang et al. (2009), and Manos (2016)|Geographic distribution of the eight sections of Quercus. Distribution data from Browicz and Zieliński (1982), Menitsky (1984), Costa Tenorio et al. (2001), Deng (2007), Fang et al. (2009), and Manos (2016) Fuente: https://www.researchgate.net/figure/Geographic-distribution-of-the-eight-sections-of-Quercus-Distribution-data-from-Browicz_fig2_345136905]] Más en detalle, en Europa se distribuye por Rusia europea, [[Caúcaso]], sur de Suecia y Noruega, Europa central y occidental y Turquía. 
+
+En la península ibérica, su distribución está asociada a un mínimo de precipitaciones y de temperaturas y por tanto, se extiende por casi todo el norte de España y sistemas montañosos del resto de la península pero solapamientos aparte, la variación de esos parámetros climatológicos condiciona la presencia o no de determinadas especies de robles.
+
+====[[Quercus faginea]] ''([[Quejigo]])'', ''([[Roble quejigo]])''====
+Es la especies más termófila de todos los robles de la península ibérica, con presencia entre los 400 y los 1300 metros en el Pirineo aragonés<ref>Villar, Luis. Atlas de la flora del Pirineo Aragonés Luis Villar, José Antonio Sesé, José Vicente Ferrández - [Huesca] Consejo de Protección de la Naturaleza de Aragón Instituto de Estudios Altoaragoneses 1997-2001 - 2 v. il. col. y n. 30 cm I (Introduccion. LYCOPODIACEAE-UMBELLIFERAE) -- II (PYROLACEAE-ORCHIDACEAE. Síntesis) ISBN: 8489862036 (O.c.) 84-8127-119-5 (vol. II) 84-89862-04-4 (vol. I) [AFPA1:61]</ref>, en Navarra es propio del *[[Piso supramediterráneo]] y [[mesomediterráneo]], con [[ombrotipo]] al menos [[subhúmedo]], *en suelos generalmente profundos, ricos en bases, desarrollados sobre materiales calcáreos*<ref>Manual de Hábitats de Navarra, Peralta et al. Gobierno de Navarra, Departamento de Desarrollo Rural, Medio Ambiente y Administración Local. 2.ª edición actualizada: 2018. ISBN: 978-84-235-3499-9, Depósito legal NA 2639-2018 [MHNa:397]</ref>
+
+
+=====Referencias=====
+* [https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/Quercus_faginea_tcm30-200498.pdf [[buscar referencia]]]
+* [https://www.researchgate.net/publication/259203243_Quercus_faginea_Lam_y_Quercus_humilis_Mill Quercus faginea Lam. y Quercus humilis Mill.January 2013 In book: Producción y Manejo de Semillas y Plantas Forestales. Tomo II. (pp.206-225)Chapter: Quercus faginea Lam. y Quercus humilis Mill.Villar-Salvador et al. Publisher: Organismo Autónomo Parques Nacionales.Editors: Pemán J., Navarro-Cerrillo R.M., Nicolás J.L., Prada M.A., Serrada R.]
+* [https://www.ingurumena.ejgv.euskadi.eus/ac84aBuscadorWar/fichero/descargarFichero?ficheroid015=1105118 Ihobe, Sociedad Pública del Departamento de Medio Ambiente, Planificación Territorial, Agricultura y Pesca del Gobierno Vasco, “Primera evaluación del estado de conservación de los hábitats de bosque de interés comunitario en el País Vasco”, Bilbao, 2011, 58 pp.]
+
+=== External phylogeny ===
+
+''Quercus'' forms part, or rather two parts, of the Quercoideae subfamily of the [[Fagaceae]], the beech family. Modern [[molecular phylogenetics]] suggests the following relationships:<ref name="Manos Cannon Oh 2008">{{cite journal | last1=Manos | first1=Paul S. | last2=Cannon | first2=Charles H. | last3=Oh | first3=Sang-Hun | title=Phylogenetic Relationships and Taxonomic Status Of the Paleoendemic Fagaceae Of Western North America: Recognition Of A New Genus, Notholithocarpus | journal=Madroño | publisher=California Botanical Society | volume=55 | issue=3 | year=2008 | issn=0024-9637 | doi=10.3120/0024-9637-55.3.181 | pages=181–190| s2cid=85671229 | url=https://www.biodiversitylibrary.org/part/168898 }}</ref><ref name="Xiang Wang Li 2014">{{cite journal | last1=Xiang | first1=Xiao-Guo | last2=Wang | first2=Wei | last3=Li | first3=Rui-Qi | last4=Lin | first4=Li | last5=Liu | first5=Yang | last6=Zhou | first6=Zhe-Kun | last7=Li | first7=Zhen-Yu | last8=Chen | first8=Zhi-Duan |display-authors=3 | title=Large-scale phylogenetic analyses reveal fagalean diversification promoted by the interplay of diaspores and environments in the Paleogene | journal=Perspectives in Plant Ecology, Evolution and Systematics | publisher=Elsevier BV | volume=16 | issue=3 | year=2014 | issn=1433-8319 | doi=10.1016/j.ppees.2014.03.001 | pages=101–110| bibcode=2014PPEES..16..101X }}</ref>
+
+{{clade
+|label1=[[Fagaceae]]
+|1={{clade
+   |label1=Fagoideae
+   |1=''[[beech|Fagus]]'' (beeches)
+   |label2=Quercoideae
+   |2={{clade
+      |1=''[[Trigonobalanus]]'' (3 evergreen species)
+      |2={{clade
+         |1={{clade
+            |1=''[[Lithocarpus]]'' (stone oaks)
+            |2=''[[Chrysolepis]]'' (chinquapins)
+            }}
+         |2={{clade
+            |1='''''Quercus''' [[pro parte]]''
+            |2={{clade
+               |1=''[[Notholithocarpus]]'' (tan oak)
+               |2={{clade
+                 |1='''''Quercus''' [[pro parte]]''
+                 |2={{clade
+                   |1=''[[Castanopsis]]'' (also called chinquapins)
+                   |2=''[[chestnut|Castanea]]'' (chestnuts)
+                   }}
+                }}
+             }}
+          }}
+       }}
+   }}
+}}
+}}
+Fuente: https://en.wikipedia.org/wiki/Oak
+
+
+
+===Etimología===
+El [[étimo]] o palabra roble procede del latín [[Robur]] que significa robusto o fuerte. Antiguamente se aplicaba a todas aquellas maderas con esas características y de la cuál derivan otras palabras, tales como [[robusto]] o [[corroborar]]<ref>https://www.elcastellano.org/palabra/roble</ref>
+
+=== Referencias ===
+[https://en.m.wikipedia.org/wiki/Oak Oak]
+
+Y Aquí, algo parecido a las ideas o retazos, notas sueltas:
+
+=NOTAS SUELTAS=
+==Anexo:Plantas medicinales de la desembocadura del [[río Iregua]]==
+
+{{AP|Anexo:Plantas medicinales de la desembocadura del [[río Iregua]]}}
+
+{{clr}}
+
+==''Parques naturales de Francia''==
+{{AP|Anexo:Parques nacionales de Francia|Parque natural marino}}
+==[[Avalanchas]]==
+:''En algunas laderas de fuerte pendiente de los grandes macizos del Pirineo central, el fenómeno de las avalanchas se ha visto aumentado por el abandono de laderas herbosas del piso supraforestal, por encima de los pinares de pino negro. Al no pastarse extensas formaciones de [[Festuca eskia]] en laderas empinadas, esta gramínea forma cepellones con las hojas curvadas hacia abajo, que quedan aplastadas por la nieve, pero que no ejercen de anclaje puesto que ofrecen menos fricción que si estuviesen pastadas, ya que entonces los restos foliares quedan erectos y la nieve no desliza sobre ellos tan fácilmente. Las consecuencias son una mayor frecuencia de avalanchas y por consiguiente de destrucción de pinar de pino negro''<ref>https://www.aragon.es/documents/20127/674325/9430_HIC_ALP.pdf/0dd904f5-6a26-84dc-ae4f-6e778bdc3b6d Manual de Gestión del Hábitat: Ficha de manejo y conservación. Gobierno de Aragón, mayo 2010</ref>
+
+==[[Quercus cerrioides]] [AFPA1:62] [[Quercus x salcedoi]] ==
+[[Valle de Tiermas]], 8 de enero de 2022
+Las reseñas coinciden en que en este paraje, lo que crecen son robles albares ([[Quercus petraea]]) pero si yo desconociera estas citas y sólo contara con el Atlas de la Flora del Pirineo, a la vista de los ejemplares que se reparten por la umbría del valle concluiría que, en realidad ,se tratan de ejemplares de esta especie. Pero la identificación -con muestras de hojas secas- es muy confusa.
+
+''El [[roble albar]] se distingue por sus hojas grandes, espatuladas u obovadas, con '''pecíolo de 1-2'5 cm, canaliculado'''; lámina de 8-20 cm de longitud, sin [[aurículas]] en la base, con margen foliar lobado, haz verde oscuro, envés más claro con pilosidad muy laxa que finalmente queda reducida al axila de los nervios. El fruto, la bellota, es sesil o cortamente pedunculado (1 cm o poco más) y la cúpula presenta escamas ovadas, no concrescentes.Aparte de la subespecie típica, se distingue la subsp. huguetiana Franco & G. López que corresponde a lo que se ha denominado Q. mas auct. y que ha sido citado del N del Sistema Ibérico, Cataluña, Asturias, Cantabria y Navarra, hasta cerca del límite con Aragón en la Sierra de Orba, pero no conocemos por el momento ningún ejemplar en nuestra región. Este taxón se distingue de la subespecie típica por '''presentar hojas con 8 o más lóbulos y nervios secundarios en cada mitad''' (5-8 en la subsp. típica), nervios de tercer orden nítidos y escamas cupulares algo gibosas y tomentosas (en vez de todas planas). Existen híbridos del roble albar con Q. robur (Q. x rosacea Bechst.), con Q. faginea (Q. x salcedoi C. Vicioso) y Q. pyrenaica (Q. x trabutii Hy) que pueden ser abundantes en las zonas de contacto de estas especies'' [http://floragon.ipe.csic.es/abundancia.php?cod%20taxon=&genero=Quercus&especie=petraea&subespecie=petraea&variedad= http://floragon.ipe.csic.es/abundancia.php?cod taxon=&genero=Quercus&especie=petraea&subespecie=petraea&variedad=]
+
+En contraste con la descripción, los ejemplares recolectados muestran peciolos que en su mayoría miden 7 mm y excepcionalmente llegan a los 10 mm -una hoja- pero son caniculados de principio a fin. Todo ello sin perjuicio del resto de ejemplares encontrado a lo largo del itinerario, que sí que coinciden con Q. petraea. En cuanto a la forma de las hojas, el rompecabezas aumenta al tener un ramillete de hojas que pasaría por Q. cerrioides de contorno ovalado, algunas con aurículas en la base y una única hoja oval-espatulada de 8 cms, mientras que el resto no pasan de 7 cms. En este sentido la misma fuente ya establece esa hibridación denominada Quercus x cerrrioides con Q. humilis, pero también con Q. faginea:
+
+''Menos frecuentes pero pudiéndose encontrar en las zonas de contacto y, en particular, en el Moncayo, son los híbridos con Q. petraea (Q. x salcedoi C. Vicioso)'' 
+[http://floragon.ipe.csic.es/abundancia.php?cod_taxon=1304a&genero=Quercus&especie=faginea&subespecie=faginea&variedad=  Herbario Jaca. Quercus faginea Lam. faginea  Comentarios y citas reseñables]
+
+= REFERENCIAS =
+* Roble [https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/publicaciones/quercus_robur_tcm30-139355.pdf Regiones de procedencia de Quercus... ICONA, 1995]
+* [https://bibdigital.rjb.csic.es/medias/4e/83/fa/fd/4e83fafd-0b04-4c6f-9ed6-db17ce76d2f3/files/P0093_51.pdf Revisión del Género Quercus en España. Vicioso, C. Mº de Agricultura, 1950]
+<references />
