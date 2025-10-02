@@ -1,5 +1,4 @@
 
-
 # TAREAS (GENERAL)
 
 ## [Pln]
@@ -33,6 +32,11 @@
 ## Refugio reptiles [Rfrp]
 - Redactado manual completado
 - Poster didáctico `pte.`
+
+## Cogullada [Cgll]
+- Ppto. unidades de obra
+----
+
 
 # LIBRO DE ESTILO
 
