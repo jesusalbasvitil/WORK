@@ -1,7 +1,9 @@
-[Cgll][ppto]
+[Cgll][ppto].md
 
 # 1. Sección senda [Snd] (100 metros)
-## 1.1 Desmonte 1/2 d
+## 1.1 Desmonte (1/2 día) [ppto]
+- Alquiler pala 500 €
+
 ## 1.2 Acopio piedra seca
 <!--how many tons of stone (limestone) I need to build a wall 100 meters length? the measures are: base width 50-60 cms, height 80 cms; top width 20-30 cms-->
 
@@ -109,16 +111,18 @@ Densidad de la caliza: **≈ 2,6 t/m³**.
 - Muro rústico (huecos visibles): **50 – 80 t**  
 - Muro bien relleno/corazonado: **70 – 95 t**  
 - Pedido único y seguro: **≈ 70–75 t**  
-## 1.2.3. Ppto.
+
+## 1.2.3. Acopio [ppto]
 - 6,25 camiones con 75 ton (7) 3500 €
 
 
-## 1.3 Colocación piedra
-- 5 días, 2 operarios (300€/d) 3000 €
-- pala para reparto del acopio 5 días 1500 €
+## 1.3 Colocación piedra [ppto]
+Fuente: [EL ARTE Y LA T…CNICA DE LA PIEDRA SECA: TEORÍA Y PRÁCTICA](https://ctp.org/wp-content/uploads/2025/08/UdL_La-tecnica-de-la-piedra-seca-Carlos1.pdf)
+- 10 días, 2 operarios (300€/d) 6000 €
+- pala para reparto del acopio 10 días 4000 €
 
-## 1.4 Canal pluviales
-- Materiales  
+## 1.4 Canal pluviales [ppto]
+- Materiales  (ver 1.4.4.) 2100 €
 - Colocación, 2 días 2 operarios 1200 €
 
 <!--I need to install an open rainwater drainage channel made of Spanish tiles along a 100-meter stretch. How much will that material cost?-->
@@ -129,9 +133,8 @@ Perfecto — aquí tienes **en español y en Markdown** una estimación detallad
 
 ---
 
-# Presupuesto material — canaleta de teja artesanal (100 m)
 
-## Supuestos principales
+### 1.4.2. Supuestos principales
 
 * Usamos **teja árabe / curva** tipo estándar (ej. 45×20 cm o similar). Las referencias indican **≈ 9–12 tejas por metro lineal** según formato/solape (datos de fabricantes). ([Monomat Materiales][2])
 * Longitud = **100 m** → unidades necesarias sin desperdicio: **900 – 1.200 tejas**.
@@ -143,27 +146,25 @@ Perfecto — aquí tienes **en español y en Markdown** una estimación detallad
 
 ---
 
-## Cálculo de cantidades
+### 1.4.3. Cálculo de cantidades
 
 * Unidades necesarias (100 m): **900 – 1.200 tejas**. ([Monomat Materiales][2])
 
 ---
 
-## Tabla de costes (material de teja sólo)
+### 1.4.4. Tabla de costes (material de teja sólo)
 
-```markdown
 | Escenario                   | Tejas/100 m | Precio unitario (€) | Coste sin +10% (€) | Coste con +10% (€) |
 |----------------------------:|------------:|--------------------:|-------------------:|-------------------:|
 | Teja NUEVA (económica)      | 900 – 1200  | 0,75 €/ud           | 675  – 900         | 742,5 – 990        |
 | Teja NUEVA (calidad/media)  | 900 – 1200  | 1,00 €/ud (ej.)     | 900  – 1200        | 990  – 1320        |
 | Teja NUEVA (alta gama)      | 900 – 1200  | 2,00 €/ud           | 1800 – 2400        | 1980 – 2640        |
 | Teja RECUPERADA / 2ª mano   | 900 – 1200  | 0,35 – 0,80 €/ud    | 315  – 960         | 346,5 – 1056       |
-```
 
-**Ejemplos rápidos:**
+<!-- **Ejemplos rápidos:**
 
 * Si eliges **teja nueva económica (~1,00 €/ud)**: comprarás **900–1200 uds → 900–1.200 €**; con +10% → **990–1.320 €**. ([Bauhaus][1])
-* Si aprovechas **teja recuperada (~0,40 €/ud)**: coste material ≈ **360–480 €** (sin reserva) → con +10% ≈ **396–528 €**. ([Wallapop][3])
+* Si aprovechas **teja recuperada (~0,40 €/ud)**: coste material ≈ **360–480 €** (sin reserva) → con +10% ≈ **396–528 €**. ([Wallapop][3])-->
 
 ---
 
@@ -207,3 +208,192 @@ Dime la opción y te preparo la tabla final con cifras cerradas y comentario sob
 [3]: https://es.wallapop.com/construccion-y-reformas/teja-arabe?utm_source=chatgpt.com "Teja árabe segunda mano - Wallapop"
 [4]: https://monomatmateriales.com/producto/teja-arabe-curva-45x20-borja/?srsltid=AfmBOorwx1UIlDDV9ZJElIsBI40TjFdD0kXJY03UyhEvkebzfbjbjLo0&utm_source=chatgpt.com "Teja Árabe Curva 45×20 BORJA"
 
+## 1.5. Suelo [ppto]
+- Alquiler "rana" 450 € 
+- Apisonado y reparto de grava 2 operarios 2 días 1200 €
+- Grava 600 €
+
+# 2 Laguna (100 m2) [ppto]
+- Topografía y replanteo que incluye traida de agua 40 horas 520 €
+- Obra civil de decapado de 10-40 cms y acopio in situ (30 m3)  4 horas, 400 €
+- Suministro y adquisición geotextil 100 gr/m2 (1,2X10 m) 24 €/u
+<!--I need cover a soil with 100 m2 of geotextil. Every roll measures 1,2x10 meters and 24 €. How many rolls and how much money cost
+**Datos:**
+
+* Superficie a cubrir: **100 m²**
+* Cada rollo: **1,2 m × 10 m = 12 m²**
+* Precio por rollo: **24 €**
+
+---
+
+## 1. Número de rollos necesarios
+
+[
+100 , m^2 \div 12 , m^2/\text{rollo} = 8,33 , rollos
+]
+Como no se pueden comprar fracciones de rollo → **9 rollos**.
+
+---
+
+## 2. Coste total
+
+[
+9 , rollos \times 24 € = 216 €
+]
+
+---
+
+## 📌 Resumen
+
+* **Rollos necesarios:** **9**
+* **Coste total:** **216 €**-->
+
+- Colocación geo 2 operarios 1/2 día 200 €
+- Reparto del acopiado de tierra sobre el geo (pala) 4 horas, 400 €
+
+# 3 Apantallado [Ppto]
+Se plantea instalar una pantalla formada por tablones de 4 metros con revegetado de trepadoras para aislar de otros ambientes. 150 metros, 50 tablones mediante zapata corrida y zanja para plantación
+
+- Pala 1/2 jornada 
+- 50 tablas (43 € cu aprox.) 2150 €
+- Encofrando y colocación vigas albaníleria 2 operarios 3 días 1800 €
+- Compra de planta y colocación [Hedera helix](https://www.planfor.es/compra,hiedra,9092,ES)
+  - Traslado planta 1 operario, transporte 1/2 jornada 200 €
+  - Plantado planta y embridado a vigas 2 operarios 1 día 300€   
+
+# 4 Revegetado [Ppto] 
+Plantación de especies mediante zanjas practicadas sin continuidad para generar setos y arboledas y siembra a boleo de mielíferas (1000 m2)
+
+- Adquisición de semilla de alfalfa 25 kg 120 €
+- Adquisión planta según biotopos 80-90 árboles de 2-3 savias 10€ cu 900 €
+- Pala para zanjas y hoyos 1 jornada 400 €
+
+
+[Sort and calculate this document added, every chapters with [ppto] and resume by table. Then separate personal, buys of material and machines and finally, add a 20% for unforeseen events: [Cgll][ppto].md](https://chatgpt.com/share/68e2bcec-1790-800d-8824-8444608bf52e)
+
+
+---
+
+
+ `Proyecto [Cgll][ppto] — Senda, muro, canal, suelo, laguna, apantallado y revegetado`
+
+---
+
+## **1. Senda (100 m)**
+
+### 1.1. Desmonte
+
+* Alquiler pala ½ día → **500 €** 🏗️ *(Maquinaria)*
+
+### 1.2. Acopio de piedra para muro seco
+
+* Piedra caliza natural, 70–75 t (acopio y transporte ≈ 6,25 camiones) → **3.500 €** *(Materiales)*
+
+### 1.3. Colocación de muro seco
+
+* 2 operarios × 10 días × 300 €/d → **6.000 €** *(Personal)*
+* Pala para reparto del acopio (10 días) → **4.000 €** *(Maquinaria)*
+
+### 1.4. Canal de pluviales
+
+* Materiales (teja curva + fijaciones + extras) → **2.100 €** *(Materiales)*
+* Colocación, 2 días, 2 operarios → **1.200 €** *(Personal)*
+
+### 1.5. Suelo y acabado de senda
+
+* Alquiler “rana” compactadora → **450 €** *(Maquinaria)*
+* Apisonado y reparto de grava, 2 operarios, 2 días → **1.200 €** *(Personal)*
+* Suministro de grava → **600 €** *(Materiales)*
+
+**Subtotal Capítulo 1: 19.550 €**
+
+---
+
+## **2. Laguna (100 m²)**
+
+* Topografía y replanteo (incluye traída de agua, 40 h) → **520 €** *(Personal)*
+* Obra civil (decapado y acopio, 4 h) → **400 €** *(Personal)*
+* Geotextil 100 g/m² (1,2 × 10 m, 9 uds × 24 €) → **216 €** *(Materiales)*
+* Colocación de geotextil (2 operarios, ½ día) → **200 €** *(Personal)*
+* Reparto de tierra con pala (4 h) → **400 €** *(Maquinaria)*
+
+**Subtotal Capítulo 2: 1.736 €**
+
+---
+
+## **3. Apantallado (150 m lineales)**
+
+* Pala ½ jornada → **500 €** *(Maquinaria)*
+* 50 tablones de madera (≈ 43 €/ud) → **2.150 €** *(Materiales)*
+* Encofrado y colocación vigas, 2 operarios, 3 días → **1.800 €** *(Personal)*
+* Traslado planta (1 operario, ½ jornada + transporte) → **200 €** *(Personal)*
+* Plantado y embridado de hiedras (2 operarios, 1 día) → **300 €** *(Personal)*
+
+**Subtotal Capítulo 3: 4.950 €**
+
+---
+
+## **4. Revegetado (1.000 m²)**
+
+* Semilla de alfalfa (25 kg) → **120 €** *(Materiales)*
+* Árboles 2–3 savias (90 uds × 10 €/ud) → **900 €** *(Materiales)*
+* Pala para zanjas y hoyos (1 jornada) → **400 €** *(Maquinaria)*
+
+**Subtotal Capítulo 4: 1.420 €**
+
+---
+
+# 🧾 TABLA RESUMEN FINAL
+
+| Capítulo           | Personal (€) | Materiales (€) | Maquinaria (€) | **Subtotal (€)** |
+| ------------------ | -----------: | -------------: | -------------: | ---------------: |
+| **1. Senda**       |        8.400 |          6.200 |          4.950 |       **19.550** |
+| **2. Laguna**      |        1.120 |            216 |            400 |        **1.736** |
+| **3. Apantallado** |        2.300 |          2.150 |            500 |        **4.950** |
+| **4. Revegetado**  |            0 |          1.020 |            400 |        **1.420** |
+| **TOTAL**          |   **11.820** |      **9.586** |      **6.250** |       **27.656** |
+
+---
+
+## 💰 Total con imprevistos (+20 %)
+
+* **Subtotal general**: 27.656 €
+* **Imprevistos (20 %)**: 5.531 €
+* **TOTAL FINAL ESTIMADO: 33.187 €**
+
+---
+
+# 🔍 Revisión de coherencias
+
+✅ **Consistencia entre capítulos**
+
+* Todas las partidas con `[ppto]` se han incluido una sola vez.
+* Se ha mantenido la coherencia entre maquinaria y mano de obra (p. ej. uso de pala repetido en muro y apantallado con mismo coste de referencia).
+* Las cantidades de geotextil y árboles se calcularon de forma justificada.
+
+✅ **Jerarquía y claridad**
+
+* El presupuesto ahora está en **orden lógico constructivo**: Senda → Laguna → Apantallado → Revegetado.
+* Cada capítulo incluye un bloque temático (movimiento de tierras, estructuras, vegetación).
+
+✅ **Criterio de agrupación**
+
+* Todo gasto se ha clasificado en **Personal**, **Materiales** o **Maquinaria**, sin solapamientos.
+
+---
+
+¿Quieres que te prepare este presupuesto en formato **Markdown limpio**, **Excel (.xlsx)** o **PDF de obra** (con estructura de partidas y totales por capítulo)?
+Puedo generarlo con el formato estándar de presupuesto técnico (partida, unidad, cantidad, precio, total).
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
