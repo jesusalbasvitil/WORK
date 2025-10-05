@@ -273,9 +273,7 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 
 
 ---
-
-
- `Proyecto [Cgll][ppto] — Senda, muro, canal, suelo, laguna, apantallado y revegetado`
+`Proyecto [Cgll][ppto] — Senda, muro, canal, suelo, laguna, apantallado y revegetado`
 
 ---
 
