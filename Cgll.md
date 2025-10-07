@@ -15,11 +15,11 @@ Limestone density (solid stone): ≈ 2.6 t/m³.
 Solid-stone fraction (typical for quarry/random rubble): 0.60–0.75 (i.e. 60–75% of wall volume is actual rock). If you fill voids thoroughly with small stones (good hearting), that fraction can rise to 0.80–0.90.
 Mass = Volume × solid_fraction × density.
 Results (no extra allowance)
-Typical dry rubble (solid fraction 0.60 → 0.75):
+Typical dry rubble (solid fraction 0.60   0.75):
 Min (28 m³): 43.7 – 54.6 t
 Mid (32 m³): 49.9 – 62.4 t
 Max (36 m³): 56.2 – 70.2 t
-If heavily hearted / well packed (0.80 → 0.90):
+If heavily hearted / well packed (0.80   0.90):
 Min (28 m³): 58.2 – 65.5 t
 Mid (32 m³): 66.6 – 74.9 t
 Max (36 m³): 74.9 – 84.2 t
@@ -75,15 +75,15 @@ Densidad de la caliza: **≈ 2,6 t/m³**.
 
 ##### 1.2.1.4. Muro seco típico (60–75%)
 
-* 28 m³ → **44 – 55 t**
-* 32 m³ → **50 – 62 t**
-* 36 m³ → **56 – 70 t**
+* 28 m³   **44 – 55 t**
+* 32 m³   **50 – 62 t**
+* 36 m³   **56 – 70 t**
 
 ##### 1.2.1.5. Muro bien relleno (80–90%)
 
-* 28 m³ → **58 – 66 t**
-* 32 m³ → **67 – 75 t**
-* 36 m³ → **75 – 84 t**
+* 28 m³   **58 – 66 t**
+* 32 m³   **67 – 75 t**
+* 36 m³   **75 – 84 t**
 
 ---
 
@@ -137,7 +137,7 @@ Perfecto — aquí tienes **en español y en Markdown** una estimación detallad
 ### 1.4.2. Supuestos principales
 
 * Usamos **teja árabe / curva** tipo estándar (ej. 45×20 cm o similar). Las referencias indican **≈ 9–12 tejas por metro lineal** según formato/solape (datos de fabricantes). ([Monomat Materiales][2])
-* Longitud = **100 m** → unidades necesarias sin desperdicio: **900 – 1.200 tejas**.
+* Longitud = **100 m**   unidades necesarias sin desperdicio: **900 – 1.200 tejas**.
 * **Precios unitarios orientativos** (tomados de comercios y anuncios):
 
   * **Teja nueva (rango habitual comercial):** **0,75 – 2,00 €/ud**. ([Bauhaus][1])
@@ -163,8 +163,8 @@ Perfecto — aquí tienes **en español y en Markdown** una estimación detallad
 
 <!-- **Ejemplos rápidos:**
 
-* Si eliges **teja nueva económica (~1,00 €/ud)**: comprarás **900–1200 uds → 900–1.200 €**; con +10% → **990–1.320 €**. ([Bauhaus][1])
-* Si aprovechas **teja recuperada (~0,40 €/ud)**: coste material ≈ **360–480 €** (sin reserva) → con +10% ≈ **396–528 €**. ([Wallapop][3])-->
+* Si eliges **teja nueva económica (~1,00 €/ud)**: comprarás **900–1200 uds   900–1.200 €**; con +10%   **990–1.320 €**. ([Bauhaus][1])
+* Si aprovechas **teja recuperada (~0,40 €/ud)**: coste material ≈ **360–480 €** (sin reserva)   con +10% ≈ **396–528 €**. ([Wallapop][3])-->
 
 ---
 
@@ -172,8 +172,8 @@ Perfecto — aquí tienes **en español y en Markdown** una estimación detallad
 
 Además de las tejas, conviene prever materiales y conceptos que suelen aparecer en una solución artesanal:
 
-* **Soporte / perfilería / listones de madera o rastrojo** (si hay que atar las tejas): **≈ 2 – 8 €/m** → para 100 m: **200 – 800 €** (muy variable según diseño).
-* **Clips/ganchos o fijaciones** (si se usan): **≈ 0,10 – 0,50 €/ud** → para 900–1200 uds: **90 – 600 €**.
+* **Soporte / perfilería / listones de madera o rastrojo** (si hay que atar las tejas): **≈ 2 – 8 €/m**   para 100 m: **200 – 800 €** (muy variable según diseño).
+* **Clips/ganchos o fijaciones** (si se usan): **≈ 0,10 – 0,50 €/ud**   para 900–1200 uds: **90 – 600 €**.
 * **Relleno/“corazonado” (ripio, arena)** para asegurar el asiento y caída del agua: **≈ 100 – 400 €** total.
 * **Transporte** (depende de la distancia y volumen): **≈ 150 – 600 €** (estimado).
 * **Sumideros / registros / remates** (cada 10–20 m recomendado): **≈ 50 – 300 €/pieza** según tipo; para 5–10 unidades el total puede ser **250 – 3.000 €**.
@@ -185,8 +185,8 @@ Además de las tejas, conviene prever materiales y conceptos que suelen aparecer
 
 ## Resumen y recomendaciones prácticas
 
-* **Opción más económica (tejas recuperadas):** material teja **≈ 315 – 960 €** (sin reserva) → **≈ 347 – 1.056 €** (con +10%). ([Wallapop][3])
-* **Opción razonable con teja nueva estándar (~1 €/ud):** **≈ 900 – 1.200 €** (sin reserva) → **≈ 990 – 1.320 €** (con +10%). ([Bauhaus][1])
+* **Opción más económica (tejas recuperadas):** material teja **≈ 315 – 960 €** (sin reserva)   **≈ 347 – 1.056 €** (con +10%). ([Wallapop][3])
+* **Opción razonable con teja nueva estándar (~1 €/ud):** **≈ 900 – 1.200 €** (sin reserva)   **≈ 990 – 1.320 €** (con +10%). ([Bauhaus][1])
 * **Opción estética/premium (teja nueva cara):** hasta **≈ 1.800 – 2.400 €** (sin reserva). ([Monomat Materiales][4])
 * Añade **soportes, fijaciones, transporte y remates**: normalmente sumarían entre **500 € y 2.500 €** adicionales según complejidad y distancia.
 
@@ -231,7 +231,7 @@ Dime la opción y te preparo la tabla final con cifras cerradas y comentario sob
 [
 100 , m^2 \div 12 , m^2/\text{rollo} = 8,33 , rollos
 ]
-Como no se pueden comprar fracciones de rollo → **9 rollos**.
+Como no se pueden comprar fracciones de rollo   **9 rollos**.
 
 ---
 
@@ -281,27 +281,27 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 
 ### 1.1. Desmonte
 
-* Alquiler pala ½ día → **500 €** 🏗️ *(Maquinaria)*
+* Alquiler pala ½ día **500 €** *(Maquinaria)*
 
 ### 1.2. Acopio de piedra para muro seco
 
-* Piedra caliza natural, 70–75 t (acopio y transporte ≈ 6,25 camiones) → **3.500 €** *(Materiales)*
+* Piedra caliza natural, 70–75 t (acopio y transporte ≈ 6,25 camiones) **3.500 €** *(Materiales)*
 
 ### 1.3. Colocación de muro seco
 
-* 2 operarios × 10 días × 300 €/d → **6.000 €** *(Personal)*
-* Pala para reparto del acopio (10 días) → **4.000 €** *(Maquinaria)*
+* 2 operarios × 10 días × 300 €/d **6.000 €** *(Personal)*
+* Pala para reparto del acopio (10 días) **4.000 €** *(Maquinaria)*
 
 ### 1.4. Canal de pluviales
 
-* Materiales (teja curva + fijaciones + extras) → **2.100 €** *(Materiales)*
-* Colocación, 2 días, 2 operarios → **1.200 €** *(Personal)*
+* Materiales (teja curva + fijaciones + extras)  **2.100 €** *(Materiales)*
+* Colocación, 2 días, 2 operarios  **1.200 €** *(Personal)*
 
 ### 1.5. Suelo y acabado de senda
 
-* Alquiler “rana” compactadora → **450 €** *(Maquinaria)*
-* Apisonado y reparto de grava, 2 operarios, 2 días → **1.200 €** *(Personal)*
-* Suministro de grava → **600 €** *(Materiales)*
+* Alquiler “rana” compactadora  **450 €** *(Maquinaria)*
+* Apisonado y reparto de grava, 2 operarios, 2 días   **1.200 €** *(Personal)*
+* Suministro de grava   **600 €** *(Materiales)*
 
 **Subtotal Capítulo 1: 19.550 €**
 
@@ -309,11 +309,11 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 
 ## **2. Laguna (100 m²)**
 
-* Topografía y replanteo (incluye traída de agua, 40 h) → **520 €** *(Personal)*
-* Obra civil (decapado y acopio, 4 h) → **400 €** *(Personal)*
-* Geotextil 100 g/m² (1,2 × 10 m, 9 uds × 24 €) → **216 €** *(Materiales)*
-* Colocación de geotextil (2 operarios, ½ día) → **200 €** *(Personal)*
-* Reparto de tierra con pala (4 h) → **400 €** *(Maquinaria)*
+* Topografía y replanteo (incluye traída de agua, 40 h)   **520 €** *(Personal)*
+* Obra civil (decapado y acopio, 4 h)   **400 €** *(Personal)*
+* Geotextil 100 g/m² (1,2 × 10 m, 9 uds × 24 €)   **216 €** *(Materiales)*
+* Colocación de geotextil (2 operarios, ½ día)   **200 €** *(Personal)*
+* Reparto de tierra con pala (4 h)   **400 €** *(Maquinaria)*
 
 **Subtotal Capítulo 2: 1.736 €**
 
@@ -321,11 +321,11 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 
 ## **3. Apantallado (150 m lineales)**
 
-* Pala ½ jornada → **500 €** *(Maquinaria)*
-* 50 tablones de madera (≈ 43 €/ud) → **2.150 €** *(Materiales)*
-* Encofrado y colocación vigas, 2 operarios, 3 días → **1.800 €** *(Personal)*
-* Traslado planta (1 operario, ½ jornada + transporte) → **200 €** *(Personal)*
-* Plantado y embridado de hiedras (2 operarios, 1 día) → **300 €** *(Personal)*
+* Pala ½ jornada   **500 €** *(Maquinaria)*
+* 50 tablones de madera (≈ 43 €/ud)   **2.150 €** *(Materiales)*
+* Encofrado y colocación vigas, 2 operarios, 3 días   **1.800 €** *(Personal)*
+* Traslado planta (1 operario, ½ jornada + transporte)   **200 €** *(Personal)*
+* Plantado y embridado de hiedras (2 operarios, 1 día)   **300 €** *(Personal)*
 
 **Subtotal Capítulo 3: 4.950 €**
 
@@ -333,9 +333,10 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 
 ## **4. Revegetado (1.000 m²)**
 
-* Semilla de alfalfa (25 kg) → **120 €** *(Materiales)*
-* Árboles 2–3 savias (90 uds × 10 €/ud) → **900 €** *(Materiales)*
-* Pala para zanjas y hoyos (1 jornada) → **400 €** *(Maquinaria)*
+* Semilla de alfalfa (25 kg)   **120 €** *(Materiales)*
+* Árboles 2–3 savias (90 uds × 10 €/ud)   **900 €** *(Materiales)*
+* Pala para zanjas y hoyos (1 jornada)   **400 €** *(Maquinaria)*
+* Colocación, 2 días, 2 operarios  **1.200 €** *(Personal)*
 
 **Subtotal Capítulo 4: 1.420 €**
 
@@ -348,16 +349,19 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 | **1. Senda**       |        8.400 |          6.200 |          4.950 |       **19.550** |
 | **2. Laguna**      |        1.120 |            216 |            400 |        **1.736** |
 | **3. Apantallado** |        2.300 |          2.150 |            500 |        **4.950** |
-| **4. Revegetado**  |            0 |          1.020 |            400 |        **1.420** |
-| **TOTAL**          |   **11.820** |      **9.586** |      **6.250** |       **27.656** |
+| **4. Revegetado**  |        1.200 |          1.020 |            400 |        **2.620** |
+| **TOTAL**          |   **11.820** |      **9.586** |      **6.250** |       **28.856** |
 
----
+----
 
-## 💰 Total con imprevistos (+20 %)
+## Total con imprevistos (+20 %)
 
-* **Subtotal general**: 27.656 €
-* **Imprevistos (20 %)**: 5.531 €
-* **TOTAL FINAL ESTIMADO: 33.187 €**
+* **Subtotal general**: 28.856 €
+* **Imprevistos (20 %)**: 5.771,2 €
+* **SUBTOTAL 34.627.2 €**
+* **Gastos financieros, de administración y gestión  (1,43) 14889.7€**
+----
+**Total general 49516.9 €**
 
 ---
 
@@ -371,7 +375,7 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 
 ✅ **Jerarquía y claridad**
 
-* El presupuesto ahora está en **orden lógico constructivo**: Senda → Laguna → Apantallado → Revegetado.
+* El presupuesto ahora está en **orden lógico constructivo**: Senda   Laguna   Apantallado   Revegetado.
 * Cada capítulo incluye un bloque temático (movimiento de tierras, estructuras, vegetación).
 
 ✅ **Criterio de agrupación**
