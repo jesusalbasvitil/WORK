@@ -6,10 +6,10 @@
 - [Paridera] Reparación muro. pte. Ppto.`Revisión 1 oct`
 - [Balsa] Reparación blandones (ejecución inmediata. `Revisión 1 oct`y colocación piedras. `pte. Ppto.`
 - [Vinilos] `Pte. colocarlos`
-- [Mqnz] Pte. registro sol.
+- [Mqnz] Pte. registro sol. Hablar con X permiso transporte animales vivos
 
 ## [Astún]
-- Alegación a trámite. Registrado
+- Alegación a trámite. Registrado y reafirmado
 
 ## [Portalet] 
 - Actos presuntos. `Pte.`
@@ -20,7 +20,7 @@
 - Montaje de barreras a ambos lados de 2 metros con brezo  entre camino y obs. (SEO). `Pte. replanteo`
 - Repoblación de taludes con estaquillas de Tamarix (SEO/Cinca)
 - Plantación de especies dentro de los campos de regadío: almez, olmo sin grafiosis -> MITECO (Formulario Luís) y Aliso de Mequinenza (Fundación / GEN CAT / SEO) `Pte. cálculo para solicitar`
-- Delimitación pastos húmedos por ortofoto y búsqueda de referencias de carga ganadera: Camarga, Albufera, Agüamolls de yeguas/ha para control de pasto y permitir hábitat limícolas (SEO) `Pte.`
+- `Delimitación pastos húmedos por ortofoto y búsqueda de referencias de carga ganadera: Camarga, Albufera, Agüamolls de yeguas/ha para control de pasto y permitir hábitat limícolas (SEO) `Pte.
 
 ## [Empresarium]
 - Solinfo. Ayto. Enviado. `24 oct, reclamar respuesta`
@@ -34,7 +34,7 @@
 - Poster didáctico `pte.`
 
 ## Cogullada [Cgll]
-- Ppto. unidades de obra
+- Ppto. unidades de obra Ejecutado
 ----
 
 
