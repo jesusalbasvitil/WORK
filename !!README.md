@@ -19,7 +19,7 @@
 - replanteo barra carrizal. Completado
 - Montaje de barreras a ambos lados de 2 metros con brezo  entre camino y obs. (SEO). `Pte. replanteo`
 - Repoblación de taludes con estaquillas de Tamarix (SEO/Cinca)
-- Plantación de especies dentro de los campos de regadío: almez, olmo sin grafiosis -> MITECO (Formulario Luís) y Aliso de Mequinenza (Fundación / GEN CAT / SEO) `Pte. cálculo para solicitar`
+- Plantación de especies dentro de los campos de regadío: almez, olmo sin grafiosis -> MITECO (Formulario Luís) y Aliso de Mequinenza (Fundación / GENCAT / SEO) `Pte. cálculo para solicitar`
 - `Delimitación pastos húmedos por ortofoto y búsqueda de referencias de carga ganadera: Camarga, Albufera, Agüamolls de yeguas/ha para control de pasto y permitir hábitat limícolas (SEO) `Pte.
 
 ## [Empresarium]
