@@ -388,7 +388,71 @@ Plantación de especies mediante zanjas practicadas sin continuidad para generar
 Puedo generarlo con el formato estándar de presupuesto técnico (partida, unidad, cantidad, precio, total).
 
 
+# Zgz / ecosystems services
 
+La infraestructura verde urbana (IVU) puede proporcionar servicios ecosistémicos (SE) clave para el bienestar humano. Para ello, es fundamental determinar qué características regulan la provisión de SE por parte de la IVU. En este estudio, se evaluaron ocho SE (suministro de agua, regulación hídrica, gestión de residuos, regulación de nutrientes, formación de suelo, secuestro de carbono, regulación de la temperatura del aire y regulación de la humedad del aire) en treinta emplazamientos de IVU de Zaragoza (España), utilizando indicadores indirectos derivados de muestras de suelo analizadas y mediciones in situ de la temperatura y la humedad del aire. Se realizó un análisis de componentes principales para agrupar los diferentes SE y estudiar la dispersión de los distintos tipos de IVU a lo largo de los SE. Además, se estudiaron las relaciones entre los SE evaluados y los predictores (planitud, impermeabilidad, regularidad, naturalidad y funcionamiento de los emplazamientos de IVU) mediante regresiones lineales y cuadráticas. Los grandes emplazamientos de IVU, como las zonas ribereñas, los meandros y los bosques naturales, mostraron valores relativamente altos de SE en comparación con los emplazamientos más artificiales. Además, **el estudio demostró que el suministro de agua, la regulación hídrica, la formación del suelo, el secuestro de carbono y la regulación de la temperatura del aire se relacionaron de manera significativa y positiva con la naturalidad y el funcionamiento ecológicos, mientras que la impermeabilidad fue el principal factor predictivo que explicó la reducción de [esos] cinco servicios ecosistémicos**. Nuestros hallazgos evidencian la existencia de interacciones importantes entre las variables predictoras y los servicios ecosistémicos en la infraestructura verde urbana.
+
+También se demostró que la provisión de servicios ecosistémicos urbanos puede mejorarse ampliando la variedad y el tipo de espacios de infraestructura verde, disminuyendo la superficie impermeable y aumentando la naturalidad y el funcionamiento de la infraestructura verde urbana.
+
+
+# Resumen
+
+Este estudio evalúa ocho servicios ecosistémicos (SE) proporcionados por 30 sitios de infraestructura verde urbana (IVU) en Zaragoza, España, examinando cómo la naturalidad, funcionalidad e impermeabilización afectan la provisión de SE. Mediante análisis de suelo y mediciones in situ, la investigación evaluó el suministro de agua, regulación hídrica, regulación de residuos, regulación de nutrientes, formación de suelo, secuestro de carbono, y regulación de temperatura y humedad del aire. Los resultados mostraron que los sitios grandes y naturales (zonas ribereñas, meandros, bosques) proporcionaron SE significativamente más altos comparados con sitios artificiales. La naturalidad y funcionamiento se correlacionaron positivamente con cinco SE, mientras que la impermeabilización fue el principal predictor de reducción en la provisión de SE. El estudio demuestra que la provisión de SE urbanos puede mejorarse aumentando la variedad de IVU, reduciendo superficies impermeables y mejorando la naturalidad y funcionamiento ecológico de los espacios verdes.
+
+---
+
+# Ideas Principales de Mayor Relevancia
+
+## 1. **Evaluación Integral Multi-Servicio**
+- Evaluó 8 SE diferentes simultáneamente a través de diversos tipos de IVU
+- Combinó servicios de regulación, soporte y aprovisionamiento en un solo marco
+- Utilizó análisis de suelo y mediciones climáticas para una evaluación holística
+
+## 2. **Los Sitios Naturales y Funcionales Superan a los Artificiales**
+- Los sitios naturales grandes (ríos, meandros, bosques) mostraron la mayor provisión de SE
+- La regulación de temperatura alcanzó valores de 48.53 en sitios naturales vs 21.37 en parques gestionados
+- Los sitios que mantienen procesos hidro-geomorfológicos proporcionaron SE superiores
+
+## 3. **Impermeabilización como Predictor Negativo Crítico**
+- La impermeabilización fue el principal factor explicativo de la reducción en la provisión de SE
+- Relación negativa más fuerte con la regulación hídrica (R² = 0.27)
+- También redujo significativamente el suministro de agua, secuestro de carbono y formación de suelo
+
+## 4. **Índice de Naturalidad y Funcionamiento (NatFun) como Motor Positivo**
+- Relación significativamente positiva con 5 SE (suministro de agua, regulación hídrica, formación de suelo, secuestro de carbono, regulación de temperatura)
+- Proporciona una métrica accionable para planificadores urbanos
+- Demuestra el valor de preservar procesos ecológicos naturales
+
+## 5. **Sinergias Importantes entre SE Identificadas**
+- La regulación hídrica se correlacionó con múltiples SE (suministro de agua r=0.6, formación de suelo r=0.55, secuestro de carbono r=0.43, regulación de temperatura r=0.41)
+- Formación de suelo y secuestro de carbono altamente correlacionados (r=0.81)
+- Comprender las sinergias permite estrategias de gestión eficientes con múltiples beneficios
+
+## 6. **Efectos Interactivos entre Predictores**
+- Los efectos de la impermeabilización se intensificaron en sitios de baja naturalidad para el suministro de agua
+- Los sitios naturales regularon la temperatura solo cuando la impermeabilización era baja
+- Demuestra complejidad que requiere enfoques de diseño integrados
+
+## 7. **Potencial de Mitigación del Cambio Climático**
+- La regulación de temperatura identificada como servicio clave con alta provisión en IVU natural
+- Aborda el efecto de isla de calor urbano—crítico para la adaptación climática
+- El secuestro de carbono proporciona una vía de mitigación del cambio climático
+
+## 8. **Recomendaciones Prácticas de Gestión**
+- Aumentar la variedad y tipos de IVU a través de los paisajes urbanos
+- Reducir superficies impermeables mediante pavimentos permeables y naturalización
+- Restaurar procesos hidro-geomorfológicos en sitios existentes
+- Expandir áreas vegetadas mientras se preservan dinámicas naturales
+
+## 9. **Evidencia de Compromisos entre Tipos de SE**
+- El ACP reveló compromisos entre SE funcionales (regulación de nutrientes/agua, amortiguación climática) y SE estructurales (formación de suelo, almacenamiento de carbono)
+- Los sitios gestionados artificialmente redujeron los SE funcionales mientras potencialmente apoyaban algunas características estructurales
+- Informa estrategias de diseño equilibradas
+
+## 10. **Innovación Metodológica**
+- Combinó mediciones de campo objetivas con análisis estructural
+- Integró múltiples variables predictoras (planitud, regularidad, impermeabilización, NatFun)
+- Utilizó protocolos estandarizados que permiten replicación en otras ciudades
 
 
 
