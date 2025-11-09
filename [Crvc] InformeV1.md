@@ -10,7 +10,7 @@ Desarrollado en [Modelo_PPT_Proyectos_Jornada_MAv3.pptx.pdf](file:///c%3A/Users/
 
 
 
-En el resto de proyectos, son producciones locales o bien, comunidades energéticas locales
+En el resto de proyectos, son producciones locales o bien, comunidades energéticas locales, si bien se completó aforo y se quedó gente fuera, limitado a proyectos y resto de gente.
 
 
 ## B. Taller de retos y soluciones
@@ -51,6 +51,8 @@ Por parte de SEO se planteó un sistema de bioindicadores (avifauna) mediante un
 
 ## D. CONCLUSIONES
 
-La conclusión es que más allá de la presentación de los proyectos, no se establecieron sinergias entre éstos que, a pesar de la disparidad, había nexos de unión suficientes en varias áreas tales como proc admin o bioindicadores. Parece que lo que atrajo fue dejarse ver para futuro. 
+La conclusión es que más allá de la presentación de los proyectos, **no se establecieron sinergias** entre éstos que, a pesar de la disparidad, había nexos de unión suficientes en varias áreas tales como **proc admin** o **bioindicadores**. Parece que lo que atrajo fue dejarse ver para futuro. 
 
-Lo más interesante con diferencia ha sido el establecer sinergias con la organización (Gallocanta, asistencia jurídica REDPAC..) y la redacción de propuestas de cara a la nueva PAC porque se va a cambiar la asignación de pptos. -ya que se van a fusionar otros programas- para orientar a medio ambiente. Aquí se debería preparar un doc -previa consulta con Juanjo- y proponer una nueva ronda de generación de propuestas más elaboradas mediante tutela REDPAC y formato REDPAC, porque se precisa previamente cómo quiere el Mº que se presente.
+Lo más interesante con diferencia ha sido el establecer sinergias con la organización (las "antenas": Gallocanta, asistencia jurídica REDPAC..) y la redacción de propuestas de cara a la nueva PAC, porque se va a cambiar la asignación de pptos. -ya que se van a fusionar otros programas- para reorientar a medio ambiente. 
+
+Aquí SEO se debería preparar un doc -previa consulta con Juanjo- y proponer una nueva ronda de generación de propuestas más elaboradas mediante tutela REDPAC y formato REDPAC, porque se precisa previamente cómo quiere el Mº que se presente.
