@@ -1,3 +1,6 @@
+
+# REDPAC LA JUNQUERA, 6 de noviembre
+
 ## A. Exposición de proyectos
 
 1. TORNOS
@@ -6,11 +9,7 @@
 Desarrollado en [Modelo_PPT_Proyectos_Jornada_MAv3.pptx.pdf](file:///c%3A/Users/jesus/Downloads/%5BCrvc%5D/%5BCrvc%5D%20Modelo_PPT_Proyectos_Jornada_MAv3.pptx.pdf)
 
 
-2. JUNQUERA
-
-
-
-En el resto de proyectos, son producciones locales o bien, comunidades energéticas locales, si bien se completó aforo y se quedó gente fuera, limitado a proyectos y resto de gente.
+En el resto de proyectos, son producciones locales, recogida de RSs o bien, comunidades energéticas locales, si bien se completó aforo y se quedó gente fuera, limitado a proyectos y resto de gente.
 
 
 ## B. Taller de retos y soluciones
@@ -45,7 +44,7 @@ En esta primera parte de la dinámica se plantearon, por cada proyecto presentad
 
 
 ## C. Propuestas de mejora 
-La última parte de los talleres consistió en hacer propuestas que se iban a trasladar para la reforma de la PAC
+La última parte de los talleres consistió en hacer propuestas que se iban a trasladar para la reforma de la PAC. 
 
 Por parte de SEO se planteó un sistema de bioindicadores (avifauna) mediante una foto-fija inicial y un seguimiento SACRE, SACIN para tener una medida de que, las acciones planteadas dentro del marco PAC son beneficiosas y en qué medida. 
 
