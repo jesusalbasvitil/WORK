@@ -151,7 +151,7 @@ Peso Especie = (Amenaza × 0.40) + (Sensibilidad × 0.25) + (Función × 0.20) +
 
 **Para el Caso Agualobos:**
 - **Alondra de Dupont**: 21 territorios en área del proyecto ("La Pernalosa")
-  - Población regional: ~2,000-3,000 territorios
+  - `Población regional: ~2,000-3,000 territorios`
   - Peso de impacto: 21/2,500 = 0.84% de la población regional
   - Con multiplicador CR (5.0) = **4.2% impacto ponderado**
 
