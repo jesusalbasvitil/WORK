@@ -1,4 +1,5 @@
 ## Fuentes
+
 [INAGA: Órganos directivos](https://www.aragon.es/-/organos-directivos)
 
 [DECRETO 140/2016, de 27 de septiembre, del Gobierno de Aragón, por el que se nombra Director del Instituto Aragonés de Gestión Ambiental a don Jesús Lobera Mariel. BOA nº188. 28/9/16](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=927808943434)
@@ -13,9 +14,10 @@
 [Eugenio Dominguez, MITECO](https://www.elmundo.es/espana/2025/12/15/69406b04fc6c83934f8b458f.html)
 
 ---
+
 ## Abstract
 
-Desde finales de 2016 hasta finales de 2023`[cita requerida]` JLM fue Director de INAGA. A esto se añade lo autorizado y publicado con posterioridad a esa fecha. 
+Desde finales de 2016 hasta finales de 2023`[cita requerida]` JLM fue Director de INAGA. A esto se añade lo autorizado y publicado con posterioridad a esa fecha.
 
 Según informaciones de El Mundo, en relación con MITECO y a su vez con INAGA, parece que, a lo largo de 2022 fue el periodo donde se produjeron las mayores irregularidades, con informes y contrainformes. Así pues, este ensayo se centra en un periodo de 18 meses cuyo eje podría establecerse a mediados de 2022 alrededor de las DIAs negativas, como documentos de control, y las DIAs positivas como sujetos de análisis, para intentar establecer una serie de patrones en torno a FORESTALIA.
 
@@ -25,21 +27,196 @@ Según informaciones de El Mundo, en relación con MITECO y a su vez con INAGA, 
 "Declaración"
 [text](https://www.boa.aragon.es/#/resultados-avanzada?TITU=Declaraci%25F3n&SECC-C=I%2BO%2BII%2BO%2BIII%2BO%2BIV%2BO%2BV&SECC=&SUBS-C=&NUMB=&RANG-C=&OLEY-C=&ALEY-C=&ORGA-C=&TEXT-C=Lobera&@PUBL-GE=20210901&@PUBL-LE=20230331&FDIS-C=)
 
-
-
 ["Lobera", "Incompatible"](https://www.boa.aragon.es/#/resultados-avanzada?TITU=&SECC-C=I%2BO%2BII%2BO%2BIII%2BO%2BIV%2BO%2BV&SECC=&SUBS-C=&NUMB=&RANG-C=&OLEY-C=&ALEY-C=&ORGA-C=&TEXT-C=Lobera%2520Y%2520incompatible&@PUBL-GE=20210901&@PUBL-LE=20230331&FDIS-C=) 73 docs
 
 ## Radiografía de una DIA- [Prompt]
-<!--Read this doc and:
+<!--1st. Read this doc and:
 
-1. Search next sections and subsections and find this or similar :  1. Descripción; 2. Tramitación, inside "Análisis técnico", "Fundamentos de Derecho" and "Declaración" and inside these first A) Alternativas, B) Impactos ZEPA, C) Vulnerabilidad, D) Vigilancia ambiental.  
+2nd. Search next sections and subsections and find this or similar:  1. Descripción*; 2. Tramitación, inside "Análisis técnico"*, "Fundamentos de Derecho" and "Declaración" and inside these first A) Alternativas*, B) Impactos ZEPA*, C) Vulnerabilidad, D) Vigilancia ambiental.  
 
+3rd. In each sections and subsections -only with asterisk- dig elements like species of birds found, protected legal figures; in brief these elements than add reasons to deny the project
+
+4th. Make an inform with the conclusion and a sort analysis, in markdown
 
 -->
 
+### Análisis de la Resolución - Parque Eólico "Agualobos"
+
+---
+
+#### Elementos Clave que Fundamentan el Rechazo
+
+##### 1. **Descripción del Proyecto**
+
+**Características técnicas:**
+
+- 12 aerogeneradores Vestas V150 (4.0-4.2 MW)
+- Altura de buje: 105 m, diámetro rotor: 150 m
+- Línea subterránea MT: 9.863 m
+- Viales: 12.149 m (4.101 m nuevos)
+- Subestación transformadora 220/20 kV
+- Superficie ocupada: 19,42 ha
+- Excavación: 115.730 m³
+
+**Ubicación crítica:**
+
+- Entre dos ZEPAs (Parameras de Campo Visiedo y Parameras de Alfambra)
+- Parque Cultural del Maestrazgo
+- Parque Cultural del Chopo Cabecero
+- Parque Paleontológico de Galve
+
+---
+
+##### 2. **Tramitación - Consultas y Alegaciones**
+
+**Organismos consultados con respuestas significativas:**
+
+- **Dirección General de Ordenación del Territorio**: Solicitó valoración de efectos acumulativos y actualización del estudio de avifauna (datado en 2007)
+- **Consejo de Ordenación del Territorio**: Preocupación por efectos sobre paisaje y necesidad de actualizar estudios
+- **CHJ**: Requerimientos sobre protección de cauces
+- **INAGA**: Afección a vías pecuarias y monte consorciado
+- **Cellnex**: Oposición por afectación a servicios de TDT (584 habitantes afectados)
+
+**Alegaciones recibidas:**
+
+- Ecologistas en Acción Otus: Fraccionamiento de proyectos, sinergias no evaluadas
+- SECEMU: Carencias en estudio de quirópteros
+- Asociación Teruel Existe: Estudios obsoletos y deficientes
+- Plataforma Paisajes de Teruel: Impactos críticos sobre paisaje
+
+---
+
+##### 3. **Alternativas Estudiadas**
+
+**Alternativa 0 (No ejecución):**
+
+- No se generarían impactos ambientales
+- Se perdería aprovechamiento de energías renovables
+
+**Alternativa I:**
+
+- 12 aerogeneradores en cabecera de barrancos
+- Distancia mínima ZEPA: 1 km
+- Afección a HIC 4090 (5 aerogeneradores) y HIC 9340 (6 aerogeneradores)
+
+**Alternativa II (Seleccionada):**
+
+- 12 aerogeneradores
+- Distancia mínima ZEPA: 818 m (Parameras Campo Visiedo) y 1 km (Parameras Alfambra)
+- Menor afección a HIC: 4090 (2 aerogeneradores) y HIC 9340 (1 aerogenerador)
+- **Problema crítico**: 10 aerogeneradores dentro del ámbito del plan de conservación de Al-Arba
+
+---
+
+##### 4. **Impactos sobre Espacios Protegidos y Red Natura 2000**
+
+###### **Afección directa a ZEPA:**
+
+- **ZEPA ES0000304 "Parameras de Campo Visiedo"**: Apertura de 135 m nuevo acceso + 1.098 m mejora camino
+- **ZEPA ES0000305 "Parameras de Alfambra"**: Aerogeneradores a 750-970 m
+
+###### **Especies objetivo de las ZEPAs afectadas:**
+
+- **Alondra de Dupont** (*Chersophilus duponti*) - **EN PELIGRO DE EXTINCIÓN**
+- Ganga ortega (*Pterocles orientalis*) - Vulnerable
+- Terrera común (*Calandrella brachydactyla*)
+- Aguilucho cenizo (*Circus pygargus*)
+- Sisón común (*Tetrax tetrax*)
+
+###### **Afección crítica a población de Alondra de Dupont:**
+
+- **21 territorios detectados** en área "La Pernalosa"
+- **9 aerogeneradores proyectados** en esta área crítica
+- Segunda área crítica ("La Iranza") a solo 780 m
+- Riesgo de colisión en vuelos de marcaje territorial
+- Fragmentación del hábitat de especie catalogada "En Peligro de Extinción"
+
+###### **Otras especies catalogadas detectadas:**
+
+**En Peligro de Extinción:**
+
+- Milano real (*Milvus milvus*): 9 avistamientos, 75% vuelos a altura de riesgo
+
+**Vulnerables:**
+
+- Aguilucho cenizo (*Circus pygargus*): 6 avistamientos
+- Alimoche (*Neophron percnopterus*): 13 avistamientos
+- Chova piquirroja (*Pyrrhocorax pyrrhocorax*): 65 ejemplares
+- Ganga ortega (*Pterocles orientalis*): 4 avistamientos
+- Quirópteros: *Rhinolophus ferrumequinum*, *R. hipposideros*, *Myotis myotis*, *Miniopterus schreibersii*
+
+**Estimación siniestralidad:**
+
+- Buitre leonado: 2-12 bajas/año
+- Milano real: 0,01-0,05 bajas/año
+- Impacto inicial por colisión: **SEVERO**
+
+###### **Afección a Hábitats de Interés Comunitario:**
+
+- **HIC 4090** "Brezales oromediterráneos endémicos con aliaga": 8,31 ha afectadas
+- **HIC 9340** "Bosques de *Quercus ilex* y *Q. rotundifolia*": afección puntual
+- **Problema**: La restauración prevista (hidrosiembra + aliaga/tomillo) no corresponde con especies características de estos HIC
+
+###### **Planes de protección afectados:**
+
+- Plan de Recuperación del cangrejo de río (*Austropotamobius pallipes*): 100% instalaciones
+- Plan de Conservación de Al-Arba (*Krascheninnikovia ceratoides*): 10 de 12 aerogeneradores
+- Ámbito potencial Plan de Recuperación especies esteparias: distancia mínima 1.130 m
+- Ámbito potencial Plan de Conservación alondra ricotí: 9 de 12 aerogeneradores
+
+###### **Compromiso de conectividad Red Natura 2000:**
+
+La resolución establece que el parque **compromete la conectividad ecológica** entre las dos ZEPAs, actuando como barrera para especies compartidas (alondra de Dupont, ganga ortega, terrera común) y poniendo en riesgo **la integridad de la Red Natura 2000**.
+
+---
+
+#### Motivos Principales del Rechazo
+
+##### 1. **Incompatibilidad con conservación de alondra de Dupont**
+
+- Especie "En Peligro de Extinción"
+- 9 aerogeneradores en área con 21 territorios
+- Riesgo de colisión + fragmentación de hábitat
+- Incompatible con objetivos del futuro Plan de Recuperación
+
+##### 2. **Impacto significativo sobre avifauna y quirópteros catalogados**
+
+- Múltiples especies En Peligro y Vulnerables
+- Estimación de mortalidad severa
+- Degradación de hábitats esteparios
+
+##### 3. **Afección a objetivos de conservación de Red Natura 2000**
+
+- Compromiso de conectividad entre ZEPAs
+- Afección a especies objetivo esenciales
+- Riesgo para integridad de la Red
+
+##### 4. **Impacto paisajístico crítico**
+
+- Visibilidad desde 75,78% del área en radio 10 km
+- Zona poco antropizada con valores culturales
+- Afección a 2 Parques Culturales
+- Calidad paisajística media-alta a alta
+
+##### 5. **Ausencia de alternativas viables**
+
+- No se contemplan alternativas que minimicen impactos
+- Reubicación dentro de poligonal considerada improbable
+
+---
+
+#### Aplicación del Principio de Cautela
+
+La resolución concluye que las medidas correctoras propuestas **no pueden asegurar la compatibilidad** del proyecto con la conservación de los valores naturales, aplicando el principio de cautela ante:
+
+- Especies catalogadas En Peligro de Extinción
+- Integridad de espacios Red Natura 2000
+- Conectividad ecológica
+- Valores paisajísticos y culturales singulares
+
+**Resultado: Declaración de Impacto Ambiental DESFAVORABLE e INCOMPATIBLE**
 
 ### RESOLUCIÓN de 16 de enero de 2023, del Instituto Aragonés de Gestión Ambiental, por la que se formula la declaración de impacto ambiental del proyecto del Parque Eólico "Agualobos", de 50 MWn, y su infraestructura de evacuación en los términos municipales de `Galve`, `Perales del Alfambra` y `Cañada Vellida` (Teruel), promovido por Molinos del Ebro, SA. (Número de Expediente: INAGA 500201/01/2022/04936)
-
 
 <!--Publicado el 29/03/2023 (Nº 61)
 
