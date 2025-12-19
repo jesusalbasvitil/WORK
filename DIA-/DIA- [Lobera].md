@@ -32,11 +32,14 @@ Según informaciones de El Mundo, en relación con MITECO y a su vez con INAGA, 
 ## Radiografía de una DIA- [Prompt]
 <!--1st. Read this doc and:
 
-2nd. Search next sections and subsections and find this or similar:  1. Descripción*; 2. Tramitación, inside "Análisis técnico"*, "Fundamentos de Derecho" and "Declaración" and inside these first A) Alternativas*, B) Impactos ZEPA*, C) Vulnerabilidad, D) Vigilancia ambiental.  
+2nd. Search next sections and subsections and find this or similar:  1. Descripción; 2. Tramitación, inside *"Análisis técnico", "Fundamentos de Derecho" and "Declaración" and inside these first A) *"Alternativas", B) *"Impactos ZEPA", C) Vulnerabilidad, D) Vigilancia ambiental.  
 
 3rd. In each sections and subsections -only with asterisk- dig elements like species of birds found, protected legal figures; in brief these elements than add reasons to deny the project
 
 4th. Make an inform with the conclusion and a sort analysis, in markdown
+
+19121900
+
 
 -->
 
