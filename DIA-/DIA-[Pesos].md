@@ -133,7 +133,7 @@ Peso Especie = (Amenaza × 0.40) + (Sensibilidad × 0.25) + (Función × 0.20) +
 
 ## 4. Pesos Poblacionales y Distribucionales
 
-### 4.1 Endemismo y Restricción de Rango[⁴][⁵]
+### 4.1 Endemismo y Restricción de Rango[^4][^5]
 
 **Puntuación de Riqueza Endémica:**
 - Endémica global (región única): 5.0x
@@ -794,6 +794,13 @@ Drivers considered:
 | **VU + Annex I** | 3.0 | 2.5 | 2.0 | **7.5x** |
 | **VU only** | 2.5 | 2.0 | 1.5 | **6.0x** |
 | **NT/LC + Protected** | 1.5 | 1.5 | 1.0 | **4.0x** |
+
+---
+<!-- About this frame of the last answer: "## 8. Integration Models
+### 8.1 Mean Species Abundance (MSA) Model
+**Internationally Recognized Metric:**-->
+
+---
 
 ### 9.2 Agualobos Case Study Calculations
 
