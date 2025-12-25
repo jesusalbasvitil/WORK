@@ -13,6 +13,7 @@ Las evaluaciones de impacto ambiental utilizan cada vez más sistemas de pondera
 La Lista Roja de la UICN proporciona la jerarquía fundamental para ponderar el daño a especies:
 
 **Pesos por Categoría de Amenaza:**
+
 - **En Peligro Crítico (CR)**: Peso máximo (típicamente 4.0-5.0)
 - **En Peligro (EN)**: Peso alto (3.0-4.0)
 - **Vulnerable (VU)**: Peso moderado-alto (2.0-3.0)
@@ -25,6 +26,7 @@ La Lista Roja de la UICN proporciona la jerarquía fundamental para ponderar el 
 ### 1.2 Multiplicadores por Estado de Protección Legal[¹][²][³]
 
 **Marco de la Unión Europea:**
+
 - **Especies del Anexo II de la Directiva Hábitats**: multiplicador 1.5-2.0x
 - **Especies del Anexo I de la Directiva Aves**: multiplicador 1.5-2.0x
 - **Especies prioritarias (designación asterisco *)**: multiplicador 2.0-3.0x
@@ -32,6 +34,7 @@ La Lista Roja de la UICN proporciona la jerarquía fundamental para ponderar el 
 - **Protección regional únicamente**: multiplicador 1.2-1.5x
 
 **Mejora por Áreas Protegidas:**
+
 - Especies dentro de **sitios Natura 2000**: +0.5 multiplicador
 - Especies en **ZEPA** (Zonas de Especial Protección para las Aves): +0.5-1.0 multiplicador
 - Especies en **ZEC** (Zonas Especiales de Conservación): +0.5-1.0 multiplicador
@@ -40,7 +43,7 @@ La Lista Roja de la UICN proporciona la jerarquía fundamental para ponderar el 
 
 ## 2. Sistemas de Ponderación Multifactorial
 
-### 2.1 Marco de Índice Integral (Modelo Andaluz)[²³]
+### 2.1 Marco de Índice Integral [Modelo Andaluz](²³)
 
 **Marco Desarrollado por Chefaoui et al. (2019) para los Bosques de Andalucía:**
 
@@ -51,19 +54,22 @@ Este marco español combina múltiples factores en un índice ponderado único p
 **Área de Estudio y Especies Incluidas:**
 
 El índice se probó en los bosques de Andalucía (sur de España), una extensa región europea de 87,268 km², con 43,864 km² (~50%) clasificados como hábitats forestales. Se seleccionaron 224 especies amenazadas:
+
 - Todas las especies incluidas en los Anexos de las Directivas Aves y Hábitats de la UE
 - Especies endémicas regionales catalogadas como "En Peligro Crítico" o "En Peligro" no cubiertas (aún) por las Directivas
 
-**Factor 1: Nivel de Amenaza (40% peso)[⁴][²³]**
+**Factor 1: Nivel de Amenaza [40% peso][⁴](²³)**
 
 Basado en categorías UICN y catálogos regionales:
+
 - Puntuaciones: CR=5, EN=4, VU=3, NT=2, LC=1
 
 > "Las categorías de amenaza de la UICN se utilizaron como base para asignar pesos de conservación relativos, reflejando que las especies más amenazadas requieren mayor prioridad de conservación" (Chefaoui et al., 2019, Metodología).
 
-**Factor 2: Sensibilidad a la Perturbación (25% peso)[²³]**
+**Factor 2: Sensibilidad a la Perturbación [25% peso](²³)**
 
 Evaluación de tres componentes:
+
 - **Especificidad de hábitat**: 1 (generalista) a 5 (especialista extremo)
   - Especies con requerimientos muy específicos reciben mayor peso
 - **Tasa reproductiva**: 1 (alta) a 5 (muy baja)
@@ -71,9 +77,10 @@ Evaluación de tres componentes:
 - **Capacidad de dispersión**: 1 (alta movilidad) a 5 (sésil/limitada)
   - Especies con limitada dispersión tienen menor resiliencia
 
-**Factor 3: Papel Funcional en el Ecosistema (20% peso)[²³]**
+**Factor 3: Papel Funcional en el Ecosistema [20% peso](²³)**
 
 Clasificación basada en importancia ecológica:
+
 - **Especies clave** (keystone species): 5
   - Impacto desproporcionado en el ecosistema
 - **Ingenieros de ecosistemas**: 4
@@ -83,7 +90,7 @@ Clasificación basada en importancia ecológica:
 - **Especies comunes**: 2
 - **Raras con función mínima**: 1
 
-**Factor 4: Nivel de Conocimiento (15% peso)[²³]**
+**Factor 4: Nivel de Conocimiento [15% peso](²³)**
 
 Factor de ajuste por calidad y cantidad de datos disponibles:
 
@@ -95,6 +102,7 @@ Factor de ajuste por calidad y cantidad de datos disponibles:
 - Datos mínimos (registros esporádicos): 0.5 (reducción precautoria)
 
 **Fórmula del Índice Integral:**
+
 ```
 Peso Especie = (Amenaza × 0.40) + (Sensibilidad × 0.25) + (Función × 0.20) + (Conocimiento × 0.15)
 
@@ -129,13 +137,14 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 
 [²³]: **Chefaoui, R.M., Assis, J., Duarte, C.M., Serrão, E.A. (2019)**. A comprehensive index for threatened biodiversity valuation  
 → Cita: Ecological Indicators, 102:688-697  
-→ DOI: https://doi.org/10.1016/j.ecolind.2019.03.026  
-→ ResearchGate: https://www.researchgate.net/publication/335882857_A_comprehensive_index_for_threatened_biodiversity_valuation  
+→ DOI: <https://doi.org/10.1016/j.ecolind.2019.03.026>  
+→ ResearchGate: <https://www.researchgate.net/publication/335882857_A_comprehensive_index_for_threatened_biodiversity_valuation>  
 → **Secciones relevantes**:
-  - Páginas 689-691: "Materials and methods" - Descripción detallada del índice
-  - Página 690: Tabla 1 - Factores de ponderación y sus pesos
-  - Páginas 691-693: "Results" - Aplicación en bosques de Andalucía
-  - Página 694: Figura 3 - Mapas de valor de conservación
+
+- Páginas 689-691: "Materials and methods" - Descripción detallada del índice
+- Página 690: Tabla 1 - Factores de ponderación y sus pesos
+- Páginas 691-693: "Results" - Aplicación en bosques de Andalucía
+- Página 694: Figura 3 - Mapas de valor de conservación
 
 ### 2.2 Sistema de Clasificación de Conservación NatureServe[⁵]
 
@@ -151,6 +160,7 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 8. **Vulnerabilidad Intrínseca**: Características de la especie que afectan la resiliencia
 
 **Escala de Clasificación (G1-G5):**
+
 - G1 (Críticamente Imperiled): Peso = 5.0
 - G2 (Imperiled): Peso = 4.0
 - G3 (Vulnerable): Peso = 3.0
@@ -161,17 +171,20 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 
 ## 3. Ponderación de Hábitats y Paisajes
 
-### 3.1 Hábitats de Interés Comunitario (UE)[¹][¹⁴]
+### 3.1 Hábitats de Interés Comunitario [UE][¹](¹⁴)
 
 **Hábitats Prioritarios (asterisco *) bajo la Directiva Hábitats:**
+
 - Multiplicador de peso: **3.0-4.0x**
 - Ejemplos: Turberas prioritarias, lagunas costeras, turberas elevadas activas
 
 **Hábitats del Anexo I No Prioritarios:**
+
 - Multiplicador de peso: **2.0-2.5x**
 - Ejemplos: HIC 4090 (Brezales mediterráneos), HIC 9340 (Bosques de Quercus)
 
 **Ajustes Basados en la Condición:**
+
 - Buen estado de conservación: 1.0x (base)
 - Estado de conservación malo: 1.5x
 - Estado de conservación muy malo: 2.0x
@@ -180,6 +193,7 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 ### 3.2 Elementos del Paisaje y Patrimonio Cultural
 
 **Categorías de Paisaje Protegido:**
+
 - **Sitios Patrimonio Mundial UNESCO**: 4.0-5.0x
 - **Reservas de la Biosfera**: 3.0-3.5x
 - **Geoparques**: 2.5-3.0x
@@ -187,6 +201,7 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 - **Paisajes protegidos nacionalmente**: 1.5-2.0x
 
 **Factores de Impacto Visual:**
+
 - Alta visibilidad (>75% cuenca visual): 1.5x
 - Visibilidad media (50-75%): 1.2x
 - Baja visibilidad (<50%): 1.0x
@@ -198,12 +213,14 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 ### 4.1 Endemismo y Restricción de Rango[⁴][⁵]
 
 **Puntuación de Riqueza Endémica:**
+
 - Endémica global (región única): 5.0x
 - Endémica regional (multiregión dentro del país): 3.0x
 - Endémica nacional: 2.0x
 - Localmente rara pero extendida en otros lugares: 1.2x
 
 **Vulnerabilidad Basada en Rango:**
+
 - Área de Ocupación (AOO) < 10 km²: 4.0x
 - AOO 10-100 km²: 3.0x
 - AOO 100-2,000 km²: 2.0x
@@ -212,19 +229,19 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 ### 4.2 Ajustes por Densidad Poblacional
 
 **Para el Caso Agualobos:**
+
 - **Alondra de Dupont**: 21 territorios en área del proyecto ("La Pernalosa")
   - Población regional: ~2,000-3,000 territorios
   - Peso de impacto: 21/2,500 = 0.84% de la población regional
   - Con multiplicador CR (5.0) = **4.2% impacto ponderado**
 
 **Ejemplo de Cálculo:**
-```
+
 Puntuación Impacto = (Población Local / Población Regional) × Peso Amenaza × % Pérdida Hábitat
 
 Para Alondra de Dupont:
 = (21 / 2,500) × 5.0 × 0.38 (fracción pérdida hábitat)
 = 0.0159 unidades impacto ponderado
-```
 
 ---
 
@@ -233,6 +250,7 @@ Para Alondra de Dupont:
 ### 5.1 Riesgo de Mortalidad Directa
 
 **Riesgo de Colisión para Parques Eólicos (específico por especie):**
+
 - **Alta vulnerabilidad** (buitres, águilas): 3.0-4.0x
   - Buitre leonado: 2-12 muertes/año estimadas
   - Peso: 3.5x mortalidad base
@@ -246,12 +264,14 @@ Para Alondra de Dupont:
 ### 5.2 Severidad de Pérdida de Hábitat[⁹][¹⁰][¹¹]
 
 **Permanente vs. Temporal:**
+
 - **Destrucción permanente de hábitat**: 3.0x
 - **Degradación a largo plazo** (>20 años): 2.0x
 - **Perturbación a medio plazo** (5-20 años): 1.5x
 - **Impactos temporales de construcción**: 1.0x
 
 **Factor de Calidad de Hábitat:**
+
 - Hábitat crítico de cría/nidificación: 3.0x
 - Hábitat primario de alimentación: 2.0x
 - Hábitat secundario/marginal: 1.0x
@@ -264,15 +284,16 @@ Para Alondra de Dupont:
 ### 6.1 Efectos Sinérgicos de Múltiples Proyectos[¹⁴]
 
 **Función de Decaimiento por Distancia:**
-```
-Factor Sinergia = 1 + Σ(Peso_Proyecto × e^(-distancia/umbral))
+
+  Factor Sinergia = 1 + Σ(Peso_Proyecto × e^(-distancia/umbral))
 
 Donde:
-- umbral = 5 km para parques eólicos
-- Peso_Proyecto = puntuación impacto normalizada (0-1)
-```
+
+  umbral = 5 km para parques eólicos
+  Peso_Proyecto = puntuación impacto normalizada (0-1)
 
 **Para el Contexto de Agualobos:**
+
 - 53 aerogeneradores existentes + 16 proyectados dentro de 10 km
 - 815 apoyos líneas eléctricas existentes + 17 proyectados
 - Multiplicador sinérgico: **1.8-2.2x** para evaluación acumulativa
@@ -280,12 +301,14 @@ Donde:
 ### 6.2 Impactos en la Conectividad de Redes[¹][²]
 
 **Conectividad Red Natura 2000:**
+
 - Proyecto **entre dos ZEPAs** (como en Agualobos): 2.5-3.0x
 - Proyecto adyacente a ZEPA (dentro de 1 km): 1.8-2.0x
 - Proyecto cercano a ZEPA (1-5 km): 1.3-1.5x
 - Sin proximidad a áreas protegidas: 1.0x
 
 **Fragmentación de Corredores:**
+
 - Efecto barrera completo: 3.0x
 - Permeabilidad parcial retenida: 1.5x
 - Fragmentación mínima: 1.0x
@@ -297,6 +320,7 @@ Donde:
 ### 7.1 Vulnerabilidad por Etapa del Ciclo de Vida
 
 **Impactos en Época de Cría:**
+
 - Período crítico de nidificación: 3.0x
 - Época de cría en general: 2.0x
 - Períodos migratorios: 1.5x
@@ -305,6 +329,7 @@ Donde:
 ### 7.2 Plazos de Recuperación[¹²]
 
 **Potencial de Recuperación Ecológica:**
+
 - Irreversible (>100 años): 4.0x
 - Largo plazo (50-100 años): 3.0x
 - Medio plazo (20-50 años): 2.0x
@@ -315,7 +340,7 @@ Donde:
 
 ## 8. Modelos de Integración
 
-### 8.1 Modelo de Abundancia Media de Especies (MSA)[⁶][⁷][⁸][¹⁸]
+### 8.1 Modelo de Abundancia Media de Especies [MSA][⁶][⁷][⁸][¹⁸]
 
 **Métrica Reconocida Internacionalmente:**
 
@@ -356,16 +381,16 @@ Según Alkemade et al. (2009) y Schipper et al. (2020), el modelo considera:
 
 - **Alkemade et al. (2009)**: "GLOBIO3: A Framework to Investigate Options for Reducing Global Terrestrial Biodiversity Loss", Ecosystems 12:374-390
   - Sección relevante: Páginas 376-378, "Cause-effect relationships" y Tabla 4
-  - URL: https://doi.org/10.1007/s10021-009-9229-5
+  - URL: <https://doi.org/10.1007/s10021-009-9229-5>
 
 - **Schipper et al. (2020)**: "Projecting terrestrial biodiversity intactness with GLOBIO 4", Global Change Biology 26:760-771
   - Sección relevante: Páginas 761-763, "Materials and Methods", subsección "Pressure-impact relationships"
-  - URL: https://doi.org/10.1111/gcb.14848
+  - URL: <https://doi.org/10.1111/gcb.14848>
 
-- **GLOBIO Official Documentation**: https://www.globio.info/what-is-globio
+- **GLOBIO Official Documentation**: <https://www.globio.info/what-is-globio>
   - Sección: "How GLOBIO works - Pressure-impact relationships"
 
-### 8.2 Marco de Peso de la Evidencia (WoE)[¹⁵][¹⁶][¹⁷]
+### 8.2 Marco de Peso de la Evidencia [WoE][¹⁵][¹⁶](¹⁷)
 
 **Marco Desarrollado por US EPA (2016):**
 
@@ -373,7 +398,7 @@ El marco WoE de la Agencia de Protección Ambiental de EE.UU. proporciona un enf
 
 **Puntuación de Calidad de Evidencia:**
 
-Según Suter et al. (2017)[¹⁵], el marco evalúa tres propiedades principales:
+Según Suter et al. [2017](¹⁵), el marco evalúa tres propiedades principales:
 
 **1. Intensidad/Magnitud (40% peso):**
 > "La intensidad refleja la magnitud de las diferencias observadas entre situaciones impactadas y de referencia"
@@ -397,6 +422,7 @@ Según Suter et al. (2017)[¹⁵], el marco evalúa tres propiedades principales
 - Datos extrapolados: Puntuación 1
 
 **Fórmula de Puntuación Combinada:**
+
 ```
 Puntuación WoE = (Intensidad × 0.40) + (Fiabilidad × 0.35) + (Relevancia × 0.25)
 ```
@@ -411,16 +437,16 @@ Puntuación WoE = (Intensidad × 0.40) + (Fiabilidad × 0.35) + (Relevancia × 0
 
 - **Suter, G.W., Cormier, S.M. (2017)**: "A Weight of Evidence Framework for Environmental Assessments: Inferring Qualities", Integrated Environmental Assessment and Management 13(6):1038-1044
   - Sección relevante: Páginas 1039-1041, "Weighting the Evidence" y Tabla 1
-  - URL: https://doi.org/10.1002/ieam.1954
-  - PubMed: https://pmc.ncbi.nlm.nih.gov/articles/PMC5726519/
+  - URL: <https://doi.org/10.1002/ieam.1954>
+  - PubMed: <https://pmc.ncbi.nlm.nih.gov/articles/PMC5726519/>
 
 - **US EPA (2016)**: "Weight of Evidence in Ecological Assessment"
   - Capítulo 3: "The Weight of Evidence Framework", páginas 17-28
-  - URL: https://www.epa.gov/sites/default/files/2016-05/documents/woe_ecological_assessment.pdf
+  - URL: <https://www.epa.gov/sites/default/files/2016-05/documents/woe_ecological_assessment.pdf>
 
 - **Suter, G.W., Cormier, S.M. (2017)**: "A Weight of Evidence Framework for Environmental Assessments: Inferring Quantities"
   - Figura 1: Framework para derivar valores cuantitativos mediante WoE
-  - URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5726517/
+  - URL: <https://pmc.ncbi.nlm.nih.gov/articles/PMC5726517/>
 
 ---
 
@@ -428,11 +454,11 @@ Puntuación WoE = (Intensidad × 0.40) + (Fiabilidad × 0.35) + (Relevancia × 0
 
 ### 9.1 Matriz de Evaluación Estándar para Avifauna[²][³][¹⁹][²⁰][²¹]
 
-**Marco de Evaluación de Riesgo de Colisión:**
+#### 9.1.1. Marco de Evaluación de Riesgo de Colisión:
 
 Los parques eólicos representan un riesgo significativo para la avifauna, especialmente especies incluidas en el Anexo I de la Directiva Aves[²]. La evaluación de riesgo combina estado legal, vulnerabilidad biológica y características del proyecto[¹⁹][²⁰].
 
-**Metodología de Ponderación Multifactorial:**
+#### 9.1.2. Metodología de Ponderación Multifactorial:
 
 | Categoría Especie | Peso Estado Legal | Riesgo Colisión | Pérdida Hábitat | Multiplicador Total |
 |------------------|-------------------|-----------------|-----------------|---------------------|
@@ -442,39 +468,42 @@ Los parques eólicos representan un riesgo significativo para la avifauna, espec
 | **VU solo**[³] | 2.5 | 2.0 | 1.5 | **6.0x** |
 | **NT/LC + Protegida** | 1.5 | 1.5 | 1.0 | **4.0x** |
 
-**Fundamento de los Pesos de Riesgo de Colisión[¹⁹][²⁰][²¹]:**
+#### 9.1.3. Fundamento de los Pesos de Riesgo de Colisión[¹⁹][²⁰][²¹]:
 
-Según Cook et al. (2025)[²⁰] y la revisión de Masden & Cook (2016):
+Según Cook et al. [2025](²⁰) y la revisión de Masden & Cook (2016):
 
 > "La vulnerabilidad a la colisión se determina mediante modelos de riesgo de colisión (CRM) que estiman la probabilidad de que un ave de tamaño y velocidad especificados colisione con una turbina en rotación de tamaño y velocidad especificados" (Band 2012, citado en Cook et al. 2025)
 
 **Categorías de Vulnerabilidad de Colisión[¹⁹][²¹]:**
 
 **Alta vulnerabilidad (peso 3.0-3.5):**
+
 - Buitres, águilas, grandes rapaces
 - Características: Gran envergadura, vuelo planeador, baja maniobrabilidad
 - Ejemplo: Buitre leonado, águila real
 - Fuente: Marques et al. (2014), citado en Bellebaum et al. (2013)
 
 **Vulnerabilidad moderada (peso 2.0-2.5):**
+
 - Rapaces medianas, milanos
 - Características: Envergadura media, vuelo activo con planeo
 - Ejemplo: Milano real, aguilucho cenizo
 
 **Baja vulnerabilidad (peso 1.0-1.5):**
+
 - Paseriformes, pequeñas aves
 - Características: Pequeño tamaño, alta maniobrabilidad
 - Alto comportamiento de microevasión (micro-avoidance)
 
 **Criterios de Mortalidad y Umbrales Legales[¹⁹]:**
 
-Según Schaub (2012) y la revisión de Bellebaum et al. (2013)[¹⁹]:
+Según Schaub (2012) y la revisión de Bellebaum et al. [2013](¹⁹):
 
 > "El uso del criterio de mortalidad ORNIS del 1%, el criterio de mortalidad del 5%, y los criterios de eliminación biológica potencial (PBR) son inadecuados para proporcionar umbrales seguros respecto al impacto de las colisiones de turbinas eólicas en las poblaciones"
 
 **Marco Legal UE para Evaluación[²][¹⁹]:**
 
-- **Directiva Aves (2009/147/CE)[²]**: Artículo 9(1)(c) - derogación por "pequeñas cantidades"
+- **Directiva Aves [2009/147/CE](²)**: Artículo 9(1)(c) - derogación por "pequeñas cantidades"
 - **Criterio ORNIS 1%**: Umbral automático establecido en 1% de la mortalidad natural anual en la población biogeográfica relevante
 - **Principio de precaución**: Aplicación obligatoria según jurisprudencia UE (De Sadeleer, 2013)
 
@@ -482,24 +511,24 @@ Según Schaub (2012) y la revisión de Bellebaum et al. (2013)[¹⁹]:
 
 - **Cook, A.S.C.P., et al. (2025)**: "A critical appraisal of 40 years of avian collision risk modelling", Environmental Impact Assessment Review 110:107717
   - Sección relevante: Introduction y Section 2 "Development of CRMs"
-  - URL: https://www.sciencedirect.com/science/article/abs/pii/S0195925524003044
+  - URL: <https://www.sciencedirect.com/science/article/abs/pii/S0195925524003044>
 
 - **Schaub, M. (2012)** citado en: Bellebaum et al. (2013): "Mortality limits used in wind energy impact assessment underestimate impacts of wind farms on bird populations", Journal of Applied Ecology
   - Sección: "Legal Framework" y Tabla 1
-  - URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381563/
-  - DOI: https://doi.org/10.1111/1365-2664.12556
+  - URL: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381563/>
+  - DOI: <https://doi.org/10.1111/1365-2664.12556>
 
 - **Band, W. (2012)**: "Using a Collision Risk Model to Assess Bird Collision Risks for Offshore Windfarms", SOSS Report, The Crown Estate
-  - URL: https://www.bto.org/sites/default/files/u28/downloads/Projects/Final_Report_SOSS02_Band1ModelGuidance.pdf
+  - URL: <https://www.bto.org/sites/default/files/u28/downloads/Projects/Final_Report_SOSS02_Band1ModelGuidance.pdf>
 
 - **Masden, E.A., Cook, A.S.C.P. (2016)**: "Avian collision risk models for wind energy impact assessments", Environmental Impact Assessment Review 56:43-49
-  - URL: https://doi.org/10.1016/j.eiar.2015.09.001
+  - URL: <https://doi.org/10.1016/j.eiar.2015.09.001>
 
 ### 9.2 Cálculos del Caso de Estudio Agualobos[³]
 
-**Aplicación Práctica de la Matriz de Ponderación:**
+#### 9.2.1. Aplicación Práctica de la Matriz de Ponderación
 
-**Alondra de Dupont (Chersophilus duponti):**
+##### 9.2.1.1. Alondra de Dupont (Chersophilus duponti)
 
 Según el Decreto 129/2022[³] del Gobierno de Aragón, esta especie está catalogada "En Peligro de Extinción":
 
@@ -531,11 +560,12 @@ Según el Decreto 129/2022[³] del Gobierno de Aragón, esta especie está catal
   - Metodología revisada y validada
 
 **Puntuación Total Impacto Ponderado:**
+
 ```
 5.0 × 2.8 × 3.0 × 2.5 × 1.8 × 1.0 = 189.0 unidades
 ```
 
-**Milano Real (Milvus milvus):**
+##### 9.2.1.2.  Milano Real (Milvus milvus)
 
 Catalogado "En Peligro de Extinción" en Aragón[³]:
 
@@ -553,11 +583,12 @@ Catalogado "En Peligro de Extinción" en Aragón[³]:
 - **Nivel conocimiento**: Bien estudiada = **1.0**
 
 **Puntuación Total Impacto Ponderado:**
+
 ```
 5.0 × 3.5 × 2.0 × 2.5 × 1.0 = 87.5 unidades
 ```
 
-**Ganga Ortega (Pterocles orientalis) - Vulnerable[³]:**
+##### 9.2.1.3. Ganga Ortega (Pterocles orientalis) - Vulnerable[³]:**
 
 - **Estado legal**: VU en Aragón = **3.0**
 - **Avistamientos**: 4 observaciones (presencia baja) = **1.5**
@@ -595,6 +626,7 @@ Basado en puntuaciones ponderadas acumuladas:
 ### 10.2 Evaluación Total del Proyecto Agualobos
 
 **Impactos Ponderados Sumados:**
+
 - Alondra de Dupont: 189.0 unidades (**CRÍTICO**)
 - Milano Real: 87.5 unidades (Severo)
 - Ganga Ortega: 9.0 unidades (Moderado)
@@ -615,6 +647,7 @@ Basado en puntuaciones ponderadas acumuladas:
 ### 11.1 Restricciones de Calidad de Datos
 
 **Factores de Incertidumbre:**
+
 - Datos base obsoletos (>5 años): Aumentar peso precautorio en 20%
 - Estudios de una sola temporada: Reducir confianza en 30%
 - Distribuciones extrapoladas: Aplicar factor confianza 0.7-0.8
@@ -623,6 +656,7 @@ Basado en puntuaciones ponderadas acumuladas:
 ### 11.2 Desafíos Metodológicos
 
 **Problemas Clave:**
+
 1. **Inconmensurabilidad**: No se puede comparar directamente mortandad de peces con impacto visual paisajístico
 2. **Variabilidad temporal**: Fluctuaciones poblacionales complican líneas base
 3. **Efectos sinérgicos**: Interacciones no lineales difíciles de modelar
@@ -645,6 +679,7 @@ Basado en puntuaciones ponderadas acumuladas:
 ### 12.2 Aseguramiento de Calidad[⁴][⁵]
 
 **Estándares Mínimos:**
+
 - Estudios base plurianuales (2-3 años)
 - Cobertura ciclo anual completo para avifauna
 - Metodologías revisadas por pares
@@ -674,97 +709,97 @@ La aplicación de estas metodologías de ponderación transforma juicios subjeti
 ## Referencias
 
 [¹]: **Directiva 92/43/CEE del Consejo** sobre la conservación de los hábitats naturales y de la fauna y flora silvestres (Directiva Hábitats)  
-→ Texto oficial: https://eur-lex.europa.eu/eli/dir/1992/43/oj  
-→ Página Comisión Europea: https://environment.ec.europa.eu/topics/nature-and-biodiversity/habitats-directive_en
+→ Texto oficial: <https://eur-lex.europa.eu/eli/dir/1992/43/oj>  
+→ Página Comisión Europea: <https://environment.ec.europa.eu/topics/nature-and-biodiversity/habitats-directive_en>
 
 [²]: **Directiva 2009/147/CE** relativa a la conservación de las aves silvestres (Directiva Aves - versión codificada)  
-→ Texto oficial: https://eur-lex.europa.eu/eli/dir/2009/147/oj  
-→ Resumen: https://eur-lex.europa.eu/EN/legal-content/summary/conservation-of-wild-birds.html
+→ Texto oficial: <https://eur-lex.europa.eu/eli/dir/2009/147/oj>  
+→ Resumen: <https://eur-lex.europa.eu/EN/legal-content/summary/conservation-of-wild-birds.html>
 
 [³]: **Decreto 129/2022, de 5 de septiembre**, del Gobierno de Aragón, por el que se crea el Listado Aragonés de Especies Silvestres en Régimen de Protección Especial y se regula el Catálogo de Especies Amenazadas de Aragón  
-→ BOA: https://www.boa.aragon.es/
+→ BOA: <https://www.boa.aragon.es/>
 
 [⁴]: **UICN (2001, 2012)**. Categorías y Criterios de la Lista Roja de la UICN: Versión 3.1, Segunda Edición  
-→ Publicación oficial: https://portals.iucn.org/library/sites/library/files/documents/RL-2001-001-2nd.pdf  
-→ Página recurso principal: https://www.iucnredlist.org/resources/categories-and-criteria  
+→ Publicación oficial: <https://portals.iucn.org/library/sites/library/files/documents/RL-2001-001-2nd.pdf>  
+→ Página recurso principal: <https://www.iucnredlist.org/resources/categories-and-criteria>  
 → Cita: IUCN. 2012. IUCN Red List Categories and Criteria: Version 3.1. Second edition. IUCN, Gland, Switzerland and Cambridge, UK. iv + 32pp.
 
 [⁵]: **Faber-Langendoen, D., Nichols, J., Master, L., Snow, K., Tomaino, A., et al. (2012)**. Evaluaciones de Estado de Conservación de NatureServe: Metodología para Asignación de Rangos  
-→ Documento completo: https://www.natureserve.org/sites/default/files/natureserveconservationstatusmethodology_jun12.pdf  
-→ Recurso web: https://www.natureserve.org/conservation-status-assessment  
+→ Documento completo: <https://www.natureserve.org/sites/default/files/natureserveconservationstatusmethodology_jun12.pdf>  
+→ Recurso web: <https://www.natureserve.org/conservation-status-assessment>  
 → Cita: NatureServe. Arlington, VA. 48 pp.
 
 [⁶]: **Alkemade, R., van Oorschot, M., Miles, L., Nellemann, C., Bakkenes, M., & ten Brink, B. (2009)**. GLOBIO3: Un Marco para Investigar Opciones para Reducir la Pérdida de Biodiversidad Terrestre Global  
 → Cita: Ecosystems, 12(3), 374-390  
-→ DOI: https://doi.org/10.1007/s10021-009-9229-5
+→ DOI: <https://doi.org/10.1007/s10021-009-9229-5>
 
 [⁷]: **Schipper, A.M., Bakkenes, M., Meijer, J.R., Alkemade, R., Huijbregts, M.J., Janse, J.H., et al. (2020)**. Proyectando la Integridad de Biodiversidad Terrestre con GLOBIO 4  
 → Cita: Global Change Biology, 26(2), 760-771  
-→ DOI: https://doi.org/10.1111/gcb.14848  
-→ Texto completo: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14848
+→ DOI: <https://doi.org/10.1111/gcb.14848>  
+→ Texto completo: <https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14848>
 
 [⁸]: **Modelo GLOBIO - Sitio Web Oficial**  
-→ Página principal: https://www.globio.info/what-is-globio  
-→ Herramienta web (GLOBIOweb): https://www.globio.info/globioweb  
-→ Metodología Abundancia Media de Especies: https://www.globio.info/what-is-globio
+→ Página principal: <https://www.globio.info/what-is-globio>  
+→ Herramienta web (GLOBIOweb): <https://www.globio.info/globioweb>  
+→ Metodología Abundancia Media de Especies: <https://www.globio.info/what-is-globio>
 
 [⁹]: **Chaudhary, A., Verones, F., de Baan, L., & Hellweg, S. (2015)**. Cuantificando Impactos del Uso del Suelo en la Biodiversidad: Combinando Modelos de Área-Especies e Indicadores de Vulnerabilidad  
 → Cita: Environmental Science & Technology, 49(16), 9987-9995  
-→ DOI: https://doi.org/10.1021/acs.est.5b02507  
-→ PubMed: https://pubmed.ncbi.nlm.nih.gov/26197362/
+→ DOI: <https://doi.org/10.1021/acs.est.5b02507>  
+→ PubMed: <https://pubmed.ncbi.nlm.nih.gov/26197362/>
 
 [¹⁰]: **de Baan, L., Curran, M., Rondinini, C., Visconti, P., Hellweg, S., & Koellner, T. (2015)**. Evaluación de Alta Resolución de Impactos del Uso del Suelo en Biodiversidad en Análisis de Ciclo de Vida Usando Modelos de Idoneidad de Hábitat de Especies  
 → Cita: Environmental Science & Technology, 49(4), 2237-2244  
-→ DOI: https://doi.org/10.1021/es504380t  
-→ PubMed: https://pubmed.ncbi.nlm.nih.gov/25584628/
+→ DOI: <https://doi.org/10.1021/es504380t>  
+→ PubMed: <https://pubmed.ncbi.nlm.nih.gov/25584628/>
 
 [¹¹]: **Verones, F., Huijbregts, M.A.J., Chaudhary, A., de Baan, L., Koellner, T., & Hellweg, S. (2015)**. Armonizando la Evaluación de Efectos de Biodiversidad del Uso del Suelo y Agua dentro del ACV  
 → Cita: Environmental Science & Technology, 49(6), 3584-3592  
-→ DOI: https://doi.org/10.1021/es504995r  
-→ PubMed: https://pubmed.ncbi.nlm.nih.gov/25719255/
+→ DOI: <https://doi.org/10.1021/es504995r>  
+→ PubMed: <https://pubmed.ncbi.nlm.nih.gov/25719255/>
 
 [¹²]: **de Baan, L., Mutel, C.L., Curran, M., Hellweg, S., & Koellner, T. (2013)**. Uso del Suelo en Análisis de Ciclo de Vida: Factores de Caracterización Global Basados en Extinción Potencial de Especies Regional y Global  
 [¹⁵]: **Suter, G.W., Cormier, S.M. (2017)**. A Weight of Evidence Framework for Environmental Assessments: Inferring Qualities  
 → Cita: Integrated Environmental Assessment and Management, 13(6):1038-1044  
-→ DOI: https://doi.org/10.1002/ieam.1954  
-→ PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC5726519/  
+→ DOI: <https://doi.org/10.1002/ieam.1954>  
+→ PubMed Central: <https://pmc.ncbi.nlm.nih.gov/articles/PMC5726519/>  
 → **Sección relevante**: Páginas 1039-1041, Tabla 1 "Properties for Weighting Evidence"
 
 [¹⁶]: **Suter, G.W., Cormier, S.M. (2017)**. A Weight of Evidence Framework for Environmental Assessments: Inferring Quantities  
 → Cita: Integrated Environmental Assessment and Management, 13(6):1045-1053  
-→ DOI: https://doi.org/10.1002/ieam.1953  
-→ PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC5726517/  
+→ DOI: <https://doi.org/10.1002/ieam.1953>  
+→ PubMed Central: <https://pmc.ncbi.nlm.nih.gov/articles/PMC5726517/>  
 → **Sección relevante**: Figura 1, Framework para derivar valores cuantitativos mediante WoE
 
 [¹⁷]: **US EPA (2016)**. Weight of Evidence in Ecological Assessment  
 → U.S. Environmental Protection Agency, Washington, DC. EPA/100/R-16/001  
-→ URL oficial: https://www.epa.gov/sites/default/files/2016-05/documents/woe_ecological_assessment.pdf  
+→ URL oficial: <https://www.epa.gov/sites/default/files/2016-05/documents/woe_ecological_assessment.pdf>  
 → **Secciones relevantes**: Capítulo 3 (páginas 17-28), "The Weight of Evidence Framework"
 
 [¹⁸]: **IPBES (2019)**. Global Assessment Report on Biodiversity and Ecosystem Services  
-→ Metadata MSA: https://files.ipbes.net/ipbes-web-prod-public-files/Metadata_Alkemade_et_al_2009_Mean_Species_Abundance.pdf  
+→ Metadata MSA: <https://files.ipbes.net/ipbes-web-prod-public-files/Metadata_Alkemade_et_al_2009_Mean_Species_Abundance.pdf>  
 → **Sección relevante**: Descripción del indicador MSA (GLOBIO3)
 
 [¹⁹]: **Schaub, M. (2012)** citado en Bellebaum, J., Korner-Nievergelt, F., Dürr, T., & Mammen, U. (2013). Mortality limits used in wind energy impact assessment underestimate impacts of wind farms on bird populations  
 → Cita: Journal of Applied Ecology, 50(5):1065-1074  
-→ DOI: https://doi.org/10.1111/1365-2664.12556  
-→ PubMed Central: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381563/  
+→ DOI: <https://doi.org/10.1111/1365-2664.12556>  
+→ PubMed Central: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381563/>  
 → **Sección relevante**: Páginas 1066-1067, "Legal Framework"; Tabla 1, comparación criterios mortalidad
 
 [²⁰]: **Cook, A.S.C.P., Salkanovic, E., Masden, E., Hsiu, E.L., Kiilerich, A.H. (2025)**. A critical appraisal of 40 years of avian collision risk modelling: How have we got here and where do we go next?  
 → Cita: Environmental Impact Assessment Review, 110:107717  
-→ DOI: https://doi.org/10.1016/j.eiar.2024.107717  
-→ URL: https://www.sciencedirect.com/science/article/abs/pii/S0195925524003044  
+→ DOI: <https://doi.org/10.1016/j.eiar.2024.107717>  
+→ URL: <https://www.sciencedirect.com/science/article/abs/pii/S0195925524003044>  
 → **Secciones relevantes**: Introduction; Section 2 "Development of CRMs"; Section 4.3 "Uncertainty in CRM outputs"
 
 [²¹]: **Band, W. (2012)**. Using a Collision Risk Model to Assess Bird Collision Risks for Offshore Windfarms  
 → SOSS Report, The Crown Estate, Strategic Ornithological Support Services  
-→ URL: https://www.bto.org/sites/default/files/u28/downloads/Projects/Final_Report_SOSS02_Band1ModelGuidance.pdf  
+→ URL: <https://www.bto.org/sites/default/files/u28/downloads/Projects/Final_Report_SOSS02_Band1ModelGuidance.pdf>  
 → **Secciones relevantes**: Páginas 5-15, metodología básica CRM; Páginas 29-35, parámetros de especies
 
 [²²]: **Masden, E.A., Cook, A.S.C.P. (2016)**. Avian collision risk models for wind energy impact assessments  
 → Cita: Environmental Impact Assessment Review, 56:43-49  
-→ DOI: https://doi.org/10.1016/j.eiar.2015.09.001  
+→ DOI: <https://doi.org/10.1016/j.eiar.2015.09.001>  
 → **Sección relevante**: Tabla 1, comparación de modelos CRM disponibles
 
 ---
@@ -774,25 +809,25 @@ La aplicación de estas metodologías de ponderación transforma juicios subjeti
 **Bases de Datos y Herramientas:**
 
 - **GLOBIOweb** - Explorador interactivo MSA global (resolución 300m)  
-  → https://www.globio.info/globioweb  
+  → <https://www.globio.info/globioweb>  
   → Análisis regional y descarga de datos geoespaciales
 
 - **NatureServe Explorer** - Base de datos estado conservación especies  
-  → https://explorer.natureserve.org/
+  → <https://explorer.natureserve.org/>
 
 - **SpatiaFi Data Catalog** - Datos MSA global históricos y proyecciones  
-  → https://data.spatiafi.com/dataset/spatiafi-biodiversity-msa-historical-baseline-v1.0
+  → <https://data.spatiafi.com/dataset/spatiafi-biodiversity-msa-historical-baseline-v1.0>
 
 - **Collision Risk Models Portal** - Recursos CRM para energía eólica  
-  → https://www.collisionrisk.org/resources/articles-and-reports
+  → <https://www.collisionrisk.org/resources/articles-and-reports>
 
 **Guías y Documentación Técnica:**
 
 - **Scottish Natural Heritage (NatureScot, 2023)**. Guidance Note 7: Marine Ornithology - Collision Risk Assessment  
-  → https://www.nature.scot/doc/guidance-note-7-guidance-support-offshore-wind-applications-marine-ornithology-advice-assessing
+  → <https://www.nature.scot/doc/guidance-note-7-guidance-support-offshore-wind-applications-marine-ornithology-advice-assessing>
 
 - **JNCC et al. (2024)**. Joint SNCB advice on bird collision risk modelling for offshore wind  
-  → https://data.jncc.gov.uk/data/f7892820-0f84-4e96-9eff-168f93bd343d/joint-sncb-crm-advice-note.pdf
+  → <https://data.jncc.gov.uk/data/f7892820-0f84-4e96-9eff-168f93bd343d/joint-sncb-crm-advice-note.pdf>
 
 ---
 
