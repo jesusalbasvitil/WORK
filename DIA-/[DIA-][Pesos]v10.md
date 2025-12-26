@@ -45,32 +45,28 @@ La Lista Roja de la UICN proporciona la jerarquía fundamental para ponderar el 
 
 ## 2. Sistemas de ponderación multifactorial
 
-### 2.1 Marco de índice integral [Modelo Andaluz](⁵)
+### 2.1 Marco de índice integral [Modelo Andaluz][⁵]
+Marco desarrollado por Chefaoui et al. (2019) para los bosques de Andalucía. Este marco español combina múltiples factores en un índice ponderado único para mapear el valor relativo de conservación de la biodiversidad amenazada[⁵].
 
-**Marco desarrollado por Chefaoui et al. (2019) para los bosques de Andalucía:**
-
-Este marco español combina múltiples factores en un índice ponderado único para mapear el valor relativo de conservación de la biodiversidad amenazada[⁵].
-
-> "El índice se basa en criterios explícitos para (1) seleccionar especies amenazadas según la responsabilidad del gobierno regional para la conservación de especies; (2) combinar la presencia de especies mediante factores de ponderación basados en diferencias en el estado de amenaza, sensibilidad a perturbaciones, papel funcional y cantidad de conocimiento; y (3) mapear las distribuciones de especies a escala de cuadrículas UTM de 1 km × 1 km o menor a partir de la información disponible" (Chefaoui et al., 2019, página 2).
-
-**Área de estudio y especies incluidas:**
+> "El índice se basa en criterios explícitos para (1) seleccionar especies amenazadas según la responsabilidad del gobierno regional para la conservación de especies; (2) combinar la presencia de especies mediante factores de ponderación basados en diferencias en el estado de amenaza, sensibilidad a perturbaciones, papel funcional y cantidad de conocimiento; y (3) mapear las distribuciones de especies a escala de cuadrículas UTM de 1 km × 1 km o menor a partir de la información disponible" 
+----
+Chefaoui et al., 2019, página 2
 
 El índice se probó en los bosques de Andalucía (sur de España), una extensa región europea de 87,268 km², con 43,864 km² (~50%) clasificados como hábitats forestales. Se seleccionaron 224 especies amenazadas:
 
 - Todas las especies incluidas en los Anexos de las Directivas Aves y Hábitats de la UE
 - Especies endémicas regionales catalogadas como "En Peligro Crítico" o "En Peligro" no cubiertas (aún) por las Directivas
 
-**Factor 1: Nivel de amenaza [40% peso][¹](⁵)**
+#### 2.1.1. Factor 1: Nivel de amenaza [40% peso][¹][⁵]
+Basado en categorías UICN y catálogos regionales, las puntuaciones son las siguientes en función de esas categorías: CR=5, EN=4, VU=3, NT=2, LC=1
 
-Basado en categorías UICN y catálogos regionales:
+> "Las categorías de amenaza de la UICN se utilizaron como base para asignar pesos de conservación relativos, reflejando que las especies más amenazadas requieren mayor prioridad de conservación" 
+----
+Chefaoui et al., 2019, Metodología
 
-- Puntuaciones: CR=5, EN=4, VU=3, NT=2, LC=1
+#### 2.1.2. Factor 2: Sensibilidad a la perturbación [25% peso][⁵]
 
-> "Las categorías de amenaza de la UICN se utilizaron como base para asignar pesos de conservación relativos, reflejando que las especies más amenazadas requieren mayor prioridad de conservación" (Chefaoui et al., 2019, Metodología).
-
-**Factor 2: Sensibilidad a la perturbación [25% peso](⁵)**
-
-Evaluación de tres componentes:
+Evaluación mediante tres componentes:
 
 - **Especificidad de hábitat**: 1 (generalista) a 5 (especialista extremo)
   - Especies con requerimientos muy específicos reciben mayor peso
@@ -79,43 +75,43 @@ Evaluación de tres componentes:
 - **Capacidad de dispersión**: 1 (alta movilidad) a 5 (sésil/limitada)
   - Especies con limitada dispersión tienen menor resiliencia
 
-**Factor 3: Papel funcional en el ecosistema [20% peso](⁵)**
+#### 2.1.3. Factor 3: Papel funcional en el ecosistema [20% peso][⁵]**
 
 Clasificación basada en importancia ecológica:
 
-- **Especies clave** (keystone species): 5
-  - Impacto desproporcionado en el ecosistema
-- **Ingenieros de ecosistemas**: 4
-  - Modifican físicamente el hábitat (ej: castores, elefantes)
-- **Especies dominantes**: 3
-  - Abundantes y con influencia en estructura del ecosistema
+- **Especies clave** (keystone species): 5, Impacto desproporcionado en el ecosistema
+- **Ingenieros de ecosistemas**: 4, Modifican físicamente el hábitat (ej: castores, elefantes)
+- **Especies dominantes**: 3, Abundantes y con influencia en estructura del ecosistema
 - **Especies comunes**: 2
 - **Raras con función mínima**: 1
 
-**Factor 4: Nivel de conocimiento [15% peso](⁵)**
+#### 2.1.4. Factor 4: Nivel de conocimiento [15% peso][⁵]
 
 Factor de ajuste por calidad y cantidad de datos disponibles:
 
-> "El nivel de conocimiento refleja la calidad de la información disponible sobre la distribución, tendencias poblacionales, sensibilidad y papel ecológico de cada especie" (Chefaoui et al., 2019).
+> "El nivel de conocimiento refleja la calidad de la información disponible sobre la distribución, tendencias poblacionales, sensibilidad y papel ecológico de cada especie" 
+----
+Chefaoui et al., 2019
 
 - Bien estudiada (estudios plurianuales, datos robustos): 1.0 (sin ajuste)
 - Datos moderados (estudios limitados en tiempo/espacio): 0.8
 - Datos limitados (información fragmentaria): 0.6
 - Datos mínimos (registros esporádicos): 0.5 (reducción precautoria)
 
-**Fórmula del índice integral:**
+#### 2.1.5. Fórmula del índice integral
 
-```
-Peso Especie = (Amenaza × 0.40) + (Sensibilidad × 0.25) + (Función × 0.20) + (Conocimiento × 0.15)
+  Peso Especie = (Amenaza × 0.40) + (Sensibilidad × 0.25) + (Función × 0.20) + (Conocimiento × 0.15)
+  Rango: 1.0 (mínimo) a 5.0 (máximo valor de conservación)
 
-Rango: 1.0 (mínimo) a 5.0 (máximo valor de conservación)
-```
 
-**Aplicación y resultados del modelo andaluz[⁵]:**
+#### 2.1.6. Aplicación y resultados del modelo andaluz[⁵]
 
 Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del Mapa Forestal de Andalucía, ponderando las presencias por un factor de conservación relativa estimado para cada especie:
 
-> "Los valores del índice fueron más altos en áreas protegidas, y en diferentes hábitats forestales según el número esperado de especies amenazadas. Los valores del índice se correlacionaron con el valor de existencia de especies amenazadas, aunque el índice subestima los valores de existencia especialmente para las teselas más valiosas" (Chefaoui et al., 2019, Resultados).
+> "Los valores del índice fueron más altos en áreas protegidas, y en diferentes hábitats forestales según el número esperado de especies amenazadas. Los valores del índice se correlacionaron con el valor de existencia de especies amenazadas, aunque el índice subestima los valores de existencia especialmente para las teselas más valiosas" 
+
+----
+Chefaoui et al., 2019, Resultados
 
 **Validación del modelo:**
 
