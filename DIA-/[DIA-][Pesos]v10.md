@@ -113,7 +113,7 @@ Se superpusieron los mapas de escala fina con las 86,546 teselas forestales del 
 ----
 Chefaoui et al., 2019, Resultados
 
-**Validación del modelo:**
+#### 2.1.7. Validación del modelo (Cónclusión)
 
 - Valores más altos en **áreas protegidas** vs. no protegidas
 - Diferenciación entre tipos de hábitat forestal:
@@ -123,7 +123,7 @@ Chefaoui et al., 2019, Resultados
   - Dehesas: valores intermedios-altos
 - Correlación positiva con número de especies amenazadas presentes
 
-**Ventajas metodológicas del modelo andaluz[⁵]:**
+#### 2.1.8. Ventajas metodológicas del modelo andaluz[⁵] (Cónclusión/2; fusinar)
 
 1. **Criterios explícitos y objetivos** para selección y combinación de especies
 2. **Integración multi-criterio** en una sola variable cuantificable
@@ -131,7 +131,7 @@ Chefaoui et al., 2019, Resultados
 4. **Reproducible y transparente** - todos los pesos documentados
 5. **Aplicable a diferentes escalas** - desde fincas individuales a toda la región
 
-### 2.2 Sistema de clasificación de conservación NatureServe[⁶]
+<!--### 2.2 Sistema de clasificación de conservación NatureServe[⁶]
 
 **Evaluación de ocho factores:**
 
@@ -146,19 +146,19 @@ Chefaoui et al., 2019, Resultados
 
 **Escala de clasificación (G1-G5):**
 
-- G1 (Críticamente Imperiled): Peso = 5.0
-- G2 (Imperiled): Peso = 4.0
+- G1 (Críticamente en peligro): Peso = 5.0
+- G2 (En peligro): Peso = 4.0
 - G3 (Vulnerable): Peso = 3.0
-- G4 (Aparentemente Segura): Peso = 2.0
-- G5 (Segura): Peso = 1.0
+- G4 (Aparentemente segura): Peso = 2.0
+- G5 (Segura): Peso = 1.0-->
 
 ---
 
 ## 3. Ponderación de hábitats y paisajes
 
-### 3.1 Hábitats de interés comunitario [UE][²](⁷)
+### 3.1 Hábitats de interés comunitario [UE][²][⁷]
 
-**Hábitats prioritarios (asterisco *) bajo la Directiva Hábitats:**
+**Hábitats prioritarios (HICP*) bajo la Directiva Hábitats:**
 
 - Multiplicador de peso: **3.0-4.0x**
 - Ejemplos: Turberas prioritarias, lagunas costeras, turberas elevadas activas
@@ -195,7 +195,7 @@ Chefaoui et al., 2019, Resultados
 
 ## 4. Pesos poblacionales y distribucionales
 
-### 4.1 Endemismo y restricción de rango[¹][⁶]
+### 4.1 Endemismo y rango de Distribución[¹][⁶]
 
 **Puntuación de riqueza endémica:**
 
@@ -204,7 +204,7 @@ Chefaoui et al., 2019, Resultados
 - Endémica nacional: 2.0x
 - Localmente rara pero extendida en otros lugares: 1.2x
 
-**Vulnerabilidad basada en rango:**
+**Vulnerabilidad basada en área distribución:**
 
 - Área de Ocupación (AOO) < 10 km²: 4.0x
 - AOO 10-100 km²: 3.0x
@@ -328,7 +328,7 @@ Donde:
 
 ## 8. Modelos de integración
 
-### 8.1 Modelo de abundancia media de especies [MSA][¹²](¹³)[¹⁴][¹⁵]
+<!--### 8.1 Modelo de abundancia media de especies [MSA][¹²][¹³][¹⁴][¹⁵]
 
 **Métrica reconocida internacionalmente:**
 
@@ -376,52 +376,44 @@ Según Alkemade et al. (2009) y Schipper et al. (2020), el modelo considera:
   - URL: <https://doi.org/10.1111/gcb.14848>
 
 - **GLOBIO Official Documentation**: <https://www.globio.info/what-is-globio>
-  - Sección: "How GLOBIO works - Pressure-impact relationships"
+  - Sección: "How GLOBIO works - Pressure-impact relationships"-->
 
-### 8.2 Marco de peso de la evidencia [WoE][¹⁶](¹⁷)[¹⁸]
+### 8.2 Marco de peso de la evidencia [WoE][¹⁶][¹⁷][¹⁸]
 
-**Marco desarrollado por US EPA (2016):**
+El marco WoE de la Agencia de Protección Ambiental de EE.UU (EPA, 2016). Proporciona un enfoque estructurado para integrar evidencia heterogénea en evaluaciones ambientales[¹⁶] mediante la puntuación de calidad de evidencia. Según Suter et al. 2017[¹⁶], el marco evalúa tres propiedades principales:
 
-El marco WoE de la Agencia de Protección Ambiental de EE.UU. proporciona un enfoque estructurado para integrar evidencia heterogénea en evaluaciones ambientales[¹⁶].
-
-**Puntuación de calidad de evidencia:**
-
-Según Suter et al. [2017](¹⁶), el marco evalúa tres propiedades principales:
-
-**1. Intensidad/Magnitud (40% peso):**
+#### 8.2.1 Intensidad/Magnitud (40% peso)
 > "La intensidad refleja la magnitud de las diferencias observadas entre situaciones impactadas y de referencia"
 
 - Diferencias de gran magnitud: Puntuación 3
 - Diferencias moderadas: Puntuación 2  
 - Diferencias pequeñas: Puntuación 1
 
-**2. Fiabilidad (35% peso):**
+#### 8.2.2 Fiabilidad (35% peso)
 > "La fiabilidad evalúa la calidad metodológica y la replicabilidad de los estudios"
 
 - Estudios revisados por pares, replicados: Puntuación 3
 - Estudios únicos, buena metodología: Puntuación 2
 - Estudios limitados o antiguos: Puntuación 1
 
-**3. Relevancia (25% peso):**
-> "La relevancia tiene tres componentes potenciales: relevancia biológica, relevancia física/química y relevancia ambiental" (Suter et al., 2017, pág. 1040)
+#### 8.2.3 Relevancia (25% peso)
+> "La relevancia tiene tres componentes potenciales: relevancia biológica, relevancia física/química y relevancia ambiental" 
+(Suter et al., 2017, pág. 1040)
 
 - Medición directa del impacto: Puntuación 3
 - Indicadores proxy: Puntuación 2
 - Datos extrapolados: Puntuación 1
 
-**Fórmula de puntuación combinada:**
+#### 8.2.4 Fórmula de puntuación combinada y pasos del proceso WoE[¹⁶][¹⁷]
+  
+  Puntuación WoE = (Intensidad × 0.40) + (Fiabilidad × 0.35) + (Relevancia × 0.25)
 
-```
-Puntuación WoE = (Intensidad × 0.40) + (Fiabilidad × 0.35) + (Relevancia × 0.25)
-```
 
-**Pasos del proceso WoE[¹⁶][¹⁷]:**
+1. **Ensamblar evidencia** Encontrar estudios publicados o realizar nuevos estudios
+2. **Ponderar la evidencia** Evaluar y puntuar cada pieza de evidencia
+3. **Pesar el cuerpo de evidencia** Integrar pesos e interpretar el conjunto completo
 
-1. **Ensamblar evidencia**: Encontrar estudios publicados o realizar nuevos estudios
-2. **Ponderar la evidencia**: Evaluar y puntuar cada pieza de evidencia
-3. **Pesar el cuerpo de evidencia**: Integrar pesos e interpretar el conjunto completo
-
-**Fuentes documentales específicas:**
+#### 8.2.5 Fuentes documentales específicas
 
 - **Suter, G.W., Cormier, S.M. (2017)**: "A Weight of Evidence Framework for Environmental Assessments: Inferring Qualities", Integrated Environmental Assessment and Management 13(6):1038-1044
   - Sección relevante: Páginas 1039-1041, "Weighting the Evidence" y Tabla 1
@@ -436,17 +428,15 @@ Puntuación WoE = (Intensidad × 0.40) + (Fiabilidad × 0.35) + (Relevancia × 0
   - Figura 1: Framework para derivar valores cuantitativos mediante WoE
   - URL: <https://pmc.ncbi.nlm.nih.gov/articles/PMC5726517/>
 
----
+
 
 ## 9. Aplicación a proyectos de energía eólica
 
-### 9.1 Matriz de evaluación estándar para avifauna[³][⁴][¹⁹][²⁰][²¹]
-
-**Marco de evaluación de riesgo de colisión:**
+### 9.1 Matriz de evaluación estándar para avifauna[³][⁴][¹⁹][²⁰][²¹] basado en un Marco de evaluación de riesgo de colisión
 
 Los parques eólicos representan un riesgo significativo para la avifauna, especialmente especies incluidas en el Anexo I de la Directiva Aves[³]. La evaluación de riesgo combina estado legal, vulnerabilidad biológica y características del proyecto[¹⁹][²⁰].
 
-**Metodología de ponderación multifactorial:**
+#### 9.1.1 Metodología de ponderación multifactorial:**
 
 | Categoría Especie | Peso Estado Legal (1.2) | Riesgo Colisión (5.1) | Pérdida Hábitat (5.2) | Multiplicador Total |
 |------------------|-------------------|-----------------|-----------------|---------------------|
@@ -456,43 +446,46 @@ Los parques eólicos representan un riesgo significativo para la avifauna, espec
 | **VU solo**[⁴] | 2.5 | 2.0 | 1.5 | **6.0x** |
 | **NT/LC + Protegida** | 1.5 | 1.5 | 1.0 | **4.0x** |
 
-**Fundamento de los pesos de riesgo de colisión[¹⁹][²⁰][²¹]:**
+#### 9.1.2 Fundamento de los pesos de riesgo de colisión[¹⁹][²⁰][²¹]
 
-Según Cook et al. [2025](²⁰) y la revisión de Masden & Cook (2016):
+Según Cook et al.(2025)[²⁰] y la revisión de Masden & Cook (2016):
 
-> "La vulnerabilidad a la colisión se determina mediante modelos de riesgo de colisión (CRM) que estiman la probabilidad de que un ave de tamaño y velocidad especificados colisione con una turbina en rotación de tamaño y velocidad especificados" (Band 2012, citado en Cook et al. 2025)
+> "La vulnerabilidad a la colisión se determina mediante modelos de riesgo de colisión (CRM) que estiman la probabilidad de que un ave de tamaño y velocidad especificados colisione con una turbina en rotación de tamaño y velocidad especificados" 
+(Band 2012, citado en Cook et al. 2025)
 
-**Categorías de vulnerabilidad de colisión[¹⁹][²¹]:**
+#### 9.1.3. Categorías de vulnerabilidad de colisión[¹⁹][²¹]
 
-**Alta vulnerabilidad (peso 3.0-3.5) - Aplicado en columna "Riesgo Colisión" (5.1):**
+**1. Alta vulnerabilidad (peso 3.0-3.5) - Aplicado en columna "Riesgo Colisión" (5.1):**
 
 - Buitres, águilas, grandes rapaces
 - Características: Gran envergadura, vuelo planeador, baja maniobrabilidad
 - Ejemplo: Buitre leonado, águila real
 - Fuente: Marques et al. (2014), citado en Bellebaum et al. (2013)
 
-**Vulnerabilidad moderada (peso 2.0-2.5) - Aplicado en columna "Riesgo Colisión" (5.1):**
+**2. Vulnerabilidad moderada (peso 2.0-2.5) - Aplicado en columna "Riesgo Colisión" (5.1):**
 
 - Rapaces medianas, milanos
 - Características: Envergadura media, vuelo activo con planeo
 - Ejemplo: Milano real, aguilucho cenizo
 
-**Baja vulnerabilidad (peso 1.0-1.5) - Aplicado en columna "Riesgo Colisión" (5.1):**
+**3. Baja vulnerabilidad (peso 1.0-1.5) - Aplicado en columna "Riesgo Colisión" (5.1):**
 
 - Paseriformes, pequeñas aves
 - Características: Pequeño tamaño, alta maniobrabilidad
 - Alto comportamiento de microevasión (micro-avoidance)
 
-**Criterios de mortalidad y umbrales legales[¹⁹]:**
 
-Según Schaub (2012) y la revisión de Bellebaum et al. [2013](¹⁹):
+#### 9.1.4. REFERENCIAS
+**Criterios de mortalidad y umbrales legales[¹⁹]:**`fusionar`
+
+Según Schaub (2012) y la revisión de Bellebaum et al. (2013)[¹⁹]:
 
 > "El uso del criterio de mortalidad ORNIS del 1%, el criterio de mortalidad del 5%, y los criterios de eliminación biológica potencial (PBR) son inadecuados para proporcionar umbrales seguros respecto al impacto de las colisiones de turbinas eólicas en las poblaciones"
 
 **Marco legal UE para evaluación[³][¹⁹]:**
 
 - **Directiva Aves [2009/147/CE](³)**: Artículo 9(1)(c) - derogación por "pequeñas cantidades"
-- **Criterio ORNIS 1%**: Umbral automático establecido en 1% de la mortalidad natural anual en la población biogeográfica relevante
+- **Criterio ORNIS 1%**: Umbral automático establecido en 1% de la mortalidad natural anual en la población biogeográfica relevante `cita requerida`
 - **Principio de precaución**: Aplicación obligatoria según jurisprudencia UE (De Sadeleer, 2013)
 
 **Fuentes documentales específicas:**
@@ -512,81 +505,77 @@ Según Schaub (2012) y la revisión de Bellebaum et al. [2013](¹⁹):
 - **Masden, E.A., Cook, A.S.C.P. (2016)**: "Avian collision risk models for wind energy impact assessments", Environmental Impact Assessment Review 56:43-49
   - URL: <https://doi.org/10.1016/j.eiar.2015.09.001>
 
-### 9.2 Cálculos del caso de estudio Agualobos[⁴]
 
-**Aplicación práctica de la matriz de ponderación:**
 
-**Alondra de Dupont (Chersophilus duponti):**
+### 9.2 Cálculos del caso de estudio Agualobos[⁴]. Aplicación práctica de la matriz de ponderación (9.1.1)
+
+#### 9.2.1. Alondra de Dupont (Chersophilus duponti)**
 
 Según el Decreto 129/2022[⁴] del Gobierno de Aragón, esta especie está catalogada "En Peligro de Extinción":
 
-- **Estado legal** (1.2): CR en Catálogo Aragón[⁴] = **5.0**
+- **1. Estado legal** (1.2): CR en Catálogo Aragón[⁴] = **5.0**
   - Justificación: Especie en máxima categoría de protección regional
   - Referencia: Decreto 129/2022, Anexo I
 
-- **Riesgo colisión** (5.1): Moderado-alto (vuelos de cría) = **2.8**
+- **2. Riesgo colisión** (5.1): Moderado-alto (vuelos de cría) = **2.8**
   - Vuelos territoriales a altura de barrido de aspas: 105-255 m
   - 21 territorios en área de impacto directo ("La Pernalosa")
   - Fuente: Estudio avifauna PE Agualobos 2020-2021
 
-- **Pérdida hábitat** (5.2): 21 territorios en impacto directo = **3.0**
+- **3. Pérdida hábitat** (5.2): 21 territorios en impacto directo = **3.0**
   - Superficie afectada: 16.31 ha dentro población "La Pernalosa"
   - Fragmentación de hábitat estepario crítico
   - Población regional: ~2,000-3,000 territorios
 
-- **Conectividad ZEPA** (6.2): Entre dos ZEPAs[²][³] = **2.5**
+- **4. Conectividad ZEPA** (6.2): Entre dos ZEPAs[²][³] = **2.5**
   - ZEPA ES0000304 "Parameras de Campo Visiedo": 750 m distancia mínima
   - ZEPA ES0000305 "Parameras de Alfambra": 970 m distancia mínima
   - Especie objetivo de conservación en ambas ZEPAs
 
-- **Significación poblacional** (4.2): 0.84% de regional = **1.8**
+- **5. Significación poblacional** (4.2): 0.84% de regional = **1.8**
   - Cálculo: (21 territorios / 2,500 población regional) × 100 = 0.84%
   - Con factor de amenaza (5.0): 0.84% × 5.0 = **4.2% impacto ponderado**
 
-- **Nivel conocimiento** (2.1, Factor 4): Bien estudiada = **1.0**
+- **6. Nivel conocimiento** (2.1, Factor 4): Bien estudiada = **1.0**
   - Estudio plurianual completo (2020-2021)
   - Metodología revisada y validada
 
-**Puntuación total impacto ponderado:**
+**(1-6) Puntuación total impacto ponderado:**
 
-```
+
     5.0 × 2.8 × 3.0 × 2.5 × 1.8 × 1.0 = 189.0 unidades
-```
 
-**Milano Real (Milvus milvus):**
 
-Catalogado "En Peligro de Extinción" en Aragón[⁴]:
+#### 9.2.2. Milano Real (Milvus milvus)
 
-- **Estado legal** (1.2): CR en Aragón[⁴] = **5.0**
-- **Riesgo colisión** (5.1): Alto (75% vuelos a altura riesgo) = **3.5**
+- **1. Estado legal** (1.2): CR en Aragón[⁴] Catalogado "En Peligro de Extinción" en Aragón[⁴]`comprobar citas y status` = **5.0**
+- **2. Riesgo colisión** (5.1): Alto (75% vuelos a altura riesgo) = **3.5**
   - 9 avistamientos registrados
   - 12 ejemplares totales observados
   - 75% de vuelos dentro zona de barrido (50-200 m altura)
-  
-- **Estimación mortalidad** (5.1): 0.01-0.05 muertes/año = **2.0**
+  - **Estimación mortalidad** (5.1): 0.01-0.05 muertes/año = **2.0**
   - Modelo predictivo aplicado
   - Fuente: Estudio avifauna PE Agualobos
   
-- **Conectividad ZEPA** (6.2): Entre dos ZEPAs = **2.5**
-- **Nivel conocimiento** (2.1, Factor 4): Bien estudiada = **1.0**
+- **4. Conectividad ZEPA** (6.2): Entre dos ZEPAs = **2.5**
+- **5. Nivel conocimiento** (2.1, Factor 4): Bien estudiada = **1.0**
 
-**Puntuación total impacto ponderado:**
+**(1,2,4,5) Puntuación total impacto ponderado:**
 
-```
     5.0 × 3.5 × 2.0 × 2.5 × 1.0 = 87.5 unidades
-```
 
-**Ganga Ortega (Pterocles orientalis) - Vulnerable[⁴]:**
 
-- **Estado legal** (1.2): VU en Aragón = **3.0**
-- **Avistamientos**: 4 observaciones (presencia baja) = **1.5**
-- **Especie objetivo ZEPA** [6.2][²](³) = **2.0**
+#### 9.2.3. Ganga Ortega (Pterocles orientalis) - Vulnerable[⁴]
+
+- **1. Estado legal** (1.2): VU en Aragón = **3.0**
+- **2. Avistamientos**: 4 observaciones (presencia baja) = **1.5**
+- **4. Especie objetivo ZEPA** [6.2][²](³) = **2.0**
   - Incluida en objetivos de conservación ambas ZEPAs
   - Plan básico de gestión Decreto 13/2021
 
 **Total: 3.0 × 1.5 × 2.0 = 9.0 unidades**
 
-**Referencias legales aplicadas:**
+### 9.3. Referencias legales aplicadas
 
 [²] Directiva 92/43/CEE (Hábitats)
 [³] Directiva 2009/147/CE (Aves)  
@@ -630,7 +619,7 @@ Basado en puntuaciones ponderadas acumuladas:
 
 ---
 
-## 11. Limitaciones e incertidumbres
+<!--## 11. Limitaciones e incertidumbres
 
 ### 11.1 Restricciones de calidad de datos
 
@@ -826,7 +815,7 @@ La aplicación de estas metodologías de ponderación transforma juicios subjeti
 
 - **JNCC et al. (2024)**. Joint SNCB advice on bird collision risk modelling for offshore wind  
   → <https://data.jncc.gov.uk/data/f7892820-0f84-4e96-9eff-168f93bd343d/joint-sncb-crm-advice-note.pdf>
-
+-->
 ---
 
 **Nota sobre aplicación metodológica**: Los sistemas de ponderación descritos en este informe se basan en literatura científica revisada por pares y marcos de conservación reconocidos internacionalmente. La aplicación al caso del parque eólico Agualobos demuestra cómo estos métodos estandarizados proporcionan soporte objetivo y cuantificable para decisiones de impacto ambiental bajo las leyes de la UE y España.

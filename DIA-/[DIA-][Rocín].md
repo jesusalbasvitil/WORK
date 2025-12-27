@@ -8,6 +8,7 @@ More references -"Primary Sources" is a bull-shit, change to References chapter-
 Ok to  compile a site‑by‑site breakdown (Belchite, Monegros, Alfambra, Visiedo, etc.) or a timeline of population change in Aragón
  https://copilot.microsoft.com/shares/ctnsaa3kGwuQzkeyyH7Ln-->
 
+
 # La población de rocín (alondra ricotí) en Aragón para finales de 2025 se estima en aproximadamente 1.350 machos territoriales [^1].
 
 Esta cifra consolida a la región como el principal bastión de la especie en la península ibérica, concentrando más del 40% de la población total de España, que se cifra en 3.116 machos territoriales según los censos actualizados al periodo 2017-2024 [^1] [^2]. 
@@ -125,3 +126,333 @@ https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies-amenaz
 ---
 
 If you want to go **really nerdy**, the next level would be: we pick one nucleus (e.g. Belchite or Alfambra) and try to reconstruct a **site‑specific timeline** from older papers, grey literature, and whatever is publicly visible. Want to go that deep for one or two places?
+
+---
+<!--rewrite last answer with the source added
+For section 1 Is possible to dig to convert to cuantitave? 
+
+-->
+[Traba, J., Barrero, A., Gómez-Catasús, J., Hervás, I. y Reverter, M. 2025. La alondra ricotí en España. Población reproductora en 2017-2024 y método de censo. SEO/BirdLife. Madrid](https://seo.org/boletin/seguimiento/censos/65_ricoti/65_ricoti.pdf)
+
+[Chersophilus duponti / Problemas de conservación / Situación en Aragón](https://es.wikipedia.org/wiki/Chersophilus_duponti#Problemas_de_conservaci%C3%B3n)
+
+[Conservación de la Alondra Ricotí en Aragón](https://copilot.microsoft.com/shares/pages/cefyXu7oxuaux6d5bUjmA)
+
+---
+<!--Conservación de la Alondra Ricotí en Aragón
+
+Resumen
+
+La alondra ricotí (Chersophilus duponti) es un paseriforme estepario amenazado cuya población y distribución en Aragón, principal núcleo ibérico, se ha evaluado mediante censos recientes y estudios especializados.
+
+Se estima una población actual mínima de 1.500 machos territoriales en Aragón, que representa aproximadamente el 48,1% de la población ibérica total. La distribución provincial es: Zaragoza con 849 machos (56,6%), Teruel con 637 machos (42,5%) y Huesca con 14 machos (0,9%).
+
+La tendencia poblacional anual en Aragón es ligeramente negativa (-0,17%), con crecimiento en Zaragoza (+1,78% anual) y declives en Teruel (-2,13%) y Huesca (-2,23%).
+
+La distribución espacial ha sufrido una contracción del 7,34% en el número de cuadrículas 1x1 km ocupadas, pasando de 463 a 429 entre 2004-2007 y 2017-2024.
+
+Los principales núcleos poblacionales incluyen el Campo de Belchite-Bajo Martín, Monegros-Bajo Cinca, Gallocanta y las parameras de Teruel (Alfambra, Visiedo y alrededores).
+
+Históricamente, la especie fue prácticamente desconocida en Aragón hasta los años 80, cuando comenzó su redescubrimiento y mapeo sistemático. Desde entonces, la población ha mostrado un patrón de declive y fragmentación, con desaparición de poblaciones periféricas y concentración en núcleos centrales.
+
+Las amenazas principales incluyen la pérdida y fragmentación del hábitat estepario por agricultura intensiva, expansión del matorral, infraestructuras y cambios en el uso del suelo.
+
+La especie está catalogada como En Peligro de Extinción en España, con un riesgo muy alto de extinción a corto plazo.
+
+Fuentes: Monografía SEO/BirdLife (2025), datos del censo regional de Aragón (2023-2024), MITECO, y otras fuentes especializadas.
+
+1. Desglose sitio por sitio en Aragón (cuantitativo)
+
+Área / sitio
+
+Provincia
+
+Machos Territoriales Estimados (2017-2024)
+
+Tendencia Poblacional (Cambio Anual %)
+
+Notas
+
+Monegros – Bajo Cinca
+
+Zaragoza / Huesca
+
+Aproximadamente 118 (área de Fraga y alrededores)
+
+-2.23% (Huesca en general)
+
+Pequeña población en Huesca cerca de Fraga; tendencia decreciente observada (Tabla 11)
+
+Campo de Belchite – Bajo Martín
+
+Zaragoza
+
+Aproximadamente 368 (núcleo de Campo de Belchite)
+
++1.78% (Zaragoza en general)
+
+Núcleo más grande en Zaragoza; población en aumento (Tabla 11)
+
+Gallocanta – parameras alrededor
+
+Zaragoza / Teruel
+
+Aproximadamente 80 (parte del Altiplano de Teruel)
+
+-2.13% (Teruel en general)
+
+Núcleo paramera más pequeño pero importante; en declive (Tabla 11)
+
+Parameras de Teruel (Alfambra, Visiedo, etc.)
+
+Teruel
+
+Aproximadamente 553 (Altiplano turolense)
+
+-2.13% (Teruel en general)
+
+Uno de los principales núcleos restantes en el Sistema Ibérico; en declive (Tabla 11)
+
+Población por Provincia en Aragón
+
+Provincia
+
+Machos Territoriales Estimados (2017-2024)
+
+% de la Población en Aragón
+
+Cambio Poblacional Anual (%)
+
+Zaragoza
+
+849
+
+56.6%
+
++1.78%
+
+Teruel
+
+637
+
+42.5%
+
+-2.13%
+
+Huesca
+
+14
+
+0.9%
+
+-2.23%
+
+Total Aragón
+
+1,500
+
+100%
+
+-0.17%
+
+Distribución y Tendencias
+
+Aragón alberga aproximadamente el 48.1% de la población ibérica de Alondra Ricotí, siendo el núcleo principal.
+
+La Depresión del Ebro (principalmente Zaragoza) muestra una tendencia poblacional positiva (+1.78% anual).
+
+Las parameras del Sistema Ibérico (Teruel y Huesca) muestran declives, con Teruel disminuyendo a -2.13% anual y Huesca a -2.23% anual.
+
+La población total de Aragón muestra un ligero declive general del -0.17% anual en los últimos 16 años (Tabla 11).
+
+El número de celdas ocupadas de 1x1 km en Aragón disminuyó de 463 a 429 (-7.34%) entre los períodos 2004-2007 y 2017-2024 (Tabla 8).
+
+2. Cronología del cambio poblacional en Aragón
+
+Antes de ~1980: Especie casi "olvidada" en Aragón
+
+Hasta los años 80 solo había tres registros conocidos en Aragón (Cariñena en 1918, Bellver de Cinca 1967 con el primer registro de reproducción en España, y otro en 1974).
+
+La especie fue ampliamente ignorada, aunque conocida por pajareros locales en Zaragoza.
+
+1980s–1990s: Redescubrimiento y mapeo de poblaciones esteparias
+
+Trabajos sistemáticos comienzan a revelar que la especie es mucho más extendida en Aragón de lo que sugerían registros históricos.
+
+Principales áreas esteparias de Aragón (Monegros, Belchite, parameras) comienzan a ser reconocidas como núcleos ibéricos principales.
+
+1990s–2000s: Pico de conocimiento, pero comienza el declive
+
+La población ibérica está en regresión y muy fragmentada, con núcleos principales en parameras del Sistema Ibérico y depresión del Ebro.
+
+La especie es muy estricta en selección de hábitat, que se está perdiendo por agricultura, infraestructuras y expansión del matorral.
+
+2000s–hoy: Fuerte declive y fragmentación
+
+La Alondra Ricotí está catalogada como "En Peligro" en España, con riesgo muy alto de extinción y fuertes declives recientes.
+
+La especie desaparece de muchos sitios antiguos y sobrevive en núcleos aislados, muchos en Aragón.
+
+Aragón aún alberga algunos de los núcleos más grandes restantes, pero con claras tendencias negativas: menos parches ocupados, más aislamiento y poblaciones locales más pequeñas.
+
+3. Respuesta directa a lo que preguntaste
+
+Sitio por sitio:
+
+Núcleos clave: Monegros–Bajo Cinca, Campo de Belchite–Bajo Martín, área de Gallocanta, Parameras de Teruel (incluyendo Alfambra, Visiedo y alrededores).
+
+Todos están en declive, pero juntos hacen de Aragón el núcleo principal para la especie en Iberia.
+
+Cronología en Aragón:
+
+Pre-1980 – prácticamente desconocida, solo unos pocos registros.
+
+1980s–1990s – redescubrimiento y reconocimiento de poblaciones esteparias extensas en Aragón.
+
+1990s–2000s – mejor conocido, pero primeros signos de regresión y fragmentación.
+
+2000s–hoy – fuerte declive, muchas extinciones locales, pero Aragón aún alberga algunos de los núcleos principales sobrevivientes.
+
+Referencias
+
+[1]: "Alondra ricotí – BIRDING ARAGÓN." https://birdingaragon.com/alondra-ricoti/ [2]: "Chersophilus duponti." https://es.wikipedia.org/wiki/Chersophilus_duponti [3]: "Alondra ricotí – Chersophilus duponti – Hábitat." https://www.vertebradosibericos.org/aves/habitat/chedupha.html [4]: "Alondra ricotí." https://seo.org/ave/alondra-ricoti/ [5]: "5.3.1 Situación en las CCAA. Alondra ricotí." https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies-amenazadas/vertebrados/5_3_1_pbl_vert_ccaa.html
+
+[Monografía SEO/BirdLife (2025) y datos del censo regional de Aragón (2023-2024) están integrados en el análisis y resumen.]
+
+
+Convert to markdown format and reorganize and rewrite to make it more easy to read
+
+In referencias put all: titles, links.. and I need to included the footnotes markdown structure: ([^1], [^1]:)
+
+Integrar estilo markdown y numerarlas en orden
+
+I can't see the tables: create tables and integrate it all!-->
+[text](https://chatgpt.com/share/694fd191-eb58-800d-907f-55d683ebe1fb)
+
+# Conservación de la alondra ricotí en Aragón
+
+***Chersophilus duponti***
+
+## Resumen
+
+La **alondra ricotí** (*Chersophilus duponti*) es un ave paseriforme asociada a ambientes esteparios áridos y semiáridos, catalogada como **En Peligro de Extinción** en España[^1][^5]. Aragón constituye el **principal núcleo poblacional de la Península Ibérica**, albergando aproximadamente el **48,1 % de la población ibérica total**[^6][^7].
+
+Los censos más recientes (2017–2024) estiman una población mínima de **1.500 machos territoriales** en Aragón, aunque con una **tendencia general ligeramente negativa**, asociada a la pérdida de hábitat, la fragmentación y el aislamiento progresivo de las poblaciones[^6].
+
+---
+
+## Distribución y tamaño poblacional en Aragón
+
+### Población por provincias
+
+**Tabla 1. Población estimada de alondra ricotí por provincia en Aragón (2017–2024)**
+
+| Provincia        | Machos territoriales estimados | % de la población aragonesa | Tendencia anual |
+| ---------------- | ------------------------------ | --------------------------- | --------------- |
+| Zaragoza         | 849                            | 56,6 %                      | +1,78 %         |
+| Teruel           | 637                            | 42,5 %                      | −2,13 %         |
+| Huesca           | 14                             | 0,9 %                       | −2,23 %         |
+| **Total Aragón** | **1.500**                      | **100 %**                   | **−0,17 %**     |
+
+Zaragoza es la única provincia con una tendencia positiva, mientras que Teruel y Huesca muestran descensos sostenidos, especialmente preocupantes por la fragmentación de sus poblaciones[^6][^7].
+
+---
+
+## Distribución espacial y cambios recientes
+
+El área de ocupación de la especie en Aragón ha disminuido en las últimas dos décadas. El número de cuadrículas ocupadas de **1 × 1 km** pasó de **463** en el periodo 2004–2007 a **429** en 2017–2024, lo que supone una reducción del **7,34 %**[^6].
+
+Este patrón indica una **contracción espacial**, incluso en zonas donde aún persisten poblaciones reproductoras.
+
+---
+
+## Núcleos poblacionales principales
+
+**Tabla 2. Principales núcleos de alondra ricotí en Aragón**
+
+| Núcleo / Área                                 | Provincia(s)      | Machos estimados | Tendencia | Observaciones                    |
+| --------------------------------------------- | ----------------- | ---------------- | --------- | -------------------------------- |
+| Campo de Belchite – Bajo Martín               | Zaragoza          | ~368             | Positiva  | Principal núcleo regional        |
+| Parameras de Teruel (Alfambra, Visiedo, etc.) | Teruel            | ~553             | Negativa  | Núcleo clave del Sistema Ibérico |
+| Monegros – Bajo Cinca                         | Zaragoza / Huesca | ~118             | Negativa  | Población fragmentada            |
+| Gallocanta y parameras adyacentes             | Zaragoza / Teruel | ~80              | Negativa  | Núcleo pequeño pero estratégico  |
+
+Todos los núcleos muestran **signos de regresión**, excepto Campo de Belchite, que actúa como refugio relativo para la especie[^3][^4][^6].
+
+---
+
+## Tendencias regionales
+
+* La **Depresión del Ebro** presenta una evolución más favorable, asociada a grandes extensiones esteparias abiertas.
+* Las **parameras del Sistema Ibérico** muestran descensos acusados y pérdida de conectividad.
+* La reducción del área ocupada incrementa el **riesgo de extinciones locales**[^6].
+
+---
+
+## Amenazas principales
+
+Las principales amenazas identificadas para la alondra ricotí en Aragón incluyen[^1][^4][^5]:
+
+* Transformación del hábitat por **agricultura intensiva**
+* **Fragmentación** del territorio por infraestructuras
+* **Expansión del matorral** por abandono de usos tradicionales
+* Cambios en el uso del suelo incompatibles con la estructura esteparia
+
+La elevada especialización ecológica de la especie limita su capacidad de adaptación.
+
+---
+
+## Evolución histórica en Aragón
+
+**Tabla 3. Cronología resumida de la alondra ricotí en Aragón**
+
+| Periodo         | Situación                                                |
+| --------------- | -------------------------------------------------------- |
+| Antes de 1980   | Especie casi desconocida; solo tres registros históricos |
+| Años 1980–1990  | Redescubrimiento y primeros censos sistemáticos          |
+| Años 1990–2000  | Máximo conocimiento y primeros signos de declive         |
+| 2000–actualidad | Fuerte declive, fragmentación y extinciones locales      |
+
+Desde el año 2000, la especie está catalogada como **En Peligro de Extinción**, con desaparición de poblaciones periféricas y supervivencia en núcleos cada vez más aislados[^5][^6].
+
+---
+
+## Importancia para la conservación
+
+Aragón alberga algunos de los **mayores núcleos supervivientes** de alondra ricotí en España. La viabilidad futura de la especie depende de la **conservación del hábitat estepario**, la mejora de la conectividad entre núcleos y la gestión sostenible del territorio[^6][^7].
+
+---
+
+## Referencias (notas al pie)
+
+[^1]: **SEO/BirdLife – Alondra ricotí (*Chersophilus duponti*)**
+    [https://seo.org/ave/alondra-ricoti/](https://seo.org/ave/alondra-ricoti/)
+
+[^2]: **Wikipedia – *Chersophilus duponti***
+    [https://es.wikipedia.org/wiki/Chersophilus_duponti](https://es.wikipedia.org/wiki/Chersophilus_duponti)
+
+[^3]: **Birding Aragón – Alondra ricotí**
+    [https://birdingaragon.com/alondra-ricoti/](https://birdingaragon.com/alondra-ricoti/)
+
+[^4]: **Vertebrados Ibéricos – Alondra ricotí (*Chersophilus duponti*), hábitat**
+    [https://www.vertebradosibericos.org/aves/habitat/chedupha.html](https://www.vertebradosibericos.org/aves/habitat/chedupha.html)
+
+[^5]: **MITECO – Situación de la alondra ricotí en las Comunidades Autónomas**
+    [https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies-amenazadas/vertebrados/5_3_1_pbl_vert_ccaa.html](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies-amenazadas/vertebrados/5_3_1_pbl_vert_ccaa.html)
+
+[^6]: **SEO/BirdLife (2025). *Monografía de la alondra ricotí (*Chersophilus duponti*)***
+    Monografía técnica sobre distribución, tendencias y conservación en España.
+
+[^7]: **Gobierno de Aragón (2023–2024). Censo regional de la alondra ricotí en Aragón**
+    Datos oficiales de censos y estimaciones poblacionales regionales.
+
+---
+
+Si quieres, puedo:
+
+* Ajustarlo a **formato Wikipedia estricto** (con plantillas y secciones oficiales)
+* Exportarlo a **DOCX / PDF / LaTeX**
+* Simplificar tablas para **divulgación** o **gestión administrativa**
+
+Dime el siguiente paso.
+
