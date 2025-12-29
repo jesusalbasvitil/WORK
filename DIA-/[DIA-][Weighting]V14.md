@@ -1,4 +1,13 @@
+<!--bout las answer -Statistical Weighting Methods for Biodiversity Damage Assessment ..version 10- in case of Alondra.. (see section 9.2) their weighted calculation is clear -but the regional population of males is wrong: 1500 for whole Aragon. Source: SEO/BirdLife (2025). Monografía de la alondra ricotí (Chersophilus duponti) Monografía técnica sobre distribución, tendencias y conservación en España.-. In case of rest of birds I can't identificate the components -remainder score- of each part of formula. Then: 
+
+- 1st. I need to modify the calculate the weight of Alondra with new value. 
+
+- 2nd. Identify each components of formula with elements or variables within sections to make more clear and strong the evidence.
+
+-->
+
 [Statistical Weighting Methods for Biodiversity Damage Assessment Documento ∙ Versión 14 ](https://claude.ai/public/artifacts/a0db2e89-101d-4234-b364-297469abb565)
+
 
 # Métodos de ponderación estadística para la evaluación de daños a la biodiversidad en evaluaciones de impacto ambiental
 
