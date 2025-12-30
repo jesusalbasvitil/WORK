@@ -17,7 +17,7 @@
 
 [SEO/BirdLife (Molina, B., Nebreda, A., Muñoz, A. R. Seoane, J., Real, R., Bustamante, J. y Del Moral, J. C. Eds.) 2022. III Atlas de aves en época de reproducción en España. SEO/BirdLife. Madrid. https://atlasaves.seo.org/](https://atlasaves.seo.org/ave/alimoche-comun/?print=pdf)
 
-# Neophron percnopterus — Estimación de población en España, Aragón y Teruel
+# Neophron percnopterus. Estimación de población en España, Aragón y Teruel
 
 ## España (población nacional)
 
