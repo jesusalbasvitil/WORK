@@ -116,9 +116,8 @@ Siguiendo el modelo de ponderación multifactorial descrito en el documento V16 
 
 **FÓRMULA COMPLETA APLICADA:**
 ```
-Impacto Ponderado = Estado Legal × Sensibilidad × Papel Funcional × Riesgo Mortalidad × 
-                     Pérdida Hábitat × Conectividad × Acumulativos × Conocimiento × 
-                     Vulnerabilidad Temporal
+Impacto Ponderado = Estado Legal × Sensibilidad × Papel Funcional × Riesgo Mortalidad × Pérdida Hábitat × Conectividad × Acumulativos × Conocimiento × 
+Vulnerabilidad Temporal
 
 = 4.5 × 4.8 × 4.5 × 3.5 × 3.0 × 3.0 × 2.2 × 1.0 × 2.5
 
