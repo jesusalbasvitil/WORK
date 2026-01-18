@@ -4,7 +4,7 @@ Added cites -footnotes markdown style [^1][^1]: - in every value and paragraph w
 -->
 
 
-# [Inside A comprehensive index for threatened biodiversity valuation, Mario Díaz VChatGPT](https://chatgpt.com/share/6964153d-3424-800d-bc41-09316b8e5f7b)
+<!--# [Inside A comprehensive index for threatened biodiversity valuation, Mario Díaz VChatGPT](https://chatgpt.com/share/6964153d-3424-800d-bc41-09316b8e5f7b)
 
 
 Below is a **re-written, fully cited version** of the explanation, with **Markdown footnotes** added **at every paragraph and table where data, concepts, or methodological choices are described**, using the style you requested (`[^1]`, `[^2]`, etc.).
@@ -457,6 +457,7 @@ Donde:
 [^17]: Sección 2.4, líneas 261-266: "En estos casos, utilizamos la información disponible sobre los requerimientos de hábitat de estas especies (tipos de vegetación preferidos) y sus rangos altitudinales para estimar qué áreas dentro de estos cuadrados de 10 km x 10 km estaban más probablemente ocupadas por cada especie."
 
 ---
+<!--Based on this latest report: "Biodiversity threat analysis and evaluation methods", take the data from this other analysis ..V16d[v5] added on a wind farm (Agualobos) and use them to calculate it according to this latest report-->
 
 # [Aplicación del Marco de Valoración de Biodiversidad Amenazada al Proyecto Agualobos Integración de Metodologías: Díaz et al. (2020) + Caso Agualobos](https://claude.ai/share/1a67974c-23ab-4bc0-b4a0-7558a2b5bb75)
 
