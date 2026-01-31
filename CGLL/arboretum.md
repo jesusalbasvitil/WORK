@@ -104,7 +104,7 @@ Distribución: 11 especies con 5 unidades + 3 especies con 6 unidades = 77 árbo
 
 # ADENDA SIEMBRA HERBÁCEAS DEL VALLE DEL EBRO
 
-Sobre el apartado sobre herbáceas se realiza esta ampliación, en forma de Adenda, dodne  plantea una mezcla de semillas de especies propias del Valle del Ebro mielíferas, con una densidad de 30-40 gr/m2 (0,035 kg/m2) y a razón de de 15-20€/kg. Las especies planteadas, adaptadas a las condiciones climatológicas del Valle del Ebro, pero con la mejora asociada a una mayor disponibilidad de agua de forma difusa o por riego, como el que se prevé en la zona. Así, se ha calculado una superficie de parterre de 480-550 m2. 
+Sobre el apartado sobre herbáceas (4) se realiza esta ampliación, en forma de Adenda, donde se  plantea una mezcla de semillas de especies propias del Valle del Ebro mielíferas en su mayor parte, con una densidad de 30-40 gr/m2 (0,035 kg/m2) y a razón de 15-20€/kg. Las especies propuestas, están adaptadas a las condiciones climatológicas del Valle del Ebro, pero con la mejora asociada a una mayor disponibilidad de agua de forma difusa o por riego, como el que se prevé en la zona. Así, se ha calculado una superficie de parterre de 480-550 m2. 
 
 
 | Parámetro | Mínimo | Máximo |

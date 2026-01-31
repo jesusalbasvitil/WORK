@@ -13,13 +13,15 @@
 >
 [Eugenio Dominguez, MITECO](https://www.elmundo.es/espana/2025/12/15/69406b04fc6c83934f8b458f.html)
 
+
+jesusalbasvitil/wiki/DIA-/[DIA-][PE][Canteras I].md
 ---
 
 ## Abstract
 
 Desde finales de 2016 hasta finales de 2023`[cita requerida]` JLM fue Director de INAGA. A esto se añade lo autorizado y publicado con posterioridad a esa fecha.
 
-Según informaciones de El Mundo, en relación con MITECO y a su vez con INAGA, parece que, a lo largo de 2022 fue el periodo donde se produjeron las mayores irregularidades, con informes y contrainformes. Así pues, este ensayo se centra en un periodo de 18 meses cuyo eje podría establecerse a mediados de 2022 alrededor de las DIAs negativas, como documentos de control, y las DIAs positivas como sujetos de análisis, para intentar establecer una serie de patrones en torno a FORESTALIA.
+Según informaciones de El Mundo, en relación con MITECO y a su vez con INAGA, parece que, a lo largo de 2022 fue el periodo donde se produjeron las mayores irregularidades, con informes y contrainformes. Así pues, este ensayo se centra en un periodo de 18 meses cuyo eje podría establecerse a mediados de 2022 alrededor de las DIAs negativas, como documentos de control, y las DIAs positivas como sujetos de análisis, para intentar establecer una serie de patrones en torno a FORESTALIA. Así mismo, se establece una diferencia clara entre procedimientos autonómico y de ámbito estatal, por la casuística diferente.
 
 20210901
 20230331
