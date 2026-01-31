@@ -13,3 +13,7 @@
 
 [El Supremo suspende la multa de 600.000 € a la DGA por daños en el río Osia pero le urge repararlos](https://www.heraldo.es/noticias/aragon/huesca/2024/04/01/el-supremo-suspende-la-multa-de-600-000-a-la-dga-por-danos-en-el-osia-pero-le-urge-repararlos-1722743.html)
 
+
+
+[RESOLUCIÓN de 3 de marzo de 2025, del Instituto Aragonés de Gestión Ambiental, por la que se adopta la decisión de no someter al procedimiento de evaluación de impacto ambiental y se emite el Informe de impacto ambiental relativo al Proyecto de actuaciones para la recuperación del río Osía, carretera A-2605, PK 38, en el término municipal de Aragüés del Puerto (Huesca), promovido por la Dirección General de Carreteras e Infraestructuras del Gobierno de Aragón. (Número de Expediente: INAGA 500201/01B/2024/07269)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1387887451111)
+
