@@ -83,44 +83,26 @@ La STS 1642/2025 constituye una resolución de referencia en materia de derecho 
 
 ## CRONOLOGÍA DE HECHOS
 
-### **Finales de 2019**
-- **HECHO**: Crecida del río Osia causa desprendimiento que daña gravemente la carretera A-2605 (PK 38)
-- **FUENTE**: Artículos de Público y El Heraldo (mayo-junio 2022)
-- **CONTEXTO**: La carretera queda parcialmente inutilizada, provocando situación de urgencia
+### Finales de 2019 Artículos de Público y El Heraldo (mayo-junio 2022)
+Crecida del río Osia causa desprendimiento que daña gravemente la carretera A-2605 (PK 38). La carretera queda parcialmente inutilizada, provocando situación de urgencia.
 
-### **2020 (sin fecha exacta)**
-- **HECHO**: El Gobierno de Aragón (DGA) ejecuta obras de emergencia sin autorización de la Confederación Hidrográfica del Ebro (CHE)
-- **OBRAS REALIZADAS**: 
-  - Reconstrucción del terraplén de apoyo
-  - Consolidación del talud
-  - Restitución de la plataforma
-  - Reconstrucción del ancho de calzada
-  - Modificación del cauce del río Osia (625 metros)
-  - Anulación de dos ramales del río
-  - Ampliación de un tercer ramal
-  - Depósito de 770 m³ de gravas extraídas del cauce
-- **COSTE**: 339.097,77 euros
-- **FUENTE**: Arainfo (agosto 2021), Público (junio 2022)
+### **2020 (sin fecha exacta) Arainfo (agosto 2021), Público (junio 2022)
+El Gobierno de Aragón (DGA) ejecuta obras de emergencia sin autorización de la Confederación Hidrográfica del Ebro (CHE)
 
-### **Agosto de 2020**
-- **HECHO**: La CHE requiere a la DGA iniciar la restauración del cauce
-- **RESPUESTA DGA**: Hace caso omiso al requerimiento
-- **FUENTE**: Público (junio 2022)
 
-### **Agosto de 2021**
-- **HECHO**: Colectivos ecologistas (ANSAR, Amigos de la Tierra, Ecologistas en Acción, Fundación Quebrantahuesos) denuncian el "desastre ecológico" un año después de las obras
-- **DENUNCIAS**:
-  - Impactos ecológicos graves
-  - Daños geomorfológicos
-  - Aumento de peligrosidad para futuras crecidas
-  - Las gravas siguen sin retirarse
-- **FUENTE**: Arainfo (18 agosto 2021)
+### Agosto de 2020 Público (junio 2022)
+La CHE requiere a la DGA iniciar la restauración del cauce y ésta hace caso omiso al requerimiento.
+
+
+### Agosto de 2021 Arainfo (18 agosto 2021)
+Colectivos ecologistas (ANSAR, Amigos de la Tierra, Ecologistas en Acción, Fundación Quebrantahuesos) denuncian el "desastre ecológico" un año después de las obras por impactos ecológicos graves, daños geomorfológicos, aumento de peligrosidad para futuras crecidas y abandono de grava.
+
 
 ### 2021 (fecha imprecisa) Arainfo (febrero 2023) citando preguntas parlamentarias de Álvaro Sanz
 El Consejero José Luis Soro asegura que se está elaborando proyecto de restauración a requerimiento de la CHE: "Firme voluntad de cuidar la dinámica fluvial y la geomorfología del río"
 
 
-### **Abril de 2022, Público (junio 2022)**
+### Abril de 2022, Público (junio 2022)
 La Fiscalía de Huesca descarta infracciones penales y la CHE reabre el expediente sancionador administrativo
 
 ### Mayo-Junio de 2022, Público (31 mayo/1 junio 2022)
@@ -167,7 +149,7 @@ El INAGA emite Resolución declarando que el proyecto de restauración "Actuacio
 
 **INCONSISTENCIA #3**: Entre la desestimación del recurso de reposición (agosto 2023) y la sentencia del Supremo (diciembre 2025) transcurren más de 2 años. No hay información en las fuentes periodísticas sobre los trámites judiciales intermedios.
 
-### **17 de enero de 2026, Heraldo**
+### 17 de enero de 2026, Heraldo
 Publicación en prensa sobre la rebaja de la multa de 600.000 a 10.000 euros
 referente a d ifusión pública de la sentencia del Supremo
 
@@ -178,18 +160,14 @@ referente a d ifusión pública de la sentencia del Supremo
 ### **1. SOBRE LA AUTORIZACIÓN ADMINISTRATIVA**
 
 #### **VERSIÓN PERIODÍSTICA** (Público, junio 2022):
-- El Director General de Carreteras, Bizén Fuster, mantiene que "tanto la CHE como el INAGA autorizaron los trabajos"
-- Afirma: "La CHE dio por buena la propuesta inicial, y la trasladó al INAGA, que dio el visto bueno"
+El Director General de Carreteras, Bizén Fuster, mantiene que "tanto la CHE como el INAGA autorizaron los trabajos". Afirma que: "La CHE dio por buena la propuesta inicial, y la trasladó al INAGA, que dio el visto bueno"
 
 #### **VERSIÓN STS 1642/2025**:
 - Las obras se ejecutaron "sin que el organismo de cuenca hubiera resuelto la autorización solicitada"
 - Se había "instado su tramitación por vía de urgencia" pero nunca hubo resolución
 - La "inactividad del organismo de cuenca" es un elemento central del fallo
 
-**⚠️ CONTRADICCIÓN FUNDAMENTAL**: La DGA afirmó públicamente tener autorizaciones, pero la sentencia confirma que nunca hubo resolución formal. Esto plantea interrogantes sobre:
-- ¿Hubo comunicaciones informales interpretadas como autorizaciones?
-- ¿La "propuesta trasladada" constituía una autorización tácita?
-- ¿Por qué la CHE nunca resolvió formalmente la solicitud?
+**CONTRADICCIÓN FUNDAMENTAL**: La DGA afirmó públicamente tener autorizaciones, pero la sentencia confirma que nunca hubo resolución formal. Esto plantea interrogantes sobre si Hubo comunicaciones informales interpretadas como autorizaciones o si la "propuesta trasladada" constituía una autorización tácita.
 
 ### **2. SOBRE LA CALIFICACIÓN DE LA INFRACCIÓN**
 
@@ -205,7 +183,7 @@ referente a d ifusión pública de la sentencia del Supremo
   - Obras necesarias para la seguridad (potencialmente autorizables)
   - Obras excesivas o innecesarias (efectivamente ilícitas)
 
-**CLAVE DOCTRINAL**: El Supremo establece que "no basta con una valoración global del coste de las obras" sino que debe "identificar y cuantificar el daño efectivamente imputable a las actuaciones indebidas"
+El Supremo establece como doctrina jurisprudencial que *"no basta con una valoración global del coste de las obras" sino que debe "identificar y cuantificar el daño efectivamente imputable a las actuaciones indebidas"*
 
 ### **3. SOBRE LA URGENCIA DE LAS OBRAS**
 
@@ -222,10 +200,7 @@ referente a d ifusión pública de la sentencia del Supremo
   - No elimina la culpabilidad
 - Sin embargo, SÍ tiene efectos en la valoración de proporcionalidad de la sanción
 
-**MATIZACIÓN IMPORTANTE**: El Supremo no niega la urgencia, pero distingue entre:
-- Urgencia real (aceptada)
-- Justificación jurídica para actuar sin autorización (rechazada)
-- Atenuante para la sanción (considerada)
+**MATIZACIÓN IMPORTANTE**: El Supremo no niega la urgencia, pero distingue entre urgencia real (aceptada), justificación jurídica para actuar sin autorización (rechazada) y atenuante para la sanción (considerada)
 
 ### **4. SOBRE EL DAÑO AMBIENTAL**
 
@@ -236,13 +211,6 @@ referente a d ifusión pública de la sentencia del Supremo
 - Anulación de dos ramales
 - 770 m³ de gravas depositadas
 
-#### **VERSIÓN ECOLOGISTAS** (Agosto 2021):
-- "Desastre ecológico"
-- "Destrucción del cauce natural"
-- "Afectación total a la geomorfología natural del río en varios centenares de metros"
-- "Grave desprotección de la geodiversidad"
-- "Aumento de peligrosidad para futuras crecidas"
-
 #### **VERSIÓN STS 1642/2025**:
 - El Tribunal NO niega que hubo daño
 - Pero exige "identificar y cuantificar el daño efectivamente imputable"
@@ -252,13 +220,10 @@ referente a d ifusión pública de la sentencia del Supremo
   - Obras excesivas (sí son daño)
 - Ante la duda probatoria: favor rei
 
-**OBSERVACIÓN CRÍTICA**: La sentencia se centra en aspectos jurídico-formales (cuantificación del daño económico al dominio público) más que en la valoración ecológica-ambiental del impacto.
+La sentencia se centra en aspectos jurídico-formales (cuantificación del daño económico al dominio público) más que en la valoración ecológica-ambiental del impacto.
 
 ### **5. SOBRE LA INACTIVIDAD ADMINISTRATIVA**
-
-#### **NO MENCIONADO en fuentes periodísticas**:
-- Ningún artículo menciona que la CHE nunca resolvió la solicitud de autorización
-- Se presenta como un caso de "obras sin autorización" sin matices
+Ningún artículo menciona que la CHE nunca resolvió la solicitud de autorización y se presenta como un caso de "obras sin autorización" sin matices.
 
 #### **ELEMENTO CENTRAL en STS 1642/2025**:
 - La inactividad de la CHE es uno de los pilares del fallo
@@ -266,7 +231,7 @@ referente a d ifusión pública de la sentencia del Supremo
 - Esto impide determinar "si las obras eran total o parcialmente legalizables"
 - "Introduce una duda estructural que condiciona la valoración del daño"
 
-**⚠️ OMISIÓN SIGNIFICATIVA**: Las fuentes periodísticas no reflejan este elemento crucial, que resulta determinante en la decisión judicial.
+**OMISIÓN SIGNIFICATIVA**: Las fuentes periodísticas no reflejan este elemento crucial, que resulta determinante en la decisión judicial.
 
 ### **6. SOBRE LOS PRINCIPIOS JURÍDICOS APLICADOS**
 
@@ -295,7 +260,7 @@ referente a d ifusión pública de la sentencia del Supremo
    - La reducción de la sanción no afecta a la obligación de restaurar
    - Mantiene el objetivo de protección ambiental
 
-**RELEVANCIA**: Esta sentencia establece jurisprudencia sobre conflictos entre administraciones y sobre los límites de la potestad sancionadora ambiental.
+Esta sentencia establece jurisprudencia sobre conflictos entre administraciones y sobre los límites de la potestad sancionadora ambiental.
 
 ---
 
@@ -306,12 +271,10 @@ referente a d ifusión pública de la sentencia del Supremo
 - Sanción Consejo de Ministros: 602.782,59 €  (-29%)
 - Sanción final Supremo: 10.000 € (-98% respecto a la ministerial)
 
-**LAGUNA**: No hay información sobre por qué la sanción ministerial fue inferior a la propuesta de la CHE.
 
 ### **INCONSISTENCIA #2: La supuesta suspensión de abril 2024**
-- El Heraldo (1 abril 2024) menciona que el Supremo suspende la multa
-- No se encontró documentación oficial de esta resolución
-- La STS 1642/2025 (diciembre 2025) no menciona medidas cautelares previas
+- En Heraldo de 1 abril 2024 menciona que el Supremo suspende la multa
+pero no se encuentra documentación oficial de esta resolución y la STS 1642/2025 (diciembre 2025) no menciona medidas cautelares previas
 
 **HIPÓTESIS**: 
 - a) Podría ser un auto de admisión a trámite con medida cautelar
@@ -322,25 +285,15 @@ referente a d ifusión pública de la sentencia del Supremo
 - Bizén Fuster (2022): "La CHE y el INAGA autorizaron los trabajos"
 - STS 1642/2025: "Obras sin autorización", "la CHE nunca resolvió"
 
-**EXPLICACIONES POSIBLES**:
-1. Hubo comunicaciones informales que la DGA interpretó como autorizaciones
-2. El INAGA sí autorizó pero la CHE no
-3. Declaraciones públicas no ajustadas a la realidad administrativa
-
 ### **INCONSISTENCIA #4: Cronología de la restauración**
 - 2021: Soro promete proyecto en elaboración
 - 2023: IU denuncia que "no se ha hecho nada"
 - Marzo 2025: El INAGA autoriza proyecto de restauración
 - Diciembre 2025: El Supremo mantiene obligación de restaurar
 
-**LAGUNA**: No se sabe si la restauración se ha ejecutado realmente o sigue pendiente en enero 2026.
 
-### **INCONSISTENCIA #5: El papel del INAGA**
-- La DGA afirma que el INAGA autorizó las obras en 2020
-- En marzo 2025 el INAGA autoriza el proyecto de RESTAURACIÓN
-- No hay información sobre qué autorizó exactamente el INAGA en 2020
 
----
+<!--
 
 ## ELEMENTOS NO ACLARADOS
 
@@ -364,9 +317,9 @@ referente a d ifusión pública de la sentencia del Supremo
 - ¿Cuánto tiempo estuvo el expediente parado?
 - ¿Hubo responsabilidad administrativa por esta inactividad?
 
----
+-->
 
-## CONCLUSIONES
+<!--## CONCLUSIONES
 
 ### **1. Brecha entre narrativa periodística y jurídica**
 Las fuentes periodísticas presentan el caso como "obras ilegales con daño ambiental" con una multa justificada. La sentencia del Supremo muestra una realidad más compleja donde:
@@ -400,7 +353,7 @@ A pesar de toda la información disponible, quedan lagunas significativas sobre:
 - El estado actual de restauración del río
 - Las responsabilidades administrativas internas
 
----
+-->
 
 ## FUENTES CONSULTADAS
 
