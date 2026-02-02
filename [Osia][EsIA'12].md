@@ -147,7 +147,7 @@ La Sentencia del Tribunal Supremo 1642/2025, de 15 de diciembre de 2025, estable
 
 ### 5.1. Inconsistencia normativa: aplicación del PORN
 
-Las obras de 2020 (625 m) superaron el umbral del artículo 53 del PORN (500 m)[^2][^3] establecido para determinar el sometimiento obligatorio a EIA[^100]. No consta documentalmente que se verificara el cumplimiento de este criterio normativo. Sobre este aspecto, hay un precedente. En 2012, el INAGA aplicó este mismo criterio para exigir EIA en el mismo río y para la misma infraestructura.[^1]
+~~Las obras de 2020 (625 m) superaron el umbral del artículo 53 del PORN (500 m)[^2][^3] establecido para determinar el sometimiento obligatorio a EIA~~. No consta documentalmente que se verificara el cumplimiento de este criterio normativo. Sobre este aspecto, hay un precedente. En 2012, el INAGA aplicó este mismo criterio para exigir EIA en el mismo río y para la misma infraestructura.[^1]
 
 ### 5.2. Inconsistencia en autorizaciones
 
@@ -222,9 +222,9 @@ En conclusión, la documentación analizada sugiere un patrón de utilización r
 
 [^10]: Resolución de 3 de marzo de 2025, del Instituto Aragonés de Gestión Ambiental, por la que se adopta la decisión de no someter al procedimiento de evaluación de impacto ambiental y se emite el Informe de impacto ambiental relativo al Proyecto de actuaciones para la recuperación del río Osía, carretera A-2605, PK 38. Expediente INAGA 500201/01B/2024/07269. BOA, marzo de 2025. Disponible en: https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1387887451111
 
-[^100]: NOTA: El INAGA, mediante Resolución de 3 de marzo de 2025 (INAGA 500201/01B/2024/07269), determinó que el proyecto de "actuaciones para la recuperación del río Osía, carretera A-2605, PK 38" no requería evaluación de impacto ambiental.[^10]
+~~NOTA: El INAGA, mediante Resolución de 3 de marzo de 2025 (INAGA 500201/01B/2024/07269), determinó que el proyecto de "actuaciones para la recuperación del río Osía, carretera A-2605, PK 38" no requería evaluación de impacto ambiental.[^10]~~
 
 
 ---
 
-`Versión 075702022026`
+`Versión 093002022026`
