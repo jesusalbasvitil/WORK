@@ -1,5 +1,6 @@
 `[50oe0092]\[SEO]\[Cgll]\[ArbV6] Diseño arboretum aparcamiento Palacio CogulladaV6`
 
+<!--Cabecera ejemplo BORRADOR ANÁLISIS ADMINISTRATIVO DEL CASO DEL RÍO OSIA · SEO / BIRDLIFE [Osia][EsIA'12].md · Versión 093002022026-->
 # Diseño arboretum aparcamiento Palacio Cogullada Versión 6
 
 ## 0. INTRODUCCIÓN
