@@ -1,14 +1,7 @@
-He extraído todas las unidades registrales del documento y, para cada **NºFinca**, he recogido:
+## Listado de fincas Cuevas según 
 
-* NºFinca
-* Polígono
-* Parcela(s)
-* Referencia(s) Catastral(es)
-* Superficie **Adoptada (Ha)**
 
-Aquí tienes la tabla en formato **Markdown**:
-
-```markdown
+```
 | NºFinca | Polígono | Parcela(s)           | Referencia(s) Catastral(es)                          | Superficie Adoptada (Ha) |
 |----------|----------|----------------------|------------------------------------------------------|--------------------------|
 | 17694    | 520      | 185                  | 50045A520001850000YR                                 | 3,6448                   |
@@ -30,3 +23,37 @@ Aquí tienes la tabla en formato **Markdown**:
 | 3959/1   | 520      | 10096, 20096         | 50045A520100960000YG; 50045A520200960000YR           | 5,6000                   |
 ```
 
+Fuente: Tasación TINSA | Expediente Z-01198/14 | Fecha: 22-05-2014 *Todas las parcelas pertenecen al Polígono 520 del municipio de Belchite*
+---
+
+## [Listado de Fincas — El Planerón (Belchite, Zaragoza)](https://claude.ai/share/4210ebb8-4245-4824-882e-747ce445bb78)
+
+
+| Nº Finca | Polígono | Parcela(s) | Referencia(s) Catastral(es) | Superficie Adoptada (Ha) | Valor Tasación (€) |
+|----------|----------|------------|----------------------------|--------------------------|-------------------|
+| 17694 | 520 | 185 | 50045A520001850000YR | 3,6448 | 3.098,08 |
+| 17692 | 520 | 60 | 50045A520000600000YD | 8,4500 | 7.182,50 |
+| 3968/1 | 520 | 10110 / 20110 | 50045A520101100000YD / 50045A520201100000YW | 5,2091 | 4.427,74 |
+| 2875 | 520 | 10111 / 20111 | 50045A520101110000YX / 50045A520201110000YA | 4,0253 | 3.421,50 |
+| 2839/1 | 520 | 10051 / 20051 | 50045A520100510000YJ / 50045A520200510000YY | 102,4585 | 87.089,73 |
+| 2829 | 520 | 150 | 50045A520001500000YM | 90,4947 | 76.920,49 |
+| 2828/1 | 520 | 10053 / 20053 | 50045A520101530000YH / 50045A520201530000YT | 10,6750 | 9.073,75 |
+| 2827 | 520 | 154 | 50045A520001540000YD | 7,8308 | 6.656,18 |
+| 2826 | 520 | 158 | 50045A520001580000YE | 5,0663 | 4.306,35 |
+| 2825 | 520 | 156 | 50045A520001560000YI | 3,5366 | 3.006,11 |
+| 2812/1 | 520 | 52 | 50045A520000520000YF | 3,8081 | 3.236,89 |
+| 2727 | 520 | 10105 / 20105 | 50045A520201050000YU / 50045A520101050000YK | 4,5375 | 3.856,87 |
+| 2724 | 520 | 112 | 50045A520001120000YL | 1,8176 | 1.544,96 |
+| 2717 | 520 | 119 | 50045A520001190000YD | 4,6000 | 3.910,00 |
+| 2716 | 520 | 10122 / 20122 | 50045A520101220000YW / 50045A520201220000YF | 227,5950 | 193.455,75 |
+| 17695 | 520 | 145 | 50045A520001450000YT | 6,3500 | 5.397,51 |
+| 3959/1 | 520 | 10096 / 20096 | 50045A520100960000YG / 50045A520200960000YR | 5,6000 | 4.760,00 |
+| **TOTAL** | | **17 fincas** | | **495,6993 Ha** | **421.344,41 €** |
+
+---
+Fuente: Copia escritura definitiva notaría Belchite enviada notaría Madrid
+**Notas relevantes:**
+- Las fincas 3968/1, 2828/1, 2827, 2826, 2825 y 2727 presentan **discrepancias** entre la superficie comprobada y la registral/catastral.
+- Toda la superficie se clasifica como **pastos de secano (E - Pastos)**, valorados a 850 €/Ha.
+- La zona está designada como **ZEPA** (Zona de Especial Protección para las Aves).
+- Registro de la Propiedad: **Belchite nº 1**, titular: Sociedad Española de Ornitología (SEO/BirdLife).
