@@ -134,4 +134,35 @@ En un escenario de cambio climático acelerado, estas estrategias se encuentran 
 
 [^18]: Elphinstone, C., Henry, G. H. R., et al. (2024). Flowering time responses to warming drive reproductive fitness in a changing Arctic. *Annals of Botany*, 135(1). DOI en PMC: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11805937/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11805937/)
 
+---
+# [Estudio de los Mecanismos de Floración en Draba aizoides](https://share.google/aimode/eiGzJmnwqkupekRVs)
 
+1. Introducción
+Draba aizoides (familia Brassicaceae) es una especie alpina perenne cuyo ciclo reproductivo está estrictamente regulado por las condiciones climáticas extremas. Su capacidad para florecer inmediatamente después del invierno depende de una compleja interacción entre factores genéticos y señales ambientales.
+2. Mecanismos Moleculares y Genéticos
+A. Regulación por Vernalización (Gen FLC)
+El mecanismo central de floración en las Brassicaceae perennes es el control del gen FLOWERING LOCUS C (FLC).
+
+    Inhibición: El FLC actúa como un potente represor de la floración durante el crecimiento vegetativo.
+    Vernalización: El frío invernal prolongado silencia este gen mediante cambios epigenéticos.
+    Estrategia Perenne: A diferencia de las plantas anuales, en especies como Draba, el ortólogo de FLC (denominado a veces PEP1) se reactiva tras la floración. Esto asegura que la planta no agote todos sus meristemos y pueda sobrevivir para florecer el año siguiente.
+    Referencia: Nature - PEP1 regulates perennial flowering (Wang et al.).
+
+B. Integración de Fotoperiodo (Gen CO)
+Aunque la vernalización es necesaria, el gen CONSTANS (CO) mide la longitud del día para asegurar que la antesis ocurra en el momento óptimo de la primavera.
+
+    Referencia: Molecular Biology and Evolution - Divergent evolution of flowering time.
+
+3. Adaptaciones Fisiológicas al Clima Alpino
+
+    Diferenciación Pre-invernal: D. aizoides desarrolla los primordios florales en el otoño previo. La planta entra en dormancia con las estructuras florales casi listas, lo que permite una respuesta rápida al deshielo.
+    Poliploidía: Muchas especies del género Draba han experimentado duplicaciones genómicas, lo que les confiere una mayor plasticidad para adaptarse a gradientes de altitud y variaciones térmicas.
+    Referencia: Frontiers in Plant Science - Species and Genetic Diversity of Draba.
+
+4. Resumen de Referencias Clave
+Factor	Gen/Proceso	Fuente Consultada
+Control Perenne	Gen FLC / PEP1	Nature Publishing Group
+Adaptación Alpina	Poliploidía y Genómica	Frontiers Media
+Reloj Circadiano	Integración CO/FT	Oxford Academic - MBE
+¿Deseas que incluya algún apartado adicional sobre la morfología de las yemas o la fisiología de la resistencia al frío antes de finalizar?
+Las respuestas de la IA pueden contener errores. Más información
