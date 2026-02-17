@@ -68,7 +68,7 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 14. Admin y varios (horas)
 141. LISTADO DE TAREAS 2
 142. Caspe botanic 5
-143. Flora invierno 2
+143. Flora invierno Ordesa 2
 144. Informe revegetación parquin 182€
 145. Informe Osia 195€
 
