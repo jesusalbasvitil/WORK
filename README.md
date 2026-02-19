@@ -60,12 +60,12 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 101. Rewilding zonas marginales
 102. Buenas prácticas agrarias 
 
-12. SACRE nacional 12
+12. SACRE nacional 1900 €
 
-13. Sacre urbano 8
+13. Sacre urbano 500 €
 
-**nº | actividad | estado | horas/coste**
-14. Admin y varios (horas)
+**nº | actividad | estado | horas/coste (€)**
+14. Admin y varios 
 141. LISTADO DE TAREAS 2
 142. Caspe botanic 5
 143. Flora invierno Ordesa 2
