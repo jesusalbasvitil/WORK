@@ -39,8 +39,10 @@ El perro es una amplificación de lo que ya perturbamos pista arriba y abajo. Fa
 Asustar aves conlleva un gasto del 20% de su energía total, que en un ambiente hostil, como es el PN, supone en ocasiones que no llegue al día siguiente vivo por hipotermia.
 
 La Ley[^1] es clara: *"Se prohíbe.. dar muerte, dañar, molestar o inquietar intencionadamente a los animales silvestres"* el perro suelto así se convierte en una infracción, agravada porque estás en el PN. 
+
 ----
 [^1]: Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. BOE núm. 299, de 14 de diciembre de 2007. Ref: BOE-A-2007-21490 Preámbulo, p.12
+
 
 ## Residuos
 Si eres de los que piensa que, tirar basura a tu paso es generar empleo, mejor no vengas al PN. 
