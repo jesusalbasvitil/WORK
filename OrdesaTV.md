@@ -43,7 +43,7 @@ La Ley[^1] es clara: *"Se prohíbe.. dar muerte, dañar, molestar o inquietar in
 [^1]: Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. BOE núm. 299, de 14 de diciembre de 2007. Ref: BOE-A-2007-21490 Preámbulo, p.12
 
 ## Residuos
-Si eres de los que piensa que tirar basura a tu paso es generar empleo, mejor no vengas al PN. 
+Si eres de los que piensa que, tirar basura a tu paso es generar empleo, mejor no vengas al PN. 
 
 Si crees que dejar las pieles de plátano o mandarina no importa porque *se lo comen los bichos*, tampoco vengas. 
 
@@ -53,9 +53,12 @@ Tu basura abandonada empieza ahí y acaba en el mar. Por el camino, deterioro de
 
 Porque viaja. Y mucho. 
 
-Tarde o temprano, parte acabará en el Arazas, reducirá el oxígeno del agua y con ello las condiciones para que especies que sólo viven ahí sigan. 
+Tarde o temprano, parte acabará en el Arazas, reducirá el oxígeno del agua y con ello las condiciones para que, especies que sólo viven ahí sigan. 
 
-Tu plástico olvidado no se descompondrá; sólo se fracturará en miles de pedazos y será ingerido por la fauna, que lo acumulará, morirá y será abono de la hierba que coma la vaca, de la cual, saldrá tu leche del desayuno, o el filete de tu comida. Es escupir contra el viento.
+Tu plástico *olvidado* no se descompondrá; sólo se fracturará en miles de pedazos y será ingerido por la fauna, que lo acumulará, morirá y será abono de la hierba que coma la vaca, de la cual, saldrá tu leche del desayuno, o el filete de tu comida. 
+
+Con ese plástico tuyo, tirado meses atrás. Escupir contra el viento.
+
 
 ## Recolección de plantas, de hongos, de fósiles.
 El PN es un museo al aire libre. Del Museo del Prado no te llevas las placas que identifican un cuadro o los sensores. No te llevas restos cerámicos del de Historia. Pues aquí pasa lo mismo con las flores y setas. 
@@ -64,12 +67,12 @@ Todos los años igual: restos de lirios, malvas o azáleas -ya mustias- abandona
 
 ~~En cuanto a las setas, la cosa empeora: es el caso del típico cuñado que las pisotea con la excusa de que son venenosas, *para que nadie las coja*. O de los avariciosos que ven una cena gratis en un corro del bosque. ~~
 
-Repetimos: el PN es un museo al aire libre, y estas flores cumplen funciones muy valiosas. Son polen de insectos, que son la comida de las aves. En cuanto a las setas, hazte a la idea que son frutos que maduran, sueltan los millones de esporas que crecerán y su inmensa red de micelios ~~(sí, vivimos en Pandora, de Avatar)~~ descompondran toda la materia orgánica. 
+Repetimos: el PN es un como un museo al aire libre, y estas flores cumplen funciones muy valiosas. Son polen de insectos, que son la comida de las aves. En cuanto a las setas, hazte a la idea que son frutos que maduran, sueltan los millones de esporas que crecerán y su inmensa red de micelios ~~(sí, vivimos en algo parecido a Pandora, de Avatar)~~ descompondran toda la materia orgánica. 
 
 ## Acampada libre fuera de las áreas autorizadas
 Compatibilizar el uso y disfrute del medio ambiente con la conservación del PN es dificil. Nuestras actividades generan impacto. Todas: Las pistas, los refugios, el ganado.. En muchos de los casos el impacto es irreversible. 
 
-Todavía es posible subir a Monte Perdido siguiendo sólo los *arriates* de ortigas. En verano, por los *cleenex* usados.
+Para muestra un botón: es posible subir a Monte Perdido en verano, siguiendo sólo los *arriates* de ortigas. Otra opción igual de *útil* es seguir los *cleenex* usados.
 
 Acampar fuera de las áreas autorizadas es incrementar ese impacto y por tanto, reducir la superficie protegida. Y generamos residuos: cagas, meas y tiras basura. Es así. Siempre.
 
@@ -77,13 +80,11 @@ Además, tu presencia como acampado no pasa desapercibida para la fauna y te con
 
 
 
-
-
 ## Vandalismo (rotura de señales, pintadas, grafitis, pegatinas, etc.)
 
 Vandalizar el mobiliario público; desde carteles informativos hasta hitos dejados por personas de forma altruista, puede significar en ocasiones la diferencia entre la vida y la muerte. 
 
-Hay paneles que son necesarios para planificar la ruta del resto de la gente, balizas que marcan un sendero que ya no existe por la acumulación de nieve, unos hitos que dan esperanza para encontrar más y volver, que te entretuviste en arrancar antes, patear o pintar. 
+Hay paneles que son necesarios para planificar la ruta del resto de la gente, balizas que marcan un sendero que ya no existe por la acumulación de nieve, unos hitos que dan esperanza para encontrar más y poder regresar, que te entretuviste en arrancar antes, patear o pintar. 
 
 Hazte a la idea que es tu casa, y la compartes con el resto. O bien, que es la suya, del resto de la gente normal; y la comparten contigo. 
 
@@ -92,7 +93,25 @@ Si en tu casa no pateas cuadros, no pintas las paredes con "rotus" o pones una p
 Admítelo: tienes un problema de autoestima y ego. Es así, y necesitas ayuda profesional, pero el PN no es la solución. No vengas al PN. No es tu sitio.
 
 ## Molestias al ganado
+¿Te molestaría que 200 ganaderos con sus familias se quisieran hacer fotos con tu perro o gato una y otra vez? ¿A que sí? 
 
+Pues a ellos no. Es más, están encantados. 
+
+Peeeero siempre y cuando NO los persigas por el prado! Asustarlos provoca que echen a correr. Caballos y vacas del Pirineo cuentan con gruesas patas, pero siguen siendo frágiles. Una rotura es su muerte. Todo por un selfie!
+
+Si se dejan, bien. Si se van no insistas. Es un no. 
+
+Es que no lo pillas?. 
+
+Y de los terneros ya ni hablamos: 600 kilos de vaca astada no te quitarán ojo. 
+
+En cuanto a las yeguas, truco: lleva una manzana, la partes por mitad, la enseñas y se hará la magia. 
+
+Best friends forever!. 
+
+Les chiflan! 
+
+Pero luego *no te cagues de miedo* si se pegan a tí. Te aguantas y, ni agitas las manos ni chillas. Te aguntas. Las acaricias y bien de palabras suaves.
 
 # Patrimonio natural y biodiversidad (qué ocurre ahora en el PN)
 
