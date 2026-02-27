@@ -22,6 +22,8 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 23. Revegetación olmos sin grafiosis 4 `PRIO 4`
 24. GE. Cálculo densidad plantas/parcelas 2 `PRIO 5`
 25. Covercrops. Reparto insectos recolectados. En ejecución. 2 `PRIO 2`
+26. Covercrops. 28/2. Recolección, reparto
+27. Envío MRW muestras
 
 ~~3. Traslocaciones pte. inicio 10~~
 31. Programación con cotos 8
