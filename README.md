@@ -16,18 +16,19 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 14. Restauración (Ampliar info)
 15. Revegetado (Ampliar info)
 
-2. **San Miquel** pte. inicio (días) 16
+2. **San Miguel** pte. inicio (días) 16
 ~~21. Vallado brezo 4~~
 ~~22. Revegetación tamariz 4~~
 23. Revegetación olmos sin grafiosis 4 `PRIO 4`
 24. GE. Cálculo densidad plantas/parcelas 2 `PRIO 5`
-25. Covercrops. Reparto insectos recolectados. En ejecución. 2 `PRIO 2`
-26. Covercrops. 28/2. Recolección, reparto
+25. ~~Covercrops 2. Reparto insectos recolectados. En ejecución. 2~~ `PRIO 2`
+26. Covercrops 1.  reparto
 27. Envío MRW muestras
 
 ~~3. Traslocaciones pte. inicio 10~~
 31. Programación con cotos 8
 32. Mequinenza 2
+33. `Alta transporte animales vivos`
 
 ~~4. Lacuniacha pte. inicio  (Ampliar info) 8~~
 41. Mejora en mirador/obs/muladar (evitar luz, cristales) 4 
@@ -39,7 +40,7 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 52. Procesado DIAs- y contraste con DIAs+ PFVs Aragón 6
 53.  Procesado DIAs- y contraste con DIAs+ ambos MITECO 8
 
-6. CHE Caducidad concesiones azudes y presas 6 *revisión semanal o periódica si sale algo lo cuentas el lunes* ibidem 
+6. `CHE Caducidad concesiones azudes y presas 6` *revisión semanal o periódica si sale algo lo cuentas el lunes* ibidem 
 61. Búsqueda caducadas 4
 62. Solicitud información 2
 
@@ -53,12 +54,12 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 82. Delimitación y bibliografía de soporte de censo 3
 
 9. Planerón **En ejecución** 5
-91. Replanteo para balizado nuevas parcelas Bruc Hecho **4**
-92. Balizado, previo ahoyado y caballones acceso a fincas SEO ~~26-27 feb~~. 1 *0,25* `PRIO 3`
-93. Colocación carteles ~~26-27 feb~~. Replanteos (acceso, recogida y replanteo con albañil) 1 
+91. ~~Replanteo para balizado nuevas parcelas Bruc Hecho~~ **4**
+92. Balizado, previo ahoyado y caballones acceso a fincas SEO ~~26-27 feb~~. 1 *0,25* Enviado planos. `Pte. barreras Balsa``PRIO 3`
+93. `Colocación carteles ~~26-27 feb~~. Replanteos (acceso, recogida y replanteo con albañil)` Pte. ir a ubicaciones. 
 94. Colocación puerta Obs. Pte. ppto. 2 
 95. *revisar cartelería quemada por el sol y reponer* 
-96. Cajas primilla Hecho **52€** (ver 170) `PRIO 1`
+96. ~~Cajas primilla Hecho **52€** (ver 170)~~ `PRIO 1`
 
 ~~10. RACS Abril San Miquel/Raymat **Stand-by**~~
 101. Rewilding zonas marginales
