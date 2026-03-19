@@ -22,7 +22,7 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 23. Revegetación olmos sin grafiosis 4 `PRIO 4`
 24. GE. Cálculo densidad plantas/parcelas 2 `PRIO 5`
 25. ~~Covercrops 2. Reparto insectos recolectados. En ejecución. 2~~ `PRIO 2`
-26. Covercrops 1.  reparto
+26. ~~Covercrops 1.  reparto~~
 27. Envío MRW muestras
 
 ~~3. Traslocaciones pte. inicio 10~~
@@ -38,7 +38,7 @@ A medida que se van generando informes, de forma invlountaria se cambia procedim
 5. DIA- **En ejecución** 20 *necesitamos algo en esquema de los criterios que han seguido el MITECO para las DIAs negativas en una excel o similar. Tal vez la distancia a especies y espacios. y poco más* mail 18/2
 51. Procesado DIAs- y contraste con DIAs+ PEs Aragón 6
 52. Procesado DIAs- y contraste con DIAs+ PFVs Aragón 6
-53.  Procesado DIAs- y contraste con DIAs+ ambos MITECO 8
+53. Procesado DIAs- y contraste con DIAs+ ambos MITECO 8
 
 6. `CHE Caducidad concesiones azudes y presas 6` *revisión semanal o periódica si sale algo lo cuentas el lunes* ibidem 
 61. Búsqueda caducadas 4
