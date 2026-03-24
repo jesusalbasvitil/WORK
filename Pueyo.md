@@ -3,7 +3,7 @@
 
 ## Intro
 
-El embalse de Bubal está ubicado en las inmediaciones de un puerto (Portalet) entre montañas, que actua como un corredor de paso de avifauna y tiene en la desembocadura del río Caldarés, en la cola del embalse, un punto de refugio, debido a un microclima propiciado por las masas boscosas ligadas al medio ripario y de setos asociados a prados, que no dejan de ser espacios abiertos -y por consiguiente cómodos para prevenir peligros de depredadores- y a la vez, apantallados por esos setos y sotos. Esta configuración de refugio y microclima está avalado por las citas existentes que, a pesar de ser todavía pocas, dan idea de la riqueza de esta zona: 67 especies.
+El embalse de Bubal está ubicado en las inmediaciones de un puerto de montaña de 1728 msnm (Portalet) que separa Europa de España, y que actua como un corredor de paso de avifauna y tiene en la desembocadura del río Caldarés, en la cola del embalse, un punto de refugio, debido a un microclima propiciado por las masas boscosas ligadas al medio ripario y de setos asociados a prados, que no dejan de ser espacios abiertos -y por consiguiente cómodos para prevenir peligros de depredadores- y a la vez, apantallados por esos setos y sotos. Esta configuración de refugio y microclima está avalado por las citas de observación existentes que, a pesar de ser todavía pocas, dan idea de la riqueza de esta zona: 67 especies.
 
 | Nombre común                 | Nombre científico            | Localidad |
 |-----------------------------|-----------------------------|-----------|
@@ -77,9 +77,9 @@ Fuentes:
 
 ## Riqueza ornítica como bioindicador de conservación
 
-El conjunto de 63 especies obtenido a partir de los listados permite interpretar el sistema como un ejemplo bastante completo de gradiente ecológico pirenaico en una escala espacial reducida, donde dos localidades relativamente próximas concentran comunidades claramente diferenciadas pero complementarias.
+El conjunto de 63 especies obtenido a partir de los listados permite interpretar el entorno como un ejemplo bastante completo de gradiente ecológico pirenaico en una escala espacial reducida, donde dos localidades relativamente próximas concentran comunidades claramente diferenciadas pero complementarias.
 
-Desde el punto de vista altitudinal, la diferencia entre Portalet y El Pueyo de Jaca se traduce en una segregación bastante nítida de comunidades. 
+Desde el punto de vista altitudinal, la diferencia entre Portalet y El Pueyo de Jaca se traduce en una segregación bastante nítida de comunidades. Sin embargo, **los episodios de climatología adversa provocan que el Pueyo puede llegar a acoger las especies características del Portalet**.
 
 Portalet, situado en cotas altas, está dominado por especies propias de medios abiertos subalpinos y alpinos, donde la cobertura arbórea es escasa o inexistente y las condiciones climáticas son más restrictivas. En este contexto aparecen especies como las chovas (*Pyrrhocorax pyrrhocorax* y *P. graculus*), el roquero rojo (*Monticola saxatilis*) o la collalba rubia (*Oenanthe hispanica*), que explotan nichos asociados a roquedos, pastizales de altura y laderas expuestas. Estas especies presentan adaptaciones claras a la estacionalidad, con ciclos reproductivos ajustados a ventanas cortas de productividad y, en muchos casos, movimientos altitudinales o migratorios marcados.
 
@@ -87,29 +87,142 @@ En contraste, El Pueyo de Jaca se sitúa en un piso montano con una estructura d
 
 Si se analizan ambas localidades de forma conjunta, lo que emerge es una comunidad con una diversidad funcional elevada, resultado directo de la superposición de múltiples tipos de hábitat. La coexistencia de ambientes alpinos abiertos, bosques maduros, medios acuáticos y zonas humanizadas genera una gran variedad de nichos ecológicos, lo que reduce la competencia directa entre especies y favorece una alta riqueza específica. Este patrón es especialmente evidente en la diversidad de estrategias tróficas presentes: desde insectívoros especializados en follaje o vuelo (mosquiteros, papamoscas), hasta granívoros (fringílidos), omnívoros oportunistas (córvidos) y depredadores de distintos niveles.
 
-La estructura trófica es particularmente relevante porque incluye tanto consumidores primarios y secundarios como depredadores superiores y carroñeros. La presencia de especies como el quebrantahuesos (*Gypaetus barbatus*) y el buitre leonado (*Gyps fulvus*) indica la existencia de procesos ecológicos complejos asociados a la disponibilidad de carroña y a redes tróficas bien desarrolladas. Este tipo de especies suele desaparecer rápidamente en sistemas degradados, por lo que su presencia sugiere un grado alto de integridad ecológica a escala regional. A su vez, la coexistencia con rapaces de menor tamaño como el busardo ratonero (*Buteo buteo*) o el gavilán (*Accipiter nisus*) apunta a una estructura jerárquica completa dentro del gremio de depredadores.
+La estructura trófica es particularmente relevante porque incluye tanto consumidores primarios y secundarios como depredadores superiores y carroñeros. La presencia de especies como el quebrantahuesos (*Gypaetus barbatus*) y el buitre leonado (*Gyps fulvus*) indica la existencia de procesos ecológicos complejos asociados a la disponibilidad de carroña y a redes tróficas bien desarrolladas. Este tipo de especies suele desaparecer rápidamente en sistemas degradados, por lo que su presencia sugiere un grado alto de integridad ecológica a escala regional. A su vez, la coexistencia con rapaces de menor tamaño como el busardo ratonero (*Buteo buteo*) o el gavilán (*Accipiter nisus*) apunta a una estructura jerárquica completa dentro de la pirámide de depredadores.
 
-Otro aspecto clave es la fenología. Una proporción significativa de las especies registradas son migradoras, especialmente en Portalet, donde aparecen numerosas especies estivales como golondrinas, aviones, papamoscas o mosquiteros. Esto indica que la zona actúa no solo como área de reproducción, sino también como corredor migratorio a través del eje pirenaico. En este sentido, Portalet funciona como un espacio altamente dinámico, con una comunidad que varía notablemente a lo largo del año. Por el contrario, El Pueyo presenta un mayor peso de especies residentes o parcialmente migradoras, lo que refuerza su papel como área de estabilidad y refugio, especialmente en periodos desfavorables.
+Otro aspecto clave es la fenología. Una proporción significativa de las especies registradas son migradoras, especialmente en Portalet, donde aparecen numerosas especies estivales como golondrinas, aviones, papamoscas o mosquiteros. Esto reafirma lo comentado: que la zona actúa no solo como área de reproducción, sino también como corredor migratorio a través del eje pirenaico. 
 
-Finalmente, desde una perspectiva integrada, el valor ecológico del sistema no reside únicamente en la riqueza de cada localidad por separado, sino en su complementariedad espacial y funcional. Portalet aporta especialización ecológica ligada a condiciones extremas y procesos migratorios, mientras que El Pueyo de Jaca aporta complejidad estructural, continuidad temporal y diversidad de hábitats. La combinación de ambos configura un sistema que representa de forma bastante completa los ensamblajes de aves del Pirineo central en un gradiente altitudinal relativamente corto, con una notable integridad funcional y una clara coherencia biogeográfica.
+En este sentido, Portalet funciona como un espacio altamente dinámico, con una comunidad que varía notablemente a lo largo del año. Por el contrario, El Pueyo presenta un mayor peso de especies residentes o parcialmente migradoras, lo que refuerza su papel como área de estabilidad y refugio, especialmente en periodos desfavorables.
+
+Finalmente, desde una perspectiva integrada, el valor ecológico del sistema no reside únicamente en la riqueza de cada localidad por separado, sino en su complementariedad espacial y funcional. Portalet aporta especialización ecológica ligada a condiciones extremas y procesos migratorios, mientras que El Pueyo de Jaca aporta complejidad estructural, continuidad temporal y diversidad de hábitats. La combinación de ambos configura un sistema que representa de forma bastante completa los ensamblajes de aves del Pirineo central en un gradiente altitudinal relativamente corto, con una notable integridad funcional y una clara coherencia biogeográfica. Finalmente, reiteramos lo arriba expuesto: **los episodios de climatología adversa provocan que el Pueyo puede llegar a acoger las especies características del Portalet**.
+
 
 ## Observatorio de aves
-A la vista de los hechos expuestos, se plantea la necesidad de ordenar este recurso mediante la dotación de unas infraestructuras adecuadas que sensibilicen sobre estos valores, como pueda ser la construcción de un observatorio, un paso protegido para evitar molestias a la fauna, o la señalítica que acompañaría. Todo ello para poner en valor la riqueza ornítica y la concienciación; toda vez que este recurso, este equipamiento propuesto, se añade a la oferta de ocio y cultura de un valle con una fuerte componente económica basada en el turismo.
+A la vista de la realidad descrita, se plantea la necesidad de ordenar este recurso mediante la dotación de unas infraestructuras adecuadas que sensibilicen sobre estos valores, como pueda ser la construcción de un observatorio, un paso protegido para evitar molestias a la fauna, o la señalítica que acompañaría. Todo ello para poner en valor la riqueza ornítica y la concienciación; toda vez que este recurso, este equipamiento propuesto, se añade a la oferta de ocio y cultura de un valle con una fuerte componente económica basada en el turismo.
+
+Así, se plantea la construcción de ese observatorio protegido de 4x2 metros, y para ello, se plantean dos ubicaciones en los alrededores de El Pueyo de Jaca, que comparten accesibilidad, suelo público y que se ubican por encima de la cota de inundación del embalse.
+
+![Dos ubicaciones en los alrededores de El Pueyo de Jaca](pueyo.png)
 
 ## Presupuesto
 
-### OBSERVATORIO (edificio con cubierta sin suelo, de 4x2x2,5 m)
+Se plantean tres capitulos; 
+
+1. el observatorio en sí, que comprende todos los materiales, incluidos la señalética, y traslado al punto de destino 11.350€. 
+
+2. El segundo capítulo: personal, albañilería y el seguimiento 1.610,00 €
+
+3. El tercer capítulo representa el gasto corriente, gasoil; 345 €
+
+A todos estos conceptos se aplica un 10% de imprevistos no contemplados y los gastos de financión. En conclusión, el presupuesto total asciende a **20.928,77 €**
+
+
+
+
+### 1. OBSERVATORIO (edificio con cubierta sin suelo, de 4x2x2,5 m)
+
 
 | Concepto                                   | Unidades | Importe unidad | Total        |
 |--------------------------------------------|----------|----------------|-------------|
-| Suministro de materiales (unidad)          | 1,00     | 720,00 €       | 720,00 €    |
-| Premontaje en taller de observatorio       | 64,00    | 60,00 €        | 3.840,00 €  |
-| Traslado a destino final                   | 1,00     | 540,00 €       | 540,00 €    |
+| Suministro de materiales                   | 1,00     | 720,00 €       | 720,00 €    |
+| Premontaje en taller                       | 64,00    | 60,00 €        | 3.840,00 €  |
+| Traslado a destino                         | 1,00     | 540,00 €       | 540,00 €    |
 | Montaje en destino                         | 25,00    | 60,00 €        | 1.500,00 €  |
-| Suministro de planta                       | 50,00    | 6,00 €         | 300,00 €    |
+| Suministro de planta                       | 50,00    | 15,00 €        | 750,00 €    |
 | Losa de hormigón (2,20x4,20x0,25 m)        | 1,00     | 2.000,00 €     | 2.000,00 €  |
-|                                            |          |                | **8.900,00 €** |
+| Señalética (suministro)                    | 1,00     | 2.000,00 €     | 2.000,00 €  |
+|                                            |          |                | **11.350,00 €** |
 
+---
 
+### 2. PERSONAL
+
+| Concepto                                   | Unidades | Importe unidad | Total        |
+|--------------------------------------------|----------|----------------|-------------|
+| MO albañilería y montaje                   | 20,00    | 35,00 €        | 700,00 €    |
+| Técnico SEO/BirdLife seguimiento y coord. gremios | 70,00    | 13,00 €        | 910,00 €    |
+|                                            |          |                | **1.610,00 €** |
+
+---
+
+### 3. GASTOS CORRIENTES
+
+| Concepto                                   | Unidades | Importe unidad | Total        |
+|--------------------------------------------|----------|----------------|-------------|
+| Gasoil (km)                                | 1.500,00 | 0,23 €         | 345,00 €    |
+|                                            |          |                | **345,00 €** |
+
+---
+
+### 4. RESUMEN ECONÓMICO
+
+| Concepto                                   | Importe        |
+|--------------------------------------------|----------------|
+| SUBTOTAL PRESUPUESTO                       | 13.305,00 €    |
+| 10% Imprevistos                            | 1.330,50 €     |
+| SUBTOTAL                                   | 14.635,50 €    |
+| Gastos de financiación y gestión admin.    |  6.293,27 €    |
+| **TOTAL GENERAL**                          | **20.928,77 €** |
+
+---
+
+## TOTAL FINAL PROYECTO
+
+**20.928,77 €**
+
+<!--## PRESUPUESTO OBSERVATORIO DE AVES
+(Edificio con cubierta, sin suelo, 4x2x2,5 m)
+
+---
+
+## 1. OBSERVATORIO (Suministros y ejecución)
+
+| Concepto                                   | Unidades | Importe unidad | Total        |
+|--------------------------------------------|----------|----------------|-------------|
+| Suministro de materiales                   | 1,00     | 720,00 €       | 720,00 €    |
+| Premontaje en taller                       | 64,00    | 60,00 €        | 3.840,00 €  |
+| Traslado a destino                         | 1,00     | 540,00 €       | 540,00 €    |
+| Montaje en destino                         | 25,00    | 60,00 €        | 1.500,00 €  |
+| Suministro de planta                       | 50,00    | 15,00 €        | 750,00 €    |
+| Losa de hormigón (2,20x4,20x0,25 m)        | 1,00     | 2.000,00 €     | 2.000,00 €  |
+| Señalética (suministro)                    | 1,00     | 2.000,00 €     | 2.000,00 €  |
+|                                            |          |                | **11.350,00 €** |
+
+---
+
+## 2. PERSONAL
+
+| Concepto                                   | Unidades | Importe unidad | Total        |
+|--------------------------------------------|----------|----------------|-------------|
+| MO albañilería y montaje                   | 20,00    | 35,00 €        | 700,00 €    |
+| Técnico SEO/BirdLife                       | 70,00    | 13,00 €        | 910,00 €    |
+|                                            |          |                | **1.610,00 €** |
+
+---
+
+## 3. GASTOS CORRIENTES
+
+| Concepto                                   | Unidades | Importe unidad | Total        |
+|--------------------------------------------|----------|----------------|-------------|
+| Gasoil (km)                                | 1.500,00 | 0,23 €         | 345,00 €    |
+|                                            |          |                | **345,00 €** |
+
+---
+
+## 4. RESUMEN ECONÓMICO
+
+| Concepto                                   | Importe        |
+|--------------------------------------------|----------------|
+| SUBTOTAL PRESUPUESTO                       | 13.305,00 €    |
+| 10% Imprevistos                            | 1.330,50 €     |
+| SUBTOTAL + IMPREVISTOS                     | 14.635,50 €    |
+| Gastos de financiación e imprevistos       |                |
+| **TOTAL GENERAL**                          | **20.928,77 €** |
+
+---
+
+## TOTAL FINAL PROYECTO
+
+**20.928,77 €**
+-->
 
 
