@@ -1,6 +1,131 @@
 
 # TAREAS (GENERAL)
 
+## CONTROL DE TRABAJOS v25mar26 (LISTADO DE TAREAS)
+
+De: Jesús Alba <jesusalbasvitil@hotmail.com>
+Enviado: martes, 17 de febrero de 2026 5:52
+Para: Luis Tirado Blázquez <ltirado@seo.org>
+Asunto: ListadoTareas V1
+ 
+Te adjunto listado WP
+
+1. CEMEX pte. inicio
+11. Coste actividad estandar (Ampliar info)
+12. Gestión de un Plan de actividades (Ampliar info)
+13. Hitos del Plan  (Ampliar info)
+14. Restauración (Ampliar info)
+15. Revegetado (Ampliar info)
+
+2. San Miquel pte. inicio
+21. ~~Vallado brezo lo hace Cárlos Perallón~~ ya se lo han encargado
+22. ~~Revegetación tamariz se encarga Pablo Oliván~~
+23. Revegetación olmos sin grafiosis `prioritario 4`
+24. GE. Cálculo densidad plantas/parcelas
+25. Covercrops. Reparto insectos recolectados. OK. `prioritario 2` Pte. envío
+
+3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal`
+31. Programación con cotos (sol. permisos, plazos)
+32. Mequinenza
+
+4. Lacuniacha pte. inicio  (Ampliar info) `secundario por ahora`
+41. Mejora en mirador/obs/muladar (evitar luz, cristales)
+42. Acceso protegido con setos de boj por prado pte. desbroce
+43. Balsas tritones (análisis biblio) y propuesta soluciones
+
+5. DIA- En ejecución `necesitamos algo en esquema de los criterios que han seguido el MITECO para las DIAs negativas en una excel o similar. Tal vez la distancia a especies y espacios. y poco más`
+51. Procesado DIAs- y contraste con DIAs+ PEs Aragón
+52. Procesado DIAs- y contraste con DIAs+ PFVs Aragón
+53.  Procesado DIAs- y contraste con DIAs+ ambos MITECO
+
+6. CHE Caducidad concesiones azudes y presas pte. ` inicio revisión semanal o periódica si sale algo lo cuentas el lunes`
+61. Búsqueda caducadas
+62. Solicitud información
+
+7. Inventario pasarelas para Plan de Uso Público `selecciona solo una y empezamos por ahí a registrar esta solicitud `
+71. Periodos de cría
+72. Segunda fase: Todos senderos GR/PR/Cº naturales por zonas rupícolas
+73. Búsqueda de propietarios
+
+8. Monumento Natural Riglos En ejecución `pon en el calendario la fecha del censo en mayo, igual te hacen falta dos días para que quede reflejada`
+81. Censo de rupícolas en zonas de escalada (3 censos)
+82. Delimitación y bibliografía de soporte de censo
+
+9. Planerón
+91. Replanteo para balizado nuevas parcelas Bruc `recalcular para el viernes`
+92. Balizado previo ahoyado y caballones accesos fincas nuestras 26-27 feb. `ppto.`
+93. Colocación carteles 26-27 feb. revisar cartelería quemada por el sol y reponer
+94. Colocación puerta Obs. `Ok ppto Jose`
+95. ~~Recolocación cajas nido primilla.~~ `Prioritario 1` Hecho. Pte. factura
+96. Ahoyado hitos en parcelas nuevas Bruc+Rafa `Prioritario 3`
+97. Plan de reparación pistas. `Gestión admin con Ayto.`
+
+10. RACS Abril San Miquel/Raymat Stand-by `esperamos a ver`
+101. Rewilding zonas marginales
+102. Buenas prácticas agrarias
+
+11. Cogullada
+110. V11 `Hecho`
+111. Acta 25mar
+112. V12 Rehacer con existencias Acta
+
+12. El Pueyo. Ppto. Observatorio. `Hecho`
+
+
+
+<!-- Borrador febrero
+1. *CEMEX* ~~stand-by~~
+11. Coste actividad estandar (Ampliar info)
+12. Gestión de un Plan de actividades (Ampliar info)
+13. Hitos del Plan  (Ampliar info)
+14. Restauración (Ampliar info)
+15. Revegetado (Ampliar info)
+
+2. *San Miquel* pte. inicio
+21. ~~Vallado brezo~~
+22. ~~Revegetación tamariz~~
+23. Revegetación olmos sin grafiosis
+24. GE. Cálculo densidad plantas/parcelas
+25. ~~Covercrops. Reparto insectos recolectados.~~ En ejecución. Pte. envío
+
+3. Traslocaciones pte. inicio
+31. Programación con cotos
+32. Mequinenza
+
+4. Lacuniacha pte. inicio  (Ampliar info) Pte. 
+41. Mejora en mirador/obs/muladar (evitar luz, cristales)
+42. Acceso protegido con setos de boj por prado pte. desbroce
+43. Balsas tritones (análisis biblio) y propuesta soluciones
+
+5. DIA- *En ejecución*
+51. Procesado DIAs- y contraste con DIAs+ PEs Aragón
+52. Procesado DIAs- y contraste con DIAs+ PFVs Aragón53.  Procesado DIAs- y contraste con DIAs+ ambos MITECO
+
+6. CHE Caducidad concesiones azudes y presas
+61. Búsqueda caducadas
+62. Solicitud información
+
+7. Inventario pasarelas para Plan de Uso Público
+71. Periodos de cría
+72. Segunda fase: Todos senderos GR/PR/Cº naturales por zonas rupícolas
+73. Búsqueda de propietarios
+
+8. Monumento Natural Riglos *En ejecución*
+81. Censo de rupícolas en zonas de escalada (3 censos)
+82. Delimitación y bibliografía de soporte de censo
+
+9. Planerón *En ejecución*
+91. Replanteo para balizado nuevas parcelas Bruc Hecho
+92. Balizado previo ahoyado 26-27 feb.
+93. Colcoación carteles 26-27 feb.
+94. Colocación puerta Obs. Pte. ppto.
+
+10. RACS Abril San Miquel/Raymat *Stand-by*
+101. Rewilding zonas marginales
+102. Buenas prácticas agrarias
+-->
+
+<!--
 ## [Pln]
 - [Cajas-nido] Pte.  colocar las cajas con andamio. Entregadas. `Falta fecha, posición y paño` `Revisión 26 sep.`
 - [Paridera] Reparación muro. pte. Ppto.`Revisión 1 oct`
@@ -35,7 +160,7 @@
 
 ## Cogullada [Cgll]
 - Ppto. unidades de obra Ejecutado
-----
+-->
 
 
 # LIBRO DE ESTILO

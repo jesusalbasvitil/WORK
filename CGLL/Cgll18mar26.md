@@ -1,7 +1,11 @@
 `Cgll18mar26`
 
-# Reunión de obra Mº Cogullada, 18 de marzo de 2026
-Aurelio [Au],compañero de Aurelio [CAu], Rubén (1'), una de ibercaja [ib], Nacho [N], Carlos [Ca] y Alba [yo] `Nota: perdón, soy MUY malo con los nombres`
+# Reunión de obra Mº Cogullada, 25 de marzo de 2026
+Aurelio [Au],compañero de Aurelio [CAu], Rubén [Ru], Carlos [Ca] y Alba [yo] 
+
+- Ca. Comenta que han planteado los circuitos generales, a efectos de sectorizar después.
+
+- Ca. Comenta 
 
 - Au Tienen urgencia por definir las necesidades de riego.
 
