@@ -69,7 +69,7 @@ Te adjunto listado WP
 111. Acta 25mar
 112. V12 Rehacer con existencias Acta
 
-12. El Pueyo. Ppto. Observatorio. `Hecho`
+12. El Pueyo. Ppto. Observatorio. `Hecho` pte. SEO Mad
 
 
 
