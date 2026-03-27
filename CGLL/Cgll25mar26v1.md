@@ -24,7 +24,7 @@ Volviendo al tema de la siembra, la propuesta siempre ha sido variar la mezcla, 
 Yo. Comento que se ubica en el listado de especies de herbáceas del Anexo, separado por colores en relación al riego y su característica.   
 
 
-| Nombre Común | Nombre Científico | Tipo | Característica |
+| **Nombre Común** | **Nombre Científico** | **Tipo** | **Característica** |
 |-------------|-------------------|------|----------------|
 | Uva de gato | *Sedum album* | Crassulaceae | Bioclimática |
 | Uva de gato | *Sedum acre* | Crassulaceae | Bioclimática |
