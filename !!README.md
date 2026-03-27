@@ -22,13 +22,31 @@ Te adjunto listado WP
 22. ~~Revegetación tamariz se encarga Pablo Oliván~~
 23. Revegetación olmos sin grafiosis `prioritario 4`
 24. GE. Cálculo densidad plantas/parcelas
-25. Covercrops. Reparto insectos recolectados. OK. `prioritario 2` Pte. envío
+25. Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`
+
+> Himenópteros:
+> Félix Torres González
+> Área de Zoología
+> Facultad de Farmacia, 5ª planta.
+> Campus Unamuno
+> Plaza de los doctores de la reina s/n
+> 37007 – Salamanca
+> 
+> Sírfidos:
+> Antonio Ricarte
+> Instituto de Investigación CIBIO
+> (Centro Iberoamericano de la Biodiversidad)
+> Parque Científico
+> Universidad de Alicante
+> Ctra. San Vicente del Raspeig s/n
+> 03690 San Vicente del Raspeig
+> (Alicante)
 
 3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal`
 31. Programación con cotos (sol. permisos, plazos)
 32. Mequinenza
 
-4. Lacuniacha pte. inicio  (Ampliar info) `secundario por ahora`
+4. Lacuniacha pte. inicio (Ampliar info) `secundario por ahora`
 41. Mejora en mirador/obs/muladar (evitar luz, cristales)
 42. Acceso protegido con setos de boj por prado pte. desbroce
 43. Balsas tritones (análisis biblio) y propuesta soluciones
