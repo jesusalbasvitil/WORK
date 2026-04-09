@@ -3,13 +3,14 @@
 ## Antecedentes
 Cada vez se instalan más pasarelas, vías ferratas y en general senderos balizados con su mobiliario. Infraestructuras turísticas [ITs] que tienen por objeto aumentar, no sólo la demanda, sino inducir a un mayor gasto per capíta por el aumento de opciones que se traduce en un alargamiento de la estancia, que compite a su vez con la mejora de los accesos y los tiempos entre domicilios y ocio activo. 
 
-Las ubicaciones de estas ITs coinciden con zonas agrestes, de dificil acceso -el cual es facilitado por éstas- y que cumple con varios parámetros de paisaje destacado: vistas `cita requerida MOPU`. En el caso de las pasarelas, además sobre lugares extraordinariamente fragiles por cuanto invaden refugios climáticos donde se cobijan especies de fauna que fuera de esos ambientes no podrían sobrevivir, que a su vez atraen a otras especies. Además, estos acantilados se usan de zonas de nidificación, alimentación y descanso.`cita requerida`
+Las ubicaciones de estas ITs coinciden con zonas agrestes, de dificil acceso -el cual es facilitado por éstas- y que cumple con varios parámetros de paisaje destacado: vistas `cita requerida MOPU`. En el caso de las pasarelas, además sobre lugares extraordinariamente fragiles por cuanto invaden refugios climáticos donde se cobijan especies de fauna que fuera de esos ambientes no podrían sobrevivir, que a su vez atraen a otras especies. Además, estos acantilados se usan como zonas alimentación y descanso, pero sobre todo, y este es el punto más crítico y catastrófico, de nidificación de avifauna`cita requerida Citas antiguas y Ebird`. Tal y como se desarrolla en este informe.
 
-### Infraestructuras en cifras 
 
-La afluencia es considerable y cada vez es mayor[^1][^2], concentrándose en los meses de mayor confortabilidad climática; periodo que se alarga con el cambio climático. 
+## Infraestructuras en cifras 
+La afluencia fomentada por estas infraestructuras es considerable y cada vez mayor[^1][^2], concentrándose en los meses de mayor confortabilidad climática`cita requerida`; periodo que se alarga con el cambio climático. 
 
-### y que colisiona con el inicio de la nidificación de las aves. El caso de Peña Rueba
+## ..y que colisiona con la nidificación de las aves. El caso de Peña Rueba (Murillo de Gállego)
+[Peña Rueba. Vulture distribution, orientation, and reproductive patterns](https://claude.ai/chat/cacb5017-868b-42e0-963a-d0a1fca5dd7e)
 
 
 

@@ -36,9 +36,9 @@ A éstas se añadiría la hiedra, ya incluida como arbustiva, pero a incorporar 
 
 Solicitan mayor definición. Quedamos en etiquetar esas zonas `Arboretum V12`
 
-- Yo. Comento lo hablado con Aguirre sobre disponibilidad de planta (ver mail 25/3). Dado que no se sabe qué se ha comprado ya en Lérida, lo que finalmente se compre en Viveros Aznar y lo que se comprometa con Aguirre por existencias que varían cada hora, se pospone actualizar plano de distribución. 
+- Yo. Comento lo hablado con Aguirre sobre disponibilidad de planta (ver mail 25/3). Dado que no se sabe qué se ha comprado ya en Lérida, lo que finalmente se compre en Viveros Aznar y lo que se comprometa con Aguirre por existencias que varían cada hora, **se pospone actualizar plano de distribución.** 
 
-- CAu Plantea definir como parterre de rastreras un alcorque alargado bajo mosaico vertical. Es Ok. `Quedaría definir cuánto riego se quiere ahí y con ello, las especies` Yo. Asignar a `Arboretum V12`
+- CAu Plantea definir como parterre de rastreras un alcorque alargado bajo mosaico vertical. Es Ok. `Quedaría por definir cuánto riego se quiere ahí y con ello, las especies` Yo. Asignar a `Arboretum V12`
 
 - CAu plantea que no hemos definido una zona verde. Yo. Asignar a `Arboretum V12`
 
