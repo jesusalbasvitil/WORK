@@ -1,0 +1,892 @@
+
+poster_html = """<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Enseñar a través de las aves — [UniTe]</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+:root {
+  --verde-oscuro: #2d4a3e;
+  --verde-medio: #4a7c59;
+  --verde-claro: #7fb069;
+  --verde-palido: #c8e6c9;
+  --beige: #f5f0e8;
+  --crema: #faf8f3;
+  --gris-texto: #3a3a3a;
+  --gris-suave: #6b6b6b;
+  --rojo-descenso: #c0392b;
+  --verde-incremento: #27ae60;
+  --amarillo-estable: #f39c12;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: var(--beige);
+  color: var(--gris-texto);
+  line-height: 1.5;
+  font-size: 11pt;
+}
+
+.poster {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: var(--crema);
+  box-shadow: 0 0 30px rgba(0,0,0,0.15);
+}
+
+/* ===== CABECERA ===== */
+.header {
+  background: var(--verde-oscuro);
+  color: white;
+  padding: 30px 40px;
+  position: relative;
+  overflow: hidden;
+}
+
+.header::before {
+  content: '';
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  width: 200px;
+  height: 200px;
+  background: var(--verde-medio);
+  border-radius: 50%;
+  opacity: 0.3;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.header-badge {
+  background: var(--verde-claro);
+  color: white;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 10pt;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.header-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 32pt;
+  font-weight: 900;
+  line-height: 1.1;
+  margin-bottom: 8px;
+  letter-spacing: -0.5px;
+}
+
+.header-subtitle {
+  font-size: 14pt;
+  font-weight: 300;
+  opacity: 0.9;
+  font-style: italic;
+}
+
+.header-meta {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  font-size: 9.5pt;
+  opacity: 0.85;
+}
+
+.header-meta span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ===== ESTADÍSTICAS BANNER ===== */
+.stats-banner {
+  background: var(--verde-medio);
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  padding: 20px 40px;
+  gap: 20px;
+}
+
+.stat-item {
+  text-align: center;
+  border-right: 1px solid rgba(255,255,255,0.2);
+  padding: 0 10px;
+}
+
+.stat-item:last-child { border-right: none; }
+
+.stat-number {
+  font-family: 'Playfair Display', serif;
+  font-size: 26pt;
+  font-weight: 900;
+  display: block;
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 8.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  opacity: 0.9;
+  margin-top: 4px;
+  line-height: 1.3;
+}
+
+/* ===== CONTENIDO PRINCIPAL ===== */
+.main-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+
+.column {
+  padding: 25px 30px;
+}
+
+.column-left { border-right: 1px solid #e0dcd3; }
+
+/* ===== SECCIONES ===== */
+.section {
+  margin-bottom: 22px;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 14pt;
+  font-weight: 700;
+  color: var(--verde-oscuro);
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid var(--verde-claro);
+  display: inline-block;
+}
+
+.section-subtitle {
+  font-size: 10pt;
+  font-weight: 700;
+  color: var(--verde-medio);
+  margin: 10px 0 6px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+p {
+  font-size: 9.5pt;
+  text-align: justify;
+  margin-bottom: 8px;
+  color: var(--gris-texto);
+}
+
+.highlight-box {
+  background: var(--verde-palido);
+  border-left: 4px solid var(--verde-medio);
+  padding: 12px 15px;
+  margin: 10px 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.highlight-box p {
+  margin: 0;
+  font-size: 9pt;
+  font-style: italic;
+}
+
+.quote-box {
+  background: var(--beige);
+  border-left: 4px solid var(--verde-oscuro);
+  padding: 12px 15px;
+  margin: 12px 0;
+  font-style: italic;
+  font-size: 9.5pt;
+}
+
+/* ===== METODOLOGÍA STEPS ===== */
+.method-steps {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.step {
+  background: var(--verde-oscuro);
+  color: white;
+  text-align: center;
+  padding: 10px 6px;
+  border-radius: 8px;
+  position: relative;
+}
+
+.step-number {
+  width: 24px;
+  height: 24px;
+  background: var(--verde-claro);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 10pt;
+  margin: 0 auto 6px;
+}
+
+.step-title {
+  font-size: 7.5pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  line-height: 1.2;
+}
+
+.step-desc {
+  font-size: 7pt;
+  opacity: 0.85;
+  margin-top: 4px;
+  line-height: 1.3;
+}
+
+/* ===== HÁBITATS ===== */
+.habitats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  margin: 8px 0;
+}
+
+.habitat {
+  text-align: center;
+  padding: 8px 4px;
+  border-radius: 6px;
+  font-size: 8pt;
+  font-weight: 600;
+}
+
+.habitat-arbolado { background: #2d5a27; color: white; }
+.habitat-herbaceo { background: #7fb069; color: white; }
+.habitat-agricola { background: #d4a574; color: white; }
+.habitat-arbustivo { background: #5a7d5a; color: white; }
+.habitat-humanizado { background: #8b7355; color: white; }
+.habitat-escasa { background: #c4b896; color: var(--gris-texto); }
+
+/* ===== TABLA ESPECIES ===== */
+.species-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 8pt;
+  margin: 8px 0;
+}
+
+.species-table th {
+  background: var(--verde-oscuro);
+  color: white;
+  padding: 6px 4px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 7.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.species-table td {
+  padding: 4px 4px;
+  border-bottom: 1px solid #e8e4dc;
+  vertical-align: middle;
+}
+
+.species-table tr:nth-child(even) { background: #f9f7f2; }
+.species-table tr:hover { background: var(--verde-palido); }
+
+.trend-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-size: 7pt;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.trend-up { background: #d4edda; color: #155724; }
+.trend-down { background: #f8d7da; color: #721c24; }
+.trend-stable { background: #fff3cd; color: #856404; }
+.trend-rare { background: #e2e3e5; color: #383d41; }
+
+/* ===== GRÁFICO TENDENCIAS ===== */
+.trend-chart {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 12px 0;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.chart-visual {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1;
+}
+
+.chart-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.chart-label {
+  width: 80px;
+  font-size: 8pt;
+  font-weight: 600;
+  text-align: right;
+}
+
+.chart-track {
+  flex: 1;
+  height: 18px;
+  background: #eee;
+  border-radius: 9px;
+  overflow: hidden;
+  position: relative;
+}
+
+.chart-fill {
+  height: 100%;
+  border-radius: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 6px;
+  color: white;
+  font-size: 8pt;
+  font-weight: 700;
+}
+
+.fill-up { background: var(--verde-incremento); }
+.fill-stable { background: var(--amarillo-estable); }
+.fill-down { background: var(--rojo-descenso); }
+
+.chart-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 8pt;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+/* ===== PARQUES ===== */
+.parks-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+  margin: 8px 0;
+}
+
+.park-tag {
+  background: white;
+  border: 1px solid #d0ccc4;
+  padding: 5px 8px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 7.5pt;
+  font-weight: 600;
+  color: var(--gris-texto);
+}
+
+.park-good { border-color: var(--verde-claro); background: #f0f7ee; }
+.park-warn { border-color: var(--amarillo-estable); background: #fff8e6; }
+.park-bad { border-color: var(--rojo-descenso); background: #fdf2f2; }
+
+/* ===== EDUCACIÓN ===== */
+.edu-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin: 8px 0;
+}
+
+.edu-card {
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+  border: 1px solid #e0dcd3;
+}
+
+.edu-card h4 {
+  font-size: 9pt;
+  color: var(--verde-oscuro);
+  margin-bottom: 4px;
+  font-weight: 700;
+}
+
+.edu-card p {
+  font-size: 7.5pt;
+  margin: 0;
+  text-align: left;
+}
+
+/* ===== REFERENCIAS ===== */
+.references {
+  background: var(--verde-oscuro);
+  color: white;
+  padding: 20px 40px;
+  font-size: 7.5pt;
+}
+
+.references h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 12pt;
+  margin-bottom: 10px;
+  color: var(--verde-claro);
+}
+
+.ref-list {
+  columns: 2;
+  column-gap: 30px;
+}
+
+.ref-list p {
+  color: rgba(255,255,255,0.85);
+  font-size: 7pt;
+  margin-bottom: 4px;
+  text-align: left;
+  break-inside: avoid;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+  background: var(--verde-oscuro);
+  color: rgba(255,255,255,0.6);
+  text-align: center;
+  padding: 12px 40px;
+  font-size: 8pt;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+/* ===== RESPONSIVE ===== */
+@media print {
+  body { background: white; }
+  .poster { box-shadow: none; max-width: 100%; }
+}
+
+@media (max-width: 900px) {
+  .main-content { grid-template-columns: 1fr; }
+  .column-left { border-right: none; border-bottom: 1px solid #e0dcd3; }
+  .stats-banner { grid-template-columns: repeat(3, 1fr); }
+  .method-steps { grid-template-columns: repeat(2, 1fr); }
+  .ref-list { columns: 1; }
+}
+</style>
+</head>
+<body>
+
+<div class="poster">
+
+<!-- ===== CABECERA ===== -->
+<header class="header">
+  <div class="header-top">
+    <div>
+      <div class="header-badge">Propuesta Universitaria — Dpto. Teruel</div>
+      <h1 class="header-title">ENSEÑAR A TRAVÉS DE LAS AVES</h1>
+      <p class="header-subtitle">Teaching through / from birds</p>
+    </div>
+    <div style="text-align:right;">
+      <div style="font-family:'Playfair Display',serif;font-size:28pt;font-weight:900;">[UniTe]</div>
+      <div style="font-size:9pt;opacity:0.7;margin-top:4px;">Código del proyecto</div>
+    </div>
+  </div>
+  <div class="header-meta">
+    <span>📍 Campus Universitario de Teruel</span>
+    <span>🐦 eBird Hotspot L6453396</span>
+    <span>📊 Metodología SACRE — SEO/BirdLife</span>
+    <span>🏛️ Red de Parques Nacionales · OAPN</span>
+  </div>
+</header>
+
+<!-- ===== BANNER ESTADÍSTICAS ===== -->
+<div class="stats-banner">
+  <div class="stat-item">
+    <span class="stat-number">266</span>
+    <span class="stat-label">Taxones registrados<br>2012–2025</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">3</span>
+    <span class="stat-label">Años de serie<br>temporal SACRE</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">219</span>
+    <span class="stat-label">Especies detectadas<br>en 2025</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">35</span>
+    <span class="stat-label">Especies en el<br>Campus Universitario</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">15</span>
+    <span class="stat-label">Parques Nacionales<br>monitorizados</span>
+  </div>
+</div>
+
+<!-- ===== CONTENIDO ===== -->
+<div class="main-content">
+
+<!-- COLUMNA IZQUIERDA -->
+<div class="column column-left">
+
+  <!-- INTRODUCCIÓN -->
+  <div class="section">
+    <h2 class="section-title">¿Para qué sirve observar aves?</h2>
+    <p>Observar aves no es solo un hobby romántico: las aves son <strong>bioindicadores de primer orden</strong>. Su presencia o ausencia revela la calidad del hábitat y su estado de conservación. Sabemos cuándo se cubre de nieve Siberia, cuándo llega el verano o el otoño, gracias a la fenología de especies migradoras como el abejaruco o las grullas.</p>
+    
+    <div class="quote-box">
+      "Del 'tonto que está mirando avutardas' a la política de conservación más ambiciosa y eficaz de la historia de la Unión Europea."
+    </div>
+    
+    <p>Las <strong>Áreas Importantes para las Aves (IBAs)</strong> —delimitadas a partir de datos de presencia de aves— son la base de las <strong>ZEPAs</strong> y <strong>ZECs</strong> amparadas por la <strong>Directiva Aves (2009/147/CE)</strong>. En España, el <strong>33% del territorio nacional está protegido</strong> bajo esta figura. Las IBAs son además un instrumento de validez científica aceptado por los tribunales de la UE para decisiones de ordenación del territorio.</p>
+    
+    <div class="highlight-box">
+      <p><strong>Dato clave:</strong> Las aves se han convertido en una herramienta de Ordenación del Territorio. La Directiva Aves europea deriva directamente de la observación sistemática de estas especies.</p>
+    </div>
+  </div>
+
+  <!-- NEUROCIENCIA -->
+  <div class="section">
+    <h2 class="section-title">Neurociencia del aprendizaje</h2>
+    <div class="quote-box">
+      "La observación de aves genera remodelación estructural y funcional convergente en regiones frontoparietales, asociada a la pericia y mantenida a lo largo de la vida adulta."<br>
+      <span style="font-size:8pt;opacity:0.7;">— Wing et al., The Tuned Cortex (2026)</span>
+    </div>
+    <p>Un estudio reciente comparó cerebros de observadores de aves expertos y novatos mediante resonancia magnética. Los expertos mostraron mayor densidad tisular en regiones frontoparietales y áreas visuales posteriores, directamente relacionada con una mayor precisión en la identificación de especies. Estos cambios estructurales persisten en edades avanzadas, sugiriendo que la observación de aves construye <strong>reserva cognitiva</strong> que puede proteger contra el deterioro asociado al envejecimiento.</p>
+    <p><strong>Implicación para la educación:</strong> La observación de aves no es solo una actividad científica; es un entrenamiento cerebral que desarrolla atención, memoria de trabajo, procesamiento visual y categorización conceptual —habilidades transferibles a otras áreas del aprendizaje.</p>
+  </div>
+
+  <!-- BIOINDICADORES -->
+  <div class="section">
+    <h2 class="section-title">Las aves como bioindicadores</h2>
+    <p>Las aves responden con rapidez a las alteraciones del medio: cambios en el uso del suelo, contaminación, fragmentación del hábitat y efectos del cambio climático. Esta sensibilidad las convierte en excelentes herramientas para evaluar la eficacia de las medidas de conservación.</p>
+    <p><strong>Funciones ecológicas clave:</strong> dispersión de semillas, control de plagas, polinización y reciclaje de nutrientes.</p>
+  </div>
+
+  <!-- DOCUMENTO CLAVE -->
+  <div class="section">
+    <h2 class="section-title">Documento clave de referencia</h2>
+    <div class="highlight-box">
+      <p style="font-style:normal;font-weight:700;">"EVOLUCIÓN DE LAS POBLACIONES DE LAS AVES COMUNES POR HÁBITAT EN LA ESPAÑA PENINSULAR"</p>
+      <p style="margin-top:6px;">Carrascal, L. M., Escandell, V. y Del Moral, J. C. (2023). SEO/BirdLife. Madrid. ISBN: 978-84-127360-2-1.</p>
+    </div>
+    <p>Esta monografía analiza las tendencias poblacionales de <strong>109 especies en 14 hábitats</strong> durante 2002-2021, basándose en más de <strong>17.000 estaciones de censo</strong> y <strong>16 millones de registros</strong>.</p>
+    
+    <h3 class="section-subtitle">Principales conclusiones</h3>
+    <ul style="font-size:9pt;margin-left:16px;margin-bottom:8px;">
+      <li>El conjunto muestra una <strong>disminución del 2,5% en 20 años</strong>, más marcada entre 2012-2021.</li>
+      <li><strong>42 especies</strong> presentan tendencia negativa significativa.</li>
+      <li><strong>23 especies</strong> muestran tendencia positiva.</li>
+      <li><strong>40 especies</strong> no manifestaron tendencias significativas.</li>
+    </ul>
+    
+    <h3 class="section-subtitle">Por hábitats</h3>
+    <div class="habitats-grid">
+      <div class="habitat habitat-arbolado">🌲 Arbolado<br><strong>+15%</strong></div>
+      <div class="habitat habitat-herbaceo">🌾 Herbáceo<br><strong>-17%</strong></div>
+      <div class="habitat habitat-agricola">🚜 Agrícola<br><strong>-8%</strong></div>
+      <div class="habitat habitat-arbustivo">🌳 Arbustivo<br>Variable</div>
+      <div class="habitat habitat-humanizado">🏙️ Humanizado<br><strong>-14%</strong></div>
+      <div class="habitat habitat-escasa">🏜️ Escasa veg.<br>Variable</div>
+    </div>
+    <p style="font-size:8.5pt;margin-top:6px;"><strong>Dato crucial:</strong> El estudio sugiere que la <strong>gestión del territorio puede influir más en la dinámica de las poblaciones que los cambios derivados del cambio climático</strong>.</p>
+  </div>
+
+  <!-- RESULTADOS 2025 -->
+  <div class="section">
+    <h2 class="section-title">Resultados SACRE 2025: Destacados</h2>
+    <ul style="font-size:9pt;margin-left:16px;">
+      <li><strong>Parques en buen estado:</strong> 8 de 15 parques (53%) mantienen riqueza y abundancia estables.</li>
+      <li><strong>Situación preocupante:</strong> Sierra Nevada y Teide muestran descenso moderado, posiblemente ligado al cambio climático.</li>
+      <li><strong>Nuevas citas 2025:</strong> Ánade rabudo y charrancito común (Doñana); pagalo grande (Timanfaya).</li>
+      <li><strong>Monfragüe destaca positivamente:</strong> Incremento moderado de abundancia total, especialmente en hábitat forestal (+2,6% anual).</li>
+    </ul>
+  </div>
+
+  <!-- PARQUES -->
+  <div class="section">
+    <h2 class="section-title">Red de Parques Nacionales 2025</h2>
+    <p style="font-size:8.5pt;margin-bottom:8px;">El programa cubre 15 parques nacionales de España. Los datos del Campus de Teruel se enmarcan en el mismo protocolo que permite comparar con ecosistemas de referencia:</p>
+    <div class="parks-grid">
+      <div class="park-tag park-good">Ordesa y Monte Perdido</div>
+      <div class="park-tag park-good">Aigüestortes</div>
+      <div class="park-tag park-good">Picos de Europa</div>
+      <div class="park-tag park-good">Monfragüe ↑</div>
+      <div class="park-tag park-good">Doñana</div>
+      <div class="park-tag park-good">Cabañeros</div>
+      <div class="park-tag park-warn">Sierra Nevada ↓</div>
+      <div class="park-tag park-warn">Teide ↓</div>
+      <div class="park-tag park-good">Tablas de Daimiel</div>
+      <div class="park-tag park-good">Garajonay</div>
+      <div class="park-tag park-good">Sierra de Guadarrama</div>
+      <div class="park-tag park-good">Caldera de Taburiente</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- COLUMNA DERECHA -->
+<div class="column">
+
+  <!-- METODOLOGÍA -->
+  <div class="section">
+    <h2 class="section-title">Metodología SACRE: ¿Cómo recogemos los datos?</h2>
+    <p>El <strong>SACRE</strong> (<em>Seguimiento de Aves Comunes Reproductoras en España</em>) es la metodología propuesta. Su sencillez metodológica combinada con la acumulación de grandes series de datos a lo largo de años le confiere una gran robustez estadística para extraer conclusiones.</p>
+    
+    <div class="method-steps">
+      <div class="step">
+        <div class="step-number">1</div>
+        <div class="step-title">Planificación</div>
+        <div class="step-desc">Itinerarios por hábitats representativos del área de estudio</div>
+      </div>
+      <div class="step">
+        <div class="step-number">2</div>
+        <div class="step-title">Recuento</div>
+        <div class="step-desc">5 min. por punto, dentro/fuera de radio 25m, primeras horas de la mañana</div>
+      </div>
+      <div class="step">
+        <div class="step-number">3</div>
+        <div class="step-title">Hábitat</div>
+        <div class="step-desc">Registro del tipo de hábitat en cada punto para relacionar evolución y cambios ambientales</div>
+      </div>
+      <div class="step">
+        <div class="step-number">4</div>
+        <div class="step-title">Análisis TRIM</div>
+        <div class="step-desc">Modelos log-lineal Poisson recomendados por EBCC y BirdLife International</div>
+      </div>
+    </div>
+    
+    <div class="highlight-box">
+      <p><strong>Nota metodológica para el aula:</strong> Esta técnica de "punto de escucha" puede adaptarse a cualquier edad. Para infantil, avistamientos de 2 minutos sin distinción de radio; para primaria, 5 minutos con pictogramas; para secundaria, metodología completa con estimación de distancias.</p>
+    </div>
+  </div>
+
+  <!-- DISTRIBUCIÓN TENDENCIAS -->
+  <div class="section">
+    <h2 class="section-title">Distribución de tendencias 2025</h2>
+    <div class="trend-chart">
+      <div class="chart-visual">
+        <div class="chart-bar">
+          <span class="chart-label">Incremento</span>
+          <div class="chart-track"><div class="chart-fill fill-up" style="width:35%">35%</div></div>
+        </div>
+        <div class="chart-bar">
+          <span class="chart-label">Estable</span>
+          <div class="chart-track"><div class="chart-fill fill-stable" style="width:32%">32%</div></div>
+        </div>
+        <div class="chart-bar">
+          <span class="chart-label">Descenso</span>
+          <div class="chart-track"><div class="chart-fill fill-down" style="width:36%">36%</div></div>
+        </div>
+      </div>
+      <div class="chart-legend">
+        <div class="legend-item"><span class="legend-dot" style="background:var(--verde-incremento)"></span> Incremento moderado o fuerte</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--amarillo-estable)"></span> Estable o incierta</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--rojo-descenso)"></span> Descenso moderado o fuerte</div>
+      </div>
+    </div>
+    <p style="font-size:8.5pt;">El mayor porcentaje de descensos corresponde a modalidades moderadas. Las tendencias inciertas (alta variabilidad interanual) constituyen la categoría más numerosa.</p>
+  </div>
+
+  <!-- ESPECIES DEL CAMPUS -->
+  <div class="section">
+    <h2 class="section-title">Especies del Campus vs. Tendencias Nacionales</h2>
+    <p style="font-size:8.5pt;margin-bottom:8px;">El campus universitario de Teruel (hotspot eBird L6453396) ha sido objeto de seguimiento por SEO/BirdLife y el IUCA. Se han identificado <strong>35 especies</strong>, concentrando el 7% de los ejemplares del seguimiento en campus aragoneses.</p>
+    
+    <table class="species-table">
+      <thead>
+        <tr>
+          <th style="width:5%">Nº</th>
+          <th style="width:22%">Especie</th>
+          <th style="width:28%">Nombre científico</th>
+          <th style="width:20%">Tendencia Nacional</th>
+          <th style="width:25%">Estado Campus</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Paloma torcaz</td><td><em>Columba palumbus</em></td><td><span class="trend-badge trend-up">↑ +36,6%</span></td><td>Presente/abundante</td></tr>
+        <tr><td>2</td><td>Gorrión común</td><td><em>Passer domesticus</em></td><td><span class="trend-badge trend-down">↓ -18,8%</span></td><td>Presente</td></tr>
+        <tr><td>3</td><td>Estornino negro</td><td><em>Sturnus unicolor</em></td><td><span class="trend-badge trend-stable">Variable</span></td><td>Presente</td></tr>
+        <tr><td>4</td><td>Carbonero garrapinos</td><td><em>Periparus ater</em></td><td><span class="trend-badge trend-stable">Estable</span></td><td><strong>Más habitual del campus</strong></td></tr>
+        <tr><td>5</td><td>Vencejo común</td><td><em>Apus apus</em></td><td><span class="trend-badge trend-down">↓ ~-30%</span></td><td>Presente</td></tr>
+        <tr><td>6</td><td>Avión común</td><td><em>Delichon urbicum</em></td><td><span class="trend-badge trend-down">↓ Descenso</span></td><td>Presente</td></tr>
+        <tr><td>7</td><td>Milano real</td><td><em>Milvus milvus</em></td><td><span class="trend-badge trend-up">↑ +26,9%</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>8</td><td>Milano negro</td><td><em>Milvus migrans</em></td><td><span class="trend-badge trend-down">↓ Descenso</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>9</td><td>Busardo ratonero</td><td><em>Buteo buteo</em></td><td><span class="trend-badge trend-stable">Estable</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>10</td><td>Cernícalo vulgar</td><td><em>Falco tinnunculus</em></td><td><span class="trend-badge trend-stable">Variable</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>11</td><td>Tórtola turca</td><td><em>Streptopelia decaocto</em></td><td><span class="trend-badge trend-up">↑ Expansión</span></td><td>Presente</td></tr>
+        <tr><td>12</td><td>Tórtola europea</td><td><em>Streptopelia turtur</em></td><td><span class="trend-badge trend-up">↑ Incremento</span></td><td>Presente</td></tr>
+        <tr><td>13</td><td>Urraca</td><td><em>Pica pica</em></td><td><span class="trend-badge trend-up">↑ Incremento</span></td><td>Presente</td></tr>
+        <tr><td>14</td><td>Grajilla occidental</td><td><em>Coloeus monedula</em></td><td><span class="trend-badge trend-down">↓ Descenso</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>15</td><td>Mirlo común</td><td><em>Turdus merula</em></td><td><span class="trend-badge trend-down">↓ -18,8%</span></td><td>Presente</td></tr>
+        <tr><td>16</td><td>Petirrojo europeo</td><td><em>Erithacus rubecula</em></td><td><span class="trend-badge trend-stable">Estable</span></td><td>Presente</td></tr>
+        <tr><td>17</td><td>Pinzón vulgar</td><td><em>Fringilla coelebs</em></td><td><span class="trend-badge trend-up">↑ Incremento</span></td><td>Presente</td></tr>
+        <tr><td>18</td><td>Verderón común</td><td><em>Chloris chloris</em></td><td><span class="trend-badge trend-stable">Variable</span></td><td>Presente</td></tr>
+        <tr><td>19</td><td>Jilguero europeo</td><td><em>Carduelis carduelis</em></td><td><span class="trend-badge trend-down">↓ Descenso</span></td><td>Presente</td></tr>
+        <tr><td>20</td><td>Serín verdecillo</td><td><em>Serinus serinus</em></td><td><span class="trend-badge trend-down">↓ Descenso</span></td><td>Presente</td></tr>
+        <tr><td>21</td><td>Herrerillo común</td><td><em>Cyanistes caeruleus</em></td><td><span class="trend-badge trend-down">↓ Descenso</span></td><td>Presente</td></tr>
+        <tr><td>22</td><td>Carbonero común</td><td><em>Parus major</em></td><td><span class="trend-badge trend-stable">Estable</span></td><td>Presente</td></tr>
+        <tr><td>23</td><td>Pico picapinos</td><td><em>Dendrocopos major</em></td><td><span class="trend-badge trend-up">↑ Incremento</span></td><td>Presente</td></tr>
+        <tr><td>24</td><td>Agateador europeo</td><td><em>Certhia brachydactyla</em></td><td><span class="trend-badge trend-stable">Variable</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>25</td><td>Acentor común</td><td><em>Prunella modularis</em></td><td><span class="trend-badge trend-down">↓ -27,1%</span></td><td><span class="trend-badge trend-rare">En duda</span></td></tr>
+        <tr><td>26</td><td>Zorzal charlo</td><td><em>Turdus viscivorus</em></td><td><span class="trend-badge trend-up">↑ +9,5%</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>27</td><td>Curruca cabecinegra</td><td><em>Sylvia melanocephala</em></td><td><span class="trend-badge trend-up">↑ Incremento</span></td><td>Presente</td></tr>
+        <tr><td>28</td><td>Tarabilla europea</td><td><em>Saxicola rubicola</em></td><td><span class="trend-badge trend-up">↑ Incremento</span></td><td>Presente</td></tr>
+        <tr><td>29</td><td>Cigüeña negra</td><td><em>Ciconia nigra</em></td><td><span class="trend-badge trend-stable">Estable</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>30</td><td>Alondra común</td><td><em>Alauda arvensis</em></td><td><span class="trend-badge trend-down">↓ Descenso</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>31</td><td>Cogujada común</td><td><em>Galerida cristata</em></td><td><span class="trend-badge trend-stable">Variable</span></td><td>Presente</td></tr>
+        <tr><td>32</td><td>Abubilla común</td><td><em>Upupa epops</em></td><td><span class="trend-badge trend-stable">Variable</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+        <tr><td>33</td><td>Cuco común</td><td><em>Cuculus canorus</em></td><td><span class="trend-badge trend-up">↑ Incremento</span></td><td><span class="trend-badge trend-rare">Cita rara</span></td></tr>
+      </tbody>
+    </table>
+    
+    <div class="highlight-box">
+      <p><strong>Sobre especies tachadas o en duda:</strong> Las especies marcadas como "cita rara" o "en duda" deben mantenerse en el registro porque representan citas puntuales no reproductoras o observaciones que requieren confirmación. Su inclusión es metodológicamente correcta: en ciencia ciudadana, todos los datos —incluso los inciertos— aportan información sobre dispersión, fenología y posibles cambios de distribución. Para el aula, estas especies ofrecen una oportunidad de trabajar el <strong>pensamiento crítico</strong>: ¿Fue correcta la identificación? ¿Qué evidencias tenemos? ¿Necesitamos más observaciones?</p>
+    </div>
+  </div>
+
+  <!-- OBJETIVO EDUCATIVO -->
+  <div class="section">
+    <h2 class="section-title">Objetivo educativo</h2>
+    <p>Esta práctica <strong>no pretende enseñar identificación de aves</strong> (para ello: Merlin App, grabaciones, guías de campo). Su fin es desarrollar <strong>competencias en torno a la biodiversidad como herramienta de análisis ambiental</strong>.</p>
+    
+    <h3 class="section-subtitle">Adaptación por ciclos</h3>
+    <div class="edu-grid">
+      <div class="edu-card">
+        <h4>🧸 Infantil (3-6 años)</h4>
+        <p>Reconocer 5-10 aves por color/tamaño. Avistamientos de 2 min. Tarjetas de pictogramas. "Bingo de aves". Cuentos sobre migración.</p>
+      </div>
+      <div class="edu-card">
+        <h4>📚 Primaria (6-12 años)</h4>
+        <p>Contar aves en punto fijo. Distinguir hábitats básicos. Registrar en tabla sencilla. Entender "más/menos". Gráficos de barras.</p>
+      </div>
+      <div class="edu-card">
+        <h4>🎒 Secundaria (12-16 años)</h4>
+        <p>Metodología SACRE completa. Caracterizar hábitats. Concepto de tendencia poblacional. Usar eBird. Análisis con hojas de cálculo.</p>
+      </div>
+      <div class="edu-card">
+        <h4>🎓 Bachillerato (16-18 años)</h4>
+        <p>Análisis estadístico de series temporales. Conocer TRIM. Relacionar aves con políticas ambientales. Diseñar proyecto de investigación.</p>
+      </div>
+    </div>
+    
+    <h3 class="section-subtitle">Competencias transversales</h3>
+    <p style="font-size:8.5pt;"><strong>Científica:</strong> hipótesis, observación, registro, análisis. <strong>Digital:</strong> Merlin, eBird, bases de datos. <strong>Matemática:</strong> conteo, estimación, gráficas, porcentajes. <strong>Lingüística:</strong> descripción precisa, vocabulario específico. <strong>Social y cívica:</strong> ciudadanía ambiental, ciencia ciudadana. <strong>Aprender a aprender:</strong> reserva cognitiva mediante observación atenta.</p>
+  </div>
+
+  <!-- HERRAMIENTAS -->
+  <div class="section">
+    <h2 class="section-title">Herramientas de apoyo en aula</h2>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;font-size:8.5pt;">
+      <div style="background:white;padding:8px;border-radius:6px;border:1px solid #e0dcd3;text-align:center;">
+        <div style="font-size:16pt;margin-bottom:4px;">📱</div>
+        <strong>Merlin App</strong><br><span style="font-size:7.5pt;">Cornell Lab — Identificación por foto/canto</span>
+      </div>
+      <div style="background:white;padding:8px;border-radius:6px;border:1px solid #e0dcd3;text-align:center;">
+        <div style="font-size:16pt;margin-bottom:4px;">📖</div>
+        <strong>Guías de campo</strong><br><span style="font-size:7.5pt;">SEO/BirdLife, Lynx Edicions</span>
+      </div>
+      <div style="background:white;padding:8px;border-radius:6px;border:1px solid #e0dcd3;text-align:center;">
+        <div style="font-size:16pt;margin-bottom:4px;">🎵</div>
+        <strong>Grabaciones</strong><br><span style="font-size:7.5pt;">Xeno-canto, eBird</span>
+      </div>
+      <div style="background:white;padding:8px;border-radius:6px;border:1px solid #e0dcd3;text-align:center;">
+        <div style="font-size:16pt;margin-bottom:4px;">📋</div>
+        <strong>Fichas SACRE</strong><br><span style="font-size:7.5pt;">seo.org — especies y protocolo</span>
+      </div>
+      <div style="background:white;padding:8px;border-radius:6px;border:1px solid #e0dcd3;text-align:center;">
+        <div style="font-size:16pt;margin-bottom:4px;">🌐</div>
+        <strong>eBird</strong><br><span style="font-size:7.5pt;">Ciencia ciudadana — registro global</span>
+      </div>
+      <div style="background:white;padding:8px;border-radius:6px;border:1px solid #e0dcd3;text-align:center;">
+        <div style="font-size:16pt;margin-bottom:4px;">📊</div>
+        <strong>TRIM</strong><br><span style="font-size:7.5pt;">Análisis de tendencias (avanzado)</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- NOTA MAGISTRAL -->
+  <div class="section">
+    <h2 class="section-title">Nota para estudiantes de magisterio</h2>
+    <div class="highlight-box" style="background:var(--beige);border-left-color:var(--verde-oscuro);">
+      <p style="font-style:normal;"><strong>Este póster es una clase magistral.</strong> Su objetivo no es que memoricéis nombres de aves, sino que comprendáis <strong>cómo se recaban datos científicos sobre biodiversidad</strong> y <strong>cómo adaptarlos a vuestro aula</strong>.</p>
+    </div>
+    <p style="font-size:9pt;"><strong>Pasos para implementar el proyecto:</strong></p>
+    <ol style="font-size:8.5pt;margin-left:18px;margin-bottom:8px;">
+      <li><strong>Seleccionar el espacio:</strong> Patio del colegio, parque cercano, jardín escolar.</li>
+      <li><strong>Definir la pregunta:</strong> ¿Qué aves hay? ¿Han cambiado respecto al año pasado? ¿Dependen del hábitat?</li>
+      <li><strong>Elegir la metodología:</strong> Según la edad, adaptar tiempo de observación, distancia y registro.</li>
+      <li><strong>Recoger datos:</strong> Con consistencia (mismo lugar, misma hora, misma época).</li>
+      <li><strong>Procesar información:</strong> Tablas, gráficos, mapas (adaptados al nivel).</li>
+      <li><strong>Sacar conclusiones:</strong> ¿Qué nos dicen las aves sobre nuestro entorno?</li>
+      <li><strong>Proponer acciones:</strong> ¿Más árboles? ¿Cajas nido? ¿Reducir pesticidas?</li>
+      <li><strong>Comunicar resultados:</strong> Exposición, blog, participación en eBird.</li>
+    </ol>
+    <p style="font-size:9pt;"><strong>Recordad:</strong> Las aves no son el objetivo final; son el <strong>medio</strong> para que vuestros alumnos desarrollen pensamiento científico, conexión con la naturaleza y herramientas para ser ciudadanos ambientalmente responsables.</p>
+  </div>
+
+</div>
+</div>
+
+<!-- ===== REFERENCIAS ===== -->
+<div class="references">
+  <h3>Referencias</h3>
+  <div class="ref-list">
+    <p><strong>1.</strong> Carrascal, L. M., Escandell, V. y Del Moral, J. C. (2023). <em>Evolución de las poblaciones de las aves comunes por hábitat en la España peninsular</em>. SEO/BirdLife. Madrid. ISBN: 978-84-127360-2-1. DOI: 10.31170/0099.</p>
+    <p><strong>2.</strong> CBBA; Mir, F.; Encabo, I.; De Mingo-Sánchez, G.; Rollán, D. (2026). <em>Seguimiento de aves comunes en la Red de Parques Nacionales. Primavera 2025</em>. OAPN Madrid. NIPO: 678-26-002-4.</p>
+    <p><strong>3.</strong> Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de las aves silvestres. DOUE L 20: 7-25.</p>
+    <p><strong>4.</strong> SEO/BirdLife (2018). <em>Fichas de especies SACRE</em>. Disponible en: sacre.seo.org</p>
+    <p><strong>5.</strong> SEO/BirdLife (2018). <em>Instrucciones SACRE — Estaciones de escucha y recorridos</em>. sacre.seo.org</p>
+    <p><strong>6.</strong> Tellería, J. L. (1986). <em>Manual para el censo de los vertebrados terrestres</em>. Raíces, Madrid.</p>
+    <p><strong>7.</strong> eBird. <em>Hotspot Campus Universitario de Teruel</em>. ebird.org/hotspot/L6453396</p>
+    <p><strong>8.</strong> Wing, E. A. et al. (2026). <em>The Tuned Cortex: Convergent Expertise-Related Structural and Functional Remodeling across the Adult Lifespan</em>. Journal of Neuroscience. DOI: 10.1523/JNEUROSCI.1307-25.2026.</p>
+    <p><strong>9.</strong> MITECO. <em>Red Natura 2000 — Zonas de Especial Protección para las Aves (ZEPAs)</em>. miteco.gob.es</p>
+    <p><strong>10.</strong> SEO/BirdLife (2023). <em>Riqueza ornitológica en los campus universitarios de Aragón</em>. seo.org</p>
+    <p><strong>11.</strong> El Diario de Huesca (2024). <em>El entorno de la Escuela Politécnica de Huesca alberga 47 especies de aves</em>.</p>
+    <p><strong>12.</strong> Pan-European Common Bird Monitoring Scheme (PECBMS). <em>Wild Bird Index and population trends of European common birds</em>. pecbms.info</p>
+  </div>
+</div>
+
+<!-- ===== FOOTER ===== -->
+<div class="footer">
+  Propuesta del proyecto [UniTe] — Universidad de Teruel · Metodología SACRE · SEO/BirdLife · Red de Parques Nacionales · OAPN
+</div>
+
+</div>
+
+</body>
+</html>"""
+
+with open('/mnt/agents/output/poster_unite_aves.html', 'w', encoding='utf-8') as f:
+    f.write(poster_html)
+
+print("✅ Póster HTML generado correctamente")
+print(f"📄 Archivo: /mnt/agents/output/poster_unite_aves.html")
+print(f"📏 Tamaño: {len(poster_html):,} caracteres")
