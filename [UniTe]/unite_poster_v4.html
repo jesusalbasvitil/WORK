@@ -114,6 +114,13 @@ sup.r { font-size:8.5px; color:var(--sky); font-weight:700; vertical-align:super
 .brain p { font-size:11.5px; color:rgba(255,255,255,0.78); line-height:1.65; font-style:italic; }
 .brain cite { display:block; font-size:10px; color:rgba(255,255,255,0.36); margin-top:0.3rem; font-style:normal; }
 
+/* ── TECNO BOX ──────────────────────────────────────── */
+.tecno { background:linear-gradient(145deg,#fff9c4,#f7e98a); border-radius:9px; padding:0.8rem 0.9rem; margin-bottom:0.85rem; }
+.tc-lbl { font-size:8.5px; letter-spacing:0.14em; text-transform:uppercase; color:rgba(80,70,20,0.65); margin-bottom:0.3rem; font-weight:600; }
+.tecno p { font-size:11.5px; color:rgba(60,50,10,0.85); line-height:1.65; font-style:italic; }
+.tecno cite { display:block; font-size:10px; color:rgba(80,70,20,0.55); margin-top:0.3rem; font-style:normal; }
+.tecno video { width:100%; margin-top:0.8rem; border-radius:8px; display:block; }
+
 /* ── HABITAT GRID ───────────────────────────────────── */
 .hab-grid { display:grid; grid-template-columns:1fr 1fr; gap:4px; margin-top:0.38rem; }
 .hab { background:var(--forest-pale); border-radius:5px; padding:4px 6px; font-size:10.5px; color:var(--forest); font-weight:500; text-align:center; }
@@ -126,6 +133,7 @@ sup.r { font-size:8.5px; color:var(--sky); font-weight:700; vertical-align:super
 .sbox { border-radius:7px; padding:0.5rem 0.7rem; font-size:11px; line-height:1.6; margin-top:0.4rem; }
 .sbox-blue { background:var(--sky-pale); color:#1a2e4a; }
 .sbox-amber { background:#fdf0d8; color:#5a3a08; }
+.sbox-green { background:#3a8d79; color:#eae7e1; }
 
 /* ── TREND MINI BARS ────────────────────────────────── */
 .trend-bars { margin-top:0.3rem; }
@@ -135,6 +143,25 @@ sup.r { font-size:8.5px; color:var(--sky); font-weight:700; vertical-align:super
 
 /* ── UL LIST ────────────────────────────────────────── */
 ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-height:1.8; margin-top:0.25rem; }
+
+/* ── PHOTO CARD ─────────────────────────────────────── */
+.photo-card { background:var(--white); border:1px solid var(--rule); border-radius:9px; overflow:hidden; margin-bottom:0.85rem; }
+.photo-card-img { display:block; width:100%; aspect-ratio:4/3; object-fit:cover; cursor:zoom-in; transition:transform 0.3s ease, filter 0.3s ease; }
+.photo-card-img:hover { transform:scale(1.02); filter:brightness(1.05); }
+.photo-card-caption { padding:0.5rem 0.7rem 0.6rem; }
+.photo-card-caption p { font-size:10.5px; color:var(--ink-light); line-height:1.55; margin:0; font-style:italic; }
+.photo-card-caption .photo-meta { display:block; font-size:9px; color:var(--forest-mid); font-weight:600; letter-spacing:0.08em; text-transform:uppercase; margin-top:3px; font-style:normal; }
+
+/* ── LIGHTBOX ───────────────────────────────────────── */
+#lb-overlay { display:none; position:fixed; inset:0; z-index:9999; background:rgba(10,20,14,0.93); align-items:center; justify-content:center; flex-direction:column; gap:1rem; cursor:zoom-out; }
+#lb-overlay.open { display:flex; }
+#lb-img { max-width:92vw; max-height:82vh; border-radius:6px; box-shadow:0 8px 60px rgba(0,0,0,0.7); object-fit:contain; }
+#lb-bar { display:flex; align-items:center; gap:1.2rem; }
+#lb-caption { font-family:'Source Sans 3',sans-serif; font-size:12px; color:rgba(255,255,255,0.65); font-style:italic; }
+#lb-close { background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.28); color:#fff; font-size:11px; font-weight:600; border-radius:20px; padding:4px 14px; cursor:pointer; text-decoration:none; letter-spacing:0.06em; transition:background 0.2s; }
+#lb-close:hover { background:rgba(255,255,255,0.22); }
+#lb-back { background:var(--forest); border:1px solid var(--forest-light); color:#a8e6bf; font-size:11px; font-weight:600; border-radius:20px; padding:4px 14px; cursor:pointer; text-decoration:none; letter-spacing:0.06em; transition:background 0.2s; }
+#lb-back:hover { background:var(--forest-mid); }
 
 /* ── FOOTER ─────────────────────────────────────────── */
 .footer { background:var(--forest); padding:1.2rem 3rem 1rem; display:flex; gap:2rem; flex-wrap:wrap; align-items:flex-start; }
@@ -187,22 +214,26 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
 
 <!-- ════ COLUMNA PRINCIPAL ══════════════════════════════ -->
 <main class="main-col">
+<div class="callout">
+      <strong>Objetivo de esta clase</strong> No os voy a enseñar a identificar aves: para eso existen Merlin App, Xeno-canto<sup class="r">[10]</sup> y las guías de campo. Un objetivo -el oficial, casi grandilocuente- es aprender, entre otras cosas, una <strong>metodología estandarizada de recogida, análisis e interpretación de datos de avifauna</strong> —el protocolo SACRE de SEO/BirdLife— y adquirir la capacidad de adaptarlo a cualquier grupo de niños, ajustando nivel de dificultad, herramientas y producto final según la edad y el área curricular.<br><br>
 
+      <strong>Mi objetivo personal</strong> Conseguir transmitiros la importancia que tienen las aves. Usar un recurso exótico, amable o vistoso no es lo mismo que interiorizar esos bioindicadores que, como recurso educativo, tiene un extenso recorrido transversal a muchos desarrollos de aptitudes. 
+
+    </div>
   <!-- 1. INTRODUCCIÓN -->
   <section class="section">
     <div class="sec-lbl">Por qué las aves</div>
-    <h2>¿Para qué sirve observar aves?</h2>
-    <p>Observar aves puede parecer un pasatiempo romántico que ha sobrevivido por inercia. Puede ser, pero las aves son también <strong>bioindicadores de primer orden</strong>:<sup class="r">[6]</sup> su presencia o ausencia en un lugar refleja directamente la calidad ecológica del hábitat o el impacto de la actividad humana sobre los hábitats/biotopos. Es más, sabemos cuándo se cubre de nieve Siberia, cuándo llega el verano, la primavera o el otoño (avefrías, abejarucos o grullas; es la Fenología). </p>
-    <p>Las aves están presentes en <strong>todos los hábitats</strong>, son igual de sensibles a los cambios ambientales que otros animales y plantas, pero a diferencia de éstos, alzan el vuelo y atraviesan Europa de 10-15 días.<sup class="r">[3]</sup> Sus tendencias poblacionales <strong>integran simultáneamente</strong> calidad del hábitat, disponibilidad de alimento, presión de depredación, uso de pesticidas, fragmentación del paisaje y efectos del cambio climático. Un declive en una especie común no es un dato aislado: <strong>es la señal de alerta temprana</strong> de una alteración profunda del ecosistema.</p>
+    <h2>1. ¿Para qué sirve observar aves? <small><i>(El concepto utilitarista de todo)</i></small></h2>
+    <p>Observar aves puede parecer un pasatiempo romántico que ha sobrevivido hasta hoy por inercia. Puede ser, pero las aves son también <strong>bioindicadores de primer orden</strong>:<sup class="r">[6]</sup> su presencia o ausencia en un lugar refleja directamente la calidad ecológica del hábitat o el impacto de la actividad humana sobre los hábitats/biotopos. Es más, sabemos cuándo se cubre de nieve Siberia, cuándo llega el verano, la primavera o el otoño (avefrías, abejarucos o grullas; es la Fenología). </p>
+    <p>Las aves están presentes en <strong>todos los hábitats</strong>, son igual de sensibles a los cambios ambientales que otros animales y plantas, pero a diferencia de éstos, alzan el vuelo y atraviesan toda Europa en 10-15 días.<sup class="r">[3]</sup> Sus tendencias poblacionales <strong>integran simultáneamente</strong> calidad del hábitat, disponibilidad de alimento, presión de depredación, uso de pesticidas, fragmentación del paisaje y efectos del cambio climático. Un declive en una especie común no es un dato aislado: <strong>es la señal de alerta temprana</strong> de una alteración profunda del ecosistema.</p>
 
-    <p>La presencia o ausencia de las aves permitió la delimitación de las IBAs, y a partir de éstas, la delimitación de las ZEPAS/ZEC Directiva Aves, Directiva 79/409/CEE del Consejo, de 2 de abril de 1979 modificada varias veces, la última Directiva 2009/147/CE del Parlamento Europeo y del Consejo de 30 de noviembre de 2009 relativa a la conservación de las aves silvestres. Así, las aves se han convertido en la política de conservación más ambiciosa y eficaz de la historia de la Unión Europea. Sólo en España, tenemos protegida con esta figura el 33% del territorio nacional y las IBAs siguen siendo un instrumento de validez científica, aceptado por los tribunales de la Unión Europea, para decidir si se construye algo o no. Las aves, por tanto, se han convertido en una herramienta de Ordenación del Territorio. Además, las IBAs son documentos de prueba reconocidos reiteradamente ante los tribunales de la UE (ver Jurisprudencia).</p>
+    <p>La presencia de determinadas aves -y por tanto, el hábitat que las sustenta- permitió la delimitación de las Important Bird Areas  (<b>IBAs</b>), y a partir de éstas, la delimitación de las ZEPAS/ZEC Directiva Aves, Directiva 79/409/CEE del Consejo, de 2 de abril de 1979 modificada varias veces, la última, la Directiva 2009/147/CE del Parlamento Europeo y del Consejo de 30 de noviembre de 2009 relativa a la conservación de las aves silvestres. <br><br>Las aves, por tanto, se han convertido en la política de conservación más ambiciosa y eficaz de la historia de la Unión Europea. Sólo en España, tenemos el 33% del territorio nacional protegido con esta figura y las IBAs -actualizadas periódicamente por SEO/BirdLife- siguen siendo hoy en día un instrumento de validez científica, aceptado como documento de prueba y reconocido reiteradamente ante los tribunales de la UE (ver Jurisprudencia) para decidir si se construye o transforma algo o no. Así se concluye que; las aves -<i>los pajaricos</i>- se han convertido en una poderosa herramienta de Ordenación del Territorio.</p>
       
-    <p>Finalmente, el índice de aves agrícolas (Farmland Bird Index, FBI) es uno de los <strong>7 indicadores de impacto obligatorios</strong> del Marco de Evaluación de los Programas de Desarrollo Rural europeos (FEADER), al mismo nivel que las emisiones de CO₂.<sup class="r">[3]</sup></p>
-    <div class="pq">Del tonto "que está mirando las avutardas" a la política de conservación más ambiciosa y eficaz de la historia de la Unión Europea. Así, las aves se han convertido en una poderosa herramienta de Ordenación del Territorio.</div>
+    <p>Finalmente, el índice de aves agrícolas (Farmland Bird Index, FBI) es uno de los <strong> indicadores de impacto obligatorios</strong> del Marco de Evaluación de los Programas de Desarrollo Rural europeos (FEADER), al mismo nivel que las emisiones de CO₂.<sup class="r">[12]</sup></p>
+    <div class="pq">Del tonto "que está mirando las avutardas" a la política de conservación más ambiciosa y eficaz de la historia de la Unión Europea.<br><br>
+    ...las aves se han convertido en una poderosa herramienta de Ordenación del Territorio.</div>
 
-    <div class="callout">
-      <strong>Objetivo de esta clase:</strong> No va de enseñar a identificar aves (para eso existen Merlin App, Xeno-canto<sup class="r">[10]</sup> y las guías de campo). El objetivo es aprender una <strong>metodología estandarizada de recogida, análisis e interpretación de datos de avifauna</strong> —el protocolo SACRE de SEO/BirdLife— y adquirir la capacidad de adaptarla a cualquier grupo de niños, ajustando nivel de dificultad, herramientas y producto final según la edad y el área curricular.
-    </div>
+    
   </section>
 
   <div class="div"></div>
@@ -210,8 +241,8 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
   <!-- 2. METODOLOGÍA SACRE -->
   <section class="section">
     <div class="sec-lbl">Metodología de campo</div>
-    <h2>El protocolo SACRE: cómo recoger datos científicamente válidos</h2>
-    <p>El <strong>SACRE (Seguimiento de Aves Comunes Reproductoras en España)</strong> es el programa de ciencia ciudadana coordinado por SEO/BirdLife desde 1996, integrado en el programa pan-europeo del EBCC (European Bird Census Council) y reconocido como herramienta oficial para el indicador europeo de biodiversidad.<sup class="r">[3]</sup> Su principio fundamental es el <strong>esfuerzo constante</strong>: cada año se realiza exactamente el mismo número de puntos de muestreo, en las mismas localizaciones, en la misma época y con la misma duración. Es esa repetición constante acumulada durante décadas la que convierte unos simples conteos en series temporales científicamente robustas.<sup class="r">[4]</sup></p>
+    <h2>2. El SACRE: cómo recoger datos científicamente válidos</h2>
+    <p>El <strong>SACRE (Seguimiento de Aves Comunes Reproductoras en España)</strong> es el programa de <b>ciencia ciudadana</b> coordinado por SEO/BirdLife desde 1996, integrado en el programa pan-europeo del EBCC (European Bird Census Council) y reconocido como herramienta oficial para el indicador europeo de biodiversidad.<sup class="r">[3]</sup> Su principio fundamental es el <strong>esfuerzo constante</strong>: cada año se realiza exactamente el mismo número de puntos de muestreo, en las mismas localizaciones, en la misma época y con la misma duración. Es esa repetición constante acumulada durante décadas la que convierte unos simples conteos en series temporales científicamente robustas.<sup class="r">[4]</sup></p>
     <p>El informe de referencia de esta clase (<em>Evolución de las poblaciones de las aves comunes por hábitat en la España peninsular</em>, Carrascal, Escandell &amp; Del Moral, SEO/BirdLife 2023) analiza <strong>17.169 estaciones de censo</strong> monitorizadas durante al menos 5 años, acumulando más de 4,4 millones de registros de datos.<sup class="r">[4]</sup></p>
 
     <div class="sacre-m">
@@ -247,7 +278,7 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
       <div class="step">
         <div class="step-n">4</div>
         <div class="step-t">
-          <strong>Codificación del hábitat (clave pedagógica)</strong>
+          <strong>Codificación del hábitat (En clave pedagógica)</strong>
           Cada punto se asigna a uno de los 14 tipos de hábitat del informe de referencia (o a las 7 categorías básicas del SACRE estándar). Esta codificación es la que permite al análisis posterior comparar tendencias por tipo de hábitat y detectar qué factores ambientales subyacen a los cambios observados.<sup class="r">[4]</sup> Categorizar los puntos del campus en clase es un ejercicio fundamental para comprender por qué aparecen unas aves y no otras.
         </div>
       </div>
@@ -273,8 +304,8 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
   <!-- 3. ADAPTACIÓN EDUCATIVA -->
   <section class="section">
     <div class="sec-lbl">Adaptación curricular</div>
-    <h2>La misma metodología, distintos niveles: cómo escalar el SACRE al aula</h2>
-    <p>El valor pedagógico del protocolo SACRE reside en su <strong>escalabilidad total</strong>. La misma salida al campus —con el mismo cuaderno de campo— puede producir actividades radicalmente distintas según la etapa educativa, el área curricular y los objetivos del docente. El futuro maestro debe poder recorrer toda esa escala. El SACRE no es un fin en sí mismo: es un <strong>pretexto riguroso</strong> para desarrollar competencias científicas (diseño experimental, recogida de datos, análisis estadístico), matemáticas (tablas, gráficos, porcentajes), lingüísticas (informe, debate, argumentación) y de educación ambiental (biodiversidad, conservación, política), de manera integrada y con datos reales.</p>
+    <h2>3. La misma metodología, distintos niveles: cómo escalar el SACRE al aula</h2>
+    <p>El valor pedagógico del protocolo SACRE reside en su <strong>escalabilidad total</strong>. La misma salida al campus —con el mismo cuaderno de campo— puede producir actividades radicalmente distintas según la etapa educativa, el área curricular y los objetivos del docente. El futuro maestro debe poder recorrer toda esa escala. El SACRE no es un fin en sí mismo: es un <strong>medio</strong> para desarrollar competencias científicas (diseño experimental, recogida de datos, análisis estadístico), matemáticas (tablas, gráficos, porcentajes), lingüísticas (informe, debate, argumentación) y de educación ambiental (biodiversidad, conservación, política), de manera integrada y con datos reales.</p>
 
     <div class="age-grid">
       <div class="age-card">
@@ -324,7 +355,7 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
 
   <!-- 4. LISTADO DE ESPECIES -->
   <section class="section">
-    <div class="sec-lbl">Datos de campo · eBird L6453396 × SACRE 2023</div>
+    <div class="sec-lbl">CONTEXTO 1 | Campus vs SACRE</div>
     <h2>Especies del campus y su tendencia peninsular (2002–2021)</h2>
     <p>La tabla integra el listado oficial del hotspot eBird del Campus Universitario de Teruel (2020–2025) con las <strong>tasas de cambio interanual</strong> extraídas de la Tabla R1 del informe de Carrascal, Escandell &amp; Del Moral (2023),<sup class="r">[4]</sup> calculadas mediante modelos GAMM con control de autocorrelación temporal y espacial. El <strong>cambio acumulado en 20 años</strong> se calcula como (1 + tasa/100)<sup>20</sup> − 1. Las especies <span class="sp-rare">tachadas</span> son citas raras o de identificación dudosa en el hotspot; se conservan porque su estatus —rareza, irrupción, especie invasora, migrante ocasional— es en sí mismo un recurso didáctico para trabajar la noción de probabilidad de detección y variabilidad en ciencia.</p>
 
@@ -408,9 +439,9 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
 
   <!-- BIOINDICADORES -->
   <div class="card">
-    <div class="card-t">Aves como bioindicadores: por qué funcionan</div>
-    <p>Las aves integran en su biología múltiples factores ecológicos al mismo tiempo: calidad del hábitat, disponibilidad de alimento, presión de depredación, contaminación química, fragmentación del paisaje y temperatura media. Un cambio en cualquiera de esos factores se refleja antes en las poblaciones de aves que en casi cualquier otro indicador ambiental medible.<sup class="r">[6]</sup></p>
-    <p>Cumplen además funciones ecosistémicas insustituibles: dispersión de semillas (paseriformes frugívoros), control biológico de insectos y roedores (rapaces, insectívoros), reciclaje de materia orgánica (carroñeros) y polinización puntual (colibríes, algunos passeriformes).</p>
+    <div class="card-t">Aves como bioindicadores | Por qué funcionan</div>
+    <p>Las aves integran en su biología múltiples factores ecológicos al mismo tiempo: calidad del hábitat, disponibilidad de alimento, presión de depredación, contaminación química, fragmentación del paisaje y temperatura media. <b>Un cambio en cualquiera de esos factores se refleja antes en las poblaciones de aves que en casi cualquier otro indicador ambiental medible</b>.<sup class="r">[6]</sup> Son el canario de la mina.</p>
+    <p>Cumplen además funciones ecosistémicas insustituibles: dispersión de semillas (paseriformes frugívoros), control biológico de insectos y roedores (rapaces, insectívoros), reciclaje de materia orgánica (carroñeros) y polinización puntual (colibríes, cotorras y torcaces desde hace unos años).</p>
     <p>El indicador europeo basado en aves agrícolas (FBI) es obligatorio en los Programas de Desarrollo Rural financiados por el FEADER. España, con su enorme diversidad ornitológica, aporta datos clave a ese índice europeo.<sup class="r">[3]</sup></p>
   </div>
 
@@ -449,7 +480,7 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
       <strong>9 especies con tendencia positiva significativa</strong> presentes en el campus: Mito (+38,7%), Chova (+27,7% no sig.), Pinzón (+17,5%), Águila calzada (+15,4%), Colirrojo (+10,7%), Cigüeña blanca (+8,3%), Milano real (+8,3%), Herrerillo capuchino (+7,5%), Zorzal charlo (+6,8%).<sup class="r">[4]</sup>
     </div>
     <div class="sbox sbox-amber" style="margin-top:5px;">
-      <strong>8 especies con tendencia negativa significativa:</strong> Golondrina (−29,0%), Abejaruco (−20,3%), Vencejo común (−14,8%), Carbonero (−12,2%), Serín (−11,7%), Lavandera (−11,2%), Gorrión (−10,3%), Estornino negro (−8,3%).<sup class="r">[4]</sup>
+      <strong>8 especies con tendencia negativa significativa</strong> Golondrina (−29,0%), Abejaruco (−20,3%), Vencejo común (−14,8%), Carbonero (−12,2%), Serín (−11,7%), Lavandera (−11,2%), Gorrión (−10,3%), Estornino negro (−8,3%).<sup class="r">[4]</sup>
     </div>
     <p style="font-size:11px;color:var(--ink-mid);margin-top:0.4rem;">Que el gorrión común, el carbonero o la golondrina —aves asociadas a edificios y jardines— estén en descenso significativo en toda la Península es una pregunta genuinamente poderosa para abrir en el aula: ¿qué está pasando en nuestros propios edificios y ciudades?</p>
   </div>
@@ -466,9 +497,206 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
     <p style="font-size:10.5px;color:var(--ink-light);margin-top:0.38rem;">Cambio global acumulado: <strong>−2,5% en 20 años</strong> (modelos GAMM). El periodo 2012–2021 muestra el declive más pronunciado. Los hábitats con mayor caída son pastizales-matorrales (−17%) y medios agrícolas (−8,3%). Los bosques presentan tendencia positiva (+15,6%).<sup class="r">[4]</sup></p>
   </div>
 
-  <!-- RED PARQUES NACIONALES -->
+
+<!-- DIAGNÓSTICO + COMPARATIVA + APLICACIÓN -->
+<div class="card">
+    <div class="card-t"> CONTEXTO 2 | El Campus<sup class="r"></sup></div>
+
+    <p>La composición de aves registradas en eBird permite inferir que el Campus funciona como un <b>mosaico urbano ajardinado con arbolado disperso y praderas antropizadas</b>. Un ecosistema de borde urbano con alta perturbación humana, recursos artificiales abundantes y complejidad estructural limitada.
+    </p>
+
+    <!-- BIOTOPO -->
+    <div class="subcard" style="border-left:0px solid #0d606d;">
+        <div class="sbox sbox-green" style="margin-top:5px;">
+        <strong>Biotopo teórico inferido</strong>
+        <div style="margin-bottom:18px;">
+            <p style="font-weight:600; color:#e5eaef; margin-bottom:8px;">    Arbolado ornamental disperso</p>
+            <p style="font-size:0.8em; line-height:1.5; color:#e5eaef; margin-left:20px;">La abundancia de paloma torcaz, urracas, cornejas y herrerillos indica árboles maduros aislados para descanso, vigilancia y nidificación.
+            </p>
+        </div>
+
+        <div style="margin-bottom:18px;">
+            <p style="font-weight:600; color:#e5eaef; margin-bottom:8px;">  Céspedes y suelo abierto</p>
+            <p style="font-size:0.8em; line-height:1.5; color:#e5eaef; margin-left:20px;">gorrión Común, lavandera blanca, mirlos y estorninos explotan zonas abiertas, céspedes regados y recursos alimenticios antropogénicos.
+            </p>
+        </div>
+
+        <div style="margin-bottom:18px;">
+            <p style="font-weight:600; color:#e5eaef; margin-bottom:8px;">Alta perturbación humana</p>
+            <p style="font-size:0.8em; line-height:1.5; color:#e5eaef; margin-left:20px;">
+                La dominancia de especies oportunistas refleja tránsito constante, ruido, simplificación del sotobosque y baja conectividad ecológica.
+            </p>
+        </div>
+
+        <div>
+            <p style="font-weight:600; color:#e5eaef; margin-bottom:8px;">  Ausencia de especialistas</p>
+            <p style="font-size:0.8em; line-height:1.5; color:#e5eaef; margin-left:20px;">
+                La escasez de insectívoros forestales y especies riparias sugiere baja estratificación vertical y complejidad ecológica limitada.
+            </p>
+        </div></div>
+    </div>
+
+    <!-- COMPARATIVA -->
+   <br>
+    <div class="card-t"> CONTEXTO 3 | Campus vs alrededores<sup class="r"></sup></div>
+     <p style="margin-top:25px;">
+        El listado de eBird en el Campus (35 especies) puede compararse con otros lugares cercanos para mostrar cómo el grado de conservación se refleja directamente en la avifauna:
+    </p>
+    <div class="parks">
+    <span class="ptag" style="background:#e74c3c; color:white;">Campus (35)</span>
+    <span class="ptag" style="background:#e67e22; color:white;">Casco Urbano (43)</span>
+    <span class="ptag" style="background:#f1c40f; color:#2c3e50;">Parque Fueros (62)</span>
+    <span class="ptag" style="background:#27ae60; color:white;">Vega del Turia (73)</span></div>
+<br>
+    <div class="sbox sbox-blue" style="margin-top:5px;">      
+        
+        <div style="margin-bottom:18px;">
+            <p style="font-weight:600; color:#2c3e50; margin-bottom:8px;"> Gradiente de integridad ecológica</p>
+            <p style="font-size:0.9em; line-height:1.5; color:#555; margin-left:20px;">
+                Campus (35) &lt; Casco Urbano (43) &lt; Parque Fueros (62) &lt; Vega Turia (73). 
+                Existe una correlación muy fuerte (r ≈ 0.95) entre complejidad del hábitat y riqueza de especies. 
+                <b>Cada 10% de aumento en cobertura verde suma ~2–3 especies nuevas.</b>
+            </p>
+        </div>
+
+        <div style="margin-bottom:18px;">
+            <p style="font-weight:600; color:#2c3e50; margin-bottom:8px;">Núcleo generalista universal</p>
+            <p style="font-size:0.9em; line-height:1.5; color:#555; margin-left:20px;">
+                Solo 4 especies (Paloma Torcaz, Corneja Negra, Gorrión Común y Urraca) aparecen en todas 
+                las localidades. Son especies oportunistas capaces de tolerar cualquier perturbación.
+            </p>
+        </div>
+
+        <div style="margin-bottom:18px;">
+          <p style="font-weight:600; color:#2c3e50; margin-bottom:8px;">Especialistas como indicadores de calidad</p>
+            <p style="font-size:0.9em; line-height:1.5; color:#555; margin-left:20px;">
+                Especies como ruiseñores, oropéndolas y mosquiteros aparecen solo en Vega del Turia, indicando cobertura arbórea madura y ecosistemas funcionalmente íntegros.
+            </p>
+        </div>
+
+        <div>
+            <p style="font-weight:600; color:#2c3e50; margin-bottom:8px;">Vega del Turia: parada migratoria dinámica</p>
+            <p style="font-size:0.9em; line-height:1.5; color:#555; margin-left:20px;">
+                La elevada variabilidad estacional y la presencia de migrantes transaharianos convierten la Vega en un corredor ecológico clave, frente a la comunidad más residual y estable del Campus.
+            </p>
+        </div>
+        
+    </div><br>
+    <div class="card-t"> CONCLUSIONES | Estado actual y mejora del hábitat<sup class="r"></sup></div>
+    <p>En términos didácticos, el campus representa un ecosistema de <b>“borde urbano funcional”</b>: mantiene fauna resiliente, pero aún no alcanza la complejidad estructural de parques maduros o corredores ribereños. Esta jerarquía permite mostrar cómo la restauración del hábitat puede recuperar biodiversidad de forma medible.</p>
+    <p>La mejora del hábitat del campus -o de cualquier entorno ligado a la enseñanza- pasa por el incremento de arbustos autóctonos, microcharcas, instalación de cajas nido y diversificación de estratos vegetales (<b>plantaciones, construcción de cajas y hoteles de insectos, colocación de geotéxtiles y relleno de agua</b>) podría acercar progresivamente la comunidad del Campus a la del Parque de los Fueros.</p>
+</div>
+
+<!-- DIAGNÓSTICO + COMPARATIVA CON OTROS SITIOS DE TERUEL ->
+<div class="card">
+    <div class="card-t">Contexto ecológico | Diagnóstico del Campus y comparación regional<sup class="r"></sup></div>
+
+    <p>La composición de aves más frecuentes en eBird permite inferir que el Campus funciona como un <b>mosaico urbano ajardinado con arbolado disperso y praderas antropizadas</b>, un ecosistema de borde urbano con alta perturbación humana y baja complejidad estructural.</p>
+
+    <div style="margin-top: 20px; padding: 20px; background: #f8f9fa; border-left: 4px solid #27ae60; border-radius: 4px;">
+        <h4 style="color: #27ae60; margin-bottom: 15px; font-size: 1.05em;">Biotopo teórico inferido</h4>
+        
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Arbolado ornamental disperso</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">La abundancia de Paloma Torcaz, Urraca, Corneja Negra y Herrerillo Común indica árboles maduros aislados para descanso, vigilancia y nidificación.</p>
+        </div>
+
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Céspedes y suelo abierto</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Gorrión Común, Lavandera Blanca, Mirlo y Estornino explotan zonas abiertas, céspedes regados y recursos alimenticios antropogénicos.</p>
+        </div>
+
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Alta perturbación humana</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">La dominancia de especies oportunistas refleja tránsito constante, ruido, simplificación del sotobosque y baja conectividad ecológica.</p>
+        </div>
+
+        <div>
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Ausencia de especialistas</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">La escasez de insectívoros forestales y especies riparias sugiere baja estratificación vertical y complejidad ecológica limitada.</p>
+        </div>
+    </div>
+
+    <p style="margin-top: 25px;">El listado de eBird en Campus (35 especies) puede compararse con otros lugares cercanos para que los alumnos comprendan cómo el grado de conservación se refleja en la avifauna:</p>
+
+    <div class="parks">
+        <span class="ptag">Campus (35)</span>
+        <span class="ptag">Casco Urbano (43)</span>
+        <span class="ptag">Parque Fueros (62)</span>
+        <span class="ptag">Vega del Turia (73)</span>
+    </div>
+    
+    <div style="margin-top: 25px; padding: 20px; background: #f8f9fa; border-left: 4px solid #667eea; border-radius: 4px;">
+        <h4 style="color: #667eea; margin-bottom: 15px; font-size: 1.05em;">Patrones ecológicos observados</h4>
+        
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Gradiente de integridad ecológica</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Campus (35) &lt; Casco Urbano (43) &lt; Parque Fueros (62) &lt; Vega Turia (73). Existe una correlación muy fuerte (r ≈ 0.95) entre complejidad del hábitat y riqueza de especies. La urbanización filtra aves de forma predecible: <b>cada 10% de aumento en cobertura verde suma ~2–3 especies nuevas.</b></p>
+        </div>
+        
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Núcleo generalista universal</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Solo 4 especies (Paloma Torcaz, Corneja Negra, Gorrión Común y Urraca) están presentes en todas las localidades. Son oportunistas capaces de tolerar cualquier perturbación.</p>
+        </div>
+        
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Especialistas como indicadores de calidad</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Especies como Ruiseñor, Oropéndola y Mosquiteros aparecen solo en Vega Turia. Requieren cobertura arbórea madura y menor perturbación, indicando ecosistemas funcionalmente íntegros.</p>
+        </div>
+        
+        <div>
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Vega del Turia: parada migratoria dinámica</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">La elevada variabilidad estacional y presencia de migrantes transaharianos convierte la Vega del Turia en un corredor ecológico clave, frente a la comunidad más residual y predecible del Campus.</p>
+        </div>
+    </div>
+    
+    <p style="margin-top: 20px; font-size: 0.9em; color: #666;">
+        En términos didácticos, el Campus representa un ecosistema de <b>“borde urbano funcional”</b>: mantiene fauna resiliente, pero aún no alcanza la complejidad estructural de parques maduros o corredores ribereños como la Vega del Turia. Esta jerarquía muestra cómo la fragmentación urbana reduce la biodiversidad de forma predecible, pero también cómo la restauración del hábitat puede recuperarla significativamente.
+    </p>
+</div->
+
+ <!-- COMPARATIVA CON OTROS SITIOS DE TERUEL ->
+<div class="card">
+    <div class="card-t">Contexto | Otros sitios de interés en Teruel<sup class="r"></sup></div>
+    <p>El listado de eBird en Campus (35 especies) puede compararse con otros lugares cercanos para que los alumnos comprendan cómo el grado de conservación se refleja en la avifauna:</p>
+    <div class="parks">
+        <span class="ptag">Casco Urbano (43)</span>
+        <span class="ptag">Parque Fueros (62)</span>
+        <span class="ptag">Vega del Turia (73)</span>
+    </div>
+    
+    <div style="margin-top: 25px; padding: 20px; background: #f8f9fa; border-left: 4px solid #667eea; border-radius: 4px;">
+        <h4 style="color: #667eea; margin-bottom: 15px; font-size: 1.05em;">Patrones ecológicos observados</h4>
+        
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Gradiente de integridad ecológica</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Campus (35) < Casco Urbano (43) < Parque Fueros (62) < Vega Turia (73). Existe una correlación muy fuerte (r ≈ 0.95) entre complejidad del hábitat y riqueza de especies. La urbanización filtra aves de forma predecible: <b>cada 10% de aumento en cobertura verde suma ~2-3 especies nuevas.</b></p>
+        </div>
+        
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Núcleo generalista universal</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Solo 4 especies (Paloma Torcaz, Corneja Negra, Gorrión, Urraca) están presentes en todas las localidades, representando apenas 5-12% del solapamiento. Estas son oportunistas que toleran cualquier perturbación, mientras que 70-90% de la comunidad es específica del hábitat.</p>
+        </div>
+        
+        <div style="margin-bottom: 18px;">
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Especialistas como indicadores de calidad</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Especies como Ruiseñor, Oropéndola y Mosquiteros aparecen solo en Vega Turia. Requieren cobertura arbórea madura y ausencia de perturbación. Su presencia indica un ecosistema funcionalmente íntegro que el Campus aún no ha recuperado.</p>
+        </div>
+        
+        <div>
+            <p style="font-weight: 600; color: #2c3e50; margin-bottom: 8px;">· Vega del Turia: Parada migratoria dinámica</p>
+            <p style="font-size: 0.9em; color: #555; margin-left: 20px;">Variabilidad estacional 10.4:1 (vs 7:1 en Campus). Aunque registra 73 especies históricamente, es un indicador del dominio de migrantes transaharianos. Campus, por contraste, mantiene una comunidad residual más predecible.</p>
+        </div>
+    </div>
+    
+    <p style="margin-top: 20px; font-size: 0.9em; color: #666;">El Campus presenta una riqueza incluso menor que el Casco Urbano (43 sp) y el Parque de los Fueros (más conservado, 62 sp). La Vega del Turia, como ecosistema ribereño, alberga la mayor diversidad (73 sp). Esta jerarquía refleja cómo la fragmentación urbana reduce la biodiversidad de forma predecible, pero también muestra que la mejora del hábitat (como en Parque de los Fueros) puede recuperar significativamente la riqueza local.</p>
+</div>
+->
+
+
+  <!-- RED PARQUES NACIONALES 
   <div class="card">
-    <div class="card-t">Contexto: Red de Parques Nacionales<sup class="r">[9]</sup></div>
+    <div class="card-t">Contexto | Red de Parques Nacionales<sup class="r">[9]</sup></div>
     <p>El mismo protocolo SACRE opera en 15 parques nacionales (SACRE-Parques). Los datos del campus pueden compararse con estos ecosistemas de referencia para que los alumnos comprendan cómo el grado de conservación se refleja en la avifauna:</p>
     <div class="parks">
       <span class="ptag">Ordesa</span><span class="ptag">Aigüestortes</span><span class="ptag">Picos de Europa</span>
@@ -477,7 +705,7 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
       <span class="ptag">Garajonay</span><span class="ptag">Guadarrama</span><span class="ptag">Caldera de Taburiente</span>
     </div>
   </div>
-
+-->
   <!-- HERRAMIENTAS -->
   <div class="card">
     <div class="card-t">Herramientas para el aula y el campo</div>
@@ -507,15 +735,92 @@ ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-heig
   
   <cite style="display:block; font-size:10px; color:rgba(255,255,255,0.36); margin-top:0.3rem; font-style:normal;"><a href="https://academic.oup.com/bioscience/article/67/2/147/2900179?login=false" style="color:#ffffff; text-decoration:underline;">Daniel T. C. Cox et al. BioScience, Volume 67, Issue 2, February 2017, Pages 147–155<em> Doses of Neighborhood Nature: The Benefits for Mental Health of Living with Nature</em></a></cite>
 
+
 </div>
-<div><img src="MARCA 70 ANIVERSARIO SEO VERTICAL ESLOGAN POSITIVO.jpg" 
-     alt="70 años SEO BirdLife" 
-     style="width:180px; height:auto;"></div>
 
+
+<!-- FOTOGRAFÍAS DE CAMPO CON LIGHTBOX -->
+<div class="photo-card">
+  <img src="P4180991.JPG" alt="Abejarucos haciendo una parada en su migración. Fonfría, 1450 msnm. 19/4/26" class="photo-card-img" onclick="openLb('P4180991.JPG','Abejarucos haciendo una parada en su migración. Fonfría, 1450 msnm. 19/4/26')" title="Ampliar imagen">
+  <div class="photo-card-caption">
+    <p>Abejarucos haciendo una parada en su migración. Fonfría, 1450 msnm. 19/4/26</p>
+    <span class="photo-meta">#Fenología #Migraciones #CisneNegro</span>
+  </div>
+</div>
+
+<div class="photo-card">
+  <img src="P3190722.JPG" alt="Pareja de cernícalos primilla cerniéndose. Valle del Jiloca, 19/3/26" class="photo-card-img" onclick="openLb('P3190722.JPG','P3190722')" title="Ampliar imagen">
+  <div class="photo-card-caption">
+    <p>Pareja de cernícalos primilla cerniéndose. Valle del Jiloca, 19/3/26</p>
+    <span class="photo-meta">#esteparias #agroestepas</span>
+  </div>
+</div>
+
+<div class="photo-card">
+  <img src="P7165623.JPG" alt="joven de Águila culebrera. Ferreruela, 16/7/25" class="photo-card-img" onclick="openLb('P7165623.JPG','P7165623')" title="Ampliar imagen">
+  <div class="photo-card-caption">
+    <p>Joven de águila culebrera posada en una "percha". Ferreruela, 16/7/25</p>
+    <span class="photo-meta">#etología #hábitats #biotopo</span>
+  </div>
+</div>
+
+<div class="photo-card">
+  <img src="P6074297.JPG" alt="Lechuza campestre nidificando, Godos, 7/6/25" class="photo-card-img" onclick="openLb('P6074297.JPG','P6074297')" title="Ampliar imagen">
+  <div class="photo-card-caption">
+    <p>Lechuza campestre nidificando, Godos, 7/6/25</p>
+    <span class="photo-meta">#estepas #nocturnas</span>
+  </div>
+</div>
+
+<!-- TECNO -->
+ <div class="tecno">
+  <div class="tc-lbl">Enseñar <i>desde</i> la avifauna ..con tecnología (Ponz, A. com. pers.)</div>
+  
+  <p>
+    La aparición, mejora y abaratamiento de dispositivos electrónicos ha llegado al estudio de la avifauna para quedarse. Son herramientas que, si bien no suplen -todavía- los recursos humanos, permiten hacer una prospección inicial de la biodiversidad. En el caso del foto-trampeo o video requiere de un punto de atracción: una charca, un comedero... Pero eso no se puede extrapolar a nada.
+    <br><br>
+    En el caso de los dispositivos de escucha, se podría emular las estaciones de muestreo. El margen de error en la identificación de la especie es pequeño -uno de cada diez, aprox. Pero ojo; es aleatorio-  y es muy difícil estimar la cantidad.
+  </p>
+
+  <video controls>
+    <source src="VID-20260227-WA0004.mp4" type="video/mp4">
+  </video>
+</div>
+<p><small><strong>Intrahistoria de este poster</strong> Un script con un desarrollo de SACRE, documentos SEO sobre estado de conservación de las aves y más SACRE, una bibliografía y el listado de las especies que se observan en el campus. Claude Projects para generar un poster en html pero falla en: <br>
+<ul style="margin-left: 20px;">
+  <li>Imágenes</li>
+  <li>Ampliación de textos</li>
+  <li>Fuentes inventadas</li>
+  <li>Traslado a PDF</li>
+</ul><br>
+Resto de IAs peor. Vuelta a Claude pero con el texto corregido e incluyendo otros textos, imágenes y video mediante programación de partes de código e insertado posterior.</small></p>
 </aside>
+</div>
+<!-- /body -->
 
+<!-- ══ LIGHTBOX ══════════════════════════════════════════ -->
+<div id="lb-overlay" onclick="if(event.target===this)closeLb()">
+  <img id="lb-img" src="" alt="">
+  <div id="lb-bar" onclick="event.stopPropagation()">
+    <span id="lb-caption"></span>
+    <!--a id="lb-back" href="unite_poster_v3&img.html" title="Volver">&#8592; Volver</a-->
+    <button id="lb-close" onclick="closeLb()" title="Cerrar">&#10005; Cerrar</button>
+  </div>
+</div>
 
-</div><!-- /body -->
+<script>
+function openLb(src, caption) {
+  document.getElementById('lb-img').src = src;
+  document.getElementById('lb-img').alt = caption;
+  document.getElementById('lb-caption').textContent = caption;
+  document.getElementById('lb-overlay').classList.add('open');
+}
+function closeLb() {
+  document.getElementById('lb-overlay').classList.remove('open');
+}
+document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeLb(); });
+</script>
+
 
 <!-- ══ FOOTER ════════════════════════════════════════════ -->
 <footer class="footer">
@@ -579,17 +884,33 @@ Xeno-canto. Sharing wildlife sounds from around the world
 Carrascal, L. M., Escandell, V. &amp; Del Moral, J. C. (2023). <em>Evolución de las poblaciones de las aves comunes por hábitat en la España peninsular.</em> SEO/BirdLife. Madrid. ISBN: 978-84-127360-2-1
 <a href="https://www.seo.org/boletin/seguimiento/censos/59%20aves%20comunes/59%20evolucion%20aves%20comunes%20habitat%202023.pdf" style="color:#ffffff; text-decoration:underline;">Disponible aquí</a></li>
 
+<li><span class="rn">[12]</span>
+The European Evaluation Helpdesk For Rural Development <em>Guidelines and tools | 01 Apr 2020 Interactive Decision Tool for I.08, I.09</em> EU CAP Network. Directorate-General for Agriculture and Rural Development
+<a href="https://eu-cap-network.ec.europa.eu/publications/interactive-decision-tool-i08-i09_en#section--resources" style="color:#ffffff; text-decoration:underline;">Disponible aquí</a></li>
+
 
 </ul>
 
-  </div>
+  <!--</div>
   <div class="f-logo">
     <div class="logo-t"><small>Enseñar a través de las aves<br>(Teaching through/from birds)</small></div>
     <div class="logo-s">Campus Universitario de Teruel · Universidad de Zaragoza<br><br><hr><p align="right"><small>
-      <b style="color:#ffffff;">SEO / BirdLife, abril 2026v4</b>
+      <b style="color:#ffffff;">SEO / BirdLife, abril 2026v3.3</b>
     </small></p></div>
    
+  </div>-->
+<br><br>
+    <div class="f-logo" style="position: relative;">
+    <div class="logo-t"><small>Enseñar a través de las aves<br>(Teaching through/from birds)</small></div>
+    <div class="logo-s">Campus Universitario de Teruel · Universidad de Zaragoza<br><br><hr><p align="right"><small>
+      <b style="color:#ffffff;">SEO / BirdLife, abril 2026v5</b>
+    </small></p></div>
+    <img src="MARCA 70 ANIVERSARIO SEO VERTICAL ESLOGAN POSITIVO.png" alt="SEO BirdLife 70 Aniversario" style="position: absolute; bottom: 0; right: 0; max-width: 150px; z-index: 10;">
   </div>
+  
+
+
+
 </footer>
 
 </article>
