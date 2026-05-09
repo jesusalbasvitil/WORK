@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Enseñar a través de las plantas · Sistema Ibérico</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
+:root {
+  --forest:#1a4a2e; --forest-mid:#2e6b47; --forest-light:#4a9465; --forest-pale:#d4eadc;
+  --amber:#c47a1a; --amber-pale:#fdf0d8; --sky:#2960a0; --sky-pale:#e8f0f8;
+  --sand:#f5f0e8; --ink:#1a1a18; --ink-mid:#3a3a36; --ink-light:#6a6a62;
+  --rule:rgba(26,74,46,0.13); --white:#ffffff;
+}
+body { font-family:'Source Sans 3',sans-serif; background:var(--sand); color:var(--ink); font-size:13px; line-height:1.68; }
+.poster { max-width:990px; margin:0 auto; }
+
+/* ── HEADER ─────────────────────────────────────────── */
+.header { background:var(--forest); color:var(--white); padding:2.2rem 3rem 1.7rem; position:relative; overflow:hidden; }
+.header::after { content:''; position:absolute; inset:0; background:linear-gradient(155deg,transparent 52%,rgba(74,148,101,0.16) 100%); pointer-events:none; }
+.eyebrow { font-size:10px; font-weight:600; letter-spacing:0.18em; text-transform:uppercase; color:rgba(255,255,255,0.5); margin-bottom:0.45rem; }
+.title-line { display:flex; align-items:baseline; gap:0.5rem; flex-wrap:wrap; margin-bottom:0.18rem; }
+.header-title { font-family:'Playfair Display',serif; font-size:2.45rem; font-weight:700; line-height:1.1; color:var(--white); }
+.header-sub { font-family:'Playfair Display',serif; font-style:italic; font-size:1rem; color:rgba(255,255,255,0.6); margin-bottom:1.25rem; }
+.header-meta { display:flex; gap:1.8rem; flex-wrap:wrap; }
+.meta-item { font-size:11px; color:rgba(255,255,255,0.54); line-height:1.45; max-width:280px; }
+.meta-item strong { display:block; color:rgba(255,255,255,0.84); font-weight:600; }
+
+/* ── STAT BAND ──────────────────────────────────────── */
+.stat-band { background:var(--forest-mid); display:flex; justify-content:space-around; flex-wrap:wrap; padding:0.9rem 1rem; }
+.stat { text-align:center; padding:0.25rem 0.6rem; }
+.stat-n { font-family:'Playfair Display',serif; font-size:1.75rem; font-weight:700; line-height:1; color:#a8e6bf; }
+.stat-l { font-size:9.5px; letter-spacing:0.04em; color:rgba(255,255,255,0.58); margin-top:2px; max-width:120px; }
+
+/* ── BODY ───────────────────────────────────────────── */
+.body { display:grid; grid-template-columns:1.52fr 1fr; }
+.main-col { padding:1.7rem 1.8rem 2rem 3rem; border-right:1px solid var(--rule); }
+.side-col { padding:1.7rem 2.3rem 2rem 1.7rem; background:rgba(255,255,255,0.46); }
+
+/* ── SECTION ────────────────────────────────────────── */
+.section { margin-bottom:1.75rem; }
+.sec-lbl { display:inline-flex; align-items:center; gap:6px; font-size:9px; font-weight:600; letter-spacing:0.17em; text-transform:uppercase; color:var(--forest-mid); margin-bottom:0.45rem; }
+.sec-lbl::before { content:''; width:15px; height:2px; background:var(--forest-light); border-radius:1px; display:inline-block; }
+.section h2 { font-family:'Playfair Display',serif; font-size:1.2rem; font-weight:700; color:var(--forest); margin-bottom:0.45rem; line-height:1.22; }
+.section p { color:var(--ink-mid); font-size:12.5px; line-height:1.73; margin-bottom:0.5rem; }
+.section p:last-child { margin-bottom:0; }
+sup.r { font-size:8.5px; color:var(--sky); font-weight:700; vertical-align:super; margin-left:1px; }
+
+/* ── DIVIDER ────────────────────────────────────────── */
+.div { width:100%; height:1px; background:var(--rule); margin:1.4rem 0; }
+
+/* ── CALLOUT ────────────────────────────────────────── */
+.callout { background:var(--amber-pale); border-left:3px solid var(--amber); border-radius:0 6px 6px 0; padding:0.6rem 0.9rem; margin:0.75rem 0; font-size:12px; color:#5a3a08; line-height:1.65; }
+.callout strong { color:#8a5010; font-weight:600; }
+
+/* ── PULL QUOTE ─────────────────────────────────────── */
+.pq { border-left:3px solid var(--forest-light); padding:0.38rem 0.8rem; margin:0.8rem 0; font-family:'Playfair Display',serif; font-style:italic; font-size:0.96rem; color:var(--forest); line-height:1.48; }
+
+/* ── STEPS ──────────────────────────────────────────── */
+.steps { display:flex; flex-direction:column; gap:0.5rem; }
+.step { display:flex; align-items:flex-start; gap:0.7rem; background:var(--white); border:1px solid var(--rule); border-radius:8px; padding:0.55rem 0.78rem; }
+.step-n { flex-shrink:0; width:23px; height:23px; background:var(--forest); color:var(--white); border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:10.5px; font-weight:600; margin-top:1px; }
+.step-t { font-size:12px; color:var(--ink-mid); line-height:1.6; }
+.step-t strong { display:block; font-weight:600; color:var(--ink); font-size:12.5px; margin-bottom:2px; }
+
+/* ── AGE GRID ───────────────────────────────────────── */
+.age-grid { display:grid; grid-template-columns:1fr 1fr 1fr; gap:6px; margin-top:0.5rem; }
+.age-card { background:var(--white); border:1px solid var(--rule); border-radius:8px; padding:0.55rem 0.65rem; }
+.age-r { font-family:'Playfair Display',serif; font-size:1.05rem; font-weight:700; color:var(--forest); line-height:1; }
+.age-nm { font-size:9px; color:var(--forest-mid); font-weight:600; letter-spacing:0.07em; text-transform:uppercase; margin:2px 0 5px; }
+.age-ul { padding-left:1em; font-size:11px; color:var(--ink-mid); line-height:1.7; }
+
+/* ── SPECIES TABLE ──────────────────────────────────── */
+.sp-table { width:100%; border-collapse:collapse; font-size:11px; }
+.sp-table thead th { font-size:8.5px; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:var(--forest-mid); border-bottom:1.5px solid var(--forest-light); padding:4px 4px; text-align:left; }
+.sp-table tbody tr:nth-child(even) { background:rgba(255,255,255,0.62); }
+.sp-table tbody td { padding:3px 5px; color:var(--ink-mid); line-height:1.3; border-bottom:0.5px solid rgba(0,0,0,0.045); vertical-align:middle; }
+.sp-n { font-weight:600; color:var(--forest); font-size:10px; }
+.sp-sci { font-style:italic; color:var(--ink-light); font-size:9.5px; }
+.tu  { color:#1a6b37; background:#d4eadc; padding:1px 5px; border-radius:8px; font-size:9px; font-weight:600; white-space:nowrap; }
+.td  { color:#7a1a1a; background:#f7d4d4; padding:1px 5px; border-radius:8px; font-size:9px; font-weight:600; white-space:nowrap; }
+.ts  { color:#4a4a10; background:#edecd4; padding:1px 5px; border-radius:8px; font-size:9px; font-weight:600; white-space:nowrap; }
+.tk  { color:#2a2a5a; background:#dce0f7; padding:1px 5px; border-radius:8px; font-size:9px; font-weight:600; white-space:nowrap; }
+.leg-row { display:flex; gap:0.7rem; flex-wrap:wrap; margin-top:0.45rem; }
+.leg { display:flex; align-items:center; gap:4px; font-size:10px; color:var(--ink-mid); }
+
+/* ── SIDE CARDS ─────────────────────────────────────── */
+.card { background:var(--white); border:1px solid var(--rule); border-radius:9px; padding:0.8rem 0.9rem; margin-bottom:0.85rem; }
+.card-t { font-size:9px; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--forest-mid); margin-bottom:0.42rem; display:flex; align-items:center; gap:5px; }
+.card-t::before { content:''; width:6px; height:6px; background:var(--forest-light); border-radius:50%; flex-shrink:0; }
+.card p { font-size:11.5px; color:var(--ink-mid); line-height:1.65; margin-bottom:0.3rem; }
+.card p:last-child { margin-bottom:0; }
+
+/* ── BRAIN BOX ──────────────────────────────────────── */
+.brain { background:linear-gradient(145deg,#1a4a2e,#0e3321); border-radius:9px; padding:0.8rem 0.9rem; margin-bottom:0.85rem; }
+.bb-lbl { font-size:8.5px; letter-spacing:0.14em; text-transform:uppercase; color:rgba(255,255,255,0.42); margin-bottom:0.3rem; font-weight:600; }
+.brain p { font-size:11.5px; color:rgba(255,255,255,0.78); line-height:1.65; font-style:italic; }
+.brain cite { display:block; font-size:10px; color:rgba(255,255,255,0.36); margin-top:0.3rem; font-style:normal; }
+
+/* ── HAB GRID ───────────────────────────────────────── */
+.hab-grid { display:grid; grid-template-columns:1fr 1fr; gap:4px; margin-top:0.38rem; }
+.hab { background:var(--forest-pale); border-radius:5px; padding:4px 6px; font-size:10.5px; color:var(--forest); font-weight:500; text-align:center; }
+
+/* ── SUMMARY BOXES ──────────────────────────────────── */
+.sbox { border-radius:7px; padding:0.5rem 0.7rem; font-size:11px; line-height:1.6; margin-top:0.4rem; }
+.sbox-blue { background:var(--sky-pale); color:#1a2e4a; }
+.sbox-amber { background:#fdf0d8; color:#5a3a08; }
+.sbox-green { background:#3a8d79; color:#eae7e1; }
+
+/* ── UL LIST ────────────────────────────────────────── */
+ul.blist { padding-left:1.1em; font-size:11.5px; color:var(--ink-mid); line-height:1.8; margin-top:0.25rem; }
+
+/* ── MEDIC CARDS ────────────────────────────────────── */
+.medic-grid { display:grid; grid-template-columns:1fr 1fr; gap:5px; margin-top:0.4rem; }
+.medic-card { background:var(--white); border:1px solid var(--rule); border-radius:7px; padding:0.45rem 0.55rem; }
+.medic-name { font-family:'Playfair Display',serif; font-style:italic; font-size:0.92rem; font-weight:700; color:var(--forest); line-height:1.1; margin-bottom:2px; }
+.medic-common { font-size:8.5px; font-weight:600; letter-spacing:0.07em; text-transform:uppercase; color:var(--forest-mid); margin-bottom:4px; }
+.medic-props { font-size:10px; color:var(--ink-mid); line-height:1.5; }
+.prop-pill { display:inline-block; background:#d4eadc; color:#1a4a2e; border-radius:10px; padding:1px 5px; font-size:8.5px; font-weight:600; margin:1px 1px; }
+.prop-pill.amber { background:#fdf0d8; color:#8a5010; }
+.prop-pill.blue { background:#dce0f7; color:#1a2e5a; }
+
+/* ── VEGE CLASSES ───────────────────────────────────── */
+.veg-row { display:flex; align-items:flex-start; gap:6px; margin-bottom:5px; font-size:11px; }
+.veg-badge { flex-shrink:0; width:7px; height:7px; border-radius:50%; margin-top:4px; }
+.veg-text { color:var(--ink-mid); line-height:1.45; }
+.veg-name { font-style:italic; font-weight:600; color:var(--forest); }
+
+/* ── PARKS TAGS ─────────────────────────────────────── */
+.parks { display:flex; flex-wrap:wrap; gap:3px; margin-top:0.35rem; }
+.ptag { background:rgba(46,107,71,0.1); border:1px solid rgba(46,107,71,0.22); border-radius:16px; padding:2px 8px; font-size:9.5px; color:var(--forest); font-weight:500; }
+
+/* ── TREND BARS ─────────────────────────────────────── */
+.trend-bars { margin-top:0.3rem; }
+.tb-row { display:flex; align-items:center; gap:6px; margin-bottom:4px; }
+.tb-track { height:8px; border-radius:3px; }
+.tb-lbl { font-size:10.5px; color:var(--ink-mid); }
+
+/* ── LIGHTBOX ───────────────────────────────────────── */
+#lb-overlay { display:none; position:fixed; inset:0; z-index:9999; background:rgba(10,20,14,0.93); align-items:center; justify-content:center; flex-direction:column; gap:1rem; cursor:zoom-out; }
+#lb-overlay.open { display:flex; }
+#lb-img { max-width:92vw; max-height:82vh; border-radius:6px; box-shadow:0 8px 60px rgba(0,0,0,0.7); object-fit:contain; }
+#lb-bar { display:flex; align-items:center; gap:1.2rem; }
+#lb-caption { font-family:'Source Sans 3',sans-serif; font-size:12px; color:rgba(255,255,255,0.65); font-style:italic; }
+#lb-close { background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.28); color:#fff; font-size:11px; font-weight:600; border-radius:20px; padding:4px 14px; cursor:pointer; letter-spacing:0.06em; }
+#lb-close:hover { background:rgba(255,255,255,0.22); }
+
+/* ── FOOTER ─────────────────────────────────────────── */
+.footer { background:var(--forest); padding:1.2rem 3rem 1rem; display:flex; gap:2rem; flex-wrap:wrap; align-items:flex-start; }
+.f-refs { flex:1; min-width:300px; }
+.f-refs h4 { color:rgba(255,255,255,0.68); font-size:9px; font-weight:600; letter-spacing:0.14em; text-transform:uppercase; margin-bottom:0.38rem; }
+.rlist { list-style:none; padding:0; }
+.rlist li { font-size:9.5px; color:rgba(255,255,255,0.42); line-height:1.7; padding-left:2.2em; position:relative; }
+.rlist li .rn { position:absolute; left:0; color:rgba(255,255,255,0.32); font-weight:600; font-size:9px; }
+.f-logo { align-self:center; }
+.logo-t { font-family:'Playfair Display',serif; font-size:1.5rem; font-weight:700; color:rgba(255,255,255,0.78); letter-spacing:-0.02em; line-height:1; }
+.logo-s { font-size:8.5px; letter-spacing:0.18em; text-transform:uppercase; color:rgba(255,255,255,0.28); margin-top:2px; }
+</style>
+</head>
+<body>
+<article class="poster">
+
+<!-- ══ HEADER ══════════════════════════════════════════ -->
+<header class="header">
+  <div class="eyebrow">Campus Universitario de Teruel · Universidad de Zaragoza · Sistema Ibérico</div>
+  <div class="title-line">
+    <h1 class="header-title">Enseñar a través de las plantas <em style="font-style:normal;font-size:1.5rem;opacity:0.65">(Teaching through / from plants)</em></h1>
+  </div>
+  <p class="header-sub">Flora vascular del Sistema Ibérico como recurso educativo transversal: botánica, farmacología, ecología y territorio</p>
+  <div class="header-meta">
+    <div class="meta-item">
+      <strong>Fuente principal de flora</strong>Ferrer Plou, J. (1993). <em>Flora y Vegetación de las Sierras de Herrera, Cucalón y Fonfría.</em> Diputación General de Aragón. ISBN: 84-7753-356-3. Catálogo con +11.000 pliegos herborizados (1981–1986).<sup class="r">[1]</sup>
+    </div>
+    <div class="meta-item">
+      <strong>Flora del Jiloca</strong>Mateo Sanz, G. (1998). «Sobre la flora de la comarca del Jiloca (XI)». <em>Xiloca</em>, 22: 207–225. Catálogo de Scrophulariaceae a Zygophyllaceae.<sup class="r">[2]</sup>
+    </div>
+    <div class="meta-item">
+      <strong>Guía de plantas del arboretum</strong>SEO/BirdLife — Guía de Especies Vegetales del Arboretum Complejo Cogullada (borrador v1 [TreeV1], mayo 2026). Propiedades ecológicas y farmacológicas documentadas.<sup class="r">[3]</sup>
+    </div>
+  </div>
+</header>
+
+<!-- ══ STAT BAND ════════════════════════════════════════ -->
+<div class="stat-band">
+  <div class="stat"><div class="stat-n">+1.100</div><div class="stat-l">taxones en el catálogo Ferrer Plou (Sierras de Herrera, Cucalón, Fonfría)</div></div>
+  <div class="stat"><div class="stat-n">6.000</div><div class="stat-l">números de herbario en la colección FCRS (1981–1986), +11.000 pliegos</div></div>
+  <div class="stat"><div class="stat-n">14</div><div class="stat-l">comunidades vegetales principales en el Sistema Ibérico</div></div>
+  <div class="stat"><div class="stat-n">3</div><div class="stat-l">provincias corológicas en contacto: Carpetano-Ibérico-Leonesa, Castellano-Maestrazgo-Manchega y Aragonesa</div></div>
+  <div class="stat"><div class="stat-n">20+</div><div class="stat-l">especies con propiedades farmacológicas documentadas en PMC/PubMed en el arboretum</div></div>
+  <div class="stat"><div class="stat-n">1.478 m</div><div class="stat-l">altitud máxima — Peña del Castellar (Sierra de Cucalón) — gradiente altitudinal completo</div></div>
+</div>
+
+<!-- ══ BODY ═════════════════════════════════════════════ -->
+<div class="body">
+
+<!-- ════ COLUMNA PRINCIPAL ══════════════════════════════ -->
+<main class="main-col">
+
+<div class="callout">
+  <strong>Objetivo de esta clase</strong> Al igual que con las aves, las plantas no son decorado: son <b>laboratorio, farmacia, historia, geología y política</b> al mismo tiempo. El catálogo de Ferrer Plou (1993) describe más de 1.100 taxones en un territorio de 1.400 km² del Sistema Ibérico zaragozano —entre Herrera de los Navarros, Cucalón y Fonfría— que los alumnos de Magisterio pueden recorrer en menos de una hora. La finalidad es aprender a <strong>usar la flora local como recurso didáctico transversal</strong>, adaptando la metodología botánica a cada etapa educativa: de la observación sensorial en Infantil al análisis fitosociológico en Secundaria.<br><br>
+  <strong>Mi objetivo personal</strong> Que interioricéis que cada planta que veis en el patio, en la cuneta o en el monte tiene una historia ecológica, química y humana que no aparece en ningún libro de texto pero que existe y está documentada científicamente. <b>La curiosidad se enseña mostrando lo que no se ve a simple vista.</b>
+</div>
+
+<!-- 1. POR QUÉ LAS PLANTAS -->
+<section class="section">
+  <div class="sec-lbl">Por qué las plantas</div>
+  <h2>1. ¿Para qué sirve conocer las plantas del entorno? <small><i>(Más allá del herbario)</i></small></h2>
+  <p>Identificar y conocer las plantas del entorno no es solo un ejercicio de memorización taxonómica. Las plantas son <strong>indicadores ecológicos de primer orden</strong>: su distribución revela la naturaleza del suelo (caliza vs. silícea), la disponibilidad de agua, el historial de incendios, el grado de perturbación humana y las tendencias del cambio climático.<sup class="r">[1]</sup> Una comunidad vegetal no es un catálogo de nombres: es la <strong>síntesis visible de las condiciones ambientales</strong> de un lugar.</p>
+  <p>En el Sistema Ibérico zaragozano —la comarca de Herrera, Cucalón y Fonfría que Ferrer Plou estudió durante seis años— convergen tres provincias corológicas distintas. Esta singularidad hace del territorio un <strong>laboratorio biogeográfico excepcional</strong> donde en pocos kilómetros se puede pasar del carrascal mediterráneo (<em>Quercus rotundifolia</em>) al marojal eurosiberiano (<em>Quercus pyrenaica</em>), del tomillar calcícola (<em>Thymus vulgaris</em>) al brezal silíceo (<em>Calluna vulgaris</em>).<sup class="r">[1]</sup></p>
+  <p>Además, la flora local tiene una dimensión <strong>farmacológica documentada</strong> que transforma cada salida al campo en una clase de bioquímica aplicada. Las 20+ especies recogidas en la guía del Arboretum de Cogullada presentan propiedades antibacterianas, antioxidantes, anticancerígenas y neuroprotectoras demostradas en ensayos clínicos publicados en PMC y PubMed.<sup class="r">[3]</sup> No es folclore: es ciencia.</p>
+  <div class="pq">Del "es una planta del monte" a la herramienta de ordenación del territorio más eficaz: las ZEPAs, las IBAs y la Directiva Hábitats se delimitan —entre otros criterios— por la presencia de flora de interés.<br><br>
+  ...cada especie endémica o rara tiene un valor jurídico y político que los alumnos pueden comprender con datos reales.</div>
+</section>
+
+<div class="div"></div>
+
+<!-- 2. METODOLOGÍA -->
+<section class="section">
+  <div class="sec-lbl">Metodología botánica</div>
+  <h2>2. Cómo se inventaría la flora: del herbario al catálogo corológico</h2>
+  <p>Ferrer Plou elaboró su catálogo siguiendo la metodología estándar de la botánica sistemática española: <strong>herborización en campo</strong> (recolección, prensado y secado de pliegos), <strong>identificación con Flora Europaea</strong> y monografías especializadas, y <strong>georreferenciación en cuadrículas UTM</strong> de 1 km de lado.<sup class="r">[1]</sup> Cada cita incluye: municipio, descripción geográfica o ecológica, altitud y coordenadas. Este sistema convierte el catálogo en una base de datos espacial que los alumnos pueden consultar, ampliar y comparar con datos actuales.</p>
+  <p>Mateo Sanz (1998) usa un enfoque complementario en el Jiloca: el <strong>catálogo regional por familias</strong>, con descripción morfológica, hábitat y distribución comarcal.<sup class="r">[2]</sup> Ambas metodologías son perfectamente trasladables al aula, con el nivel de profundidad ajustado a la etapa educativa.</p>
+
+  <div class="steps">
+    <div class="step">
+      <div class="step-n">1</div>
+      <div class="step-t">
+        <strong>Observación y descripción sensorial</strong>
+        Antes de nombrar: ver, oler, tocar (con precaución), escuchar el entorno donde crece. ¿Qué insectos la visitan? ¿Hay aves cerca? ¿El suelo es arcilloso, arenoso, pedregoso? Estas preguntas generan hipótesis ecológicas que los alumnos pueden verificar consultando el catálogo.
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-n">2</div>
+      <div class="step-t">
+        <strong>Identificación con clave dicotómica o app</strong>
+        PlantNet e iNaturalist funcionan bien para la flora mediterránea. La clave dicotómica de Flora Ibérica (disponible online) es más precisa. Ferrer Plou usó Flora Europaea (Tutin et al., 1964–1980) y monografías de género. La combinación de app + clave es el flujo de trabajo más eficiente para enseñar el método científico.
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-n">3</div>
+      <div class="step-t">
+        <strong>Registro georreferenciado</strong>
+        Cuaderno de campo con coordenadas (GPS del móvil), fecha, altitud, hábitat y abundancia relativa (siguiendo la escala de Braun-Blanquet: +, 1, 2, 3, 4, 5). Esta escala —utilizada en toda la fitosociología europea— puede enseñarse a partir de los 12 años y conecta directamente con el análisis estadístico de comunidades vegetales.<sup class="r">[1]</sup>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-n">4</div>
+      <div class="step-t">
+        <strong>Clasificación por hábitat y comunidad vegetal</strong>
+        Asignar cada especie a su comunidad fitosociológica (carrascal, quejigal, marojal, tomillar, pastizal…) es el paso que convierte una lista de nombres en comprensión ecológica. Ferrer Plou identifica 14 comunidades principales en el territorio estudiado, desde los juncales riparios hasta los matorrales de cumbres.<sup class="r">[1]</sup>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-n">5</div>
+      <div class="step-t">
+        <strong>Cartografía de la vegetación</strong>
+        Las hojas 40 (Daroca) y 32 (Zaragoza) del Mapa Geológico de España a escala 1:200.000 permiten superponer geología y vegetación. Esta conexión suelo–planta es uno de los ejes curriculares más productivos de las Ciencias Naturales en Secundaria y una herramienta indispensable de la Ordenación del Territorio.<sup class="r">[1]</sup>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-n">6</div>
+      <div class="step-t">
+        <strong>Conexión con bases de datos abiertas</strong>
+        GBIF (Global Biodiversity Information Facility), Flora Ibérica online y el herbario virtual del JACA (Instituto Pirenaico de Ecología) permiten contrastar observaciones propias con registros históricos, calcular cambios de distribución y plantear preguntas de investigación reales. El catálogo de Ferrer Plou ya está parcialmente en GBIF.<sup class="r">[4]</sup>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="div"></div>
+
+<!-- 3. ADAPTACIÓN EDUCATIVA -->
+<section class="section">
+  <div class="sec-lbl">Adaptación curricular</div>
+  <h2>3. La misma planta, distintos niveles de análisis</h2>
+  <p>Una encina (<em>Quercus rotundifolia</em>) puede ser el punto de partida de actividades completamente distintas según la etapa. No cambia la planta: cambia la pregunta y el nivel de abstracción. El objetivo del futuro maestro es dominar toda la escala.</p>
+
+  <div class="age-grid">
+    <div class="age-card">
+      <div class="age-r">3–6 años</div>
+      <div class="age-nm">Educación Infantil</div>
+      <ul class="age-ul">
+        <li>Tocar hojas: ¿pinchan? ¿son suaves? ¿huelen?</li>
+        <li>Clasificar por forma, color, tamaño</li>
+        <li>Hacer rubbings (frotados) de hojas en papel</li>
+        <li>Contar bellotas y semillas</li>
+        <li>¿Qué animal come esta bellota?</li>
+        <li>Cuento: «El año de la encina»</li>
+        <li>Plantar una bellota y observar la germinación</li>
+      </ul>
+    </div>
+    <div class="age-card">
+      <div class="age-r">6–12 años</div>
+      <div class="age-nm">Educación Primaria</div>
+      <ul class="age-ul">
+        <li>Ficha de campo: nombre, hábitat, fecha</li>
+        <li>Herbario de aula (hojas prensadas y etiquetadas)</li>
+        <li>Gráfico de distribución altitudinal</li>
+        <li>PlantNet o iNaturalist para identificación</li>
+        <li>Comparar suelo calizo vs. silíceo</li>
+        <li>¿Qué plantas crecen bajo la encina? ¿Por qué?</li>
+        <li>Proyecto: «Las plantas del patio del colegio»</li>
+      </ul>
+    </div>
+    <div class="age-card">
+      <div class="age-r">12–16 años</div>
+      <div class="age-nm">Educación Secundaria</div>
+      <ul class="age-ul">
+        <li>Inventario fitosociológico (escala Braun-Blanquet)</li>
+        <li>Clave dicotómica: Flora Ibérica online</li>
+        <li>Georreferenciación en GBIF o iNaturalist</li>
+        <li>Análisis de propiedades fitoquímicas (PMC)</li>
+        <li>Cartografía de vegetación sobre mapa geológico</li>
+        <li>Conectar endemismos con política de conservación</li>
+        <li>Informe científico con discusión de resultados</li>
+      </ul>
+    </div>
+  </div>
+  <p style="margin-top:0.55rem;font-size:11.5px;color:var(--ink-light);">La progresión clave: de <em>nombrar y tocar</em> (Infantil) → <em>registrar y comparar</em> (Primaria) → <em>inventariar, analizar y conectar con escala global</em> (Secundaria). La metodología de Ferrer Plou puede inspirar proyectos de ciencia ciudadana en cualquier etapa.</p>
+</section>
+
+<div class="div"></div>
+
+<!-- 4. TABLA DE ESPECIES -->
+<section class="section">
+  <div class="sec-lbl">Selección de especies · Sistema Ibérico zaragozano</div>
+  <h2>4. Especies representativas del catálogo Ferrer Plou (1993) y sus propiedades</h2>
+  <p>La tabla cruza los taxones más pedagógicamente relevantes del catálogo<sup class="r">[1]</sup> con sus propiedades fitoquímicas documentadas en la guía del Arboretum de Cogullada<sup class="r">[3]</sup> y su hábitat en el Sistema Ibérico zaragozano. El símbolo de abundancia sigue la escala del propio catálogo: MC=muy común, C=común, D=dispersa, R=rara, MR=muy rara.</p>
+
+  <table class="sp-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Nombre común</th>
+        <th>Nombre científico</th>
+        <th>Hábitat principal<sup class="r">[1]</sup></th>
+        <th>Abundancia</th>
+        <th>Propiedades documentadas<sup class="r">[3]</sup></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="sp-n">1</td><td>Carrasca / Encina</td><td class="sp-sci">Quercus rotundifolia</td><td>Dominante &lt;1.100 m, todo tipo suelos</td><td><span class="tu">MC</span></td><td>Antioxidante, antibacteriana, antidiabética, hepatoprotectora</td></tr>
+      <tr><td class="sp-n">2</td><td>Quejigo</td><td class="sp-sci">Quercus faginea</td><td>Barrancos y laderas N, 900–1.200 m</td><td><span class="tu">C</span></td><td>Antiinflamatoria, antibacteriana, anticancerígena, gastroprotectora</td></tr>
+      <tr><td class="sp-n">3</td><td>Marojo / Melojo</td><td class="sp-sci">Quercus pyrenaica</td><td>Areniscas, Sierra de Fonfría, 1.300–1.500 m</td><td><span class="td">R</span></td><td>Bioindicador eurosiberiano; taninos antioxidantes</td></tr>
+      <tr><td class="sp-n">4</td><td>Tomillo</td><td class="sp-sci">Thymus vulgaris</td><td>Páramos calizos, laderas soleadas</td><td><span class="tu">MC</span></td><td>Antimicrobiano (Helicobacter pylori), expectorante (EMA), antioxidante, insecticida</td></tr>
+      <tr><td class="sp-n">5</td><td>Romero</td><td class="sp-sci">Salvia rosmarinus</td><td>Matorrales &lt;1.000 m, suelo calizo</td><td><span class="tu">C</span></td><td>Mejora memoria +5–15%, reduce cortisol, antibiótico natural, estimula circulación capilar</td></tr>
+      <tr><td class="sp-n">6</td><td>Sabina negra</td><td class="sp-sci">Juniperus phoenicea</td><td>Cantiles calizos, cualquier altitud</td><td><span class="tu">C</span></td><td>Anticancerígena (mama y colon), antimicrobiana (α-pineno 83%), antiinflamatoria (100% inhibición edema)</td></tr>
+      <tr><td class="sp-n">7</td><td>Sabina albar</td><td class="sp-sci">Juniperus thurifera</td><td>Cutanda, alrededores — muy localizada</td><td><span class="ts">MR</span></td><td>Dispersión ornitócora obligada (aves + zorros); madera excepcional</td></tr>
+      <tr><td class="sp-n">8</td><td>Retama</td><td class="sp-sci">Retama sphaerocarpa</td><td>Valle del Ebro, laderas Sistema Ibérico</td><td><span class="ts">D</span></td><td>Fijadora de N₂ (leguminosa simbiótica), flavonoides anticancerígenos, «debajo de cada retama cría una oveja»</td></tr>
+      <tr><td class="sp-n">9</td><td>Majuelo / Espino</td><td class="sp-sci">Crataegus monogyna</td><td>Setos, orlas forestales, barrancos</td><td><span class="tu">C</span></td><td>Cardioprotector (EMA), sedante leve, frutos para aves, madera más dura de Europa</td></tr>
+      <tr><td class="sp-n">10</td><td>Cornejo</td><td class="sp-sci">Cornus sanguinea</td><td>Setos del valle del Huerva &lt;1.100 m</td><td><span class="td">R</span></td><td>Antocianinas antioxidantes (hojas rojas en otoño), febrífugo; carbón para pólvora en Edad Moderna</td></tr>
+      <tr><td class="sp-n">11</td><td>Lentisco</td><td class="sp-sci">Pistacia terebinthus</td><td>Gargantas valle medio Huerva &lt;800 m</td><td><span class="ts">D</span></td><td>Resina: antibacteriana (H. pylori), antiinflamatoria (Crohn), antidiabética; agallas con 22% más taninos</td></tr>
+      <tr><td class="sp-n">12</td><td>Aladierno</td><td class="sp-sci">Rhamnus alaternus</td><td>Cantiles calizos soleados, termófila</td><td><span class="tu">C</span></td><td>Laxante (antraquinonas), hipotensor, antioxidante, antiinflamatoria; forma con hoja pequeña: <em>R. myrtifolia</em></td></tr>
+      <tr><td class="sp-n">13</td><td>Fresno de hoja estrecha</td><td class="sp-sci">Fraxinus angustifolia</td><td>Setos fluviales, sotos del Huerva</td><td><span class="ts">D</span></td><td>Antioxidante, antimutagéno, anticancerígena (mama), antidiabética, hepatoprotectora, neuroprotectora</td></tr>
+      <tr><td class="sp-n">14</td><td>Boj</td><td class="sp-sci">Buxus sempervirens</td><td>Prepirineo; aislado en Monegrillo</td><td><span class="ts">MR</span></td><td>Antipirético (sustituto quinina histórico), antiviral (VIH), antirreumático; olor característico por taninos</td></tr>
+      <tr><td class="sp-n">15</td><td>Gayuba</td><td class="sp-sci">Arctostaphylos uva-ursi</td><td>Bosques y claros silíceos &gt;1.000 m</td><td><span class="tu">C</span></td><td>Indicadora de suelo silíceo; arbutosida: antiséptica urinaria (EMA reconocida)</td></tr>
+      <tr><td class="sp-n">16</td><td>Estripa / Jaramago</td><td class="sp-sci">Cistus laurifolius</td><td>Grandes extensiones, suelos silíceos</td><td><span class="tu">C</span></td><td>Indicadora de incendio y degradación; resina cistus: antimicrobiana</td></tr>
+      <tr><td class="sp-n">17</td><td>Esparto / Atocha</td><td class="sp-sci">Stipa barbata</td><td>Yesos de Barrachina-Cutanda</td><td><span class="ts">MR</span></td><td>Bioindicadora de yesos (gipsófila); fibra textil histórica</td></tr>
+      <tr><td class="sp-n">18</td><td>Aguileña / Columbina</td><td class="sp-sci">Aquilegia vulgaris</td><td>Quejigales húmedos y marojales &gt;1.100 m</td><td><span class="ts">D</span></td><td>Indicadora de quejigal húmedo conservado; ornamental; tóxica (alcaloides)</td></tr>
+      <tr><td class="sp-n">19</td><td>Orquídea abeja</td><td class="sp-sci">Ophrys sphegodes</td><td>Pastos, claros forestales, cunetas</td><td><span class="tu">C</span></td><td>Mimetismo sexual con abejas (coevolución); indicadora de pastos conservados sin herbicida</td></tr>
+      <tr><td class="sp-n">20</td><td>Helecho culantrillo</td><td class="sp-sci">Adiantum capillus-veneris</td><td>Grietas húmedas de toba, Baños de Segura</td><td><span class="ts">MR</span></td><td>Bioindicadora de surgencia de agua calcárea; muy rara; uso pectoral tradicional</td></tr>
+    </tbody>
+  </table>
+
+  <div class="leg-row">
+    <span class="leg"><span class="tu">MC</span> Muy común</span>
+    <span class="leg"><span class="tu">C</span> Común</span>
+    <span class="leg"><span class="ts">D</span> Dispersa</span>
+    <span class="leg"><span class="td">R</span> Rara</span>
+    <span class="leg"><span class="ts">MR</span> Muy rara</span>
+  </div>
+  <p style="margin-top:0.38rem;font-size:10.5px;color:var(--ink-light);">Abundancia según escala subjetiva del catálogo Ferrer Plou (1993).<sup class="r">[1]</sup> Propiedades farmacológicas contrastadas con ensayos clínicos en PMC/PubMed citados en la Guía del Arboretum Cogullada (SEO/BirdLife, 2026).<sup class="r">[3]</sup> Familia Scrophulariaceae y Apiaceae del Jiloca según Mateo Sanz (1998).<sup class="r">[2]</sup></p>
+</section>
+
+</main>
+
+<!-- ════ COLUMNA LATERAL ═════════════════════════════════ -->
+<aside class="side-col">
+
+  <!-- BIOGEOGRAFÍA -->
+  <div class="brain">
+    <div class="bb-lbl">Singularidad del área · lo que el suelo mueve no puede vivir</div>
+    <p>En los páramos calizos por encima de 1.200 m, el suelo sufre <strong>hielo-deshielo diario</strong> hasta bien entrada la primavera. Este fenómeno de crioturbación provoca movimientos de partículas capaces de <strong>desarraigar cualquier planta</strong> antes de que pueda establecerse. Solo dos especies de gramíneas —<em>Festuca hystrix</em> y <em>Poa ligulata</em>— han desarrollado la capacidad de arraigar de nuevo cada vez que el suelo las expulsa. Por eso dominan absolutamente estos páramos: no porque sean las mejores competidoras, sino porque son las únicas que sobreviven a un suelo que se mueve solo.</p>
+    <cite>Ferrer Plou, J. (1993): Asociación Poo-Festucetum hystricis — páramos de Cucalón y Fonfría<sup class="r">[1]</sup> · Ferrer Plou, J. — cap. 2.4: Clima; fenómenos de crioturbación</cite>
+  </div>
+
+  <!-- COMUNIDADES VEGETALES -->
+  <div class="card">
+    <div class="card-t">Comunidades vegetales del Sistema Ibérico zaragozano<sup class="r">[1]</sup></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#1a6b37;"></span><div class="veg-text"><span class="veg-name">Carrascal (Cephalanthero-Quercetum rotundifoliae)</span> — dominante &lt;1.100 m; <em>Q. rotundifolia</em>, <em>Rubia peregrina</em>, <em>Lonicera etrusca</em></div></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#2e6b47;"></span><div class="veg-text"><span class="veg-name">Quejigal</span> — 900–1.200 m, laderas norte; <em>Q. faginea</em>, <em>Cephalanthera longifolia</em>, <em>Hepatica nobilis</em></div></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#4a9465;"></span><div class="veg-text"><span class="veg-name">Marojal (Luzulo-Quercetum pyrenaicae)</span> — areniscas miocenas, 1.300–1.500 m; bioindicador eurosiberiano</div></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#c47a1a;"></span><div class="veg-text"><span class="veg-name">Jaral (Erico-Cistetum populifolii)</span> — suelos silíceos perturbados; <em>Cistus laurifolius</em>, <em>C. salviifolius</em>, <em>Lavandula stoechas</em></div></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#8a5010;"></span><div class="veg-text"><span class="veg-name">Matorral de Aphyllanthion</span> — calizas áridas; <em>Aphyllanthes monspeliensis</em>, <em>Thymus vulgaris</em>, <em>Genista scorpius</em></div></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#2960a0;"></span><div class="veg-text"><span class="veg-name">Pastizal de cumbres (Mesobromion)</span> — &gt;1.200 m; <em>Festuca hystrix</em>, <em>Koeleria vallesiana</em>, <em>Erinaceae anthyllis</em></div></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#6a4a2a;"></span><div class="veg-text"><span class="veg-name">Matorral gipsófilo (Ononidion tridentatae)</span> — yesos Barrachina-Cutanda; <em>Ononis tridentata</em>, <em>Herniaria fruticosa</em></div></div>
+    <div class="veg-row"><span class="veg-badge" style="background:#1a6b8a;"></span><div class="veg-text"><span class="veg-name">Juncales y praderas húmedas (Holoschoenetalia)</span> — riberas de arroyos; <em>Scirpus holoschoenus</em>, <em>Cirsium pyrenaicum</em></div></div>
+  </div>
+
+  <!-- PROPIEDADES FARMACOLÓGICAS DESTACADAS -->
+  <div class="card">
+    <div class="card-t">Propiedades fitoquímicas destacadas — Guía Cogullada<sup class="r">[3]</sup></div>
+    <div class="medic-grid">
+      <div class="medic-card">
+        <div class="medic-name">Juniperus phoenicea</div>
+        <div class="medic-common">Sabina negra</div>
+        <div class="medic-props">
+          <span class="prop-pill">Anticancerígena</span>
+          <span class="prop-pill amber">α-pineno 83%</span>
+          <span class="prop-pill blue">Antiinflamatoria</span><br>
+          Inhibición edema 100% tras 6h. Bactericida contra <em>S. aureus</em>
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Salvia rosmarinus</div>
+        <div class="medic-common">Romero</div>
+        <div class="medic-props">
+          <span class="prop-pill">Mejora memoria</span>
+          <span class="prop-pill amber">+5–15%</span>
+          <span class="prop-pill blue">↓ Cortisol</span><br>
+          Previene caída del cabello; antibiótico; antiinflamatorio articular
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Thymus vulgaris</div>
+        <div class="medic-common">Tomillo</div>
+        <div class="medic-props">
+          <span class="prop-pill">EMA reconocida</span>
+          <span class="prop-pill amber">Anti-H.pylori</span>
+          <span class="prop-pill">Insecticida</span><br>
+          Expectorante oficial (tos productiva); antimicrobiano demostrado
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Pistacia terebinthus</div>
+        <div class="medic-common">Cornicabra</div>
+        <div class="medic-props">
+          <span class="prop-pill">Anti-H.pylori</span>
+          <span class="prop-pill amber">Crohn/CUCI</span>
+          <span class="prop-pill blue">Ignífuga natural</span><br>
+          Agallas: +22% taninos — antifúngico y hemostático superior
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Quercus faginea</div>
+        <div class="medic-common">Quejigo</div>
+        <div class="medic-props">
+          <span class="prop-pill">Hepatoprotector</span>
+          <span class="prop-pill amber">Anticancerígena</span>
+          <span class="prop-pill blue">Antidiabético</span><br>
+          Bellotas comestibles: hidratos, ácidos grasos, vit. E; cicatrizante
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Retama sphaerocarpa</div>
+        <div class="medic-common">Retama</div>
+        <div class="medic-props">
+          <span class="prop-pill">Fijadora N₂</span>
+          <span class="prop-pill amber">Flavonoides</span>
+          <span class="prop-pill">Citotóxica</span><br>
+          «Debajo de cada retama cría una oveja» — pasto de alta calidad
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Crataegus monogyna</div>
+        <div class="medic-common">Majuelo / Espino blanco</div>
+        <div class="medic-props">
+          <span class="prop-pill">EMA cardioprotector</span>
+          <span class="prop-pill amber">Sedante leve</span>
+          <span class="prop-pill blue">Madera más dura EU</span><br>
+          Hojas y flores: alivio de molestias cardíacas, reduce el estrés
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Buxus sempervirens</div>
+        <div class="medic-common">Boj</div>
+        <div class="medic-props">
+          <span class="prop-pill">Antipirético</span>
+          <span class="prop-pill amber">Antiviral (VIH)</span>
+          <span class="prop-pill blue">Antirreumático</span><br>
+          Sustituto histórico de la quinina. <em>Su olor: taninos antisépticos</em>
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Arctostaphylos uva-ursi</div>
+        <div class="medic-common">Gayuba</div>
+        <div class="medic-props">
+          <span class="prop-pill">Antiséptica urinaria</span>
+          <span class="prop-pill amber">EMA reconocida</span>
+          <span class="prop-pill blue">Silícea</span><br>
+          Arbutosida activa en vías urinarias; tapiza suelos silíceos
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Cornus sanguinea</div>
+        <div class="medic-common">Cornejo</div>
+        <div class="medic-props">
+          <span class="prop-pill">Antioxidante</span>
+          <span class="prop-pill amber">Febrífugo</span>
+          <span class="prop-pill blue">Carbón para pólvora</span><br>
+          Antocianinas (hojas rojas en otoño); drupas digestivas
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Fraxinus angustifolia</div>
+        <div class="medic-common">Fresno de hoja estrecha</div>
+        <div class="medic-props">
+          <span class="prop-pill">Antidiabético</span>
+          <span class="prop-pill amber">Neuroprotector</span>
+          <span class="prop-pill blue">Anticancerígeno</span><br>
+          Mana: laxante + anticancerígena colorrectal (ensayo clínico)
+        </div>
+      </div>
+      <div class="medic-card">
+        <div class="medic-name">Rhamnus alaternus</div>
+        <div class="medic-common">Aladierno</div>
+        <div class="medic-props">
+          <span class="prop-pill">Laxante potente</span>
+          <span class="prop-pill amber">Hipotensor</span>
+          <span class="prop-pill blue">Antioxidante</span><br>
+          Antraquinonas: estimulan colon; uso médico bajo control
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JILOCA: FLORA DEL ENTORNO INMEDIATO -->
+  <div class="card">
+    <div class="card-t">Flora del Jiloca — Mateo Sanz (1998)<sup class="r">[2]</sup></div>
+    <p>El catálogo de Mateo Sanz cubre el entorno inmediato del pueblo de Barrachina (Scrophulariaceae–Zygophyllaceae). Especies habituales en cunetas, pastizales y márgenes del Jiloca:</p>
+    <div class="parks">
+      <span class="ptag"><em>Eryngium campestre</em> — cardo corredor</span>
+      <span class="ptag"><em>Daucus carota</em> — zanahoria silvestre</span>
+      <span class="ptag"><em>Seseli montanum</em></span>
+      <span class="ptag"><em>Heracleum sphondylium</em> — ursina</span>
+      <span class="ptag"><em>Foeniculum piperitum</em> — hinojo</span>
+      <span class="ptag"><em>Pastinaca sativa</em> — chirivía</span>
+      <span class="ptag"><em>Oenanthe lachenalii</em></span>
+      <span class="ptag"><em>Scandix australis</em></span>
+    </div>
+    <p style="margin-top:0.45rem;font-size:11px;color:var(--ink-light);">La umbela (inflorescencia de las Apiaceae) es un modelo morfológico ideal para Primaria: sus flores pequeñas en plataforma atraen a insectos generalistas, lo que convierte a estas plantas en «comedores comunitarios» fácilmente observables en cualquier camino del Jiloca.</p>
+  </div>
+
+  <!-- GRADIENTE SUELO-PLANTA -->
+  <div class="card">
+    <div class="card-t">CONTEXTO 1 | Gradiente suelo → planta → comunidad<sup class="r">[1]</sup></div>
+    <p>El Sistema Ibérico zaragozano presenta tres sustratos geológicos en pocos kilómetros, lo que genera comunidades vegetales radicalmente distintas:</p>
+    <div class="sbox sbox-blue" style="margin-top:5px;">
+      <strong>Pizarras y cuarcitas silúricas (Sierra de Herrera, Modorra de Badenas):</strong> pH ácido, pobre en bases → <em>Cistus laurifolius</em>, <em>Calluna vulgaris</em>, <em>Arctostaphylos uva-ursi</em>, <em>Lavandula stoechas</em>. Indicadoras: marojal, brezal, jaral.
+    </div>
+    <div class="sbox sbox-amber" style="margin-top:5px;">
+      <strong>Calizas cretácicas y eocenas (Sierra de Cucalón-Oriche):</strong> pH básico, rico en carbonatos → <em>Thymus vulgaris</em>, <em>Festuca hystrix</em>, <em>Erinaceae anthyllis</em>, <em>Anthyllis montana</em>. Indicadoras: tomillar, pastizal de cumbres.
+    </div>
+    <div class="sbox sbox-green" style="margin-top:5px; font-size:11px;">
+      <strong>Yesos miocenos (Barrachina-Cutanda):</strong> sustrato extremo, alta concentración de sulfato cálcico → flora gipsófila exclusiva: <em>Ononis tridentata</em>, <em>Herniaria fruticosa</em>, <em>Stipa barbata</em>, <em>Gypsophila hispanica</em>. Solo el 2–3% de las plantas puede tolerar estos suelos.
+    </div>
+    <p style="font-size:11px;color:var(--ink-mid);margin-top:0.4rem;">Este gradiente puede recorrerse en coche en menos de 30 minutos desde Teruel, lo que lo convierte en una excursión perfecta para cualquier etapa educativa.</p>
+  </div>
+
+  <!-- ITINERARIOS DE FERRER PLOU -->
+  <div class="card">
+    <div class="card-t">CONTEXTO 2 | Itinerarios didácticos de Ferrer Plou<sup class="r">[1]</sup></div>
+    <p>El libro de Ferrer Plou incluye itinerarios con paradas descritas que siguen siendo válidos hoy. Los más accesibles desde Teruel:</p>
+    <ul class="blist">
+      <li><strong>Itinerario 1 (Valle del Jiloca):</strong> Navarrete → Barrachina (yesos gipsófilos) → Puerto de Bañón (páramos calizos con <em>Erinaceae anthyllis</em> y <em>Genista pumila</em>)</li>
+      <li><strong>Itinerario 3 (Sierra de Herrera):</strong> Carrascal ibérico, brezal silíceo, pastizales de cumbre con <em>Gagea nevadensis</em> y <em>Orchis morio</em></li>
+      <li><strong>Baños de Segura:</strong> cantiles calizos con <em>Adiantum capillus-veneris</em>, <em>Ononis aragonensis</em> y <em>Micromeria fruticosa</em> (planta medicinal muy perseguida)</li>
+    </ul>
+  </div>
+
+  <!-- HERRAMIENTAS -->
+  <div class="card">
+    <div class="card-t">Herramientas para el aula y el campo</div>
+    <ul class="blist">
+      <li><strong>PlantNet App</strong> — identificación por foto, gratuita, precisión ~85%</li>
+      <li><strong>iNaturalist</strong> — registro, georreferenciación y comunidad científica</li>
+      <li><strong>Flora Ibérica online</strong> (floraiberica.es) — clave dicotómica oficial</li>
+      <li><strong>GBIF</strong> — registros históricos y distribución global</li>
+      <li><strong>Herbario virtual JACA</strong> — Instituto Pirenaico de Ecología, CSIC</li>
+      <li><strong>Catálogo Ferrer Plou (1993)</strong> — 1.100+ taxones con UTM</li>
+      <li><strong>PMC / PubMed</strong> — propiedades farmacológicas documentadas</li>
+    </ul>
+  </div>
+
+  <!-- CONEXIÓN AVES-PLANTAS -->
+  <div style="background:linear-gradient(145deg,#1e3a5f,#0c223a); border-radius:9px; padding:0.8rem 0.9rem; margin-bottom:0.85rem;">
+    <div style="font-size:8.5px; letter-spacing:0.14em; text-transform:uppercase; color:rgba(255,255,255,0.42); margin-bottom:0.3rem; font-weight:600;">Conexión con la avifauna · círculo ecológico completo</div>
+    <p style="font-size:11.5px; color:rgba(255,255,255,0.78); line-height:1.65; font-style:italic;">
+      La sabina albar (<em>Juniperus thurifera</em>) necesita que sus bayas sean ingeridas por aves o zorros para germinar: sin zorzales ni cuervos no hay sabinas. El majuelo (<em>Crataegus monogyna</em>) produce los frutos más consumidos por las aves migratorias en todo el Sistema Ibérico. El abejaruco (<em>Merops apiaster</em>) —en declive −20% según SACRE— controla las poblaciones de abejorros que polinizan el tomillo. Flora y avifauna forman un <b>sistema interdependiente</b> que los alumnos pueden visualizar con ambos posters juntos.
+    </p>
+    <cite style="display:block; font-size:10px; color:rgba(255,255,255,0.36); margin-top:0.3rem; font-style:normal;">Ferrer Plou 1993<sup class="r">[1]</sup> · SEO/BirdLife Guía Cogullada 2026<sup class="r">[3]</sup> · SACRE 2023<sup class="r">[5]</sup></cite>
+  </div>
+
+  <!-- CLIMAS Y PISOS -->
+  <div class="card">
+    <div class="card-t">Pisos de vegetación en el territorio estudiado<sup class="r">[1]</sup></div>
+    <div class="trend-bars">
+      <div class="tb-row"><div class="tb-track" style="width:28%;background:#d4eadc;"></div><span class="tb-lbl">Mesomediterráneo seco (540–960 m) — carrascal, romeral</span></div>
+      <div class="tb-row"><div class="tb-track" style="width:45%;background:#4a9465;"></div><span class="tb-lbl">Supramediterráneo seco (960–1.200 m) — quejigal, brezal</span></div>
+      <div class="tb-row"><div class="tb-track" style="width:20%;background:#1a4a2e;"></div><span class="tb-lbl">Supramediterráneo húmedo (1.200–1.510 m) — marojal, pastizal</span></div>
+    </div>
+    <p style="font-size:11px;color:var(--ink-light);margin-top:0.38rem;">Clasificación según Rivas Martínez (1981). Los observatorios meteorológicos de referencia son Cariñena, Daroca, Calamocha, Montalbán y Aliaga. La temperatura media varía entre 12,5°C (Cariñena) y 10,6°C (Aliaga), con precipitaciones de 404–594 mm anuales.</p>
+  </div>
+
+  <!-- ASNOMIA CIENTÍFICA -->
+  <div class="card">
+    <div class="card-t">El nombre científico como recurso didáctico</div>
+    <p>El nombre científico <em>Quercus rotundifolia</em> no es un obstáculo: es información. <em>Quercus</em> = roble (céltico <em>quer</em>=árbol, <em>cuez</em>=bonito). <em>rotundifolia</em> = hoja redonda (latín). Descomponer los binomios convierte la nomenclatura en un <strong>ejercicio de latín y griego aplicado</strong> que refuerza el vocabulario científico en todas las áreas. La carrasca tiene hoja redonda porque esa forma minimiza la pérdida de agua por evapotranspiración en el clima mediterráneo: morfología → función → ecología en tres pasos.</p>
+  </div>
+
+</aside>
+</div>
+<!-- /body -->
+
+<!-- ══ LIGHTBOX ══════════════════════════════════════════ -->
+<div id="lb-overlay" onclick="if(event.target===this)closeLb()">
+  <img id="lb-img" src="" alt="">
+  <div id="lb-bar" onclick="event.stopPropagation()">
+    <span id="lb-caption"></span>
+    <button id="lb-close" onclick="closeLb()">&#10005; Cerrar</button>
+  </div>
+</div>
+<script>
+function openLb(src,caption){document.getElementById('lb-img').src=src;document.getElementById('lb-img').alt=caption;document.getElementById('lb-caption').textContent=caption;document.getElementById('lb-overlay').classList.add('open');}
+function closeLb(){document.getElementById('lb-overlay').classList.remove('open');}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeLb();});
+</script>
+
+<!-- ══ FOOTER ════════════════════════════════════════════ -->
+<footer class="footer">
+  <div class="f-refs">
+    <h4>Referencias</h4>
+    <ul class="rlist">
+      <li><span class="rn">[1]</span>Ferrer Plou, J. (1993). <em>Flora y Vegetación de las Sierras de Herrera, Cucalón y Fonfría.</em> Naturaleza en Aragón, 4. Diputación General de Aragón, Departamento de Agricultura, Ganadería y Montes. Zaragoza. ISBN: 84-7753-356-3. [Tesis doctoral, Facultad de Ciencias Biológicas de Valencia, 1986.]</li>
+      <li><span class="rn">[2]</span>Mateo Sanz, G. (1998). «Sobre la flora de la comarca del Jiloca (XI)». <em>Xiloca. Revista del Centro de Estudios del Jiloca</em>, 22: 207–225. ISSN: 0214-1175. Departamento de Biología Vegetal, Facultad de Ciencias Biológicas, Universidad de Valencia.</li>
+      <li><span class="rn">[3]</span>SEO/BirdLife (2026). <em>Guía de Especies Vegetales del Arboretum — Complejo Cogullada [Borrador v1, mayo 2026].</em> Con referencias primarias en PMC/NCBI, PubMed y EMA para cada especie.</li>
+      <li><span class="rn">[4]</span>GBIF — Global Biodiversity Information Facility. Registros de herbario de la flora del Sistema Ibérico aragonés. <a href="https://www.gbif.org" style="color:rgba(255,255,255,0.5);">gbif.org</a> · Herbario JACA: Instituto Pirenaico de Ecología (CSIC), Jaca.</li>
+      <li><span class="rn">[5]</span>Carrascal, L. M., Escandell, V. &amp; Del Moral, J. C. (2023). <em>Evolución de las poblaciones de las aves comunes por hábitat en la España peninsular.</em> SEO/BirdLife. Madrid. ISBN: 978-84-127360-2-1. [Conexión avifauna–flora.]</li>
+      <li><span class="rn">[6]</span>Rivas Martínez, S. (1981). <em>Pisos bioclimáticos de España.</em> Lazaroa, 5. · Tutin et al. (1964–1980). <em>Flora Europaea</em>, vols. 1–5. Cambridge University Press.</li>
+      <li><span class="rn">[7]</span>EMA (European Medicines Agency). Monografías de plantas medicinales: <em>Crataegi folium cum flore</em>, <em>Thymus vulgaris</em>. <a href="https://www.ema.europa.eu" style="color:rgba(255,255,255,0.5);">ema.europa.eu</a></li>
+    </ul>
+  </div>
+  <div class="f-logo">
+    <div class="logo-t"><small>Enseñar a través<br>de las plantas</small></div>
+    <div class="logo-s">Campus Universitario de Teruel · Universidad de Zaragoza · Sistema Ibérico<br><br><hr><p align="right"><small><b style="color:#ffffff;">SEO / BirdLife · mayo 2026 · v2</b></small></p></div>
+  </div>
+</footer>
+
+</article>
+</body>
+</html>
