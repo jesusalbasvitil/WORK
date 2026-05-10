@@ -8,23 +8,23 @@ El Arboretum Cogullada constituye una colección botánica seleccionada por sus 
 
 ## 2. ANÁLISIS DETALLADO DE ESPECIES
 
-### Árboles Principales y sus Beneficios
+### Árboles principales y sus beneficios
 
 #### Encina o Carrasca (*Quercus ilex ssp ballota*)
 
-El más abundante de España. Destaca por sus hojas con capacidad antioxidante superior[^1][^2] y antifúngica[^3], además de bellotas comestibles con efectos antidiabéticos[^1] y utilidad en el tratamiento de la colitis[^4].
+Es el árbol más abundante de España. Destaca por sus hojas con capacidad antioxidante superior[^1][^2] y antifúngica[^3], además, sus bellotas comestibles  tienen efectos antidiabéticos[^1] y es útil en el tratamiento de la colitis[^4].
 
 #### Almendro (*Prunus dulcis*)
 
-Muy resistente a la sequía. Su consumo reduce el colesterol total[^5][^6], aumenta el HDL y mejora significativamente la memoria y el aprendizaje[^7][^8], además de modular positivamente la microbiota intestinal[^7].
+Árbol muy resistente a la sequía. Su consumo reduce el colesterol total[^5][^6], aumenta el HDL y mejora significativamente la memoria y el aprendizaje[^7][^8], además de modular positivamente la microbiota intestinal[^7].
 
 #### Nogal (*Juglans regia*)
 
-Sus hojas son neuroprotectoras frente al Parkinson y Alzheimer[^9] y antidiabéticas[^10]. El consumo de nueces mejora la presión arterial y reduce el riesgo de enfermedades coronarias[^9].
+Las hojas del nogal son neuroprotectoras frente al Parkinson y Alzheimer[^9] y antidiabéticas[^10]. El consumo de sus nueces mejora la presión arterial y reduce el riesgo de enfermedades coronarias[^9].
 
 #### Fresno (*Fraxinus angustifolia*)
 
-Posee citotoxicidad selectiva contra el cáncer de mama[^11]. Su "mana" (savia) es laxante y combate la progresión del cáncer colorrectal[^12]. Es además hepatoprotector[^11] y neuroprotector[^13].
+Posee citotoxicidad selectiva contra el cáncer de mama[^11]. Su *"mana"* (savia) es laxante y combate la progresión del cáncer colorrectal[^12]. Es además hepatoprotector[^11] y neuroprotector[^13].
 
 #### Granado (*Punica granatum*)
 
@@ -38,7 +38,7 @@ Sus hojas son antidiabéticas[^16], su corteza es antitumoral[^16][^17] y su fru
 
 Sus extractos son potentes analgésicos (reducen el dolor en un 63%)[^20] y poseen una notable actividad antioxidante[^21].
 
-### Especies Marcescentes y de Sombra
+### Robles
 
 #### Quejigo (*Quercus faginea*)
 
@@ -48,7 +48,7 @@ Sus bellotas son ricas en vitamina E[^22]. La corteza tiene propiedades cicatriz
 
 Adaptado al calor con hojas vellosas. El extracto de su madera tiene propiedades antienvejecimiento cutáneo[^23] y su corteza es antioxidante[^23].
 
-### Árboles y Arbustos de Zonas Húmedas o Montaña
+### Árboles y arbustos de zonas húmedas o montaña
 
 #### Olmo común (*Ulmus minor*)
 
@@ -70,7 +70,7 @@ Sus hojas se vuelven rojas por antocianinas antioxidantes[^32]. Útil para diarr
 
 Usado antiguamente como sustituto de la quinina[^33]. Es antiviral (estudiado contra el VIH)[^34] y antitumoral[^34], aunque su venta es restringida por toxicidad[^35][^36].
 
-### Arbustos del Valle del Ebro y Propiedades Medicinales
+### Arbustos
 
 #### Lentisco (*Pistacia lentiscus*)
 
@@ -100,7 +100,6 @@ Posee propiedades antisépticas, antiinflamatorias y antitusígenas[^47].
 
 Potente laxante y purgante[^48][^49]. Su corteza se emplea para reducir la presión arterial[^49].
 
-### Sabinas y Acebo
 
 #### Sabina albar (*Juniperus thurifera*)
 
