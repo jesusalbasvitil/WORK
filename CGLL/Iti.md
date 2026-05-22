@@ -1,0 +1,11 @@
+- N 41° 19' 56,485" W 0° 42' 1,868" 18:14 Maya 2º
+- N 41° 19' 36,863" W 0° 42' 0,185" 18:21 Poste
+- Bar Perico  41°19'58.82"N   0°41'55.87"O 18:22
+- N 41° 20' 2,936" W 0° 41' 55,878" 
+- Poste: poner señal debajo y podar, pared anterior otro 41°20'1.10"N  0°41'53.72"O 18:46 
+- Duponti N 41° 20' 2,933" W 0° 41' 57,476" 18:47
+- Primilla N 41° 20' 3,713" W 0° 42' 2,274"
+- Calandria 18:50
+- Terrera común 18:51
+- Teja para cambiar de dirección 18:53
+- Entrada Codo desde cº Crtra. Blch Cenizo 41°20'3.16"N   0°42'7.61"O 18:56
