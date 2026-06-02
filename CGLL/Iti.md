@@ -8,4 +8,4 @@
 - Calandria 18:50
 - Terrera común 18:51
 - Teja para cambiar de dirección 18:53
-- Entrada Codo desde cº Crtra. Blch Cenizo 41°20'3.16"N   0°42'7.61"O 18:56
+- Entrada Codo desde cº Crta. Blch Cenizo 41°20'3.16"N   0°42'7.61"O 18:56
