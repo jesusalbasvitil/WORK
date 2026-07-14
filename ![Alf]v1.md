@@ -2,7 +2,7 @@ A la vista de la respuesta a una solicitud de información de SEO /BirdLife sobr
 
 Además, 
 
-1. a lo largo de los años se han **endurecido los controles y exigencias** por parte del Gobierno de Aragón. 
+1. A lo largo de los años se han **endurecido los controles y exigencias** por parte del Gobierno de Aragón. 
 2. En paralelo, otros parques eólicos [PEs] han **rebasado el plazo de emisión de los informes** de seguimiento ambiental.
 3. Ha habido un **aumento exponencial de PEs** 
 
