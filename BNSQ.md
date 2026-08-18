@@ -74,43 +74,27 @@ $$N = \frac{3.351,58 \text{ m}}{579 \text{ m}} \approx 5,78 \rightarrow \mathbf{
 A continuación se detalla el Capítulo 4 correspondiente al presupuesto del proyecto, asumiendo un valor medio ponderado de 7 días de trabajo en gabinete (punto medio del rango de 6 a 8 días indicado) para fijar los importes finales de referencia.
 ------------------------------
 ## 4. Presupuesto Económico Estimado
-El coste total del servicio para la ejecución de la prospección botánica, procesado de datos, cartografía y redacción técnica asciende a un total de 2.028,00 € (base imponible).
-A continuación se desglosan las partidas presupuestarias estructuradas por naturaleza de coste:
+El coste total del servicio para el diseño, ejecución de campo, análisis de datos y maquetación final del inventario botánico asciende a 2.704,00 € (base imponible).
+A continuación se desglosan las partidas presupuestarias estructuradas por unidades de obra, aplicando la tarifa unificada de 16,00 €/hora y fijando el cálculo de gabinete bajo un valor medio ponderado de 7 días de dedicación (punto medio del rango de 6 a 8 días indicado):
 
 | Código | Concepto / Unidad de Obra | Mediciones | Precio Unitario | Importe Total |
 |---|---|---|---|---|
-| 01 | Trabajo de Campo (Prospección de Transectos) Ejecución a pie de los 3,3 km de transectos definidos. Jornadas intensivas de muestreo botánico y toma de datos mediante GPS. | 30 horas (3 días a 10h/día) | 13,00 € / h | 390,00 € |
-| 02 | Trabajo de Gabinete (Informe y Cartografía) Procesado de datos de campo, digitalización de coberturas, diseño de planos funcionales y redacción de la memoria final. | 70 horas (Media de 7 días a 10h/día) | 13,00 € / h | 910,00 € |
-| 03 | Desplazamientos y Logística de Ruta Tiempo computable invertido en los trayectos de ida y vuelta a la parcela de estudio para cubrir el calendario de campo. | 20 horas (4 desplazamientos totales) | 13,00 € / h | 260,00 € |
-| 04 | Gastos Varios e Imprevistos (30% s/ Costes Directos) Margen regulador que absorbe costes de dietas, pernoctaciones (alojamiento), mantenimiento de equipos técnicos e imprevistos en campo. | 30% sobre Subtotal (1.560,00 €) | — | 468,00 € |
-| TOTAL | BASE IMPONIBLE PRESUPUESTO DE EJECUCIÓN MATERIAL | | | 2.028,00 € |
+| 01 | Replanteo Previo y Diseño de Cartografía Análisis preliminar de la parcela, delimitación de estratos ambientales e importación de los tracks de los transectos al GPS de campo. | 10 horas (1 día a 10h/día) | 16,00 € / h | 160,00 € |
+| 02 | Trabajo de Campo (Prospección de Transectos) Ejecución a pie de los 3,3 km de transectos. Jornadas intensivas de muestreo botánico, conteo taxonómico y registro de datos. | 30 horas (3 días a 10h/día) | 16,00 € / h | 480,00 € |
+| 03 | Trabajo de Gabinete (Informe y Planos) Procesado estadístico, digitalización de coberturas vegetales, diseño de planos finales en SIG y redacción de la memoria técnica. | 70 horas (Media de 7 días a 10h/día) | 16,00 € / h | 1.120,00 € |
+| 04 | Desplazamientos y Logística de Ruta Inversión de tiempo en los trayectos necesarios para cubrir el calendario del proyecto. Se contemplan 20 horas de tránsito totales. | 20 horas (4 desplazamientos) | 16,00 € / h | 320,00 € |
+| 05 | Gastos Varios e Imprevistos (30% s/ Costes Directos) Margen regulador obligatorio que absorbe dietas, manutención, alojamiento (pernoctaciones), consumibles e imprevistos. | 30% sobre Subtotal (2.080,00 €) | — | 624,00 € |
+| TOTAL | BASE IMPONIBLE PRESUPUESTO DE EJECUCIÓN MATERIAL | | | 2.704,00 € |
 
 ## Notas Aclaratorias del Presupuesto
 
 * 
-* Flexibilidad en Gabinete: Debido a la variabilidad intrínseca en la complejidad taxonómica que se pueda registrar, el concepto de Gabinete contempla un rango estimado de 6 a 8 días de dedicación (60 a 80 horas). Esto implica una oscilación presupuestaria de $\pm$ 130,00 € (más el 30% proporcional de gastos varios) sobre el total final presentado, el cual se ha estabilizado bajo la media exacta de 7 días.
-* Condiciones Fiscales: El importe total reflejado corresponde exclusivamente a costes de ejecución operativa. No incluye los impuestos indirectos vigentes (IVA), los cuales se aplicarán en la factura final conforme a la normativa impositiva aplicable al momento de la facturación.
+* Margen de Gabinete: La partida de Gabinete se estima entre 6 y 8 días de dedicación (60 a 80 horas) según la densidad floral final encontrada. Esto representa una posible fluctuación de ± 160,00 € (más su 30% proporcional de imprevistos) con respecto al total equilibrado de 7 días que se muestra en la tabla.
+* Régimen Fiscal: El presupuesto refleja exclusivamente los costes de los recursos técnicos y logísticos necesarios. No incluye el Impuesto sobre el Valor Añadido (IVA), el cual será desglosado en la correspondiente factura oficial.
 * 
 
 ------------------------------
-Si estás conforme con este desglose económico, ¿deseas que prepare la estructura de plazos y cronograma de entrega (Diagrama de Gantt) vinculando estos días de campo y gabinete, o necesitas realizar algún ajuste en las tarifas horarias?
-
-# Presupuesto de Prospección Botánica
-# Tarifas y variablestarifa_hora = 13.00
-# Ítem 1: Trabajo de campo (Transectos)dias_campo = 3horas_dia_campo = 10horas_campo = dias_campo * horas_dia_campocoste_campo = horas_campo * tarifa_hora
-# Ítem 2: Gabinete (Redacción de informe y planos)# Se asume un valor intermedio de 7 días (entre 6 y 8) para el cálculo exacto, o calculamos el rango? # El prompt dice "6-8 días". Calcularemos con el valor de 7 días, pero especificaremos el rango.# Hagamos el cálculo para 7 días como valor medio base.dias_gabinete = 7 horas_dia_gabinete = 10horas_gabinete = dias_gabinete * horas_dia_gabinetecoste_gabinete = horas_gabinete * tarifa_hora
-# Ítem 3: Desplazamientos# Se prevén 4 desplazamientos, 20 horas en total (asumido por la redacción "20 horas"), a 13€/hora (el prompt dice 13€/día pero luego dice 20 horas, el estándar del prompt es 13€/hora para el tiempo dedicado. Evaluemos con 20 horas * 13€/hora)horas_desplazamiento = 20coste_desplazamientos = horas_desplazamiento * tarifa_hora
-# Suma de costes directossubtotal_directo = coste_campo + coste_gabinete + coste_desplazamientos
-# Varios e imprevistos (30% sobre el resto de items)varios_porcentaje = 0.30coste_varios = subtotal_directo * varios_porcentaje
-# Total Presupuestototal_presupuesto = subtotal_directo + coste_varios
-
-print(f"Campo: {coste_campo}€")
-print(f"Gabinete (7 días): {coste_gabinete}€")
-print(f"Desplazamientos: {coste_desplazamientos}€")
-print(f"Subtotal: {subtotal_directo}€")
-print(f"Varios (30%): {coste_varios}€")
-print(f"Total: {total_presupuesto}€")
-# También calcularemos el rango por si acaso para presentar un desglose preciso basado en 7 días como media o presentar el desglose con el rango explícito.
+Si este presupuesto definitivo con la corrección de la tarifa de desplazamientos es correcto, ¿te gustaría que prepare una propuesta formal en un archivo descargable o prefieres definir primero el cronograma de fechas para iniciar los trabajos?
 
 
 
