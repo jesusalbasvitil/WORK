@@ -71,6 +71,48 @@ $$N = \frac{3.351,58 \text{ m}}{579 \text{ m}} \approx 5,78 \rightarrow \mathbf{
 * Intervalo de Separación Espacial: Para asegurar una cobertura homogénea a lo largo de los 579 metros de ancho de la propiedad, los 6 transectos paralelos deben separarse entre sí a una distancia equidistante fija de 96,5 metros ($579 \text{ m} / 6$).
 * Subdivisión en Sectores (Cuadrículas de Registro): Siguiendo las directrices de monitoreo ecológico digitalizado, cada transecto de 2 metros de ancho se puede subdividir longitudinalmente en sectores continuos (tramos fijos de 10 o 50 metros) [⁵][⁷]. Esto transforma cada transecto en una sucesión de sub-parcelas de muestreo acotadas (ej. sub-parcelas de $2 \times 10\text{ m}$ que acumulan $20\text{ m}^2$ de superficie) [⁵]. Este fraccionamiento permite registrar la frecuencia local, evaluar la varianza espacial interna y mapear mediante georreferenciación GPS los cambios en la densidad o cobertura de las especies a lo largo del recorrido [⁷].
 * 
+A continuación se detalla el Capítulo 4 correspondiente al presupuesto del proyecto, asumiendo un valor medio ponderado de 7 días de trabajo en gabinete (punto medio del rango de 6 a 8 días indicado) para fijar los importes finales de referencia.
+------------------------------
+## 4. Presupuesto Económico Estimado
+El coste total del servicio para la ejecución de la prospección botánica, procesado de datos, cartografía y redacción técnica asciende a un total de 2.028,00 € (base imponible).
+A continuación se desglosan las partidas presupuestarias estructuradas por naturaleza de coste:
+
+| Código | Concepto / Unidad de Obra | Mediciones | Precio Unitario | Importe Total |
+|---|---|---|---|---|
+| 01 | Trabajo de Campo (Prospección de Transectos) Ejecución a pie de los 3,3 km de transectos definidos. Jornadas intensivas de muestreo botánico y toma de datos mediante GPS. | 30 horas (3 días a 10h/día) | 13,00 € / h | 390,00 € |
+| 02 | Trabajo de Gabinete (Informe y Cartografía) Procesado de datos de campo, digitalización de coberturas, diseño de planos funcionales y redacción de la memoria final. | 70 horas (Media de 7 días a 10h/día) | 13,00 € / h | 910,00 € |
+| 03 | Desplazamientos y Logística de Ruta Tiempo computable invertido en los trayectos de ida y vuelta a la parcela de estudio para cubrir el calendario de campo. | 20 horas (4 desplazamientos totales) | 13,00 € / h | 260,00 € |
+| 04 | Gastos Varios e Imprevistos (30% s/ Costes Directos) Margen regulador que absorbe costes de dietas, pernoctaciones (alojamiento), mantenimiento de equipos técnicos e imprevistos en campo. | 30% sobre Subtotal (1.560,00 €) | — | 468,00 € |
+| TOTAL | BASE IMPONIBLE PRESUPUESTO DE EJECUCIÓN MATERIAL | | | 2.028,00 € |
+
+## Notas Aclaratorias del Presupuesto
+
+* 
+* Flexibilidad en Gabinete: Debido a la variabilidad intrínseca en la complejidad taxonómica que se pueda registrar, el concepto de Gabinete contempla un rango estimado de 6 a 8 días de dedicación (60 a 80 horas). Esto implica una oscilación presupuestaria de $\pm$ 130,00 € (más el 30% proporcional de gastos varios) sobre el total final presentado, el cual se ha estabilizado bajo la media exacta de 7 días.
+* Condiciones Fiscales: El importe total reflejado corresponde exclusivamente a costes de ejecución operativa. No incluye los impuestos indirectos vigentes (IVA), los cuales se aplicarán en la factura final conforme a la normativa impositiva aplicable al momento de la facturación.
+* 
+
+------------------------------
+Si estás conforme con este desglose económico, ¿deseas que prepare la estructura de plazos y cronograma de entrega (Diagrama de Gantt) vinculando estos días de campo y gabinete, o necesitas realizar algún ajuste en las tarifas horarias?
+
+# Presupuesto de Prospección Botánica
+# Tarifas y variablestarifa_hora = 13.00
+# Ítem 1: Trabajo de campo (Transectos)dias_campo = 3horas_dia_campo = 10horas_campo = dias_campo * horas_dia_campocoste_campo = horas_campo * tarifa_hora
+# Ítem 2: Gabinete (Redacción de informe y planos)# Se asume un valor intermedio de 7 días (entre 6 y 8) para el cálculo exacto, o calculamos el rango? # El prompt dice "6-8 días". Calcularemos con el valor de 7 días, pero especificaremos el rango.# Hagamos el cálculo para 7 días como valor medio base.dias_gabinete = 7 horas_dia_gabinete = 10horas_gabinete = dias_gabinete * horas_dia_gabinetecoste_gabinete = horas_gabinete * tarifa_hora
+# Ítem 3: Desplazamientos# Se prevén 4 desplazamientos, 20 horas en total (asumido por la redacción "20 horas"), a 13€/hora (el prompt dice 13€/día pero luego dice 20 horas, el estándar del prompt es 13€/hora para el tiempo dedicado. Evaluemos con 20 horas * 13€/hora)horas_desplazamiento = 20coste_desplazamientos = horas_desplazamiento * tarifa_hora
+# Suma de costes directossubtotal_directo = coste_campo + coste_gabinete + coste_desplazamientos
+# Varios e imprevistos (30% sobre el resto de items)varios_porcentaje = 0.30coste_varios = subtotal_directo * varios_porcentaje
+# Total Presupuestototal_presupuesto = subtotal_directo + coste_varios
+
+print(f"Campo: {coste_campo}€")
+print(f"Gabinete (7 días): {coste_gabinete}€")
+print(f"Desplazamientos: {coste_desplazamientos}€")
+print(f"Subtotal: {subtotal_directo}€")
+print(f"Varios (30%): {coste_varios}€")
+print(f"Total: {total_presupuesto}€")
+# También calcularemos el rango por si acaso para presentar un desglose preciso basado en 7 días como media o presentar el desglose con el rango explícito.
+
+
 
 ------------------------------
 ## Referencias
