@@ -1,0 +1,5 @@
+Un ayuntamiento no puede conceder una "licencia de actividad provisional" para que una planta de tratamiento de residuos opere de forma indefinida. Las licencias ambientales exigen una resolución definitiva previa verificación de todos los requisitos técnicos.
+[Licencias urbanísticas. Aranzadi](https://elconsultor.aranzadilaley.es/Content/Documento.aspx?params=H4sIAAAAAAAEAMtMSbF1jTAAAUNjI0NLtbLUouLM_DxbIwMDCwNzAwuQQGZapUt-ckhlQaptWmJOcSoA-il_EjUAAAA=WKE#I771)
+
+La ley sí contempla las llamadas "licencias de usos y obras provisionales" (o licencias en precario). Sin embargo, estas solo sirven para construcciones temporales, desmontables (ej. una caseta de obras, una feria o un circo) y siempre que no estén prohibidas por el plan urbano. No son aplicables a una industria pesada o un centro de residuos persistente.
+[¿Cuándo se puede solicitar una licencia de obras provisional?](https://vento.es/solicitar-licencia-de-obras-provisional/)
