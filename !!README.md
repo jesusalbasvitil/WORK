@@ -24,7 +24,7 @@ Te adjunto listado WP
 24. GE. Cálculo densidad plantas/parcelas `ACTUALIZAR` 
 25. ~~Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`~~ OK
 
-3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` 
+3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` [Legislación](https://www.aragon.es/tramitador/-/tramite/autorizacion-empresas-titulares-vehiculos-transporte-animales#panel-normativa)
 31. Programación con cotos (sol. permisos, plazos)
 32. Mequinenza
 
@@ -47,7 +47,7 @@ Te adjunto listado WP
 72. Segunda fase: Todos senderos GR/PR/Cº naturales por zonas rupícolas
 73. Búsqueda de propietarios
 
-8. Monumento Natural Riglos `pon en el calendario la fecha del censo en mayo, igual te hacen falta dos días para que quede reflejada` Pte. informe [PRIO1][S36-37]
+8. Monumento Natural Riglos `pon en el calendario la fecha del censo en mayo, igual te hacen falta dos días para que quede reflejada` Pte. informe [PRIO1][S36-38]
 ~~81. Censo de rupícolas en zonas de escalada (3 censos)~~ HECHO
 ~~82. Delimitación y bibliografía de soporte de censo ~~ HECHO
 
@@ -79,10 +79,11 @@ Te adjunto listado WP
 
 13. SACRE urbano. `Hecho` [mail]
 14. Astún [Replanteo][ppto]
-15. Alfranca [S37][PRIO2]
+15. Alfranca [S37-38][PRIO2]
 16. CoverCrops. Análisis [S36] `pte. maquetar`
-17. Santos de Piedra
+17. Santos de Piedra 
 18. Z-30 aviones
+19. Refugios mariposas [feedback]
 
 <!-- Borrador febrero
 1. *CEMEX* ~~stand-by~~
