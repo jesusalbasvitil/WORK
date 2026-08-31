@@ -10,86 +10,79 @@ Asunto: ListadoTareas V1
  
 Te adjunto listado WP
 
-1. CEMEX pte. inicio
+<!--1. CEMEX pte. inicio
 11. Coste actividad estandar (Ampliar info)
 12. Gestión de un Plan de actividades (Ampliar info)
 13. Hitos del Plan  (Ampliar info)
 14. Restauración (Ampliar info)
-15. Revegetado (Ampliar info)
+15. Revegetado (Ampliar info)-->
 
-2. San Miquel pte. inicio
+2. San Miquel [RACS] pte. inicio `ACTUALIZAR` 
 21. ~~Vallado brezo lo hace Cárlos Perallón~~ ya se lo han encargado
 22. ~~Revegetación tamariz se encarga Pablo Oliván~~
-23. Revegetación olmos sin grafiosis `prioritario 4`
-24. GE. Cálculo densidad plantas/parcelas
-25. Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`
+23. Revegetación olmos sin grafiosis `prioritario 4. ACTUALIZAR` 
+24. GE. Cálculo densidad plantas/parcelas `ACTUALIZAR` 
+25. ~~Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`~~ OK
 
-> Himenópteros:
-> Félix Torres González
-> Área de Zoología
-> Facultad de Farmacia, 5ª planta.
-> Campus Unamuno
-> Plaza de los doctores de la reina s/n
-> 37007 – Salamanca
-> 
-> Sírfidos:
-> Antonio Ricarte
-> Instituto de Investigación CIBIO
-> (Centro Iberoamericano de la Biodiversidad)
-> Parque Científico
-> Universidad de Alicante
-> Ctra. San Vicente del Raspeig s/n
-> 03690 San Vicente del Raspeig
-> (Alicante)
-
-3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal`
+3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` 
 31. Programación con cotos (sol. permisos, plazos)
 32. Mequinenza
 
-4. Lacuniacha pte. inicio (Ampliar info) `secundario por ahora`
-41. Mejora en mirador/obs/muladar (evitar luz, cristales)
-42. Acceso protegido con setos de boj por prado pte. desbroce
-43. Balsas tritones (análisis biblio) y propuesta soluciones
+4. Lacuniacha pte. inicio (Ampliar info) ~~`secundario por ahora`~~ `Reactivar` [REPLANTEO]
+41. Mejora en mirador/obs/muladar (evitar luz, cristales) 
+42. Acceso protegido con setos de boj por prado pte. desbroce 
+43. Balsas tritones (análisis biblio) y propuesta soluciones `Barba`
 
 5. DIA- En ejecución `necesitamos algo en esquema de los criterios que han seguido el MITECO para las DIAs negativas en una excel o similar. Tal vez la distancia a especies y espacios. y poco más`
 51. Procesado DIAs- y contraste con DIAs+ PEs Aragón
 52. Procesado DIAs- y contraste con DIAs+ PFVs Aragón
-53.  Procesado DIAs- y contraste con DIAs+ ambos MITECO
+53. Procesado DIAs- y contraste con DIAs+ ambos MITECO 
 
-6. CHE Caducidad concesiones azudes y presas pte. ` inicio revisión semanal o periódica si sale algo lo cuentas el lunes`
+6. CHE Caducidad concesiones azudes y presas pte. `inicio revisión semanal o periódica si sale algo lo cuentas el lunes`
 61. Búsqueda caducadas
 62. Solicitud información
 
-7. Inventario pasarelas para Plan de Uso Público `selecciona solo una y empezamos por ahí a registrar esta solicitud `
+7. Inventario pasarelas para Plan de Uso Público `selecciona solo una y empezamos por ahí a registrar esta solicitud`
 71. Periodos de cría
 72. Segunda fase: Todos senderos GR/PR/Cº naturales por zonas rupícolas
 73. Búsqueda de propietarios
 
-8. Monumento Natural Riglos En ejecución `pon en el calendario la fecha del censo en mayo, igual te hacen falta dos días para que quede reflejada`
-81. Censo de rupícolas en zonas de escalada (3 censos)
-82. Delimitación y bibliografía de soporte de censo
+8. Monumento Natural Riglos `pon en el calendario la fecha del censo en mayo, igual te hacen falta dos días para que quede reflejada` Pte. informe [PRIO1][S36-37]
+~~81. Censo de rupícolas en zonas de escalada (3 censos)~~ HECHO
+~~82. Delimitación y bibliografía de soporte de censo ~~ HECHO
 
 9. Planerón
-91. Replanteo para balizado nuevas parcelas Bruc `recalcular para el viernes`
+91. ~~Replanteo para balizado nuevas parcelas Bruc `recalcular para el viernes`~~ HECHO
 92. Balizado previo ahoyado y caballones accesos fincas nuestras 26-27 feb. `ppto.`
-93. Colocación carteles 26-27 feb. revisar cartelería quemada por el sol y reponer
-94. Colocación puerta Obs. `Ok ppto Jose`
-95. ~~Recolocación cajas nido primilla.~~ `Prioritario 1` Hecho. Pte. factura
-96. Ahoyado hitos en parcelas nuevas Bruc+Rafa `Prioritario 3`
-97. Plan de reparación pistas. `Gestión admin con Ayto.`
+93. Colocación carteles ~~26-27 feb. revisar cartelería quemada por el sol y reponer~~ 
+    931. Voluntariado pegado vinilos y varios (tamarices, serrado). Guion horario [S36]
+    932. Voluntariado paridera y varios (tejas, nido mochuelo). Guion horario [S37]
+94. ~~Colocación puerta Obs. `Ok ppto Jose`~~ HECHO
+95. ~~Recolocación cajas nido primilla.~~ ~~`Prioritario 1`~~ ~~Hecho. Pte. factura~~
+96. Ahoyado hitos en parcelas nuevas Bruc+Rafa `Prioritario 3` Pte. Fdo.
+97. ~~Plan de reparación pistas. `Gestión admin con Ayto.`~~ Hecho [Replanteo][Ppto][Fras.][Representación][Soporte jurídico]
+98. Bebederos perdiz
+99. Tejado, carteles Belchite por colocar
+
 
 10. RACS Abril San Miquel/Raymat Stand-by `esperamos a ver`
-101. Rewilding zonas marginales
+101. Rewilding zonas marginales 
 102. Buenas prácticas agrarias
 
-11. Cogullada
-110. V11 `Hecho`
+~~11. Cogullada~~ `Hecho` Pte. fase obra civil
+<!--110. V11 `Hecho`
 111. Acta 25mar
-112. V12 Rehacer con existencias Acta
-
-12. El Pueyo. Ppto. Observatorio. `Hecho` pte. SEO Mad
+112. V12 Rehacer con existencias Acta-->
 
 
+~~12. El Pueyo. Ppto. Observatorio. `Hecho` pte. SEO Mad~~
+
+13. SACRE urbano. `Hecho` [mail]
+14. Astún [Replanteo][ppto]
+15. Alfranca [S37][PRIO2]
+16. CoverCrops. Análisis [S36] `pte. maquetar`
+17. Santos de Piedra
+18. Z-30 aviones
 
 <!-- Borrador febrero
 1. *CEMEX* ~~stand-by~~
