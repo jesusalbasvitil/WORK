@@ -88,11 +88,11 @@ Te adjunto listado WP
 17. Santos de Piedra [PRIO3][S40]
 
 ### Acciones de Mejora de Hábitat [AMH] en parques urbanos de nueva creación [Leña4]
-18. Z-30 aviones [S38bis][S39][S40ter]
+18. Z-30 aviones y resto AMH (Acciones de Mejora de Hábitat) en parques urbanos de nueva creación [Leña4][S38bis][S39][S40bis]
 19. Refugios mariposas [feedback]
 20. 
 ...
-Detalle nivel proyecto
+Detalle nivel proyecto de cantidades.
 
 ### Tareas Stand-by
 ~~XX. [Mqnz] Observatorio~~ RV WP exención responsabilidad SEO
