@@ -1,7 +1,7 @@
 
 # TAREAS (GENERAL)
 
-## CONTROL DE TRABAJOS sep26 (LISTADO DE TAREAS) versión 1
+## CONTROL DE TRABAJOS sep26 (LISTADO DE TAREAS) versión 2
 
 De: Jesús Alba <jesusalbasvitil@hotmail.com>
 Enviado: martes, 17 de febrero de 2026 5:52
@@ -20,29 +20,29 @@ Te adjunto listado WP
 2. San Miquel [RACS] pte. inicio `ACTUALIZAR` 
 >21. ~~Vallado brezo lo hace Cárlos Perallón~~ *ya se lo han encargado*
 >22. ~~Revegetación tamariz se encarga Pablo Oliván~~
->23. Revegetación olmos sin grafiosis *prioritario 4*. `ACTUALIZAR`
->24. GE. Cálculo densidad plantas/parcelas `ACTUALIZAR` 
+>23. Revegetación olmos sin grafiosis. Rescatar mail/wp Mº solicitar 50-100 ejemplares de olmo sin grafiosis. 100 alisos a GENCAT [S40]
+>24. GE. Cálculo densidad plantas/parcelas [standby] 
 >25. ~~Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`~~ OK
 
-3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` [Legislación](https://www.aragon.es/tramitador/-/tramite/autorizacion-empresas-titulares-vehiculos-transporte-animales#panel-normativa) Esto lo tiene que hacer SEO directamente Cl@ve
+3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` [Legislación](https://www.aragon.es/tramitador/-/tramite/autorizacion-empresas-titulares-vehiculos-transporte-animales#panel-normativa) Esto lo tiene que hacer SEO directamente Cl@ve [S45]
 >31. Programación con cotos (sol. permisos, plazos)
 >32. Mequinenza, pte. trasloc.
 
-4. Lacuniacha pte. inicio (Ampliar info) *secundario por ahora* `Reactivar` [REPLANTEO]
->41. Mejora en mirador/obs/muladar (evitar luz, cristales) 
->42. Acceso protegido con setos de boj por prado pte. desbroce 
->43. Balsas tritones (análisis biblio) y propuesta soluciones *Barba, Patro*
+4. Lacuniacha pte. inicio (Ampliar info) *secundario por ahora* `Reactivar` [REPLANTEO][S46]
+>41. Mejora en mirador/obs/muladar (evitar luz, cristales) [noprio]
+>42. Acceso protegido con setos de boj por prado pte. desbroce [noprio]
+>43. Balsas tritones (análisis biblio) y propuesta soluciones *Barba, Patro* [noprio]
 
-5. DIA- En ejecución *necesitamos algo en esquema de los criterios que han seguido el MITECO para las DIAs negativas en una excel o similar. Tal vez la distancia a especies y espacios. y poco más*
+5. DIA- En ejecución *necesitamos algo en esquema de los criterios que han seguido el MITECO para las DIAs negativas en una excel o similar. Tal vez la distancia a especies y espacios. y poco más. Excel con causas 1, 2, 3..* [S44]
 >51. Procesado DIAs- y contraste con DIAs+ PEs Aragón
 >52. Procesado DIAs- y contraste con DIAs+ PFVs Aragón
 >53. Procesado DIAs- y contraste con DIAs+ ambos MITECO 
 
-6. CHE Caducidad concesiones azudes y presas pte. *inicio revisión semanal o periódica si sale algo lo cuentas el lunes*
->61. Búsqueda caducadas
+6. CHE Caducidad concesiones azudes y presas pte. *inicio revisión semanal o periódica si sale algo lo cuentas el lunes*[S41]
+>61. Búsqueda caducadas 
 >62. Solicitud información
 
-7. Inventario pasarelas para Plan de Uso Público *selecciona solo una y empezamos por ahí a registrar esta solicitud*
+7. Inventario pasarelas para Plan de Uso Público *selecciona solo una y empezamos por ahí a registrar esta solicitud* [noprio]
 >71. Periodos de cría
 >72. Segunda fase: Todos senderos GR/PR/Cº naturales por zonas rupícolas
 >73. Búsqueda de propietarios
@@ -53,17 +53,17 @@ Te adjunto listado WP
 
 9. Planerón
 >91. ~~Replanteo para balizado nuevas parcelas Bruc *recalcular para el viernes*~~ [HECHO]
->92. Balizado previo ahoyado y caballones accesos fincas nuestras 26-27 feb. `ppto.`
+>92. Balizado previo ahoyado y caballones accesos fincas nuestras 26-27 feb. `ppto.`[fdo][S37ter]
 >93. Colocación carteles ~~26-27 feb. revisar cartelería quemada por el sol y reponer~~ 
->>931. Voluntariado pegado vinilos y varios (tamarices, serrado). Guion horario [S36]
->>932. Voluntariado paridera y varios (tejas, nido mochuelo, pintado obs..). Guion horario [S37]
+>>931. Voluntariado pegado vinilos y varios (tamarices, serrado). Guion horario [S36bis] `26/9` 8:30 horas ofi
+>>932. Voluntariado paridera y varios (tejas, nido mochuelo, pintado obs..). Guion horario [S37bis] `3/10` 8:30 horas ofi
 >94. ~~Colocación puerta Obs. `Ok ppto Jose`~~ Perallón [HECHO]
 >95. ~~Recolocación cajas nido primilla.~~ ~~*Prioritario 1*Pte. factura~~ [HECHO]
 >96. Ahoyado hitos en parcelas nuevas Bruc+Rafa `Prioritario 3` Pte. [Fdo.]
 >97. ~~Plan de reparación pistas. `Gestión admin con Ayto.`~~ Hecho 
 >>971. [Replanteo][Ppto][Fras.] 
->>972. `Repre legal` 
->98. Bebederos perdiz [PRIO0]
+~~>>972. `Repre legal` ~~
+>98. Bebederos perdiz [PRIO0] *En feb-marzo inicio aporte*
 >99. Tejado paridera Quinto, carteles Belchite fincas Quinto por colocar [Fdo.]
 
 
@@ -82,13 +82,20 @@ Te adjunto listado WP
 ~~12. El Pueyo. Ppto. Observatorio. `Hecho` pte. SEO Mad~~
 
 ~~13. SACRE urbano. `Hecho` [mail]~~
-14. Astún [Replanteo][ppto]
-15. Alfranca [S37-38][PRIO2]
+14. Astún [Replanteo][ppto][S42]
+15. Alfranca [noprio][S43]
 16. CoverCrops. Análisis [S36] `pte. maquetar`
-17. Santos de Piedra [PRIO3]
-18. Z-30 aviones
+17. Santos de Piedra [PRIO3][S40]
+
+### Acciones de Mejora de Hábitat [AMH] en parques urbanos de nueva creación [Leña4]
+18. Z-30 aviones [S38bis][S39][S40ter]
 19. Refugios mariposas [feedback]
-20. [Mqnz] Observatorio
+20. 
+...
+Detalle nivel proyecto
+
+### Tareas Stand-by
+~~XX. [Mqnz] Observatorio~~ RV WP exención responsabilidad SEO
 
 <!-- Borrador febrero
 1. *CEMEX* ~~stand-by~~
@@ -165,15 +172,15 @@ Te adjunto listado WP
 *Delimitación pastos húmedos por ortofoto y búsqueda de referencias de carga ganadera: Camarga, Albufera, Agüamolls de yeguas/ha para control de pasto y permitir hábitat limícolas (SEO)* Pte.
 
 ## [Empresarium]
-- Solinfo. Ayto. Enviado. `24 oct, reclamar respuesta`
-- Solinfo. INAGA. Enviado. `24 oct, reclamar respuesta`
+- Solinfo. Ayto. Enviado. `24 oct, reclamar respuesta`[marco]
+- Solinfo. INAGA. Enviado. `24 oct, reclamar respuesta`[marco]
 
 ## [DataCenters]
-- Dir. empresas. `Pte.`
+- Dir. empresas. `Pte.` Listado contactos para medidas ambientales compensatorias [noprio]
 
 ## Refugio reptiles [Rfrp]
 - Redactado manual completado [Hecho]
-- Poster didáctico `pte.`
+- Poster didáctico `pte.` [S47-48]
 
 <!--## Cogullada [Cgll]
 - Ppto. unidades de obra Ejecutado
