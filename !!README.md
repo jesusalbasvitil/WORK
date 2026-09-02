@@ -24,11 +24,11 @@ Te adjunto listado WP
 >24. GE. Cálculo densidad plantas/parcelas [standby] 
 >25. ~~Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`~~ OK
 
-3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` [Legislación](https://www.aragon.es/tramitador/-/tramite/autorizacion-empresas-titulares-vehiculos-transporte-animales#panel-normativa) Esto lo tiene que hacer SEO directamente Cl@ve [S45]
+3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` [Legislación](https://www.aragon.es/tramitador/-/tramite/autorizacion-empresas-titulares-vehiculos-transporte-animales#panel-normativa) ~~Esto lo tiene que hacer SEO directamente Cl@ve~~ [S45]
 >31. Programación con cotos (sol. permisos, plazos)
 >32. Mequinenza, pte. trasloc.
 
-4. Lacuniacha pte. inicio (Ampliar info) *secundario por ahora* `Reactivar` [REPLANTEO][S46]
+4. Lacuniacha ~~pte. inicio (Ampliar info) *secundario por ahora* `Reactivar`~~ [REPLANTEO][S46]
 >41. Mejora en mirador/obs/muladar (evitar luz, cristales) [noprio]
 >42. Acceso protegido con setos de boj por prado pte. desbroce [noprio]
 >43. Balsas tritones (análisis biblio) y propuesta soluciones *Barba, Patro* [noprio]
@@ -63,7 +63,7 @@ Te adjunto listado WP
 >97. ~~Plan de reparación pistas. `Gestión admin con Ayto.`~~ Hecho 
 >>971. [Replanteo][Ppto][Fras.] 
 ~~>>972. `Repre legal` ~~
->98. Bebederos perdiz [PRIO0] *En feb-marzo inicio aporte*
+>98. Bebederos perdiz [PRIO0] *En feb-marzo inicio aporte* Llamado y Ok `pte. h.7/9`
 >99. Tejado paridera Quinto, carteles Belchite fincas Quinto por colocar [Fdo.]
 
 
@@ -82,9 +82,11 @@ Te adjunto listado WP
 ~~12. El Pueyo. Ppto. Observatorio. `Hecho` pte. SEO Mad~~
 
 ~~13. SACRE urbano. `Hecho` [mail]~~
-14. Astún [Replanteo][ppto][S42]
-15. Alfranca [noprio][S43]
-16. CoverCrops. Análisis [S36] `pte. maquetar`
+>14. Astún [Replanteo][ppto][S42]
+>15. Alfranca [noprio][S43]
+>16. CoverCrops. Análisis [S36] `pte. maquetar`
+>>161. Último mangueo?
+
 17. Santos de Piedra [PRIO3][S40]
 
 ### Acciones de Mejora de Hábitat [AMH] en parques urbanos de nueva creación [Leña4]
@@ -92,7 +94,36 @@ Te adjunto listado WP
 19. Refugios mariposas [feedback]
 20. 
 ...
-Detalle nivel proyecto de cantidades.
+Detalle nivel proyecto y cantidades.
+
+21. Aylés. [Standy] pendiente informes Marco para proponer mejoras ambientales margen dcha.
+
+
+
+### Tabla resumen Tareas
+
+| Orden | Semana | Prioridad semanal | Tarea |
+|---:|---|---|---|
+| 1 | S36 | Prio | CoverCrops — Análisis; pendiente de maquetar. |
+| 2 | S36–S38 | Prio (periodo) | Monumento Natural Riglos — informe pendiente. |
+| 3 | S36bis | bis | Planerón — voluntariado de pegado de vinilos y varios. |
+| 4 | S37 | Prio | Planerón — balizado previo, ahoyado y caballones. |
+| 5 | S37bis | bis | Planerón — voluntariado de paridera y varios. |
+| 6 | S37ter | ter | Planerón — balizado previo; presupuesto y firmado. |
+| 7 | S38bis | bis | Z-30 aviones y resto de AMH en parques urbanos. |
+| 8 | S39 | Prio | Z-30 aviones y resto de AMH en parques urbanos. |
+| 9 | S40 | Prio | San Miquel — revegetación de olmos y solicitud de 100 alisos a GENCAT. |
+| 10 | S40 | Prio | Santos de Piedra. |
+| 11 | S40bis | Secundaria | Z-30 aviones y resto de AMH en parques urbanos. |
+| 12 | S41 | Prio | CHE — caducidad de concesiones de azudes y presas. |
+| 13 | S42 | Prio | Astún — replanteo y presupuesto. |
+| 14 | S43 | Prio | Alfranca. |
+| 15 | S44 | Prio | DIA — esquema de criterios MITECO y contraste de DIAs negativas/positivas. |
+| 16 | S45 | Prio | Traslocaciones — legalidad del transporte de animales vivos. |
+| 17 | S46 | Prio | Lacuniacha — reactivar y replanteo. |
+| 18 | S47–S48 | Prio (periodo) | Refugio de reptiles — póster didáctico pendiente. |
+
+
 
 ### Tareas Stand-by
 ~~XX. [Mqnz] Observatorio~~ RV WP exención responsabilidad SEO
