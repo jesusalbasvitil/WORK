@@ -42,7 +42,7 @@ Te adjunto listado WP
 >61. Búsqueda caducadas 
 >62. Solicitud información
 
-7. Inventario pasarelas para Plan de Uso Público *selecciona solo una y empezamos por ahí a registrar esta solicitud* [noprio]
+7. Inventario pasarelas para Plan de Uso Público *selecciona solo una y empezamos por ahí a registrar esta solicitud* [noprio] jesusalbasvitil/wiki/[PUPs]Planes de Uso Público.md
 >71. Periodos de cría
 >72. Segunda fase: Todos senderos GR/PR/Cº naturales por zonas rupícolas
 >73. Búsqueda de propietarios
