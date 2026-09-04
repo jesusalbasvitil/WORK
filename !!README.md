@@ -1,7 +1,7 @@
 
 # TAREAS (GENERAL)
 
-## CONTROL DE TRABAJOS sep26 (LISTADO DE TAREAS) versión 2
+## CONTROL DE TRABAJOS sep26 (LISTADO DE TAREAS) versión 3 [072904092026]
 
 De: Jesús Alba <jesusalbasvitil@hotmail.com>
 Enviado: martes, 17 de febrero de 2026 5:52
@@ -28,7 +28,7 @@ Te adjunto listado WP
 >31. Programación con cotos (sol. permisos, plazos)
 >32. Mequinenza, pte. trasloc.
 
-4. Lacuniacha ~~pte. inicio (Ampliar info) *secundario por ahora* `Reactivar`~~ [REPLANTEO][S46]
+4. Lacuniacha ~~pte. inicio (Ampliar info) *secundario por ahora* `Reactivar`~~ [REPLANTEO][S46] Tfno. Alba
 >41. Mejora en mirador/obs/muladar (evitar luz, cristales) [noprio]
 >42. Acceso protegido con setos de boj por prado pte. desbroce [noprio]
 >43. Balsas tritones (análisis biblio) y propuesta soluciones *Barba, Patro* [noprio]
@@ -38,7 +38,7 @@ Te adjunto listado WP
 >52. Procesado DIAs- y contraste con DIAs+ PFVs Aragón
 >53. Procesado DIAs- y contraste con DIAs+ ambos MITECO 
 
-6. CHE Caducidad concesiones azudes y presas pte. *inicio revisión semanal o periódica si sale algo lo cuentas el lunes*[S41]
+6. CHE Caducidad concesiones azudes y presas pte. *inicio revisión semanal o periódica si sale algo lo cuentas el lunes*   [S41]
 >61. Búsqueda caducadas 
 >62. Solicitud información
 
@@ -55,16 +55,18 @@ Te adjunto listado WP
 >91. ~~Replanteo para balizado nuevas parcelas Bruc *recalcular para el viernes*~~ [HECHO]
 >92. Balizado previo ahoyado y caballones accesos fincas nuestras 26-27 feb. `ppto.`[fdo][S37ter]
 >93. Colocación carteles ~~26-27 feb. revisar cartelería quemada por el sol y reponer~~ 
->>931. Voluntariado pegado vinilos y varios (tamarices, serrado). Guion horario [S36bis] `26/9` 8:30 horas ofi
->>932. Voluntariado paridera y varios (tejas, nido mochuelo, pintado obs..). Guion horario [S37bis] `3/10` 8:30 horas ofi
+>>931. Voluntariado pegado vinilos y varios (tamarices, serrado). ~~Guion horario [S36bis] `26/9` 8:30 horas ofi~~ 
+>>932. Voluntariado paridera y varios (tejas, nido mochuelo, pintado obs..). Guion horario [S37bis] `3/10` 8:30 horas ofi [HT29/6]
+>>933. Zahorra en pista norte [S37quater][HTxx/xx]
+
 >94. ~~Colocación puerta Obs. `Ok ppto Jose`~~ Perallón [HECHO]
 >95. ~~Recolocación cajas nido primilla.~~ ~~*Prioritario 1*Pte. factura~~ [HECHO]
 >96. Ahoyado hitos en parcelas nuevas Bruc+Rafa `Prioritario 3` Pte. [Fdo.]
 >97. ~~Plan de reparación pistas. `Gestión admin con Ayto.`~~ Hecho 
 >>971. [Replanteo][Ppto][Fras.] 
 ~~>>972. `Repre legal` ~~
->98. Bebederos perdiz [PRIO0] *En feb-marzo inicio aporte* Llamado y Ok `pte. h.7/9`
->99. Tejado paridera Quinto, carteles Belchite fincas Quinto por colocar [Fdo.]
+>98. ~~Bebederos perdiz [PRIO0] *En feb-marzo inicio aporte* Llamado y Ok `pte. h.7/9`~~ [Hecho] pte. fra. y pago 250 €
+>99. Tejado paridera Quinto Sopapos, carteles Belchite fincas Quinto por colocar [Fdo.]
 
 
 <pre>10. RACS Abril San Miquel/Raymat Stand-by `esperamos a ver`
@@ -84,7 +86,7 @@ Te adjunto listado WP
 ~~13. SACRE urbano. `Hecho` [mail]~~
 >14. Astún [Replanteo][ppto][S42]
 >15. Alfranca [noprio][S43]
->16. CoverCrops. Análisis [S36] `pte. maquetar`
+>~~16. CoverCrops. Análisis [S36] `pte. maquetar~~`[Hecho]
 >>161. Último mangueo?
 
 17. Santos de Piedra [PRIO3][S40]
@@ -96,7 +98,7 @@ Te adjunto listado WP
 ...
 Detalle nivel proyecto y cantidades.
 
-21. Aylés. [Standy] pendiente informes Marco para proponer mejoras ambientales margen dcha.
+21. Aylés. [Standby] pendiente informes Marco para proponer mejoras ambientales margen dcha.
 
 
 
@@ -104,24 +106,24 @@ Detalle nivel proyecto y cantidades.
 
 | Orden | Semana | Prioridad semanal | Tarea |
 |---:|---|---|---|
-| 1 | S36 | Prio | CoverCrops — Análisis; pendiente de maquetar. |
-| 2 | S36–S38 | Prio (periodo) | Monumento Natural Riglos — informe pendiente. |
-| 3 | S36bis | bis | Planerón — voluntariado de pegado de vinilos y varios. |
-| 4 | S37 | Prio | Planerón — balizado previo, ahoyado y caballones. |
-| 5 | S37bis | bis | Planerón — voluntariado de paridera y varios. |
-| 6 | S37ter | ter | Planerón — balizado previo; presupuesto y firmado. |
-| 7 | S38bis | bis | Z-30 aviones y resto de AMH en parques urbanos. |
-| 8 | S39 | Prio | Z-30 aviones y resto de AMH en parques urbanos. |
-| 9 | S40 | Prio | San Miquel — revegetación de olmos y solicitud de 100 alisos a GENCAT. |
-| 10 | S40 | Prio | Santos de Piedra. |
-| 11 | S40bis | Secundaria | Z-30 aviones y resto de AMH en parques urbanos. |
-| 12 | S41 | Prio | CHE — caducidad de concesiones de azudes y presas. |
-| 13 | S42 | Prio | Astún — replanteo y presupuesto. |
-| 14 | S43 | Prio | Alfranca. |
-| 15 | S44 | Prio | DIA — esquema de criterios MITECO y contraste de DIAs negativas/positivas. |
-| 16 | S45 | Prio | Traslocaciones — legalidad del transporte de animales vivos. |
-| 17 | S46 | Prio | Lacuniacha — reactivar y replanteo. |
-| 18 | S47–S48 | Prio (periodo) | Refugio de reptiles — póster didáctico pendiente. |
+| 1 | S36 | Prio | CoverCrops — Análisis; pendiente de maquetar |
+| 2 | S36–S38 | Prio (periodo) | Monumento Natural Riglos — informe pendiente |
+| 3 | S36bis | bis | Planerón — voluntariado de pegado de vinilos y varios |
+| 4 | S37 | Prio | Planerón — balizado previo, ahoyado y caballones |
+| 5 | S37bis | bis | Planerón — voluntariado de paridera y varios |
+| 6 | S37ter | ter | Planerón — balizado previo; presupuesto y firmado |
+| 7 | S38bis | bis | Z-30 aviones y resto de AMH en parques urbanos |
+| 8 | S39 | Prio | Z-30 aviones y resto de AMH en parques urbanos |
+| 9 | S40 | Prio | San Miquel — revegetación de olmos y solicitud de 100 alisos a GENCAT |
+| 10 | S40 | Prio | Santos de Piedra |
+| 11 | S40bis | Secundaria | Z-30 aviones y resto de AMH en parques urbanos |
+| 12 | S41 | Prio | CHE — caducidad de concesiones de azudes y presas |
+| 13 | S42 | Prio | Astún — replanteo y presupuesto |
+| 14 | S43 | Prio | Alfranca|
+| 15 | S44 | Prio | DIA — esquema de criterios MITECO y contraste de DIAs negativas/positivas |
+| 16 | S45 | Prio | Traslocaciones — legalidad  del transporte de animales vivos |
+| 17 | S46 | Prio | Lacuniacha — reactivar y replanteo |
+| 18 | S47–S48 | Prio (periodo) | Refugio de reptiles — póster didáctico pendiente |
 
 
 
