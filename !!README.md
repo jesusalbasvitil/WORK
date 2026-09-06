@@ -109,7 +109,7 @@ Detalle nivel proyecto y cantidades.
 | 1 | S36 | Prio | CoverCrops — Análisis; pendiente de maquetar |
 | 2 | S36–S38 | Prio (periodo) | Monumento Natural Riglos — informe pendiente |
 | 3 | S36bis | bis | Planerón — voluntariado de pegado de vinilos y varios |
-| 4 | S37 | Prio | Planerón — balizado previo, ahoyado y caballones |
+| 4 | S37 | Prio | Planerón — balizado previo, ahoyado ~~y caballones~~ |
 | 5 | S37bis | bis | Planerón — voluntariado de paridera y varios |
 | 6 | S37ter | ter | Planerón — balizado previo; presupuesto y firmado |
 | 7 | S38bis | bis | Z-30 aviones y resto de AMH en parques urbanos |
