@@ -22,7 +22,7 @@ Te adjunto listado WP
 >22. ~~Revegetación tamariz se encarga Pablo Oliván~~
 >23. Revegetación olmos sin grafiosis. Rescatar mail/wp Mº solicitar 50-100 ejemplares de olmo sin grafiosis. 100 alisos a GENCAT [S40]
 >24. GE. Cálculo densidad plantas/parcelas [standby] 
->25. ~~Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`~~ OK
+>25. ~~Covercrops. Reparto insectos recolectados. OK. `prioritario 2` `Pte. envío`~~ OK `pte. hymeno.'26 USAL`
 
 3. Traslocaciones pte. inicio a la espera de otra ocasión `Transporte animales vivos. Legal` [Legislación](https://www.aragon.es/tramitador/-/tramite/autorizacion-empresas-titulares-vehiculos-transporte-animales#panel-normativa) ~~Esto lo tiene que hacer SEO directamente Cl@ve~~ [S45]
 >31. Programación con cotos (sol. permisos, plazos)
@@ -63,7 +63,7 @@ Te adjunto listado WP
 >95. ~~Recolocación cajas nido primilla.~~ ~~*Prioritario 1*Pte. factura~~ [HECHO]
 >96. Ahoyado hitos en parcelas nuevas Bruc+Rafa `Prioritario 3` Pte. [Fdo.]
 >97. ~~Plan de reparación pistas. `Gestión admin con Ayto.`~~ Hecho 
->>971. [Replanteo][Ppto][Fras.] 
+>>971. [Replanteo][Ppto][Fras.] 2 camiones, 6 viajes lunes, resto 10 y fra. por 23 
 ~~>>972. `Repre legal` ~~
 >98. ~~Bebederos perdiz [PRIO0] *En feb-marzo inicio aporte* Llamado y Ok `pte. h.7/9`~~ [Hecho] pte. fra. y pago 250 €
 >99. Tejado paridera Quinto Sopapos, carteles Belchite fincas Quinto por colocar [Fdo.]
