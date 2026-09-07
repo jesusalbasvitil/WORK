@@ -273,3 +273,19 @@ Detalle nivel proyecto y cantidades.
 
 https://gist.github.com/jasin5rednls/348ae76589bb71f109f0c69449873a6d
 
+## Estructura de la Noticia
+1. Lead (Entradilla): Es el primer párrafo de la noticia. Debe responder de forma directa y atractiva a las preguntas básicas (qué, quién, cómo, cuándo y dónde). Su objetivo es capturar la atención de inmediato.
+
+2. Contexto: Explica los antecedentes del hecho. Ayuda al lector a entender qué pasó antes para que hayamos llegado a la situación actual.
+
+3. Cita (Declaración principal): Una frase textual y entrecomillada de la fuente o protagonista principal de la noticia, lo que aporta credibilidad y voz al texto.
+
+4. So What? (¿Y a mí qué? / Impacto): Explica la relevancia real de la noticia. Responde a por qué este hecho es importante para el lector o para la sociedad, detallando sus consecuencias directas.
+
+5. Qué pasa ahora (Evolución): Describe la situación en el momento presente o las reacciones inmediatas que se están produciendo justo tras conocerse la noticia.
+
+6. Detalles: Datos secundarios, cifras concretas, cronologías o información técnica que complementan el relato pero que no eran vitales para el primer párrafo.
+
+7. Parte contraria (Contraparte): Es el elemento clave para el equilibrio informativo. Incluye la postura, respuesta o versión de la persona, grupo o institución que se ve afectada o criticada en la noticia.
+
+8. Cita (Segunda declaración): Una frase textual que respalda la postura de esa parte contraria o que cierra la noticia abriendo el panorama hacia el futuro.
