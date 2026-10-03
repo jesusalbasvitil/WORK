@@ -6,6 +6,43 @@
 
 - Paseo interpretativo por la ribera del Ebro: 16:00 a 19:00 horas.
 - Taller en La Gota de Leche: 19:00 a 21:00 horas.
+### [Introducción ¿Por qué las plantas producen compuestos medicinales o venenosos?](https://claude.ai/share/cd666877-1cff-4d4b-adc7-bcd677d9d007)
+
+#### Respuesta corta
+
+Las plantas no fabrican estos compuestos para curar ni para envenenar a los humanos. Son metabolitos secundarios, que cumplen funciones de defensa y de señalización ecológica. Que a nosotros nos curen o nos envenenen es un efecto colateral: esas moléculas actúan sobre dianas bioquímicas que los animales compartimos con los herbívoros y patógenos contra los que evolucionaron.
+
+#### 1. Función original: defensa y señalización
+
+- Los [metabolitos] secundarios principales de una planta funcionan, en apariencia, como defensa frente a herbívoros, microbios, virus y plantas competidoras, y como señales para atraer polinizadores o dispersores de semillas. Por eso se consideran caracteres adaptativos sometidos a selección natural.[^1]
+- Hasta mediados del siglo XX se interpretaban como productos de desecho. El artículo de Fraenkel (1959) estableció la hipótesis de que son defensas contra insectos fitófagos, y a partir de él la función ecológica de estos compuestos entró en la ecología moderna.[^2]
+- Ehrlich y Raven (1964) formalizaron la coevolución entre mariposas y plantas. La idea es que la planta evoluciona una defensa química, el herbívoro evoluciona resistencia a ella y esto genera diversificación de ambos.[^3]
+- Una planta es sésil y carece de sistema inmune adaptativo. Su defensa depende en gran medida de la química, de ahí la enorme diversidad: se conocen más de 100 000 metabolitos secundarios.[^4]
+
+#### 2. Por qué actúan sobre humanos
+
+- Los compuestos defensivos se dirigen a estructuras moleculares muy conservadas en los animales: canales iónicos, receptores de neurotransmisores, enzimas y componentes de membrana o ADN. Un compuesto que bloquea un receptor en un insecto puede bloquearlo también en un mamífero.[^4]
+- Ejemplos documentados en la misma revisión:[^4]
+  - *Aconitum napellus*: la aconitina activa canales de Na⁺ (potente tóxico, con uso analgésico).
+  - *Atropa belladonna*: la l-hiosciamina es antagonista del receptor muscarínico de acetilcolina.
+  - *Cannabis sativa*: el THC activa el receptor cannabinoide.
+- Medicina y veneno no son categorías químicas distintas. Dependen de la dosis, de la diana afectada y de la vía de administración; la misma molécula puede ser ambas cosas.
+- La relevancia farmacológica es real. El análisis de Newman y Cragg (1981–2019) concluye que los productos naturales y sus derivados siguen siendo una fuente importante de fármacos aprobados, con especial dependencia en el área antiinfecciosa. Ojo: una parte significativa de esos productos la producen microorganismos, no plantas.[^5]
+
+#### 3. Límites y debate (lo que no está resuelto)
+
+- **No todo compuesto tiene una función defensiva demostrada.** La "hipótesis del cribado" (Jones y Firn) explica por qué muchos productos naturales tienen baja actividad biológica: el organismo mantiene una gran diversidad química, aunque buena parte sea redundante, como materia prima para que surjan compuestos realmente activos.[^6]
+- Por tanto, "defensa" es la explicación dominante para los metabolitos mayoritarios, pero no es una explicación universal para cada molécula.
+- La actividad en humanos de un extracto concreto debe evaluarse caso por caso. Que un compuesto sea natural no implica que sea eficaz ni seguro.
+
+#### Referencias
+
+[^1]: Wink, M. (2003). Evolution of secondary metabolites from an ecological and molecular phylogenetic perspective. *Phytochemistry*, 64(1), 3–19. https://doi.org/10.1016/S0031-9422(03)00300-5
+[^2]: Fraenkel, G. S. (1959). The raison d'être of secondary plant substances. *Science*, 129(3361), 1466–1470. https://doi.org/10.1126/science.129.3361.1466
+[^3]: Ehrlich, P. R. y Raven, P. H. (1964). Butterflies and plants: a study in coevolution. *Evolution*, 18(4), 586–608. https://doi.org/10.2307/2406212
+[^4]: Wink, M. (2015). Modes of action of herbal medicines and plant secondary metabolites. *Medicines*, 2(3), 251–286. https://doi.org/10.3390/medicines2030251 (texto completo: https://pmc.ncbi.nlm.nih.gov/articles/PMC5456217/)
+[^5]: Newman, D. J. y Cragg, G. M. (2020). Natural products as sources of new drugs over the nearly four decades from 01/1981 to 09/2019. *Journal of Natural Products*, 83(3), 770–803. https://doi.org/10.1021/acs.jnatprod.9b01285 (resumen: https://pubmed.ncbi.nlm.nih.gov/32162523/)
+[^6]: Firn, R. D. y Jones, C. G. (2003). Natural products – a simple model to explain chemical diversity. *Natural Product Reports*, 20, 382–391. https://doi.org/10.1039/b208815k
 
 ## Sábado 10 de octubre
 
