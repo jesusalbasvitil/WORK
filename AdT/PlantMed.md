@@ -1,4 +1,29 @@
-# Taller de Plantas medicinales
+[TALLER DE LA NATURALEZA EN NUESTRA VIDA PLANTAS MEDICINALES DEL EBRO Y EL IREGUA](https://tierralarioja.org/event/taller-identificacion-de-flora/)
+
+# Taller de Plantas medicinales > Programa
+
+## Viernes 9 de octubre
+
+- Paseo interpretativo por la ribera del Ebro: 16:00 a 19:00 horas.
+- Taller en La Gota de Leche: 19:00 a 21:00 horas.
+
+## Sábado 10 de octubre
+
+- Paseo interpretativo junto al río Iregua: 9:00 a 12:00 horas.
+- Taller en La Gota de Leche: 12:00 a 14:00 horas.
+
+¿Qué aprenderás?
+
+Durante la actividad podrás:
+
+- Identificar especies de plantas silvestres y medicinales presentes en el entorno.
+- Conocer sus usos culinarios y aprovechamientos tradicionales.
+- Aprender a utilizar herramientas de identificación botánica y plataformas de ciencia ciudadana.
+- Contribuir a un inventario colaborativo de la flora de Logroño.
+
+No es necesario tener conocimientos previos, únicamente ganas de aprender y disfrutar de la naturaleza.
+
+
 ## 1. Resumen
 El taller de Plantas medicinales se imapartió a lo largo de tres días, 3, 4 y 11 de octubre en diferentes localizaciones. Así, se planteó una jornada teórico-práctica y dos jornadas netamente prácticas. 
 
