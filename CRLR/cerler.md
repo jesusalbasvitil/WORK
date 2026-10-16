@@ -104,7 +104,7 @@ MAPA 1.- Mapa de la zona este del área de estudio, con los puntos de observaci�
 
 
 
-3	CLIMATOLOGÍA Y HÁBITATS POTENCIALES 
+## 3	CLIMATOLOGÍA Y HÁBITATS POTENCIALES 
 La caracterización de la climatología hecha en el Estudio de Impacto Ambiental [EsIA] del Telecabina monocable entre Benasque y Cerler realizado por Ingeniería y Control de Obras e Instalaciones sl. en febrero 2021, tal y como se demostrará, carece de utilidad a efectos de identificar los hábitats potenciales. 
 La temperatura media anual en el entorno de la telecabina se ha obtenido calculando el valor medio de las temperaturas mensuales de la estación meteorológica 9838B de Benasque y de la estación meteorológica de Eriste en el refugio Ángel Orús desde los años 2014 a 2019 [EsIA:30], reducida a la media de temperaturas de los 6 últimos años, que no son representativos de nada, dado que se requieren al menos 20 años de observaciones [EsIA:30]
 
@@ -142,7 +142,7 @@ La vegetación potencial en el subsector es la correspondiente a la serie montan
 
 Puesta en relación la vegetación potencial con la encontrada en base a los trabajos de campo, la primera conclusión es que, sin perjuicio de encontrar rodales en futuras prospecciones, no hay rastro de abetales, y los hayedos están reducidos a pequeñas arboledas fragmentarias. Sin embargo, una política conservacionista de preservación de las masas forestales existentes en la actualidad se traduciría en una evolución de los hábitats actuales hacia los potenciales relatados, y con ellos, la avifauna ligada a éstos últimos.
 
-4	METODOLOGÍA
+## 4	METODOLOGÍA
 4.1. Análisis preliminar 
 En base a cartografía e imágenes de satélite de diferentes años, se planteó una primera propuesta de trabajo consistente en:
 -	Elaboración de inventarios,
