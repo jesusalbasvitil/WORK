@@ -232,8 +232,7 @@ Estrato herbáceo: Pteridium aquilinum, ~~Asphodelus albus, Deschampsia flexuosa
 | Herbáceo | ~~*Euphorbia amygdaloides*~~ |
 
 `2.3. Tiledas` [MHNa:444] De las prospecciones realizadas en la zona se concluye que hay indicios de que este Hábitat de Interés Comunitario Prioritario [HICP] -el 9180*- se encuentra en la zona en diversos estadios de desarrollo. De momento, tan sólo se han detectado fragmentos de muy escasa superficie (hotspots) Sin embargo, con todo, se encuentran numerosas especies acompañantes de este hábitat:
-Estrato arbóreo: Tilia platyphyllos, Fraxinus excelsior, ~~Acer opalus~~, Fagus sylvatica, Quercus
-pubescens, `Ulmus glabra`, ~~Taxus baccata~~, Sorbus aria, Corylus avellana.
+Estrato arbóreo: Tilia platyphyllos, Fraxinus excelsior, ~~Acer opalus~~, Fagus sylvatica, Quercus pubescens, `Ulmus glabra`, ~~Taxus baccata~~, Sorbus aria, Corylus avellana.
 Estrato arbustivo: Buxus sempervirens, ~~Emerus major~~, Rubus sp.pl.
 Estrato lianoide: Clematis vitalba, Hedera helix, Rubia peregrina.
 Estrato herbáceo: Geranium robertianum,~~ Melica uniflora, Polystichum setiferum~~; Galium odoratum, ~~Carex sylvatica, Lamium galeobdolon, Milium effusum, Scilla lilio-hyacinthus~~, `Pulmonaria affinis`.

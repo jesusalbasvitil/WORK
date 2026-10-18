@@ -278,34 +278,17 @@ print(df_sheet3)
 A continuación se presenta la versión depurada, coherente y estructurada de la tabla de inventarios fitosociológicos y hábitats extraída del archivo fuente (`hábitats.xlsx`), corrigiendo los desajustes de formato y columnas múltiples originales:
 
 ### Resumen Consolidado de Hábitats, Índices de Similitud y Cobertura
+Aquí tienes la tabla corregida y limpia en formato Markdown sin etiquetas HTML ni saltos de línea erróneos dentro de las celdas:
 
-| Comunidad / Biotipo | Estrato Principal | Especies Teóricas ($S_t$) | Especies Encontradas ($S_o$) | Riqueza Relativa ($S_o/S_t$) | Índice de Similitud ($iS$ [0–4]) | Frecuencia Relativa / Cobertura ($\text{FRE}\%$) | Estado de Conservación / Observaciones |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Avellanedas riparias subcantábricas y pirenaicas**<br> | Arbustivo | 21 | 12 | 57.14% | 2.29 | 59.44% | Aceptable conservación; dominante en márgenes de Barranco Fondo.
-
- |
-| **Fresnedas (*HICP 91E0***)
-
- | Arbóreo / Herbáceo | 36 | 16 | 44.44% | 1.78 | 47.64% | **Hábitat Prioritario**; alta fragmentación, mezcla con prados de siega.
-
- |
-| **Tremoleras (*Populus tremula*)**<br> | Arbóreo | 13 | 8 | 61.54% | 2.46 | 100.00% | Bosque secundario de sustitución en buen estado.
-
- |
-| **Pinares de pino albar secundarios**<br> | Arbóreo / Herbáceo | 20 | 13 | 65.00% | 2.60 | 100.00% | Facies acidófila con evolución favorable hacia robledales.
-
- |
-| **Abedulares de *Betula pendula***<br> | Arbóreo | 10 | 7 | 70.00% | 2.80 | 100.00% | Alta afinidad atlántica; etapa serial de hayedos acidófilos.
-
- |
-| **Bojerales submediterráneos y pirenaicos**<br> | Arbustivo | 21 | 13 | 61.90% | 2.48 | 100.00% | Orla y matorral alto de sustitución de robledales de *Quercus pubescens*.
-
- |
-| **Tiledas (*HICP 9180***)
-
- | Arbóreo | 24 | 15 | 62.50% | 1.50 | 100.00% | Micro-hotspots fragmentarios localizados en cauces y abedulares.
-
- |
+| Comunidad / Biotipo | Estrato principal | Especies teóricas (\(S_t\)) | Especies encontradas (\(S_o\)) | Riqueza relativa (\(S_o/S_t\)) | Índice de similitud (\(iS\) [0–4]) | Frecuencia relativa / Cobertura (\(\text{FRE}\%\)) | Estado de conservación / Observaciones |
+|---|---|---:|---:|---:|---:|---:|---|
+| **Avellanedas riparias subcantábricas y pirenaicas** | Arbustivo | 21 | 12 | 57,14 % | 2,29 | 59,44 % | Aceptable conservación; dominante en márgenes de Barranco Fondo. |
+| **Fresnedas (*HIC 91E0\***)** | Arbóreo / Herbáceo | 36 | 16 | 44,44 % | 1,78 | 47,64 % | **Hábitat prioritario**; alta fragmentación, mezcla con prados de siega. |
+| **Tremoleras (*Populus tremula*)** | Arbóreo | 13 | 8 | 61,54 % | 2,46 | 100,00 % | Bosque secundario de sustitución en buen estado. |
+| **Pinares de pino albar secundarios** | Arbóreo / Herbáceo | 20 | 13 | 65,00 % | 2,60 | 100,00 % | Facies acidófila con evolución favorable hacia robledales. |
+| **Abedulares de *Betula pendula*** | Arbóreo | 10 | 7 | 70,00 % | 2,80 | 100,00 % | Alta afinidad atlántica; etapa serial de hayedos acidófilos. |
+| **Bojerales submediterráneos y pirenaicos** | Arbustivo | 21 | 13 | 61,90 % | 2,48 | 100,00 % | Orla y matorral alto de sustitución de robledales de *Quercus pubescens*. |
+| **Tiledas (*HIC 9180\***)** | Arbóreo | 24 | 15 | 62,50 % | 1,50 | 100,00 % | Micro-hotspots fragmentarios localizados en cauces y abedulares. |
 
 ---
 
