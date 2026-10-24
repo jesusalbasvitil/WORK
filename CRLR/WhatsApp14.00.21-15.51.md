@@ -119,7 +119,7 @@ Tenemos aquí el (*Achillea millefolium*)[c][col], que es aislada, bueno, común
 Sí, igual aquí la variación es esa, que la *Achillea millefolium* hay hay mayor cantidad.
 Terreno en campos de dos terrazas.
 A dos alturas, o sea, dos niveles.
-Se parece, recuerda al primero que hemos que hemos determinado, pero con variaciones. `ver ## WhatsApp Ptt 2026-10-12 at 14.08.16.ogg, ## WhatsApp Ptt 2026-10-12 at 14.09.03.ogg y 14:10`
+Se parece, recuerda al primero que hemos que hemos determinado, pero con variaciones. `igual que ## WhatsApp Ptt 2026-10-12 at 14.08.16.ogg, ## WhatsApp Ptt 2026-10-12 at 14.09.03.ogg y ..14:10`
 Tiene mayor porcentaje de suelo desnudo, es decir, un 20% cifraríamos.
 Tiene colchicos (*Colchicum autumnale*)[a][col], cosa que el otro no tenía.
 
@@ -127,7 +127,7 @@ Tiene colchicos (*Colchicum autumnale*)[a][col], cosa que el otro no tenía.
 
 ### WhatsApp Ptt 2026-10-12 at 15.46.20.ogg [prado]
 
-A ver, hay un seto de boj (*Buxus sempervirens*) aquí que está intacto. Es una fresneda (*Fraxinus excelsior*), lo que es el seto, con boj, eh...
+A ver, hay un seto de boj (*Buxus sempervirens*) [F][col] aquí que está intacto. Es una fresneda (*Fraxinus excelsior*)[c][col], lo que es el seto, con boj, eh...
 *Rubus*.
 Hay, creo que es...
 `Creo que estoy con *Rhamnus cathartica* o un frangula, *Rhamnus*, no lo tengo claro.` *Frangula alnus* [r][dis]
