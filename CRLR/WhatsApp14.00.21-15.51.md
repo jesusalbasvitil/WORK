@@ -84,26 +84,26 @@ Quenopodiacea SD [F][reg] junto con sangisorba SD c col , colchicum a taraxacum 
 
 
 
-### WhatsApp Ptt 2026-10-12 at 15.27.42.ogg
+### WhatsApp Ptt 2026-10-12 at 15.27.42.ogg [prado]
 
 Aparece *Silene alba*, otro *Trifolium sp.* [a][col] de hojas muy menudas, de forma aislada y colonial.
 Hay otras especies, pero no conseguimos identificar.
-Solo está el sustrato herbáceo, sin más. Sí, también hay común, pero es en alguna zona, eh de distribución dispersa, eh *Taraxacum gr. officinale*. Nos acercamos a la umbría.
+Solo está el sustrato herbáceo (*Poaceae*), sin más. Sí, también hay común, pero es en alguna zona, eh de distribución dispersa, eh *Taraxacum gr. officinale*. Nos acercamos a la umbría.
 
 ---
 
-### WhatsApp Ptt 2026-10-12 at 15.34.22.ogg
+### WhatsApp Ptt 2026-10-12 at 15.34.22.ogg [prado]
 
 Vamos en una zona de campos eh rodeada de fresnos y avellanos, que son los que conforman los setos.
 También tenemos Gordolobo (*Verbascum*), que es casi raro.
 
 ---
 
-### WhatsApp Ptt 2026-10-12 at 15.36.19.ogg
+### WhatsApp Ptt 2026-10-12 at 15.36.19.ogg [prado]
 
 ~~El campo este está compuesto por una subdominante, que es una que no podía ser que tengo que identificar, pendiente, junto con... junto con, ya me saldrá~~, (*Sanguisorba officinalis*)[c][col], que es común y colonial; (*Colchicum autumnale*)[c][col], ~~común y colonial~~; (*Taraxacum gr officinale*), [a][col] aislado.
 Tenemos (*Ranunculus gouanii*)[c][col], que es común, pero está ligado a la zona más umbría.
-Hemos visto también alguna ejemplar de de ortiga, y luego, y luego, y luego, y luego...
+Hemos visto también alguna ejemplar de de ortiga (*Urtica ), y luego, y luego, y luego, y luego...
 Sí, Zarzamora (*Rubus ulmifolius*) [c][col], en sus primeros estadios, en expansión.
 Común y colonial.
 Tenemos también aligustre (*Ligustrum vulgare*) [a][col], eh... aislado y colonial, y... y bardana (*Arctium lappa*)[a][col], pero primeros estadios también.
@@ -111,7 +111,7 @@ Es aislado muy colonial en un punto muy concreto.
 
 ---
 
-### WhatsApp Ptt 2026-10-12 at 15.39.29.ogg[PS]
+### WhatsApp Ptt 2026-10-12 at 15.39.29.ogg[PS][prado]
 
 El prado de este árbol singular, este fresno singular, o este conjunto de fresnos singulares, es...
 Recuerda mucho en su composición a... al primero que hemos descrito.
@@ -125,31 +125,31 @@ Tiene colchicos (*Colchicum autumnale*)[a][col], cosa que el otro no tenía.
 
 ---
 
-### WhatsApp Ptt 2026-10-12 at 15.46.20.ogg
+### WhatsApp Ptt 2026-10-12 at 15.46.20.ogg [prado]
 
-A ver, hay un seto de boj aquí que está intacto. Es una fresneda, lo que es el seto, con boj, eh...
+A ver, hay un seto de boj (*Buxus sempervirens*) aquí que está intacto. Es una fresneda (*Fraxinus excelsior*), lo que es el seto, con boj, eh...
 *Rubus*.
 Hay, creo que es...
-`Creo que estoy con *Rhamnus cathartica* o un frangula, *Rhamnus*, no lo tengo claro.`
-Majuelo. Todos aislados de estos.
-Aparece también el elbornegro (*helleborus foetidus*)[a][dis], que es aislado y colonial, aislado y de distribución dispersa, perdón.
+`Creo que estoy con *Rhamnus cathartica* o un frangula, *Rhamnus*, no lo tengo claro.` *Frangula alnus* [r][dis]
+Majuelo (*Crataegus monogyna*) [a][dis]. Todos aislados de estos.
+Aparece también el eléboro fétido (*helleborus foetidus*)[a][dis], que es aislado y colonial, aislado y de distribución dispersa, perdón.
 Rosa.
 Hay unas compuestas que no sé identificar.
-Hay *Acillea millefolium* (*Achillea millefolium*)[SD][F][col] de forma frecuente.
-Sí, quizás el elemento diferenciador de aquí es es *Acillea millefolium*, pero es subdominante, frecuente y colonial, a veces muy frecuente y otras veces desaparece.
+Hay milenrama (*Achillea millefolium*)[SD][F][col] de forma frecuente.
+~~Sí, quizás el elemento diferenciador de aquí es es *Achillea millefolium*, pero es subdominante, frecuente y colonial, a veces muy frecuente y otras veces desaparece.~~
 El resto está todo, y lo que estoy viendo es una (*Rosa pimpinellifolia*)[a][dis], posiblemente.
-En este campo casi todo son gramíneas.
+En este campo casi todo son gramíneas (*Poaceae*) [D][MF][reg].
 Además sin todavía florecer.
 Vamos junto a un murete de ganado.
 Hay Centaureas (*Centaurea scabiosa*)[a][col] aisladas y coloniales.
 Tenemos también... ¡Ay!, no me acuerdo de esta.
 Una rubia (*Galium aparine*)[F][col], posiblemente, pero hay que identificarlo, de la rubia seguro.
 Pero su mayor parte es gramínea.
-Y la *Rubiaceae*, la *Rubiaceae* esta aparece de forma gradualmente frecuente y colonial.
+Y la *Rubiaceae*, la *Rubiaceae* (*Galium aparine*) [F][col] esta aparece de forma gradualmente frecuente y colonial.
 
 ---
 
-### WhatsApp Ptt 2026-10-12 at 15.54.49.ogg
+### WhatsApp Ptt 2026-10-12 at 15.54.49.ogg [prado]
 
 Me estoy dejando entre muchos otros el (*Medicago sativa*) [a][col], que aparece de forma casi rara.
 En este último campo contamos dos matas, quizás se haya habido tres, pero de momento dos matas.
