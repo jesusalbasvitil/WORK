@@ -5,6 +5,7 @@
 - [F][SD][col] categorías de frecuencia y distribución. Pte. tabla de valores
 - [bosque] ecotono
 -  ~~A ver, por orden. Esto en realidad es el dominante es el majuelo, no,~~ No incluir en análisis
+- >composición igual que ## WhatsApp Ptt 2026-10-12.. Prompt
 
 ## WhatsApp Ptt 2026-10-12 at 14.00.21 [bosque]
 17 oct 2026, 18:38
@@ -95,7 +96,7 @@ Solo está el sustrato herbáceo (*Poaceae*), sin más. Sí, también hay común
 ### WhatsApp Ptt 2026-10-12 at 15.34.22.ogg [prado]
 
 Vamos en una zona de campos eh rodeada de fresnos y avellanos, que son los que conforman los setos.
-También tenemos Gordolobo (*Verbascum*), que es casi raro.
+También tenemos Gordolobo (*Verbascum nigrum L. subsp. nigrum*) [a][col], ~~que es casi raro.~~
 
 ---
 
@@ -119,7 +120,9 @@ Tenemos aquí el (*Achillea millefolium*)[c][col], que es aislada, bueno, común
 Sí, igual aquí la variación es esa, que la *Achillea millefolium* hay hay mayor cantidad.
 Terreno en campos de dos terrazas.
 A dos alturas, o sea, dos niveles.
-Se parece, recuerda al primero que hemos que hemos determinado, pero con variaciones. `igual que ## WhatsApp Ptt 2026-10-12 at 14.08.16.ogg, ## WhatsApp Ptt 2026-10-12 at 14.09.03.ogg y ..14:10`
+Se parece, recuerda al primero que hemos que hemos determinado, pero con variaciones. 
+>composición igual que ## WhatsApp Ptt 2026-10-12 at 14.08.16.ogg, ## WhatsApp Ptt 2026-10-12 at 14.09.03.ogg y ..14:10`
+
 Tiene mayor porcentaje de suelo desnudo, es decir, un 20% cifraríamos.
 Tiene colchicos (*Colchicum autumnale*)[a][col], cosa que el otro no tenía.
 
