@@ -2,10 +2,22 @@
 
 - (*algo*) Especies consideradas,
 - `xxxxxp`texto a comprobar con audio
-- [F][SD][col] categorías de frecuencia y distribución. Pte. tabla de valores
-- [bosque] ecotono
+- [F][SD][col] categorías de frecuencia y distribución.
+
+    >Por cada inventario se anota la frecuencia (FRE1) de observación con la que aparece una determinada especie: R (raras, <1%) A (algunas, 5-25%), C (comunes, 25-50%), F (frecuentes, 50-75%) o muy frecuentes (>75%) sin contar con el suelo desnudo. Así mismo se anota el tipo de distribución: dis (dispersa, ejemplares distribuidos o repartidos con distancia entre sí), col (colonial, formando grupos) o reg (distribución uniforme o regular). Sobre la frecuencia de observación se calcula la media y su suma (FRE2) y sobre ésta, la frecuencia relativa (FRE%)
+
+    >A continuación, se compara la presencia de especies con un listado-tipo del hábitat determinado previamente y así, se calcula el índice de Similitud (iS) que oscila entre 0 y 4 que en el caso de ejemplo, es muy bajo. 
+
+    >En base a la frecuencia relativa se calcula la diferencia entre la frecuencia de las especies características del hábitat determinado, y las que no son propias de ese hábitat (%iS) 
+
+- [bosque] biotopos
 -  ~~A ver, por orden. Esto en realidad es el dominante es el majuelo, no,~~ No incluir en análisis
 - >composición igual que ## WhatsApp Ptt 2026-10-12.. Prompt
+
+
+## REFERENCIAS
+
+Ver [[Vldrr] ..Sorensen entre comunidades](https://claude.ai/share/cc631e57-9d18-4a7c-9bda-a5398e198e02)
 
 ## WhatsApp Ptt 2026-10-12 at 14.00.21 [bosque]
 17 oct 2026, 18:38
@@ -14,7 +26,7 @@
 Mute
 
 (0:00) Estamos en un camino junto al aparcamiento, junto al aparcamiento, sin más. (0:09) Esto es una zona transformada con campos abandonados, en diversos grados de abandono. (0:18) Tenemos endrinos (*Prunus spinosa*) en la zona más abandonada, junto con zarzas (*Rubus ulmifolius*) [F][col].
-(0:28) Los endrinos  (*Prunus spinosa*) aparecen como coloniales [F][SD][col], pero sólo circunscritos a la zona de campo. (0:35) Porque este sendero atraviesa una zona de bancales de piedra seca que simulan acantilado. (0:55) Aparecen (*Ceterach officinarium*), ajedrea (*Satureja montana*) y una umbelifera, todas de forma común y colonial[C][col].
+(0:28) Los endrinos  (*Prunus spinosa*) aparecen como coloniales [F][SD][col], pero sólo circunscritos a la zona de campo. (0:35) Porque este sendero atraviesa una zona de bancales de piedra seca que simulan acantilado. (0:55) Aparecen (*Ceterach officinarium*), ajedrea (*Satureja montana*) y una umbelifera *Chaerophyllum aureum*, todas de forma común y colonial[C][col].
 (1:07) Aquí tenemos aligustre (*Ligustrum vulgare*), que es común y colonial [C][col]. (1:29) Aquí tenemos sauco, (*Sambucus ebulus*). (1:37) Y es una mezcla de fresneda (*Fraxinus excelsior*) con chopos plantados. [C][col]
 
 
@@ -33,7 +45,7 @@ Settings
 Estamos en un relieve de prado que se compone de..  (*Salvia pratensis*), que es común de distribución dispersa [c][dis], junto con (*Sixalis atropurpurea*), que es también común [c][col], eh... la (*Silene alba*), que es común. [c][col]
 
 ## WhatsApp Ptt 2026-10-12 at 14.09.03.ogg [prado]
-También está... hay (*Centaurea scabiosa*), que es aislada [a][col]. Sí, hay aislada.Y luego tenemos una umbelífera sin identificar, que sería frecuente. Que le hacemos foto. También hay (*Sanguisorba officinalis*), que es común [c][reg]. (*Trifolium pratense*), que es también... común [c][dis]. `En ocasiones aparece... no, es común`. Y pero de forma aislada.
+También está... hay (*Centaurea scabiosa*), que es aislada [a][col]. Sí, hay aislada.Y luego tenemos *Chaerophyllum aureum* [F][reg], que sería frecuente. Que le hacemos foto. También hay (*Sanguisorba officinalis*), que es común [c][reg]. (*Trifolium pratense*), que es también... común [c][dis]. `En ocasiones aparece... no, es común`. Y pero de forma aislada.
 
 ## WhatsApp Ptt 2026-10-12 at 14.10.55.ogg [prado]
 También... a ver, entonces...hay algún tramo en el cual el que es dominante es la... la... bien. La *Sanguisorba officinalis* [D][F][reg], ~~exactamente. Hacemos...~~`
@@ -45,7 +57,7 @@ También tenemos fresno (*Fraxinus excelsior*), rosal (*Rosa sp.*), (*Rubus ulmi
 
 ## WhatsApp Ptt 2026-10-12 at 14.18.56.ogg [prado]
 
-En la zona de umbría está protegida por chopos, eh un (*Salix caprea*) [r][dis]... Hay Aciron, sí.(*Acer campestre*) [a][col] Además de un chopo. Vale. En esta esquina tenemos como dominante la...  (*Ranunculus gouanii*) [D][F][col]. `Con Hay que hacer foto`. Se ve también un llantén (*Plantago lanceolata*). El ranúnculo es dominante, frecuente. Tenemos el llantén (*Plantago lanceolata*) que es común pero de forma aislada  [c][dis] y luego tenemos raro el diente de león (*Taraxacum officinale*) [r][dis], ojo, importante.Tenemos al lado alguna umbelífera que es común. (*Trifolium pratense*), común.
+En la zona de umbría está protegida por chopos, eh un (*Salix caprea*) [r][dis]... Hay Aciron, sí.(*Acer campestre*) [a][col] Además de un chopo. Vale. En esta esquina tenemos como dominante la...  (*Ranunculus gouanii*) [D][F][col]. `Con Hay que hacer foto`. Se ve también un llantén (*Plantago lanceolata*). El ranúnculo es dominante, frecuente. Tenemos el llantén (*Plantago lanceolata*) que es común pero de forma aislada  [c][dis] y luego tenemos raro el diente de león (*Taraxacum officinale*) [r][dis], ojo, importante.Tenemos al lado alguna umbelífera (*Chaerophyllum aureum*) [c][reg] que es común. (*Trifolium pratense*)[c][reg], común.
 
 ## WhatsApp Ptt 2026-10-12 at 14.27.15.ogg [prado]
 El mismo rincón que se convierte en camino abandonado. Nos encontramos con la presencia de majuelo (*Crataegus monogyna*), ejemplares aislados y... y bardana, (*Arctium lappa*) [a][col].
@@ -70,8 +82,8 @@ Aquí el dominante es el *Llantén* (*Plantago lanceolata*) [SD][F][reg].
 Eh...
 Sí, (*Trifolium pratense*) [a][col], que es aislado y colonial.
 *Reseda lutea* [a][col]~~, no sé si es la *alba*~~.
-`Chopo, que es aislado y colonial, pero el dominante, dominantemente es el es este, el *Plantago lanceolata*.
-Tenemos una umbelífera sin identificar que es aislado y colonial también.
+Chopo, (Populus nigra*) [A][col] que es aislado y colonial, pero el dominante, dominantemente es el es este, el *Plantago lanceolata*.
+Tenemos una umbelífera, *Chaerophyllum aureum* [A][col] que es aislado y colonial también.
 
 
 
