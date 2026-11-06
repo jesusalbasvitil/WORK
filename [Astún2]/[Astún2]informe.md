@@ -1,6 +1,9 @@
 [Groenlandia densa..](https://share.google/aimode/ldhqBEiRzQd44lzoR)
 [Chara..](https://share.google/aimode/e77ZvibJGePmTJ2ZY)
-## N 42° 49' 27,663" W 0° 30' 9,758" 23/9 12:27 Ibón Escalar
+
+[[Astún] Ppto. pastor elecV1](https://claude.ai/share/9bd3e374-ecb6-4a0e-a115-fad6e20f2704)
+
+## N 42° 49' 27,663" W 0° 30' 9,758" 23/9 12:27 Ibón Escalar 
 Ibón del Escalar. Varios manantiales. 2 cursos de agua discontinuos, 3 si se cuenta con el pico este. afluente, este, oeste y norte procedente de Monjes más el manantial y rastro de surgencia entre el oeste y norte y se mantiene deforestación casi intacta. 12:29
 
 Misma posición erosión remontante que podría corregirse. No hay ganado por falta de pasto, principio de verdín pero el ganado ya ha sido retirado. 12:30
