@@ -1,7 +1,7 @@
 
+# Proyección del tursimo en el Planerón
 
-
-Para proyectar la presión turística sobre la Reserva Ornitológica de El Planerón (Belchite), es necesario comparar su escala (~700 hectáreas gestionadas por SEO/BirdLife) no solo con los grandes parques nacionales, sino con humedales, parques de montaña y reservas ornitológicas de tamaño medio y pequeño en España y Aragón.
+Para proyectar la presión turística sobre la Reserva Ornitológica de El Planerón (Belchite), es necesario comparar su escala (~900 hectáreas gestionadas por SEO/BirdLife) no solo con los grandes parques nacionales, sino con humedales, parques de montaña y reservas ornitológicas de tamaño medio y pequeño en España y Aragón.
 
 1. Ampliación de la comparativa: densidad por ecosistemas y escalas
 
@@ -54,14 +54,14 @@ Si estás desarrollando un plan de uso público, estudio de capacidad de carga o
 <!--Necesito una proyección estimada anual, una proyección de su evolución en el futuro del turismo en el planeron en base a cálculos de afluencia en otros espacios naturales. Para ello hay que poner en relación la serie desfasada del Plan con otros espacios mismos periodos y estimar a partir de ahí en una horquilla grosera de densidad visitas/ha-->
 
 
-# Proyección estimada anual, una proyección de su evolución en el futuro del turismo en el Planeron
+# Proyección estimada anual de turismo, una proyección de su evolución en el futuro del turismo en el Planeron
 
 Para proyectar la afluencia anual y futura de la **Reserva Ornitológica de El Planerón (700 ha)** a partir de los datos desfasados del Plan de Uso Público (2004–2007), es necesario realizar primero una **normalización estadística** de esa serie incompleta y aplicar después los **multiplicadores de crecimiento empíricos** observados en espacios naturales homologables durante las dos últimas décadas.
 
 ---
 
 ### Paso 1: Reconstrucción de la serie base del Plan (2004–2007)
-Los estadillos del Centro de Interpretación (CI) incluidos en el Plan tienen dos sesgos estructurales que el propio documento advierte (págs. 17–19): son meses sueltos y excluyen a los ornitólogos que entran directamente al campo sin pasar por Belchite.
+Los datos del Centro de Interpretación (CI) incluidos en el Plan tienen dos sesgos estructurales que el propio documento advierte (págs. 17–19): son meses sueltos y excluyen a los ornitólogos que entran directamente al campo sin pasar por Belchite.
 
 1. **Anualización de 2004:** Se registraron **1.665 visitantes** en 7 meses (feb–jun y oct–nov). Los 5 meses sin registro (enero, verano y diciembre) representan en estepas aragonesas en torno a un **15%** adicional de flujo (~1.915 visitas anuales en CI).
 2. **Anualización de 2007:** En el trimestre marzo–mayo de 2007 se registraron **1.611 visitantes** (frente a 1.327 en el mismo trimestre de 2004, un **+21,4%** en solo 3 meses). Aplicando la distribución estacional de 2004 (donde marzo–mayo concentró el 79,7% del flujo), el año 2007 completo proyecta **~2.021 visitas registradas en CI**.
