@@ -1,4 +1,9 @@
 {
     "workbench.editor.wrapTabs": true,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "editor.fontSize": 24,
+    "workbench.editor.autoLockGroups": {
+        "vscode.markdown.editor": true,
+        "mainThreadWebview-markdown.preview": true
+    }
 }
